@@ -4,7 +4,7 @@
  <title>Dan Hough</title>
  <link href="http://www.danielhough.co.uk/atom.xml" rel="self"/>
  <link href="http://www.danielhough.co.uk/"/>
- <updated>2012-04-10T23:47:53+01:00</updated>
+ <updated>2012-04-11T00:09:00+01:00</updated>
  <id>http://www.danielhough.co.uk/</id>
  <author>
    <name>Daniel Hough</name>
@@ -17,8 +17,9 @@
    <link href="http://www.danielhough.co.uk/blog/huddle-hack-day"/>
    <updated>2012-04-09T00:00:00+01:00</updated>
    <id>http://www.danielhough.co.uk/blog/huddle-hack-day</id>
-   <content type="html">&lt;h1&gt;Huddle&amp;#8217;s Hack Day&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;top&quot;&gt;Huddle&amp;#8217;s Hack Day&lt;/h1&gt;
 &lt;p class=&quot;meta&quot;&gt;Published 10 April 2012 in London, UK&lt;/p&gt;
+&lt;p&gt;Only interested in the results? Click &lt;a href=&quot;#results&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A couple of months ago, &lt;a href=&quot;https://twitter.com/jamespipe&quot;&gt;James Pipe&lt;/a&gt; approached me with an idea that had been done many times, by many startups and other organisations for many themes, but never by &lt;a href=&quot;http://www.huddle.com&quot;&gt;Huddle&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Naturally, I felt a mixture of excitement and skepticism. I&amp;#8217;d only been with Huddle for about seven months, and I&amp;#8217;d never organised a hack day before &amp;#8211; hell, I&amp;#8217;d never even organised a hack hour. The most I&amp;#8217;d ever organised for Huddle&amp;#8217;s Product Engineering team was a day when everyone came in with suits on to poke a bit of fun at our excellent and very well-dressed sales team.&lt;/p&gt;
 &lt;p&gt;&amp;#8220;Okay,&amp;#8221; I said, &amp;#8220;let&amp;#8217;s do it.&amp;#8221; And I decided that I&amp;#8217;d squash all the skepticism with excitement. The planning began, and we roped &lt;a href=&quot;https://twitter.com/#!/holytshirt&quot;&gt;Toby&lt;/a&gt; in to giving us some advice since he&amp;#8217;d done this sort of thing before.&lt;/p&gt;
@@ -26,15 +27,18 @@
 &lt;ul&gt;
 	&lt;li&gt;Huddle-only: we&amp;#8217;re both new to this so let&amp;#8217;s keep it in the family this time, and restrict hacks to involve Huddle somehow&lt;/li&gt;
 	&lt;li&gt;We need prizes&lt;/li&gt;
+	&lt;li&gt;12 hours &amp;#8211; 10am to 10pm&lt;/li&gt;
 	&lt;li&gt;Encourage people to leave their team-organising until the last minute&lt;/li&gt;
 	&lt;li&gt;Jagerbombs&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Apart from that, we sort-of hoped that this whole thing would work itself out. We decided to hold the hack day on Tuesday, the 3rd of March 2012.&lt;/p&gt;
 &lt;p&gt;Soon, we had worked out what we needed to do, had given ourselves tasks. James worked out the budget, marketing (a poster with a list of buzzwords for inspiration) and timings, and I worked out the technical requirements (a single Gist detailing how to make a reverse-proxy in Node.JS for our &lt;a href=&quot;http://code.google.com/p/huddle-apis/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/a&gt;), acted as the official pep squad whilst James went on holiday, and maintaining the countdown post-its on the posters. All very organised. The day came, we had lots of snacks, drinks and even some healthy fruit.&lt;/p&gt;
-&lt;h2&gt;Ideas&lt;/h2&gt;
+&lt;h2 id=&quot;ideas&quot;&gt;Ideas&lt;/h2&gt;
 &lt;p&gt;We invited the rest of the company to submit their ideas to a huge whiteboard on post-it notes the Monday night before. The response was unprecedented from Sales, Marketing, Customer Engagement, Product and Corporate. In total we collected over 50 independent ideas on the whiteboard. Some were ridiculous, and actually would have been great hacks had we more time, such as sound effects when you click things, or customiseable backgrounds a-la MySpace. Most of them, however, were genuine ideas for features and improvements that although they might not be suitable for the hack day, will make great Tuesday Time fodder. We were blown away by the enthusiasm from the rest of the company.&lt;/p&gt;
 &lt;p&gt;So, Tuesday morning came and the development team, as well as a few of the non-devs who had submitted their ideas, gathered in the Huddle kitchen to be briefed and for an opportunity to &lt;a href=&quot;http://en.wikipedia.org/wiki/Elevator_pitch&quot;&gt;elevator pitch&lt;/a&gt; their ideas to the rest of the team. And then, the scramble for teams began.&lt;/p&gt;
-&lt;h2&gt;Results&lt;/h2&gt;</content>
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+&lt;p&gt;It was pretty exciting getting our teams worked out. There was a fair amount of winking, nudging and general attempts at convincing the people you wanted if you had an idea of your own, and in the end everybody ended up in a team they liked, or going on their own with only a vision and a vague idea of implementation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/#!/domgreen&quot;&gt;Dom&amp;#8217;s&lt;/a&gt; hack day project was something that a lot of our users ask about: IM. He wanted to use something new&lt;/p&gt;</content>
  </entry>
  
  
