@@ -1,0 +1,41 @@
+body {
+  padding:0px;
+  margin:0px;
+  font:11pt helvetica,arial,sans-serif;
+  line-height:16pt;
+  background-color:whitesmoke;
+}
+
+img {
+  border:none;
+}
+
+h1 {
+  font-size:12pt;
+  font-weight:bold;
+}
+
+h2 {
+  font-size:11pt;
+  font-weight:bold;
+}
+
+h3 {
+  font-size:11pt;
+  font-weight:bold;
+}
+
+.container {
+  margin: 0 auto;
+  max-width:500px;
+}
+
+p {
+  text-align:justify;
+}
+
+p.meta {
+  margin-top:-5px;
+  font-size:11pt;
+  color:#888;
+}

@@ -1,0 +1,36 @@
+---
+layout: post
+title: Huddle's Hack Day
+date_created: 10 April 2012
+location: London, UK
+---
+
+h1. {{ page.title }}
+
+p(meta). Published {{ page.date_created }} in {{ page.location }}
+
+A couple of months ago, "James Pipe":https://twitter.com/jamespipe approached me with an idea that had been done many times, by many startups and other organisations for many themes, but never by "Huddle":http://www.huddle.com
+
+Naturally, I felt a mixture of excitement and skepticism. I'd only been with Huddle for about seven months, and I'd never organised a hack day before - hell, I'd never even organised a hack hour. The most I'd ever organised for Huddle's Product Engineering team was a day when everyone came in with suits on to poke a bit of fun at our excellent and very well-dressed sales team.
+
+"Okay," I said, "let's do it." And I decided that I'd squash all the skepticism with excitement. The planning began, and we roped "Toby":https://twitter.com/#!/holytshirt in to giving us some advice since he'd done this sort of thing before.
+
+In the end, we made a few key decisions:
+
+* Huddle-only: we're both new to this so let's keep it in the family this time, and restrict hacks to involve Huddle somehow
+* We need prizes
+* Encourage people to leave their team-organising until the last minute
+* Jagerbombs
+
+Apart from that, we sort-of hoped that this whole thing would work itself out. We decided to hold the hack day on Tuesday, the 3rd of March 2012.
+
+Soon, we had worked out what we needed to do, had given ourselves tasks. James worked out the budget, marketing (a poster with a list of buzzwords for inspiration) and timings, and I worked out the technical requirements (a single Gist detailing how to make a reverse-proxy in Node.JS for our "API":http://code.google.com/p/huddle-apis/), acted as the official pep squad whilst James went on holiday, and maintaining the countdown post-its on the posters. All very organised. The day came, we had lots of snacks, drinks and even some healthy fruit.
+
+h2. Ideas
+
+We invited the rest of the company to submit their ideas to a huge whiteboard on post-it notes the Monday night before. The response was unprecedented from Sales, Marketing, Customer Engagement, Product and Corporate. In total we collected over 50 independent ideas on the whiteboard. Some were ridiculous, and actually would have been great hacks had we more time, such as sound effects when you click things, or customiseable backgrounds a-la MySpace. Most of them, however, were genuine ideas for features and improvements that although they might not be suitable for the hack day, will make great Tuesday Time fodder. We were blown away by the enthusiasm from the rest of the company.
+
+So, Tuesday morning came and the development team, as well as a few of the non-devs who had submitted their ideas, gathered in the Huddle kitchen to be briefed and for an opportunity to "elevator pitch":http://en.wikipedia.org/wiki/Elevator_pitch their ideas to the rest of the team. And then, the scramble for teams began.
+
+h2. Results
+
