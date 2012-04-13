@@ -31,7 +31,7 @@ Soon, we had worked out what we needed to do, had given ourselves tasks. James w
 
 h2(#ideas). Ideas
 
-We invited the rest of the company to submit their ideas to a huge whiteboard on post-it notes the Monday night before. The response was unprecedented from Sales, Marketing, Customer Engagement, Product and Corporate. In total we collected over 50 independent ideas on the whiteboard. Some were ridiculous, and actually would have been great hacks had we more time, such as sound effects when you click things, or customiseable backgrounds a-la MySpace. Most of them, however, were genuine ideas for features and improvements that although they might not be suitable for the hack day, will make great Tuesday Time fodder. We were blown away by the enthusiasm from the rest of the company.
+We invited the rest of the company to submit their ideas to a huge whiteboard on post-it notes the Monday night before. The response was unprecedented from Sales, Marketing, Customer Engagement, Product and Corporate. In total we collected over 50 independent ideas on the whiteboard. Some were ridiculous, and actually would have been great hacks had we more time, such as sound effects when you click things, or customiseable backgrounds a-la MySpace. Most of them, however, were genuine ideas for features and improvements that although they might not be suitable for the hack day, will make great Tuesday Time (inspired by Google's 20% Time) fodder. We were blown away by the enthusiasm from the rest of the company.
 
 So, Tuesday morning came and the development team, as well as a few of the non-devs who had submitted their ideas, gathered in the Huddle kitchen to be briefed and for an opportunity to "elevator pitch":http://en.wikipedia.org/wiki/Elevator_pitch their ideas to the rest of the team. And then, the scramble for teams began.
 
@@ -39,8 +39,7 @@ h2(#results). Results
 
 It was pretty exciting getting our teams worked out. There was a fair amount of winking, nudging and general attempts at convincing the people you wanted if you had an idea of your own, and in the end everybody ended up in a team they liked, or going on their own with only a vision and a vague idea of implementation.
 
-"Dom's":https://twitter.com/#!/domgreen hack day project was something that a lot of our users ask about: IM.
+"Dom's":https://twitter.com/#!/domgreen hack day project was something that a lot of our users ask about: IM. He played around with "Socket.io":http://socket.io/ to work some Websocket magic, and came up with a functional IM server and client which interacted with Huddle's API to create chatrooms within "Workspaces.":http://code.google.com/p/huddle-apis/wiki/Workspace
 
-*COME BACK TO*
+Rob wanted to show the rest of the company how international Huddle's userbase was, so using IIS logs, he put together an interactive world map where the shade of blue that each country had was indicative of how many unique IPs were using Huddle in a 24-hour period. He scraped this info from our IIS logs and it went onto the map. As well as that, he added filters to only show countries from whom we got under a certain number of requests - so you could hide the results of the UK and USA, and see the other countries in a more useful context. His plans for the future are to combine it with a similar project I'm working on to show Huddle's usage stats, and stick it up on the wall of our office on a big-ass TV.
 
-Rob wanted to show the rest of the company how international Huddle's userbase was, so using IIS logs, he put together an interactive world map where the shade of blue that each country had was *COME BACK TO*
