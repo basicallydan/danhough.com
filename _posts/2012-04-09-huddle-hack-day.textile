@@ -38,7 +38,7 @@ So, Tuesday morning came and the development team, as well as a few of the non-d
 
 h2(#results). Results
 
-Before I start, just a friendly disclaimer: we only worked on these for 10 hours and none of them went through any kind of QA - that means they won't be released any time soon or are on any roadmap.
+Before I start, just a friendly disclaimer: we only worked on these for 10 hours and none of them went through any kind of QA - that means they won't be released any time soon or are on any roadmap. Also, in case you're interested, I've included links to the Huddle API wherever they're being used.
 
 It was pretty exciting getting our teams worked out. There was a fair amount of winking, nudging and general attempts at convincing the people you wanted if you had an idea of your own, and in the end everybody ended up in a team they liked, or going on their own with only a vision and a vague idea of implementation.
 
@@ -52,10 +52,14 @@ Building on the limited release of our new Files UI, *Dan Williams* hacked toget
 
 "*James*":http://github.com/jamescryer also harnessed the power of HTML5 by building another feature on top of our new Files UI: drawing! You can draw on top of a file preview and save what you've done for all to see. A great feature for some of Huddle's more creative clients, especially agencies.
 
-*Will and Bulat*
+*Will and Bulat* worked on a hack to get inline "tagging" of people working in comments and object descriptions in Huddle. They hooked up some Javascript to Dom's new cutely-named "Friends API":http://code.google.com/p/huddle-apis/wiki/Friends so that if you start typing somebody's name after an @ symbol you can tag them in your comment. When somebody is tagged, a notification is sent off to that person. A great idea for something like Huddle, applying the usability of a social network to a collaboration platform.
 
-"*Francesco*,":https://twitter.com/#!/fpighi "*Toby*":https://twitter.com/#!/holytshirt & Kelly*
+"*Francesco*":https://twitter.com/#!/fpighi recruited "*Toby*":https://twitter.com/#!/holytshirt and Kelly* when he came to the conclusion that because Huddle is aimed at businesses, it might help some of our more conservative customers out to know when some inappropriate language is being used in a file uploaded to a workspace - so then they hacked together a mashup. Using "Pusher":http://pusher.com/ with some of our document-indexing services on the backend, they created an interface which would alert any interested user when a file is uploaded which contains any rude words. They were really impressed with Pusher's ease of use, and they created a nice, clean app which worked flawlessly.
 
-"*Matt*":https://github.com/MattFenelon
+"*Bob*":http://twitter.com/#!/bobfromhuddle modified our localisation system so that every time Huddle is hit, our text resources can be updated if there are some changes. Essentially, hot-swapping our localisation keys - very cool for us devs!
+
+"*Ian*":https://twitter.com/#!/icooper didn't have much time to do any hacks during the day but he still made a pretty great one for the power users. He experimented with making Huddle a queryable resource as far as Powershell is concerned, so you could hypothetically use Windows Powershell as a method to browse and query Huddle! Great for sysadmins! *GET MORE INFO FOR THIS*
+
+Last but not least, "*Matt*":https://github.com/MattFenelon won the Hack day with his hack. He created a natural language interface with the app, to use phrases such as "open file" and "open workspace" to browse files and workspaces, including autocomplete to help the user with their query. It even supports chaining massive phrases *GET SOME EXAMPLES*. To top it off though, Matt even plugged the new Google Speech Recognition API into his hack and started talking to Huddle - it was a pretty special demo.
 
 h2(#advice). Advice
