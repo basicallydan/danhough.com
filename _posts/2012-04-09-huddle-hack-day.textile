@@ -28,7 +28,7 @@ In the end, we made a few key decisions:
 
 Apart from that, we sort-of hoped that this whole thing would work itself out. We decided to hold the hack day on Tuesday, the 3rd of March 2012.
 
-Soon, we had worked out what we needed to do, had given ourselves tasks. James worked out the budget, marketing (a poster with a list of buzzwords for inspiration) and timings, and I worked out the technical requirements (a single Gist detailing how to make a reverse-proxy in Node.JS for our "API":http://code.google.com/p/huddle-apis/), acted as the official pep squad whilst James went on holiday, and maintaining the countdown post-its on the posters. All very organised. The day came, we had lots of snacks, drinks and even some healthy fruit.
+Soon, we had worked out what we needed to do, had given ourselves tasks. James worked out the budget, marketing (a poster with a list of buzzwords for inspiration) and timings, and I worked out the technical requirements (a single Gist detailing how to make a reverse-proxy in Node.JS for our "API":http://code.google.com/p/huddle-apis/), acted as the official pep squad whilst James went on holiday, and maintaining the countdown post-its on the posters. All very organised. The day came, we had a claxon to sound when the games began (whom we named Erik Claxon), we had lots of snacks, drinks and we even had some healthy fruit. We were ready.
 
 h2(#ideas). Ideas
 
@@ -38,17 +38,19 @@ So, Tuesday morning came and the development team, as well as a few of the non-d
 
 h2(#results). Results
 
+Before I start, just a friendly disclaimer: we only worked on these for 10 hours and none of them went through any kind of QA - that means they won't be released any time soon or are on any roadmap.
+
 It was pretty exciting getting our teams worked out. There was a fair amount of winking, nudging and general attempts at convincing the people you wanted if you had an idea of your own, and in the end everybody ended up in a team they liked, or going on their own with only a vision and a vague idea of implementation.
 
-"*Dom's*":https://twitter.com/#!/domgreen hack day project was something that a lot of our users ask about: IM. He played around with "Socket.io":http://socket.io/ to work some Websocket magic, and came up with a functional IM server and client which interacted with Huddle's API to create chatrooms within "Workspaces.":http://code.google.com/p/huddle-apis/wiki/Workspace It is now his current Tuesday Time project.
+"*Dom's*":http://twitter.com/#!/domgreen hack day project was something that a lot of our users ask about: IM. He played around with "Socket.io":http://socket.io/ to work some Websocket magic, and came up with a functional IM server and client which interacted with Huddle's API to create chatrooms within "Workspaces.":http://code.google.com/p/huddle-apis/wiki/Workspace It is now his current Tuesday Time project.
 
 *Rob* wanted to show off how international Huddle's userbase was, so using IIS logs, he put together an interactive world map where the shade of blue that each country had was indicative of how many unique IPs were using Huddle in a 24-hour period. He scraped this info from our IIS logs and it went onto the map. He filters (by hit count), so you could hide the results of the UK and USA (where most of our users are), and see the other countries in a more useful context. His plans for the future are to combine it with a similar project I'm working on to show Huddle's usage stats, and stick it up on the wall of our office on a big-ass TV.
 
 Building on the limited release of our new Files UI, *Dan Williams* hacked together a simple yet infinitely useful feature. The new UI includes a previewer for a large range of document types with select, copy, etc. - but it's missing an amazing collaboration feature: the ability to highlight text. His hack allows you to highlight text, and write your comment with an inline link to that highlight inside the document preview. E.g. "Looks great, apart from this bit: (highlight here)". A time-saving, elegant solution.
 
-"*I*":http://twitter.com/basicallydan decided to create a hack inspired by games of days gone by: a top-down, 2D RPG based on Huddle's API. You play a character whose boss is nagging him to get a document approved, but luckily for you, your boss has a memory of only three items at once and it happens to be analogous to the files "recommended to him by Huddle.":http://www.huddle.com/blog/the-death-of-file-search-and-the-rise-of-predictive-push/ You use this to your advantage by manipulating the workspace in ways that other documents will be recommended to him. Sneaky! I managed to convince "*Pete*,":https://twitter.com/#!/peteog "*Dawn*,":https://twitter.com/#!/dawncarvell and "*Marta*":http://twitter.com/#!/bruja_averia to join me in this project, and with that great team together we achieved our goal! *INSERT LINK TO PICTURE HERE*
+"*I*":http://twitter.com/basicallydan managed to convince "*Pete*,":http://twitter.com/#!/peteog "*Dawn*,":https://twitter.com/#!/dawncarvell and "*Marta*":http://twitter.com/#!/bruja_averia to join me in creating a hack inspired by games of days gone by: a top-down, 2D RPG based on Huddle's API. You play a character whose boss is nagging him to get a document approved, but luckily for you, your boss has a memory of only three items at once and it happens to be analogous to the files "recommended to him by Huddle.":http://www.huddle.com/blog/the-death-of-file-search-and-the-rise-of-predictive-push/ You use this to your advantage by manipulating the workspace in ways that other documents will be recommended to him. Sneaky! With some great teamwork and a lot of work we achieved our goal! *INSERT LINK TO PICTURE HERE*
 
-"*James*":https://github.com/jamescryer also harnessed the power of HTML5 by building another feature on top of our new Files UI: drawing! You can draw on top of a file preview and save what you've done for all to see. A great feature for some of Huddle's more creative clients, especially agencies.
+"*James*":http://github.com/jamescryer also harnessed the power of HTML5 by building another feature on top of our new Files UI: drawing! You can draw on top of a file preview and save what you've done for all to see. A great feature for some of Huddle's more creative clients, especially agencies.
 
 *Will and Bulat*
 
