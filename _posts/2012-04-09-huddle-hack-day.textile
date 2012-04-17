@@ -63,3 +63,9 @@ Building on the limited release of our new Files UI, *Dan Williams* hacked toget
 Last but not least, "*Matt*":https://github.com/MattFenelon won the Hack day with his hack. He created a natural language interface with the app, to use phrases such as "open file" and "open workspace" to browse files and workspaces, including autocomplete to help the user with their query. It even supports chaining massive phrases *GET SOME EXAMPLES*. To top it off though, Matt even plugged the new Google Speech Recognition API into his hack and started talking to Huddle - it was a pretty special demo.
 
 h2(#advice). Advice
+
+As it was our first hack day, there's not a huge amount of advice I can give you, and of course next time there'll be a lot more to learn still. But for the time being, here's what I have to offer.
+
+* Don't scrimp on the pizza: it's much better to have way more, than to have way too little, or you'll end up with hungry, tired devs.
+* Get an appropriate amount of booze for the size of your team and the length of your hack day/hackathon, and the day on which it takes place. For a 16-person hack day over 10 hours, on a week day... 60 bottles of beer and a big-ass bottle of Jagermeister is probably too much. If it had been on a weekend, we probably would've needed more. So, check yourself.
+* -Having a prize is important, but what it is probably doesn't matter that much-
