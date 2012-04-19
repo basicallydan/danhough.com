@@ -79,8 +79,8 @@ As it was our first hack day, there's not a huge amount of advice I can give you
 * Include everybody, somehow: There's no need to limit your hack day to include just contributions from technical staff. Include sales, marketing, customer support and admin at least in contributing ideas - get them to pitch if they want to! Our non-tech staff had a great time. Plus, if anybody feels they can make even more of a contribution, why shouldn't they?
 * Forbid people from getting their ideas & teams started before the day - but don't expect people to follow the rules: You can't expect people to not think about what they want to do and who they want to work with, but discourage them from doing too much organisation before they need to. If they overthink an idea it could spiral out of the control before they've even started working on it - it's better that they keep their ambitions reasonable at the beginning.
 
-h2. In conclusion...
+h2. tl;dr
 
-It was a huge effort from everybody involved, but completely worth it. Some great ideas surfaced and some impressive implementations were done with such a limited time, and we all had a great time.
+It was a huge effort from everybody involved, but completely worth it. We left it as open as possible and tried to encourage on-the-spot thinking, and recorded as much as we could. Some great ideas surfaced and some impressive implementations were done with such a limited time, and we all had a great time.
 
-The most important thing to remember is that this is *not* supposed to be a trick to get staff to do free work out of hours. It's supposed to be open, and fun, and encourage creative thinking, and if some good, shippable stuff comes out of it, that's just a bonus.github
+The most important thing to remember is that this is *not* supposed to be a trick to get staff to do free work out of hours. It's supposed to be open, and fun, and encourage creative thinking, and if some good, shippable stuff comes out of it, that's just a bonus.
