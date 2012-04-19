@@ -40,7 +40,14 @@ h2(#results). Results
 
 Before I start, just a friendly disclaimer: we only worked on these for 10 hours and none of them went through any kind of QA - that means they won't be released any time soon or are on any roadmap. Also, in case you're interested, I've included links to the Huddle API wherever they're being used.
 
-It was pretty exciting getting our teams worked out. There was a fair amount of winking, nudging and general attempts at convincing the people you wanted if you had an idea of your own, and in the end everybody ended up in a team they liked, or going on their own with only a vision and a vague idea of implementation.
+It was pretty exciting getting our teams worked out. There was a fair amount of winking, nudging and general attempts at convincing the people you wanted if you had an idea of your own, and in the end everybody ended up in a team they liked, or going on their own with only a vision and a vague idea of implementation. Once we'd all gone through an epic and manic day of furiously programming, eating and drinking, we headed home for some much needed rest and re-adjourned in the morning for the demo to the rest of the company. The hacks were judged by four individuals within Huddle:
+
+One CEO
+One Junior account manager
+One Salesperson
+One Development manager
+
+In an X-Factor style Q&A/critique session, they got all the info they needed and had a private chat after all the demos had finished to decide the winner.
 
 "*Dom's*":http://twitter.com/#!/domgreen hack day project was something that a lot of our users ask about: IM. He played around with "Socket.io":http://socket.io/ to work some Websocket magic, and came up with a functional IM server and client which interacted with Huddle's API to create chatrooms within "Workspaces.":http://code.google.com/p/huddle-apis/wiki/Workspace It is now his current Tuesday Time project.
 
@@ -54,7 +61,7 @@ Building on the limited release of our new Files UI, *Dan Williams* hacked toget
 
 *Will and Bulat* worked on a hack to get inline "tagging" of people working in comments and object descriptions in Huddle. They hooked up some Javascript to Dom's new cutely-named "Friends API":http://code.google.com/p/huddle-apis/wiki/Friends so that if you start typing somebody's name after an @ symbol you can tag them in your comment. When somebody is tagged, a notification is sent off to that person. A great idea for something like Huddle, applying the usability of a social network to a collaboration platform.
 
-"*Francesco*":https://twitter.com/#!/fpighi recruited "*Toby*":https://twitter.com/#!/holytshirt and Kelly* when he came to the conclusion that because Huddle is aimed at businesses, it might help some of our more conservative customers out to know when some inappropriate language is being used in a file uploaded to a workspace - so then they hacked together a mashup. Using "Pusher":http://pusher.com/ with some of our document-indexing services on the backend, they created an interface which would alert any interested user when a file is uploaded which contains any rude words. They were really impressed with Pusher's ease of use, and they created a nice, clean app which worked flawlessly.
+"*Francesco*":https://twitter.com/#!/fpighi recruited "*Toby*":https://twitter.com/#!/holytshirt and "*Kelly*":https://github.com/kellyhubble when he came to the conclusion that because Huddle is aimed at businesses, it might help some of our more conservative customers out to know when some inappropriate language is being used in a file uploaded to a workspace - so then they hacked together a mashup. Using "Pusher":http://pusher.com/ with some of our document-indexing services on the backend, they created an interface which would alert any interested user when a file is uploaded which contains any rude words. They were really impressed with Pusher's ease of use, and they created a nice, clean app which worked flawlessly.
 
 "*Bob*":http://twitter.com/#!/bobfromhuddle modified our localisation system so that every time Huddle is hit, our text resources can be updated if there are some changes. Essentially, hot-swapping our localisation keys - very cool for us devs!
 
@@ -68,4 +75,12 @@ As it was our first hack day, there's not a huge amount of advice I can give you
 
 * Don't scrimp on the pizza: it's much better to have way more, than to have way too little, or you'll end up with hungry, tired devs.
 * Get an appropriate amount of booze for the size of your team and the length of your hack day/hackathon, and the day on which it takes place. For a 16-person hack day over 10 hours, on a week day... 60 bottles of beer and a big-ass bottle of Jagermeister is probably too much. If it had been on a weekend, we probably would've needed more. So, check yourself.
-* -Having a prize is important, but what it is probably doesn't matter that much-
+* Record *everything*: Get some kind of camcorder - a flipcam works well - and take some good photos on a still camera. People who couldn't attend will want to see some footage - especially of the demo.
+* Include everybody, somehow: There's no need to limit your hack day to include just contributions from technical staff. Include sales, marketing, customer support and admin at least in contributing ideas - get them to pitch if they want to! Our non-tech staff had a great time. Plus, if anybody feels they can make even more of a contribution, why shouldn't they?
+* Forbid people from getting their ideas & teams started before the day - but don't expect people to follow the rules: You can't expect people to not think about what they want to do and who they want to work with, but discourage them from doing too much organisation before they need to. If they overthink an idea it could spiral out of the control before they've even started working on it - it's better that they keep their ambitions reasonable at the beginning.
+
+h2. In conclusion...
+
+It was a huge effort from everybody involved, but completely worth it. Some great ideas surfaced and some impressive implementations were done with such a limited time, and we all had a great time.
+
+The most important thing to remember is that this is *not* supposed to be a trick to get staff to do free work out of hours. It's supposed to be open, and fun, and encourage creative thinking, and if some good, shippable stuff comes out of it, that's just a bonus.github
