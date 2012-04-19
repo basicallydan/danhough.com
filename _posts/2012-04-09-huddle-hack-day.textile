@@ -12,7 +12,7 @@ p(meta). Published {{ page.date_created }} in {{ page.location }}
 Only interested in the results? Click "here":#results
 Only interested in hack day advice? Click "here":#advice
 
-A couple of months ago, "James Pipe":https://twitter.com/jamespipe approached me with an idea that had been done many times, by many startups and other organisations for many themes, but never by "Huddle.":http://www.huddle.com
+A couple of months ago, "James Pipe":https://twitter.com/jamespipe approached me with an idea that had been done many times, by many startups and other organisations for many themes, but never by "Huddle":http://www.huddle.com: a hack day.
 
 Naturally, I felt a mixture of excitement and skepticism. I'd only been with Huddle for about seven months, and I'd never organised a hack day before - hell, I'd never even organised a hack hour. The most I'd ever organised for Huddle's Product Engineering team was a day when everyone came in with suits on to poke a bit of fun at our excellent and very well-dressed sales team.
 
