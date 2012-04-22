@@ -11,13 +11,13 @@ p(meta). Published {{ page.date_created }} in {{ page.location }}
 
 A few days ago I published a post about "Huddle's Hack Day":/blog/huddle-hack-day/ and, since I didn't want to be too revealing, omitted the results.
 
-However, one of the hacks is very unlikely to ever be production-ready: mine. I managed to convince "*Pete*,":http://twitter.com/#!/peteog "*Dawn*,":https://twitter.com/#!/dawncarvell and "*Marta*":http://twitter.com/#!/bruja_averia to join me in creating a hack inspired by games of days gone by: a top-down, 2D RPG based on "Huddle's API.":http://code.google.com/p/huddle-apis
+However, one of the hacks is very unlikely to ever be production-ready: mine. I managed to convince "*Pete*,":http://twitter.com/#!/peteog "*Dawn*,":https://twitter.com/#!/dawncarvell and "*Marta*":http://twitter.com/#!/bruja_averia to join me in creating a hack inspired by games of days gone by: a top-down, 2D RPG based on "Huddle's API.":http://code.google.com/p/huddle-apis Together, we came up with a complex idea for the game which had a premise for a story, a goal and some actions which The Player could take to achieve that goal.
 
 The premise of the game is simple: The player arrives into work one day and his 2D, 8-bit Boss is nagging him to finish a document and get it approved by 6pm. The player knows that this isn't going to happen, but he also know that The Boss has a memory of only three items at once. If The Player can distract him with enough other documents so that The Boss forgets about The Player's original document by 6pm, he'll be off scott-free for another day.
 
 h2. What we actually made
 
-A few ways. In the 10 hours we had to make this game, we managed to get a working game based on a JS framework called *ERR WHAT* with a little guy moving around and interacting with stuff, including simple key-controlled menus.
+In the 10 hours we had to make this game, we managed to get a working game based on a JS framework called *ERR WHAT* with a little guy moving around and interacting with stuff, including simple key-controlled menus.
 
 In order to find out what the boss's "memory" includes, we used the files "recommended to him by Huddle.":http://www.huddle.com/blog/the-death-of-file-search-and-the-rise-of-predictive-push/ The player could perform actions from their little in-game computer to create documents which the boss would subsequently comment on and thus be distracted by, raising the document's position in his list of recommended documents.
 
@@ -27,4 +27,32 @@ h2. What we wanted to make
 
 As we sat in our initial 10-minute brainstorming and planning session, it was difficult not to get distracted by the possibilities of this game. All of the following is what we said we'd do if we exceeded our expectations and got stuff done a lot quicker. I've provided links to Huddle's API Documentation to indicate how the entire game could be powered by Huddle's API.
 
-The player walks into the office and heads to his desk. As he sits down, he spots a "note" on his desk, which is actually taken directly from the Huddle API endpoint for Document Approvals.
+The player walks into the office and heads to his desk. As he sits down, he spots a "note" on his desk, which is actually taken directly from the Huddle API endpoint for "User Approvals":http://code.google.com/p/huddle-apis/wiki/UserApprovals#Retrieving_user_approvals which shows what open approvals the authenticated user has.
+
+His one assignment, which is due by the end of the day, is for a document called *The Report*. The Boss (an "NPC":http://en.wikipedia.org/wiki/Non-player_character) approaches The Player and tells him that if he doesn't get The Report done by the end of the day then he'll be fired.
+
+The Player has some friends in the office, and after being given a shouting by The Boss, The Friend walks over and reassures The Player that since The Boss only has enough brain power to remember three things at once, if The Player can distract him with three other documents by the end of the day then maybe he'll be okay.
+
+In the top-right corner of the screen The Player suddenly sees a list of documents (numbered 1, 2 and 3) currently containing only one at the top spot - the document assigned to him. By default, we'll make sure that this document has a really high recommendation score (I can't link to details on our recommendation engine - it's classfied!) to give The Player a bit of a challenge. So, the player goes about creating documents, "assigning them to The Boss":http://code.google.com/p/huddle-apis/wiki/DocumentApprovals#Updating_Assignees_of_the_approvals or "sharing them with him":http://code.google.com/p/huddle-apis/wiki/Share as well as other document-related actions which The Player needs to experiment with to find out the best strategy. He also enlists the help of his Friend(s) to do the same, and soon The Report starts to be overtaken by other documents on The Boss's reccommendations list.
+
+However, it's not over yet - The Player also has Enemies in the office. There's that guy who's always held a grudge against The Player for getting that raise over him, and the woman who wasn't invited to The Player's NYE party when everybody else on their floor was. They all want The Player to be fired, so throughout the day these NPCs will do stuff with The Report which help raise it's recommendation score and thus bring it further up in The Boss's memory. The Player either has to distract them by assigning them documents or "tasks":http://code.google.com/p/huddle-apis/wiki/Task#Create_a_task, or just try harder to keep other documents above The Report.
+
+By the end of the day, if The Report is still in The Boss's memory, it's Game Over for The Player.
+
+h3. Multiplayer
+
+There could be even more scope for this - if there are multiple Players, the aim could be to keep your Opponents' documents ''in'' The Boss's memory and keep yours ''out''.
+
+h3. RPG mode
+
+Instead of having a goal, the game could in fact just be used as an interface to Huddle. Instead of logging onto the website every day, a Huddle user could boot up the game and find themselves outside of a huge office building. When they walk into it, they see a few doors, each one representing a "Workspace":http://code.google.com/p/huddle-apis/wiki/Workspace of which they are a member - they walk into one and see an office. On the wall of each of these offices is a "calendar":http://code.google.com/p/huddle-apis/wiki/WorkspaceCalendar showing the user what tasks they have to complete, and an array of filing cabinets which represent "folders.":http://code.google.com/p/huddle-apis/wiki/Folder
+
+The user could go into folders, pick up documents and then go to other folders and drop them, which would cause Huddle to perform a "document move.":http://code.google.com/p/huddle-apis/wiki/Document#Move_a_document The user could also pick 
+
+There is also a huge corridor full of other users' "offices" through which the user could "share":http://code.google.com/p/huddle-apis/wiki/Share a document, or "assign to them a task.":http://code.google.com/p/huddle-apis/wiki/Task#Create_a_task
+
+Over time, users could be awarded points for approving documents which they have been assigned to in time for the due date, or for making insightful comments on "whiteboards":http://code.google.com/p/huddle-apis/wiki/WhiteboardComments, "tasks":http://code.google.com/p/huddle-apis/wiki/Task#Add_a_Comment_to_a_Task or "documents":http://code.google.com/p/huddle-apis/wiki/DocumentComments
+
+h2. Why?
+
+Why not? It's quite fun and interesting to think up and attempt new ways to interact with systems which already have a sort of standard way to be interacted with. Public APIs ''should'' be exploited in novel and innovative ways that differ greatly from the way that the app they were created for already does, otherwise you might as well just use the app.
