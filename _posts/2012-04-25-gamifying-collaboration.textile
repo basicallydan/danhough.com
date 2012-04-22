@@ -41,7 +41,7 @@ By the end of the day, if The Report is still in The Boss's memory, it's Game Ov
 
 h3. Multiplayer
 
-There could be even more scope for this - if there are multiple Players, the aim could be to keep your Opponents' documents ''in'' The Boss's memory and keep yours ''out''.
+There could be even more scope for this - if there are multiple Players, the aim could be to keep your Opponents' documents _in_ The Boss's memory and keep yours _out_.
 
 h3. RPG mode
 
@@ -55,4 +55,4 @@ Over time, users could be awarded points for approving documents which they have
 
 h2. Why?
 
-Why not? It's quite fun and interesting to think up and attempt new ways to interact with systems which already have a sort of standard way to be interacted with. Public APIs ''should'' be exploited in novel and innovative ways that differ greatly from the way that the app they were created for already does, otherwise you might as well just use the app.
+Why not? It's quite fun and interesting to think up and attempt new ways to interact with systems which already have a sort of standard way to be interacted with. Public APIs _should_ be exploited in novel and innovative ways that differ greatly from the way that the app they were created for already does, otherwise you might as well just use the app.
