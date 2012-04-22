@@ -1,0 +1,30 @@
+---
+layout: post
+title: Gamifying Collaboration
+date_created: 26 April 2012
+location: London, UK
+---
+
+h1(#top). {{ page.title }}
+
+p(meta). Published {{ page.date_created }} in {{ page.location }}
+
+A few days ago I published a post about "Huddle's Hack Day":/blog/huddle-hack-day/ and, since I didn't want to be too revealing, omitted the results.
+
+However, one of the hacks is very unlikely to ever be production-ready: mine. I managed to convince "*Pete*,":http://twitter.com/#!/peteog "*Dawn*,":https://twitter.com/#!/dawncarvell and "*Marta*":http://twitter.com/#!/bruja_averia to join me in creating a hack inspired by games of days gone by: a top-down, 2D RPG based on "Huddle's API.":http://code.google.com/p/huddle-apis
+
+The premise of the game is simple: The player arrives into work one day and his 2D, 8-bit Boss is nagging him to finish a document and get it approved by 6pm. The player knows that this isn't going to happen, but he also know that The Boss has a memory of only three items at once. If The Player can distract him with enough other documents so that The Boss forgets about The Player's original document by 6pm, he'll be off scott-free for another day.
+
+h2. What we actually made
+
+A few ways. In the 10 hours we had to make this game, we managed to get a working game based on a JS framework called *ERR WHAT* with a little guy moving around and interacting with stuff, including simple key-controlled menus.
+
+In order to find out what the boss's "memory" includes, we used the files "recommended to him by Huddle.":http://www.huddle.com/blog/the-death-of-file-search-and-the-rise-of-predictive-push/ The player could perform actions from their little in-game computer to create documents which the boss would subsequently comment on and thus be distracted by, raising the document's position in his list of recommended documents.
+
+When the document goes off the list, you win the game - good job! It worked, and the other Huddlers were very amused by the idea (as well as the stupid success music). It was a successful proof of concept.
+
+h2. What we wanted to make
+
+As we sat in our initial 10-minute brainstorming and planning session, it was difficult not to get distracted by the possibilities of this game. All of the following is what we said we'd do if we exceeded our expectations and got stuff done a lot quicker. I've provided links to Huddle's API Documentation to indicate how the entire game could be powered by Huddle's API.
+
+The player walks into the office and heads to his desk. As he sits down, he spots a "note" on his desk, which is actually taken directly from the Huddle API endpoint for Document Approvals.
