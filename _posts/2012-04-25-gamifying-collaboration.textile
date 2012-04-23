@@ -17,7 +17,7 @@ The premise of the game is simple: The player arrives into work one day and his 
 
 h2. What we actually made
 
-In the 10 hours we had to make this game, we managed to get a working game based on a JS framework called *ERR WHAT* with a little guy moving around and interacting with stuff, including simple key-controlled menus.
+In the 10 hours we had to make this game, we managed to get a working game based on a JS framework called "Crafty":http://craftyjs.com/ with a little guy moving around and interacting with stuff, including simple key-controlled menus.
 
 In order to find out what the boss's "memory" includes, we used the files "recommended to him by Huddle.":http://www.huddle.com/blog/the-death-of-file-search-and-the-rise-of-predictive-push/ The player could perform actions from their little in-game computer to create documents which the boss would subsequently comment on and thus be distracted by, raising the document's position in his list of recommended documents.
 
