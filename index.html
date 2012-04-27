@@ -13,6 +13,6 @@ title: Dan Hough
 <h2>Blog Posts</h2>
 <ul>
   {% for post in site.posts %}
-  <li>{{ post.date }}: {{ post.title }}</li>
+  <li>{{ post.date | date: "%d %B %Y" }}: {{ post.title }}</li>
   {% endfor %}
 </ul>
