@@ -10,6 +10,11 @@ img {
   border:none;
 }
 
+a h1.title {
+  text-decoration:none;
+  color:#7E2217;
+}
+
 h1 {
   font-size:12pt;
   font-weight:bold;
@@ -28,6 +33,14 @@ h3 {
 .container {
   margin: 0 auto;
   max-width:500px;
+}
+
+a:link {
+  color:#7E2217;
+}
+
+a:visited {
+  color:#16737d;
 }
 
 p {
