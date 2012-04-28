@@ -23,10 +23,10 @@ In order to find out what the boss's "memory" includes, we used the files "recom
 
 When the document goes off the list, you win the game - good job! It worked, and the other Huddlers were very amused by the idea (as well as the stupid success music). It was a successful proof of concept.
 
-<img src="/img/gamifying-collaboration-1.png" rel="lightbox" alt="First pic" />
-<img src="/img/gamifying-collaboration-2.png" rel="lightbox" alt="First pic" />
-<img src="/img/gamifying-collaboration-3.png" rel="lightbox" alt="First pic" />
-<img src="/img/gamifying-collaboration-4.png" rel="lightbox" alt="First pic" />
+<a href="/img/gamifying-collaboration-1.png" rel="lightbox">Screenshot #1</a>
+<a href="/img/gamifying-collaboration-2.png" rel="lightbox">Screenshot #2</a>
+<a href="/img/gamifying-collaboration-3.png" rel="lightbox">Screenshot #3</a>
+<a href="/img/gamifying-collaboration-4.png" rel="lightbox">Screenshot #4</a>
 
 h2. What we wanted to make
 
