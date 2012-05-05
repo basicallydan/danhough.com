@@ -7,12 +7,8 @@ body {
 }
 
 a.thumbnail {
-  float:left;
-}
-
-a.thumbnail img {
   display:inline-block;
-  padding:10px;
+  float:left;
 }
 
 a.thumbnail img {
