@@ -5,20 +5,27 @@
     <title>Huddle's Hack Day</title>
     <meta name="author" content="Daniel Hough" />
     <link rel="stylesheet" href="/css/main.css" />
+    <script src="/lib/lightbox/js/jquery-1.7.2.min.js"></script>
+    <script src="/lib/lightbox/js/lightbox.js"></script>
+    <link href="/lib/lightbox/css/lightbox.css" rel="stylesheet" />
   </head>
 
   <body>
     <div class="container">
       <div class="header">
-        <h1>
-          <a href="/" title="Home"><img alt="Dan Hough" src="http://danielhough.co.uk/images/dan_hough_logo.png" /></a>
+        <h1 class="title">
+          <a href="/" title="Home">
+            <!-- <img alt="Dan Hough" src="http://danielhough.co.uk/images/dan_hough_logo.png" /> -->
+            Dan Hough
+          </a>
         </h1>
       </div>
       <div id="post">
 <h1 id="top">Huddle&#8217;s Hack Day</h1>
-<p class="meta">Published 10 April 2012 in London, UK</p>
-<p>Only interested in the results? Click <a href="#results">here</a></p>
-<p>A couple of months ago, <a href="https://twitter.com/jamespipe">James Pipe</a> approached me with an idea that had been done many times, by many startups and other organisations for many themes, but never by <a href="http://www.huddle.com">Huddle</a></p>
+<p class="meta">Published 24 April 2012 in London, UK</p>
+<p>Only interested in the results? Click <a href="#results">here</a><br />
+Only interested in hack day advice? Click <a href="#advice">here</a></p>
+<p>A couple of months ago, <a href="https://twitter.com/jamespipe">James Pipe</a> approached me with an idea that had been done many times, by many startups and other organisations for many themes, but never by <a href="http://www.huddle.com">Huddle</a>: a hack day.</p>
 <p>Naturally, I felt a mixture of excitement and skepticism. I&#8217;d only been with Huddle for about seven months, and I&#8217;d never organised a hack day before &#8211; hell, I&#8217;d never even organised a hack hour. The most I&#8217;d ever organised for Huddle&#8217;s Product Engineering team was a day when everyone came in with suits on to poke a bit of fun at our excellent and very well-dressed sales team.</p>
 <p>&#8220;Okay,&#8221; I said, &#8220;let&#8217;s do it.&#8221; And I decided that I&#8217;d squash all the skepticism with excitement. The planning began, and we roped <a href="https://twitter.com/#!/holytshirt">Toby</a> in to giving us some advice since he&#8217;d done this sort of thing before.</p>
 <p>In the end, we made a few key decisions:</p>
@@ -30,13 +37,44 @@
 	<li>Jagerbombs</li>
 </ul>
 <p>Apart from that, we sort-of hoped that this whole thing would work itself out. We decided to hold the hack day on Tuesday, the 3rd of March 2012.</p>
-<p>Soon, we had worked out what we needed to do, had given ourselves tasks. James worked out the budget, marketing (a poster with a list of buzzwords for inspiration) and timings, and I worked out the technical requirements (a single Gist detailing how to make a reverse-proxy in Node.JS for our <a href="http://code.google.com/p/huddle-apis/"><span class="caps">API</span></a>), acted as the official pep squad whilst James went on holiday, and maintaining the countdown post-its on the posters. All very organised. The day came, we had lots of snacks, drinks and even some healthy fruit.</p>
+<p>Soon, we had worked out what we needed to do and had given ourselves tasks. James worked out the budget, marketing (a poster with a list of buzzwords for inspiration) and timings, and I worked out the technical requirements (a single Gist detailing how to make a reverse-proxy in Node.JS for our <a href="http://code.google.com/p/huddle-apis/"><span class="caps">API</span></a>), acted as the official pep squad whilst James went on holiday, and maintaining the countdown post-its on the posters. All very organised. The day came, we had a claxon to sound when the games began (whom we named Erik Claxon), we had lots of snacks, drinks and we even had some healthy fruit. We were ready.</p>
 <h2 id="ideas">Ideas</h2>
-<p>We invited the rest of the company to submit their ideas to a huge whiteboard on post-it notes the Monday night before. The response was unprecedented from Sales, Marketing, Customer Engagement, Product and Corporate. In total we collected over 50 independent ideas on the whiteboard. Some were ridiculous, and actually would have been great hacks had we more time, such as sound effects when you click things, or customiseable backgrounds a-la MySpace. Most of them, however, were genuine ideas for features and improvements that although they might not be suitable for the hack day, will make great Tuesday Time fodder. We were blown away by the enthusiasm from the rest of the company.</p>
+<p>We invited the rest of the company to submit their ideas to a huge whiteboard on post-it notes the Monday night before. The response was unprecedented from Sales, Marketing, Customer Engagement, Product and Corporate. In total we collected over 50 independent ideas on the whiteboard. Some were ridiculous, and actually would have been great hacks had we more time, such as sound effects when you click things, or customiseable backgrounds a-la MySpace. Most of them, however, are genuine ideas for features and improvements that although they might not be suitable for a hack day, will make great Tuesday Time (inspired by Google&#8217;s 20% Time) fodder. We were blown away by the enthusiasm from the rest of the company.</p>
 <p>So, Tuesday morning came and the development team, as well as a few of the non-devs who had submitted their ideas, gathered in the Huddle kitchen to be briefed and for an opportunity to <a href="http://en.wikipedia.org/wiki/Elevator_pitch">elevator pitch</a> their ideas to the rest of the team. And then, the scramble for teams began.</p>
-<h2 id="results">Results</h2>
-<p>It was pretty exciting getting our teams worked out. There was a fair amount of winking, nudging and general attempts at convincing the people you wanted if you had an idea of your own, and in the end everybody ended up in a team they liked, or going on their own with only a vision and a vague idea of implementation.</p>
-<p><a href="https://twitter.com/#!/domgreen">Dom&#8217;s</a> hack day project was something that a lot of our users ask about: IM. He wanted to use something new</p>
+<h2 id="results">Results &amp; Voting</h2>
+<p>It was pretty exciting getting our teams worked out. There was a fair amount of winking, nudging and general attempts at convincing the people you wanted if you had an idea of your own, and in the end everybody ended up in a team they liked, or going on their own with only a vision and a vague idea of implementation. Once we&#8217;d all gone through an epic and manic day of furiously programming, eating and drinking, we headed home for some much needed rest and re-adjourned in the morning for the demo to the rest of the company. The hacks were judged by four individuals within Huddle:</p>
+<p>One <span class="caps">CEO</span><br />
+One Junior account manager<br />
+One Salesperson<br />
+One Development manager</p>
+<p>In an X-Factor style Q&amp;A/critique session, they got all the info they needed and had a private chat after all the demos had finished to decide the winner.</p>
+<p>While I can&#8217;t actually divulge any of the results publicly on the interwebs (except mine, but I&#8217;ll do that in a later blog post), I can tell you that what some of our Huddlers came up with was pretty great. We had a wide range of things, from useful changes to the app, some awesome in-house tools for us to play with and a game based on the Huddle <span class="caps">API</span>.</p>
+<h2 id="advice">Advice</h2>
+<p>As it was our first hack day, there&#8217;s not a huge amount of advice I can give you, and of course next time there&#8217;ll be a lot more to learn still. But for the time being, here&#8217;s what I have to offer.</p>
+<ul>
+	<li>Don&#8217;t scrimp on the pizza: it&#8217;s much better to have way more, than to have way too little, or you&#8217;ll end up with hungry, tired devs.</li>
+	<li>Get an appropriate amount of booze for the size of your team and the length of your hack day/hackathon, and the day on which it takes place. For a 16-person hack day over 10 hours, on a week day&#8230; 60 bottles of beer and a big-ass bottle of Jagermeister is probably too much. If it had been on a weekend, we probably would&#8217;ve needed more. So, check yourself.</li>
+	<li>Record <strong>everything</strong>: Get some kind of camcorder &#8211; a flipcam works well &#8211; and take some good photos on a still camera. People who couldn&#8217;t attend will want to see some footage &#8211; especially of the demo.</li>
+	<li>Include everybody, somehow: There&#8217;s no need to limit your hack day to include just contributions from technical staff. Include sales, marketing, customer support and admin at least in contributing ideas &#8211; get them to pitch if they want to! Our non-tech staff had a great time. Plus, if anybody feels they can make even more of a contribution, why shouldn&#8217;t they?</li>
+	<li>Forbid people from getting their ideas &amp; teams started before the day &#8211; but don&#8217;t expect people to follow the rules: You can&#8217;t expect people to not think about what they want to do and who they want to work with, but discourage them from doing too much organisation before they need to. If they overthink an idea it could spiral out of the control before they&#8217;ve even started working on it &#8211; it&#8217;s better that they keep their ambitions reasonable at the beginning.</li>
+</ul>
+<h2>tl;dr</h2>
+<p>It was a huge effort from everybody involved, but completely worth it. We left it as open as possible and tried to encourage on-the-spot thinking, and recorded as much as we could. Some great ideas surfaced and some impressive implementations were done with such a limited time, and we all had a great time.</p>
+<p>The most important thing to remember is that this is <strong>not</strong> supposed to be a trick to get staff to do free work out of hours. It&#8217;s supposed to be open, and fun, and encourage creative thinking, and if some good, shippable stuff comes out of it, that&#8217;s just a bonus.</p>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'danhough'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>
       <div class="footer">
       </div>
