@@ -4,7 +4,7 @@
  <title>Dan Hough</title>
  <link href="http://www.danielhough.co.uk/atom.xml" rel="self"/>
  <link href="http://www.danielhough.co.uk/"/>
- <updated>2012-05-05T14:18:44+01:00</updated>
+ <updated>2012-05-05T09:22:07-04:00</updated>
  <id>http://www.danielhough.co.uk/</id>
  <author>
    <name>Daniel Hough</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Gamifying Collaboration</title>
    <link href="http://www.danielhough.co.uk/blog/gamifying-collaboration"/>
-   <updated>2012-04-25T00:00:00+01:00</updated>
+   <updated>2012-04-25T00:00:00-04:00</updated>
    <id>http://www.danielhough.co.uk/blog/gamifying-collaboration</id>
    <content type="html">&lt;h1 id=&quot;top&quot;&gt;Gamifying Collaboration&lt;/h1&gt;
 &lt;p class=&quot;meta&quot;&gt;Published 26 April 2012 in London, UK&lt;/p&gt;
@@ -52,7 +52,7 @@
  <entry>
    <title>Huddle's Hack Day</title>
    <link href="http://www.danielhough.co.uk/blog/huddle-hack-day"/>
-   <updated>2012-04-23T00:00:00+01:00</updated>
+   <updated>2012-04-23T00:00:00-04:00</updated>
    <id>http://www.danielhough.co.uk/blog/huddle-hack-day</id>
    <content type="html">&lt;h1 id=&quot;top&quot;&gt;Huddle&amp;#8217;s Hack Day&lt;/h1&gt;
 &lt;p class=&quot;meta&quot;&gt;Published 24 April 2012 in London, UK&lt;/p&gt;
