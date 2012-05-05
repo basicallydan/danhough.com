@@ -23,10 +23,7 @@ In order to find out what the boss's "memory" includes, we used the files "recom
 
 When the document goes off the list, you win the game - good job! It worked, and the other Huddlers were very amused by the idea (as well as the stupid success music). It was a successful proof of concept.
 
-<a class="thumbnail" href="/img/gamifying-collaboration-1.png" rel="lightbox"><img src="/img/gamifying-collaboration-1.png" width="99" height="71" alt="Screenshot 1" /></a>
-<a class="thumbnail" href="/img/gamifying-collaboration-2.png" rel="lightbox"><img src="/img/gamifying-collaboration-2.png" width="99" height="71" alt="Screenshot 2" /></a>
-<a class="thumbnail" href="/img/gamifying-collaboration-3.png" rel="lightbox"><img src="/img/gamifying-collaboration-3.png" width="99" height="71" alt="Screenshot 3" /></a>
-<a class="thumbnail" href="/img/gamifying-collaboration-4.png" rel="lightbox"><img src="/img/gamifying-collaboration-4.png" width="99" height="71" alt="Screenshot 4" /></a>
+<a class="thumbnail" href="/img/gamifying-collaboration-1.png" rel="lightbox"><img src="/img/gamifying-collaboration-1.png" width="99" height="71" alt="Screenshot 1" /></a><a class="thumbnail" href="/img/gamifying-collaboration-2.png" rel="lightbox"><img src="/img/gamifying-collaboration-2.png" width="99" height="71" alt="Screenshot 2" /></a><a class="thumbnail" href="/img/gamifying-collaboration-3.png" rel="lightbox"><img src="/img/gamifying-collaboration-3.png" width="99" height="71" alt="Screenshot 3" /></a><a class="thumbnail" href="/img/gamifying-collaboration-4.png" rel="lightbox"><img src="/img/gamifying-collaboration-4.png" width="99" height="71" alt="Screenshot 4" /></a>
 
 h2. What we wanted to make
 
