@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gamifying Collaboration
-date_created: 26 April 2012
+date_created: 8 May 2012
 location: London, UK
 ---
 
