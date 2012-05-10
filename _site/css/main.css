@@ -4,6 +4,7 @@ body {
   font:11pt helvetica,arial,sans-serif;
   line-height:16pt;
   background-color:whitesmoke;
+  background-color:#fff;
 }
 
 a.thumbnail img {
@@ -35,8 +36,30 @@ h3 {
   font-weight:bold;
 }
 
+div.header {
+  float:left;
+  width:160px;
+  background-color:whitesmoke;
+  position:absolute;
+  bottom:0;
+  top:0;
+}
+
+div.header h1.title {
+  margin:10px auto;
+  display:block;
+  width:140px;
+  text-align:center;
+}
+
+div.body {
+  margin-left:160px;
+  padding-left:10px;
+  background-color:#fff;
+}
+
 .container {
-  margin: 0 auto;
+  margin: 0 0;
   max-width:500px;
 }
 
