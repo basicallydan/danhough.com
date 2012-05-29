@@ -9,8 +9,8 @@ h1(#top). {{ page.title }}
 
 p(meta). Published {{ page.date_created }} in {{ page.location }}
 
-Let me start by saying, this isn't a dig at any particular company. I *love* ZipCar, and I wouldn't be too bothered about the subject I'm writing about unless I was a fan.
+Let me start by saying, this isn't a dig at any particular website or business, it's [AHHH!]
 
 In Gmail, and many other email clients, if you recieve an HTML email with images in it, those emails are automatically hidden, and you're given an option to enable them for just this email, or to enable them for all emails received from the sender - i.e. the 'From' header.
 
-This is great, because I get loads of emails from companies like ZipCar. The problem is that ZipCar sends emails from generated email addresses.
+This is great, because I get loads of emails from companies like 

@@ -1,0 +1,26 @@
+---
+layout: post
+title: Getting Apache & Socket.IO to Play Nicely on Port 80 with HAProxy
+date_created: 30 May 2012
+location: London, UK
+---
+
+h1(#top). {{ page.title }}
+
+p(meta). Published {{ page.date_created }} in {{ page.location }}
+
+Click "here":#how-i-did-it
+
+As you may know, "Scroutenise":http://www.scroutenise.com uses WebSocket to ask for places and receive them from the backend. As you may not know, the Scroutenise site is also hosted on an Apache webserver.
+
+They both wanted to use port 80, naturally. The problem is, I only have one IP address - any requests going to scroutenise.com on port 80 would go to Apache and try to figure out if it was on one of the virtual servers such as danhough.com or scroutenise.com. So I set up ws.scroutenise.com and had it point at my VPS's IP address and had the server listen on that address "No!" I screamed at my VPS, "I want you to speak to Socket.IO!"
+
+But Socket.IO wasn't even listening. It hadn't even bound to port 80 when I had "Forever":https://github.com/nodejitsu/forever start the server, but I hadn't noticed. It was a profound moment of realisation of something I already knew, which simply didn't occur to me. Socket.IO doesn't know about Apache's Virtual Named Servers and it never will. Stupid Dan.
+
+Well, I investigated my options.
+
+First I tried mod_proxy to do a reverse proxy from port 80 to some arbitrary port. Result? Apache doesn't support HTTP 1.1 and thus can't do the Upgrade from HTTP to WS.
+
+Next I looked into using Nginx. Apart from the fact that I'm lazy and don't like to switch to a whole new solution unless it's really necessary, I'd read some bad stuff about its HTTP 1.1 support.
+
+Finally, I had a look at using a load balancer. I'd read a lot about HAProxy and it's easy configuration, so that's what I went with. This is a guide to how I made it work, and I how I got it to play nicely with Apache.
