@@ -61,6 +61,7 @@ div.body {
 .container {
   margin: 0 0;
   max-width:800px;
+  position:relative;
 }
 
 a:link {
