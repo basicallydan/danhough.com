@@ -5,10 +5,6 @@ date_created: 30 May 2012
 location: London, UK
 ---
 
-h1(#top). {{ page.title }}
-
-p(meta). Published {{ page.date_created }} in {{ page.location }}
-
 Click "here":#how-i-did-it
 
 As you may know, "Scroutenise":http://www.scroutenise.com uses WebSocket to ask for places and receive them from the backend. As you may not know, the Scroutenise site is also hosted on an Apache webserver.

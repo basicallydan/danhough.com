@@ -5,10 +5,6 @@ date_created: 8 May 2012
 location: London, UK
 ---
 
-h1(#top). {{ page.title }}
-
-p(meta). Published {{ page.date_created }} in {{ page.location }}
-
 A few days ago I published a post about "Huddle's Hack Day":/blog/huddle-hack-day/ and, since I didn't want to be too revealing, omitted the results.
 
 However, one of the hacks is very unlikely to ever be production-ready: mine. I managed to convince "*Pete*,":http://twitter.com/#!/peteog "*Dawn*,":https://twitter.com/#!/dawncarvell and "*Marta*":http://twitter.com/#!/bruja_averia to join me in creating a hack inspired by games of days gone by: a top-down, 2D RPG based on "Huddle's API.":http://code.google.com/p/huddle-apis Together, we came up with a complex idea for the game which had a premise for a story, a goal and some actions which The Player could take to achieve that goal.
