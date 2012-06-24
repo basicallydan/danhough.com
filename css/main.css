@@ -48,13 +48,9 @@ table {
 }
 
 body {
-  padding:0px;
-  margin:0px;
   font:11pt helvetica,arial,sans-serif;
   line-height:16pt;
-  background-color:whitesmoke;
-  background-color:#fff;
-  position:relative;
+  background-color:whiteSmoke;
 }
 
 a.thumbnail img {
@@ -68,7 +64,7 @@ img {
 
 h1.title a {
   text-decoration:none;
-  color:#7E2217;
+  color:#FFE303;
 }
 
 h1 {
@@ -90,39 +86,35 @@ h3 {
 }
 
 div.header {
-  float:left;
-  width:160px;
-  position:absolute;
-  bottom:0;
-  top:0;
+  width:100%;
+  text-align:center;
+  margin:0 0 20px 0;
+  background-color:#222;
+  display:block;
+  overflow:hidden;
 }
 
 div.header h1.title {
   margin:10px auto;
   display:block;
+  position:relative;
   width:140px;
   text-align:center;
 }
 
-div.body {
-  margin-left:160px;
-  padding-left:10px;
-  background-color:#fff;
-}
-
 .container {
-  margin: 0 0;
-  max-width:700px;
+  margin: 0 auto;
+  max-width:600px;
   position:relative;
   bottom:0px;
 }
 
 a:link {
-  color:#16737d;
+  color:#7E2217;
 }
 
 a:visited {
-  color:#7E2217;
+  color:darkGoldenrod;
 }
 
 p {
