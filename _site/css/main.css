@@ -128,13 +128,17 @@ p.meta {
   color:#888;
 }
 
+p.intro {
+  font-style:italic;
+}
+
 span.published-date {
   color:#888;
   font-family:"Courier New",courier,monospace;
 }
 
 #post-list {
-  padding:0px 15px;
+  padding:15px;
 }
 
 #post-list li {
