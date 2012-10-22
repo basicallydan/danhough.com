@@ -1,7 +1,0 @@
-task :build_and_copy do
-	rm_r("/home/dan/websites/danielhough.co.uk/www")
-	sh("jekyll")
-	cp_r("_site/", "/home/dan/websites/danielhough.co.uk/www")
-end
-
-task :default => 'build_and_copy'
