@@ -1,0 +1,18 @@
+---
+layout: post
+title: Tell HN: I can't keep up!
+date_created: 31 October 2012
+location: London, UK
+---
+
+A year and a half ago, I discovered Hacker News. I was newly 23 and I had just started at "Huddle":http://huddle.com so I was super-mega-excited to be working for a super-mega-cool startup. Somehow I had missed its existence before entirely, possibly because I was living under a rock.
+
+Anyway, I was naturally pretty excited about what I saw. It was a connection to the magical world of Silicon Valley - where everybody rode Segways, drank Amazing Coffee and rode the coolest bikes ever constructed. That, and they were all a bunch of nerds, just like me. A world of tomorrow, where geeks had already inherited the Earth, and were living their utopian dream.
+
+I saw it as an opportunity to pick up loads of awesome ideas, tips, new technologies, and maybe discover who it was I should or shouldn't know about if I want to effectively network. Many new links each day with tons of interesting stuff - I assumed that if it made it to the front page of HN, an article or technology _must_ be the The Word or The Next Big Thing, respectively.
+
+I was wrong! First of all, every man and his dog is constantly submitting to HN. All vying for that front-page spot, it could be the big break your app is looking for.
+
+Secondly, and this leads me to my point, it's just *too much*. I don't know about the rest of you, but from what I can tell there are about 200 programming languages, which all have about 50 new frameworks every day to do the same damned thing, using 100 different patterns. How is someone supposed to read all of this *and* hold a steady job *and* work on their side projects without getting distracted going down hundreds of rabbitholes?
+
+I thought that by keeping tabs on the latest stuff coming from the HN frontpage I might find some fantastic technologies to use in my projects, but most of the time it's just noise. And even when it isn't, and I do see something I'd like to try out, there's rarely time to do so.
