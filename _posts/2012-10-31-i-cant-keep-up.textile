@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tell HN: I can't keep up!
+title: I can't keep up!
 date_created: 31 October 2012
 location: London, UK
 ---
