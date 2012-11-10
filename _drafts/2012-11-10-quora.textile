@@ -1,0 +1,12 @@
+---
+layout: post
+title: Quora is the next step in the evolution of the "conversation" onine
+date_created: 10 November 2012
+location: London, UK
+---
+
+We're all familiar with Twitter, the platform through which millions of online conversations start every day between friends, celebrities, experts on various subjects, _Internet_ celebrities and of course, the much-loved "_fake_ celebrity":https://twitter.com/notzuckerberg or "fictional character":https://twitter.com/God_Damn_Batman.
+
+We're also familiar with Quora, the platform through which hundreds of thousands of curious cats get their questions answered about "the London Underground":http://www.quora.com/London-UK/What-should-everyone-know-about-the-London-Underground, "how to strike a balance between arrogance and confidence":http://www.quora.com/How-do-I-strike-the-balance-between-confidence-and-arrogance, and the "iOS Maps Debacle":http://www.quora.com/Google/What-do-Googles-employees-think-of-the-iOS-Maps-app/answer/Ramishka-Dasanayaka.
+
+Once upon a time, Twitter was used for conversations, which might've started with a simple question.
