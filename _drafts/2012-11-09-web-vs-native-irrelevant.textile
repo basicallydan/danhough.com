@@ -1,0 +1,12 @@
+---
+layout: post
+title: Native? Web? It doesn't matter, we aren't the puppetmasters
+date_created: 10 November 2012
+location: London, UK
+---
+
+Recently, our CTO at "Huddle":http://huddle.com, "Jon Howell":https://twitter.com/jonathanhowell gave a thought-provoking talk at at the "Future of Web Apps":http://futureofwebapps.com/london-2012/ / "Future of Mobile":http://future-of-mobile.com/london-2012/ conference entitled _Are Web Apps the Future?_
+
+In this talk, he discussed the revival of the Thick Client (i.e. native mobile apps & desktop apps), after a few years of dominance from web apps - the Thin Client.
+
+He pointed to great apps such as Evernote, Dropbox, Spotify, and Skype encouraging this rennaissance by going against the grain creating "sexy" apps for platforms which had declined in their sexiness over the years whilst, thanks to the ubitquity of high-speed Internet connections, the web became a real player in creating "great":http://twitter.com "apps":http://gmail.com for "consumers":https://facebook.com and "businesses":http://salesforce.com "alike":http://huddle.com.
