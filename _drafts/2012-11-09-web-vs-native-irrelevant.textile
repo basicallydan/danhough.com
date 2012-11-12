@@ -5,7 +5,7 @@ date_created: 10 November 2012
 location: London, UK
 ---
 
-Recently, our CTO at "Huddle":http://huddle.com, "Jon Howell":https://twitter.com/jonathanhowell gave a thought-provoking talk at at the "Future of Web Apps":http://futureofwebapps.com/london-2012/ / "Future of Mobile":http://future-of-mobile.com/london-2012/ conference entitled _Are Web Apps the Future?_
+Recently, our CTO at "Huddle":http://huddle.com, "Jon Howell":https://twitter.com/jonathanhowell gave a thought-provoking talk at at the "Future of Web Apps":http://futureofwebapps.com/london-2012/ / "Future of Mobile":http://future-of-mobile.com/london-2012/ conference entitled "_Are Web Apps the Future?_":http://www.slideshare.net/jonathanhowell/are-web-apps-the-future
 
 In this talk, he discussed the revival of the Thick Client (i.e. native mobile apps & desktop apps), after a few years of dominance from web apps - the Thin Client.
 
