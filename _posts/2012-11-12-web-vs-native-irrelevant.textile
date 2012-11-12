@@ -22,3 +22,5 @@ Even when we have mobile browsers which use accelerometers, make native-esque us
 In my opinion, the best we can do is create great native apps, and create great web apps, and then leave the rest up to our customers and the situation for which the app was creative. There can be no winner, and there shouldn't be.
 
 Finally, as Jon said in his talk, we should focus on our APIs. I'm sure that at least, we can all agree, behind every great app, be it web or native, there should be a great API.
+
+_Want to discuss this on "Hacker News":http://news.ycombinator.com/item?id=4774536?_
