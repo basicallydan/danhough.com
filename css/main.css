@@ -50,7 +50,7 @@ table {
 body {
   font:11pt helvetica,arial,sans-serif;
   line-height:16pt;
-  background-color:#e0e0e0;
+  background-color:#96999A;
 }
 
 a.thumbnail img {
@@ -90,7 +90,7 @@ div.header {
   padding:30px;
   text-align:center;
   margin:30px auto 10px auto;
-  background-color:#f0f0f0;
+  background-color:#fefefe;
   display:block;
   overflow:hidden;
 }
@@ -109,15 +109,15 @@ div.header h1.title {
   max-width:600px;
   position:relative;
   bottom:0px;
-  background-color:#f0f0f0;
+  background-color:#fefefe;
 }
 
 a:link {
-  color:#7E2217;
+  color:#EB1C25;
 }
 
 a:visited {
-  color:darkGoldenrod;
+  color:#EB1C25;
 }
 
 p {
@@ -128,7 +128,7 @@ p {
 p.meta {
   margin-top:-5px;
   font-size:11pt;
-  color:#888;
+  color:#96999A;
 }
 
 p.intro {
@@ -136,7 +136,7 @@ p.intro {
 }
 
 span.published-date {
-  color:#888;
+  color:#96999A;
   font-family:"Courier New",courier,monospace;
 }
 
@@ -148,3 +148,5 @@ span.published-date {
   list-style: none;
   text-indent: 0;
 }
+
+/* palette is http://www.colourlovers.com/palette/1217666/Clown_Face_[CPD] */
