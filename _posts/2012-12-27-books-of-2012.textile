@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Books I read in 2012
+title: The Books I Read in 2012
 date_created: 27 December 2012
 location: London, UK
 ---
