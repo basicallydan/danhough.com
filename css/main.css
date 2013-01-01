@@ -50,7 +50,7 @@ table {
 body {
   font:11pt helvetica,arial,sans-serif;
   line-height:16pt;
-  background-color:whiteSmoke;
+  background-color:#e0e0e0;
 }
 
 a.thumbnail img {
@@ -64,7 +64,7 @@ img {
 
 h1.title a {
   text-decoration:none;
-  color:#FFE303;
+  color:#020202;
 }
 
 h1 {
@@ -86,9 +86,10 @@ h3 {
 }
 
 div.header {
-  width:100%;
+  max-width:600px;
+  padding:30px;
   text-align:center;
-  margin:0 0 20px 0;
+  margin:30px auto 10px auto;
   background-color:#222;
   display:block;
   overflow:hidden;
@@ -103,6 +104,7 @@ div.header h1.title {
 }
 
 .container {
+  padding:30px;
   margin: 0 auto;
   max-width:600px;
   position:relative;
