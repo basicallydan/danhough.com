@@ -87,7 +87,7 @@ h3 {
 
 div.header {
   max-width:600px;
-  padding:30px;
+  padding:30px 80px;
   text-align:center;
   margin:30px auto 10px auto;
   background-color:#fefefe;
@@ -104,7 +104,7 @@ div.header h1.title {
 }
 
 .container {
-  padding:30px;
+  padding:30px 80px;
   margin: 0 auto;
   max-width:600px;
   position:relative;
