@@ -90,7 +90,7 @@ div.header {
   padding:30px;
   text-align:center;
   margin:30px auto 10px auto;
-  background-color:#222;
+  background-color:#f0f0f0;
   display:block;
   overflow:hidden;
 }
@@ -109,6 +109,7 @@ div.header h1.title {
   max-width:600px;
   position:relative;
   bottom:0px;
+  background-color:#f0f0f0;
 }
 
 a:link {
