@@ -85,7 +85,7 @@ h3 {
   margin:7px 0px;
 }
 
-div.header {
+.header {
   max-width:600px;
   padding:30px 80px;
   text-align:center;
@@ -93,9 +93,11 @@ div.header {
   background-color:#fefefe;
   display:block;
   overflow:hidden;
+  -webkit-box-shadow: 0px 0px 30px 2px #6E6F73;
+  box-shadow: 0px 0px 30px 2px #6E6F73;
 }
 
-div.header h1.title {
+.header .title {
   margin:10px auto;
   display:block;
   position:relative;
@@ -108,8 +110,10 @@ div.header h1.title {
   margin: 0 auto;
   max-width:600px;
   position:relative;
-  bottom:0px;
+  bottom:0;
   background-color:#fefefe;
+  -webkit-box-shadow: 0px 0px 30px 2px #6E6F73;
+  box-shadow: 0px 0px 30px 2px #6E6F73;
 }
 
 a:link {
