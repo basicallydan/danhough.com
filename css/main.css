@@ -95,6 +95,7 @@ h3 {
   overflow:hidden;
   -webkit-box-shadow: 0px 0px 30px 2px #B8B9BF;
   box-shadow: 0px 0px 30px 2px #B8B9BF;
+  position: relative;
 }
 
 .header .title {
@@ -107,7 +108,7 @@ h3 {
 
 .container {
   padding:30px 80px;
-  margin: 0 auto;
+  margin: 20px auto;
   max-width:600px;
   position:relative;
   bottom:0;
@@ -145,12 +146,31 @@ span.published-date {
 }
 
 #post-list {
-  padding:15px;
+  padding:15px 0px;
 }
 
 #post-list li {
   list-style: none;
   text-indent: 0;
+}
+
+.links {
+  list-style:none;
+  text-indent:0;
+  margin-left:0;
+  float:right;
+  padding:0;
+  top:10px;
+  right:10px;
+  position:absolute;
+}
+
+.links li {
+  margin:0 0 5px 0;
+}
+
+.links a {
+  text-decoration: none;
 }
 
 /* palette is http://www.colourlovers.com/palette/1217666/Clown_Face_[CPD] */
