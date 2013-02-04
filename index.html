@@ -7,12 +7,12 @@ title: Dan Hough
   <h1>Hello</h1>
   <p>I'm Dan, I live in London, Great Britain and I make <strong>web apps</strong>.</p>
   <p>You can find me on <a href="http://www.twitter.com/basicallydan">Twitter</a>, <a href="http://uk.linkedin.com/pub/daniel-hough/14/202/801">LinkedIn</a> and <a href="http://github.com/basicallydan">GitHub</a>, and you can contact me using dan[at]danielhough.co.uk.</p>
-  <p>My most recent project is <a href="http://www.streetscout.io/">StreetScout</a>, and I spend my weekdays at <a href="http://www.huddle.com">Huddle where I'm a developer.</a></p>
+  <p>My most recent project is <a href="https://streetscout.io/">StreetScout</a>, and I spend my weekdays at <a href="http://www.huddle.com">Huddle where I'm a developer.</a></p>
 </div>
 
 <h2>Blog Posts</h2>
 <ul id="post-list">
   {% for post in site.posts %}
-  <li><span class="published-date">{{ post.date | date: "%d %B %Y" }}</span>: <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li class="post-list-item"><span class="published-date">{{ post.date | date: "%d %B %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>

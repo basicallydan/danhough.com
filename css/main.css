@@ -48,7 +48,8 @@ table {
 }
 
 body {
-  font:11pt helvetica,arial,sans-serif;
+  font-size:11pt;
+  font-family: 'PT Serif', serif;
   line-height:16pt;
   background-color:#F0F3F9;
 }
@@ -68,18 +69,21 @@ h1.title a {
 }
 
 h1 {
+  font-family: 'PT Sans', sans-serif;
   font-size:16pt;
   font-weight:normal;
   margin:10px 0px;
 }
 
 h2 {
+  font-family: 'PT Sans', sans-serif;
   font-size:11pt;
   font-weight:bold;
   margin:8px 0px;
 }
 
 h3 {
+  font-family: 'PT Sans', sans-serif;
   font-size:11pt;
   font-weight:bold;
   margin:7px 0px;
@@ -103,6 +107,7 @@ h3 {
   display:block;
   position:relative;
   width:140px;
+  font-size:18pt;
   text-align:center;
 }
 
@@ -117,12 +122,17 @@ h3 {
   box-shadow: 0px 0px 10px 1px #B8B9BF;
 }
 
-a:link {
-  color:#EB1C25;
+a:link, a:visited {
+  color:#FA3E3E;
+  -webkit-transition: color 350ms;
+  -moz-transition: color 350ms;
+  -ms-transition: color 350ms;
+  -o-transition: color 350ms;
+  transition: color 350ms;
 }
 
-a:visited {
-  color:#EB1C25;
+a:hover {
+  color:#F60F0F;
 }
 
 p {
@@ -140,13 +150,20 @@ p.intro {
   font-style:italic;
 }
 
-span.published-date {
+li.post-list-item span.published-date {
+  width:30%;
   color:#96999A;
   font-family:"Courier New",courier,monospace;
+  display:inline-block;
+}
+
+li.post-list-item a {
+  width:69%;
+  display:inline-block;
 }
 
 #post-list {
-  padding:15px 0px;
+  margin:5px 0px;
 }
 
 #post-list li {
@@ -171,6 +188,16 @@ span.published-date {
 
 .links a {
   text-decoration: none;
+}
+
+@media (max-width: 480px), (max-height: 480px) {
+  .header {
+    padding:30px 20px;
+  }
+
+  .container {
+    padding:15px 20px;
+  }
 }
 
 /* palette is http://www.colourlovers.com/palette/1217666/Clown_Face_[CPD] */
