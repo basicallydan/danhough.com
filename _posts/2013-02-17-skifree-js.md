@@ -9,21 +9,19 @@ Over Christmas I wanted a simple, little project to play around with which invol
 
 Cliché or not, I was unswayed. So, given that for some reason people in the office were talking about it before the holidays I decided to create myself a port of SkiFree. I'm going to give you a bit of background, then outline the main things I learned whilst creating the port.
 
+If you want to play the game (at time of writing it is still a work-in-progress, but it's still pretty fucking awesome) have a lil' **[click on this link to play it right now](http://basicallydan.github.com/skifree.js)**.
+
 [SkiFree](http://en.wikipedia.org/wiki/SkiFree) is a game which was first created as we know it in 1991 by a programmer called [Chris Pirih](http://www.ihoc.net/). It was a huge hit, and most of my colleagues and friends remember it vividly, either from Windows or from the Game Boy Color port.
 
-If you want to play the game as it is right now (at time of writing is still a work-in-progress, but it's still pretty fucking awesome) have a lil' click on [this link](http://basicallydan.github.com/skifree.js).
-
 I started simple by just creating a nice little `Sprite` class, and having it take a `CanvasRenderingContext2D` from the canvas, and drawing itself onto that context.
-
 {% gistnocache 4973324 %}
-
 I grabbed some sprites from a place on the [Web](http://spriters-resource.com/submitter/Wing%20Wang%20Wao) where a chap called Wing Wang Wao had ripped them and posted them online, and then played the game for about 2 minutes before being consumed by excitement for the rest of the night. I added a monster, and made trees generate at random, and there it was: a simple port of SkiFree.
 
 After I'd showed my family my handiwork and they'd given me the mandatory smile and nod, I put it on GitHub and continued the holiday fun by eating too much turkey and cake.
 
 A couple of weeks go by and I'm back at work. Business software is fun and all, but sometimes a guy has gotta get his teeth into a more unconventional project. So, I picked it up again. I ironed out a few little issues, and showed it to [Reddit](http://www.reddit.com/r/webdev/comments/17nvx0/hey_reddit_i_made_a_skifree_port_in_the_browser/). Much to my surprise, they loved it! I was so pleased, and [some](https://github.com/tomgrim1 "tomgrim1 on GitHub") [folks](https://github.com/ddoolin "ddoolin on GitHub") even helped out with the game by contributing some enhancements and fixes.
 
-Since then, large trees have made it in, as have small clumps of snow. There are also lives, and ways to dodge the Yeti if it starts chasing you.
+Since then, large trees have made it in, as have small clumps of snow. There are also lives, and ways to dodge the Yeti if it starts chasing you. I also added basic smartphone support (so, it reacts to touch events), and some snowboarders to annoy the crap out of you.
 
 The interesting thing for me was learning about the best way to structure the game and implement various mechanics. Rather than going through them in a story form, let me just list the main things I've learned so far:
 
@@ -38,3 +36,7 @@ Instead, give each sprite a position on the map, and as part of the `draw` code,
 Originally, when I was having sprites test against each other for hits, I looped through all of the sprites, and then tested them against the skier.
 
 Sooner or later I remembered what language I was working with, so I had each new sprite register the skier as being a potential target for hitting as well as a callback for what happens when that hit occurs. Now, the sprite is in charge of hit-testing, and it works [really nicely](https://github.com/basicallydan/skifree.js/blob/master/js/sprite.js#L213) by looping through in there, and if it looks like a hit, the callback is executed.
+
+# Help?
+
+As I said before, the game isn't finished, but it's playable for sure. If you'd like to contribute at all to making it more like the original SkiFree, or perhaps by improving the game mechanics by adding some new features, please do do **[check out the repo on GitHub](https://github.com/basicallydan/skifree.js)** and make a pull request. Alternatively, if you've spotted a bug please **[raise an issue](https://github.com/basicallydan/skifree.js/issues/new)**.
