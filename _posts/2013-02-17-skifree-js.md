@@ -27,13 +27,13 @@ Since then, large trees have made it in, as have small clumps of snow. There are
 
 The interesting thing for me was learning about the best way to structure the game and implement various mechanics. Rather than going through them in a story form, let me just list the main things I've learned so far:
 
-h2. Don't represent position in terms of the canvas
+## Don't represent position in terms of the canvas
 
 At least for a game with a map of the size that SkiFree has, it didn't make sense to represent sprites' positions in terms of the canvas they were being drawn onto. Sadly, this is how I did it originally, and it made the game difficult to scale, as well as making the "movement" of stationary sprites unnecessarily complicated.
 
 Instead, give each sprite a position on the map, and as part of the `draw` code, understand where the viewport is centered and work out the position in terms of the canvas from that (it was [surprisingly easy to do this](https://github.com/basicallydan/skifree.js/blob/master/js/lib/canvasRenderingContext2DExtensions.js)). That way, you can arbitrarily make things appear more easily at certain positions on the map, and even do things like create cutscenes.
 
-h2. You can make hit-test reactions a lot nicer with callbacks
+## You can make hit-test reactions a lot nicer with callbacks
 
 Originally, when I was having sprites test against each other for hits, I looped through all of the sprites, and then tested them against the skier.
 
