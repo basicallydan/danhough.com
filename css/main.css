@@ -135,6 +135,10 @@ a:hover {
   color:#F60F0F;
 }
 
+strong a {
+  font-weight:bold;
+}
+
 p {
   text-align:justify;
   margin:10px 0px;
