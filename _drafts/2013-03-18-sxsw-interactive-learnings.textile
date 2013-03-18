@@ -1,8 +1,8 @@
 ---
 layout: post
 title: You must take the bad with the good
-date_created: 14 March 2013
-location: Austin, TX, USA
+date_created: 18 March 2013
+location: London, UK
 ---
 
 With a suitcase full of free t-shirts, free cups, free stickers, free packs of doritos, free advice and free spirits, I return to the homeland.
@@ -27,27 +27,15 @@ They both had their own reasons for thinking the idea was great or terrible, but
 
 I knew this was a good thing to do anyway, but I learned it again here, and felt the emotional rollercoaster that goes along with that learning.
 
-h2. 2. Everyone is doing the same thing
+h2. 2. Everyone is doing the same things
 
 If I see one more social discovery app I think I'm going to cry. The truth is, many spaces are insanely busy at the moment. It's difficult to get into many of them and yet people keep trying.
 
 Apps have their various niches and different types of user experience which both differentiate themselves.
 
-The key thing though, as with any social app, is adoption - and I can't see how they can all be successful in the long-run without the massive adoption needed to take it to the next level.
+The key thing though, as with any social app, is adoption - and I can't see how they many of them can successful in the long-run without the massive adoption needed to take it to the next level.
 
-A lot of them are not going to last until the next SxSW, sadly.
-
-h2. 3. There's so much to do
-
-The lifestyles of some of the people at South by South-West are inspiring.
-
-Creators, entrepreneurs, activists - many, many people who've shunned the lifestyle enjoyed or loathed by many of us of working hard to realise somebody else's dream - are doing it well.
-
-It is actually quite frustrating though, being in this position, because you can't do much but watch. At least, until you get back to real life. And the inspiration you got from these people needs to remain when you get back.
-
-The momentum needs to keep up.
-
-h2. 4. Silicon Valley is not All That
+h2. 3. There's more to Silicon than the Valley
 
 As somebody in tech who works in London, obviously I know that Silicon Valley is not the only tech 'cluster' area.
 
@@ -55,9 +43,12 @@ From the outside of the US it's easy to think that when a tech company is born, 
 
 There are many other tech hubs in the United States: Las Vegas; Portland; New York City. I met folks from various startups, from all over the country. I always thought that if I moved to the US, I would have to go to San Francisco. I no longer believe this.
 
-The US is full of opportunity, all over the place.
+The US is full of opportunity, all over the place. I was particularly impressed by all the work being done in Las Vegas. It's great!
 
-h2. 5. There are __many__ people like me
+h2. 4. There are __many__ people like me
 
-I am an ambitious developer who wants to be more in control of his own life. I want to "be my own boss" as it were. There are many, many people like me.
+I am an ambitious developer who wants to make a bold move into unknown territory and do his own thing, and reclaim some time - and I am not the only one. There are __loads__ of people like me. I met a few, they are good people.
 
+h2. Conclusion
+
+It was a genuinely inspiring festival, and I'd recommend it to anybody who is into tech, entrepreneurship, or honestly - just wants to have a good time. Though, it's a little pricey just for the latter.
