@@ -11,9 +11,19 @@ But you're not speaking directly to them. Well, the release notes that you type 
 
 h2. Know your audience
 
+My first instinct is always to keep it light. But that's because the app that I make has a pretty light-hearted brand, and it's a consumer app. I like to say things like "Hey guys!" and "Have fun with feature *x*!" Generally, I'd recommend to do this. When I read any release notes, I like to know that there's a person behind those release notes, who is excitedly sitting there thinking, "They're gonna love this update."
+
+Speak like a human being, not a robot. Unless for some reason you have a hilarious faux-robotic brand voice, then it's allowed.
+
+But on the other hand, don't go overboard. Your users may be strapped for time, or working for somebody who wants hard facts about the latest version of the software they're using. If your release notes are so full of fluff and personality that the actual information you're trying get across to them is too difficult to extract, then you've failed at your job.
+
 h2. Keep it brief
 
+This isn't your app's iTunes page. Your users are already bought in, so don't list every feature like it's the first time they've ever read it and you're trying to sell to them. Tell them about the exciting new features and the fixes for bugs that have been bothering them for ages.
+
 h2. UTF-8 is your friend
+
+Luckily, iOS has huge UTF-8 support.
 
 h2. Be grateful to your users
 
@@ -23,5 +33,8 @@ Reward this with a little nod to the loyalists, reviewers, testers and poweruser
 
 h1. Some apps with great Release Notes
 
-* CityMapper
+* "CityMapper":http://citymapper.com/ - a true inspiration
 * Yelp
+* Huddle*
+
+* Disclosure: I work at Huddle - but I don't write the release notes for the main app :)
