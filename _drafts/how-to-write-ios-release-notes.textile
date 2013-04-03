@@ -1,0 +1,27 @@
+---
+layout: post
+title: How to write decent iOS release notes
+date_created: 03/04/2013
+location: London, UK
+---
+
+As a product manager, you may not often feel like you have a way to directly affect what your customers see when they use your app. You ask the developer(s) to implement features *x* and *y*, and you coordinate with the copywriters to make sure the messaging on error *z* is correct.
+
+But you're not speaking directly to them. Well, the release notes that you type into that little box when you release the latest version of your app is your chance to have a bit of fun. I love writing release notes - even for TestFlight releases! Here's my short list of things to keep in mind when writing release notes.
+
+h2. Know your audience
+
+h2. Keep it brief
+
+h2. UTF-8 is your friend
+
+h2. Be grateful to your users
+
+If a user is reading these notes, the chances are that they are an existing user. They're loyal. They may have even given some incredibly useful feedback in the past which has shaped the product. They might've driven your downloads by giving you consistently 5-star reviews.
+
+Reward this with a little nod to the loyalists, reviewers, testers and powerusers. A simple *Thank you :)* is the least you could do.
+
+h1. Some apps with great Release Notes
+
+* CityMapper
+* Yelp
