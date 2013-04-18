@@ -9,7 +9,7 @@ One of the things I've picked up from the other, wiser people than myself who ar
 
 Back in 2011, I worked at a small digital creative agency called [Thin Martian](http://www.thinmartian.com/) as a junior web developer. It was the *very beginning* of my career in Tech, and I was (and still am) constantly seeking advice and good ideas from people more experienced than myself about advancing my career and improving my life.
 
-Like in many creative agencies, there was a huge amount of work to do, and tight deadlines. My boss at the time, Damian Gilbert, and I were working quite late at the time and so we had a bit of down-time involving company-bought pizza from [The Yard](http://www.yardrestaurants.co.uk/) in the evenings. One evening, over a delicious fried-egg-topped pizza, I asked Damian how he keeps so motivated to carry on when times are tough.
+Like in many creative agencies, there was a huge amount of work to do, and tight deadlines. My boss at the time, [Damian Gilbert](https://twitter.com/i_am_damo), and I were working quite late at the time and so we had a bit of down-time involving company-bought pizza from [The Yard](http://www.yardrestaurants.co.uk/) in the evenings. One evening, over a delicious fried-egg-topped pizza, I asked Damian how he keeps so motivated to carry on when times are tough.
 
 One of the thngs Damian told me is that before he started his career as a professional football player (which somehow led to being in tech - it's a long story), he set out some dates in the long-term future as milestones, and various aspects of his life which should be true at those times. He wrote all this down in a document somewhere. No particular format, just a simple plain text file will do - and put it somewhere he could access pretty much any time.
 
@@ -21,7 +21,7 @@ On top of that, he put personal goals. Goals for where he'd like his relationshi
 
 Damian told me that although these goals are things he'd be aiming to achieve by their milestones, they should be primarily used as motivators. They should be reminders of what the long-term aims are.
 
-Every now and then, Damian looks at his list and re-assesses how he's doing. He might've failed to reach some goals, or not *quite* hit targets, but they are a constant motivator.
+Damian told me that every now and then, he looks at his list and re-assesses how he's doing. He might've failed to reach some goals, or not *quite* hit targets, but they are a constant motivator.
 
 After I heard this, I could immediately see the benefit, so I set about writing my own list. I keep mine in Google drive so I can add to it. Let me give you an excerpt from my first-ever milestone.
 

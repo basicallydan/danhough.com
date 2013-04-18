@@ -206,8 +206,15 @@ ul.links li {
 }
 
 blockquote {
-  padding:10px;
-  background-color:#F0F3F9;
+  background:#f9f9f9;
+  border-left:10px solid #ccc;
+  margin:1.5em 0;
+  padding:10px 10px 20px 10px;
+  quotes:"\201C""\201D""\2018""\2019";
+}
+
+blockquote ul {
+  margin-left:10px;
 }
 
 @media (max-width: 480px), (max-height: 480px) {
