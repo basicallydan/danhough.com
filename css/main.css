@@ -145,8 +145,10 @@ strong a {
 }
 
 p {
-  text-align:justify;
-  margin:10px 0px;
+  font-size: 12pt;
+  text-align: justify;
+  margin: 10px 0px;
+  line-height: 19pt;
 }
 
 p.meta {
