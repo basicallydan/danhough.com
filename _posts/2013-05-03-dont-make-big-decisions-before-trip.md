@@ -26,3 +26,5 @@ I'm not saying don't think about the big decisions you want or need to make. You
 Write down your decision, maybe email it to yourself or put it in Evernote, and then re-assess when you get home. Think: "do I really want to do this, now that I'm back to my normal life?"
 
 If the answer is still yes, then get thinking again, heat up that proverbial iron and strike while it's hot.
+
+[Discuss on Hacker News](https://news.ycombinator.com/item?id=5649954)
