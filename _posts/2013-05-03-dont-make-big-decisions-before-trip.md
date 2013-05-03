@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making big decisions before or during a long trip
+title: Making big decisions before or during a long trip (don't)
 date_created: 03 May 2013
 location: London, UK
 ---
