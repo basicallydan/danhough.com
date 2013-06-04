@@ -239,6 +239,7 @@ blockquote ul {
   .header .title {
     margin-left:0;
     text-align:left;
+    width:auto;
   }
 
   .container {
