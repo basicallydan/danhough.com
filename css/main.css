@@ -229,7 +229,9 @@ blockquote ul {
   }
   .header {
     padding:30px 20px;
+    width:auto;
     margin-bottom:2px;
+    margin-top:0;
     -webkit-box-shadow: none;
     box-shadow: none;
   }
@@ -240,6 +242,7 @@ blockquote ul {
   }
 
   .container {
+    width:auto;
     padding:15px 20px;
     margin-top:0px;
     -webkit-box-shadow: none;
