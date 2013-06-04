@@ -276,6 +276,7 @@ blockquote ul {
   ul.links {
     font-size:20px;
     top:40px;
+    display:none;
   }
 
   ul.links li {
