@@ -219,16 +219,18 @@ blockquote ul {
   margin-left:10px;
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 768px) {
   body {
     -webkit-text-size-adjust:none;
     font-family:Helvetica, Arial, Verdana, sans-serif;
     padding:5px;
     width:auto;
+    max-width: 768px;
   }
   div {
     width:100%!important;
     margin:0 auto;
+    max-width: 768px;
   }
   .header {
     padding:30px 20px;
