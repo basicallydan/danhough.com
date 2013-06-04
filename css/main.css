@@ -223,15 +223,11 @@ blockquote ul {
   body {
     -webkit-text-size-adjust:none;
     font-family:Helvetica, Arial, Verdana, sans-serif;
-    width:100%;
-    max-width: 768px;
     padding:0;
     margin:0;
   }
   div {
     width:100%!important;
-    max-width: 768px;
-    margin:0 auto;
   }
   .header {
     padding:30px 20px;
