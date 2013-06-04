@@ -252,15 +252,18 @@ blockquote ul {
 
   ul#post-list {
     padding:0;
+    width:auto;
   }
 
   ul#post-list li {
     padding:0;
     margin-left:0;
+    width:auto;
   }
 
   li.post-list-item span.published-date {
     display:inline;
+    width:auto;
   }
 
   li.post-list-item a {
