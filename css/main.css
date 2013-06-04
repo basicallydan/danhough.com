@@ -219,7 +219,7 @@ blockquote ul {
   margin-left:10px;
 }
 
-@media only screen and (max-width : 640px) {
+@media only screen and (min-width : 320px) and (max-width : 768px) {
   .header {
     padding:30px 20px;
     margin-top:0;
