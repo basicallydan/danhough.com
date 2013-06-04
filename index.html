@@ -6,8 +6,9 @@ title: Dan Hough
 <div class="intro">
   <h1>Hello</h1>
   <p>I'm Dan, I live in London, Great Britain and I make <strong>web apps</strong>.</p>
-  <p>You can find me on <a href="http://www.twitter.com/basicallydan">Twitter</a>, <a href="http://uk.linkedin.com/pub/daniel-hough/14/202/801">LinkedIn</a> and <a href="http://github.com/basicallydan">GitHub</a>, and you can contact me using dan[at]danielhough.co.uk.</p>
-  <p>My most recent project is <a href="https://streetscout.io/">StreetScout</a>, and I spend my weekdays at <a href="http://www.huddle.com">Huddle where I'm a developer.</a></p>
+  <p>You can find me on <a href="http://www.twitter.com/basicallydan">Twitter</a>, <a href="http://uk.linkedin.com/pub/daniel-hough/14/202/801">LinkedIn</a> and <a href="http://github.com/basicallydan">GitHub</a>, and you can contact me using <span id="email-address">dan[at]danielhough.co.uk</a>.</p>
+  <p>I am the founder of <a href="https://streetscoutapp.com/">StreetScout</a>, and I spend my weekdays at <a href="http://www.huddle.com">Huddle</a> where I'm a mobile &amp; web developer.</p>
+  <p>I'm also <a href="http://danplusadd.co.uk">a singer/songwriter</a> and I am a <a href="danplusadd.co.uk/blog/going-underground/">licensed London Underground busker</a>.</a>
 </div>
 
 <h2>Blog Posts</h2>
@@ -16,3 +17,9 @@ title: Dan Hough
   <li class="post-list-item"><span class="published-date">{{ post.date | date: "%d %B %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#email-address").html('<a href="mailto:dan' + '@' + '' + '' + 'danielhough.co.uk">dan' + '@' + '' + '' + 'danielhough.co.uk</a>');
+});
+</script>
