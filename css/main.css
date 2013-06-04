@@ -226,12 +226,8 @@ blockquote ul {
     padding:5px;
   }
   div {
-    clear:both!important;
-    display:block!important;
     width:100%!important;
-    float:none!important;
-    margin:0!important;
-    padding:0!important;
+    margin:0 auto;
   }
   .header {
     padding:30px 20px;
