@@ -18,3 +18,5 @@ location: London, UK
 > -xxx- - Recruitment. Intelligence.
 > -tagline-
 > T: -xxxxx xxx xxx- M: -xxxxx xxx xxx-
+
+It's brief, it's concise, and the chap doesn't use any buzzwords that he doesn't need to use. Good job that man.
