@@ -6,7 +6,7 @@ Huddle Note is a feature we recently introduced to Huddle which gives users the 
 
 This is a story about how we got Huddle Note from a little prototype side project I spent a couple of days on at work to being a huge new feature which is used by a pretty big chunk of our user base and I hear the Huddle salesfolk talking about every day on the phone to prospects.
 
-## I didn't ask for permission
+## Don't ask for permission
 
 At Huddle we're fortunate enough to have something similar to Google's 20% time, but we simply call it "Tuesday Time". It's a great initiative: as developers, we can spend every Tuesday working on a personal project. It can be whatever we like as long as it benefits our skills, or Huddle, or the wider development community in some way. Examples include reading books about tech, prototyping new features or volunteering to teach kids or adults about coding.
 
@@ -14,12 +14,20 @@ One week, when I was learning iOS app development, I decided it would be pretty 
 
 It was a start, though, and I went to speak to my friend James, a Product Manager, and Jon then-CTO of Huddle.. It turns out they'd been thinking of the exact same thing.
 
-## I had support in the right places
+## Find support in the right places
 
 Jon and James were both big fans of the idea since they'd already had it before. The trouble was, Note was quite a disruptive idea. By introducing a new feature like this, we'd risk overloading the feature set of an arguably already very-feature-heavy application. Furthermore, it actually solved problems that Whiteboards already solved, but in a much nicer way. So, it would seem like we'd be shooting ourselves in the foot, so the idea was never tested.
 
 That's what Tuesday Time is for though, so Jon, James and I started working the right angles to get it into the Huddle Roadmap.
 
-## We saw change as an opportunity
+## See change as an opportunity
 
-## We don't talk about Markdown
+## Reduce scope. No, more than that.
+
+Once we realised how much work was involved in everything we wanted to do, and how long it would take to get to the point of implementing all the features we wanted, it was clear we needed to cut some of them. We came up with an "MVP" plan and a cross-platform rollout strategy.
+
+Originally, we wanted a small, modal-based edit view, with an optional full-screen edit view. We also wanted formatting buttons, a helpful guide to markdown, images, videos, real-time collaborative editing, a WYSIWYG editor that didn't suck, really sexy printing... the list goes on. Clearly, with one developer dedicated to this full-time, to fit it into an existing system it would be way too much and take a very long time, especially with Huddle's (thankfully) rigorous QA process.
+
+## Roll out slowly
+
+## Don't talk about Markdown
