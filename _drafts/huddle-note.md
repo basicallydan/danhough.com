@@ -10,7 +10,7 @@ This is a story about how we took a simple idea from being a side project to bei
 
 At Huddle we're fortunate enough to have something similar to Google's 20% time, but we call it "Tuesday Time". As developers, we can spend every Tuesday working on a personal project. As long as it benefits our skills, or Huddle, or the wider development community in some way, it counts. Examples include reading books about tech, prototyping new features or [volunteering to teach kids or adults about coding](http://codeclub.org.uk/).
 
-One week, when I was learning iOS app development, I decided it would be pretty sweet if we had something like Evernote, but for Huddle, since a lot of our customers pick Huddle for our security credentials and sacrifice other apps like Evernote for things like Note-taking. If I could simply make a nice interface for people to create and edit lightweight documents, using the ever-so-flexible Huddle Files API then a note would inherit all the cool stuff that files normally get in Huddle.
+One week, when I was learning iOS app development, I decided it would be pretty sweet if we had something like the iOS Notes app, but for Huddle, since a lot of our customers need the security and collaboration features for note-taking in their working environment. If I could simply make a nice interface for people to create and edit lightweight documents, using the ever-so-flexible Huddle Files API then a note would inherit all the cool stuff that files normally get in Huddle.
 
 So, I used my Tuesday Time to make a basic iPhone version, and it worked almost exactly like I'd imagined.
 
