@@ -5,10 +5,6 @@ date_created: 27 December 2013
 location: London, UK
 ---
 
-This Christmas I've received a Kindle Paperwhite for Christmas, and I'm very excited to finish off a lot of existing reads and starting some new ones in 2013.
-
-But 2012 was a reasonably busy year for reading for me. For my own memory, and in case anybody is looking for recommendations, here are some 140-character-or-less reviews/synopses of the books I can remember reading. :)
-
 h3. Feed: Book 1 of the Newsflesh Trilogy by Mira Grant
 
 h3. The Mysterious Island by Jules Verne
@@ -28,3 +24,11 @@ h3. Deadline: Book 2 of the Newsflesh Trilogy by Mira Grant
 h3. Blackout: Book 3 of the Newsflesh Trilogy by Mira Grant
 
 Slightly disappointing ending.
+
+h3. ReWork by 37signals
+
+h3. Walk the Lines by Mark Mason
+
+Really very interesting. Lots of tidbits and facts that I wasn't aware of about London. Inspiring, makes me want to go for more walks and learn more about the city I live in.
+
+h3. Joel on Software by Joel Spolsky
