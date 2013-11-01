@@ -1,4 +1,4 @@
-A few months ago, I was sitting in a car being driven by my friend and colleague Dan. The two Dans, driving along the I-10 to Austin, TX for South by South-West. Two Brits in the Land of the Free, eating too much food and going to too many bars, with plenty of time on the road. Obviously, as colleagues, we talked about work.
+A few months ago, I was sitting in a car being driven by my friend and colleague, whose name is also Dan. The two Dans, driving along the I-10 to Austin, TX for South by South-West. Two Brits in the Land of the Free, eating too much food and going to too many bars, with plenty of time on the road. Obviously, as colleagues, we talked about work.
 
 ## The Realisation
 
@@ -28,18 +28,28 @@ We chatted for a few minutes at the BBC America stage, then shook hands and part
 
 What he did was grow a seed that I'd already planted in my own mind. Mike was proof that one *could* just **quit** and do their own things. Bully to the risks - life is too short to *not* take risks.
 
-I've always said, "it's never too late to change your mind!" believing that no matter what happens to people in life they always have the choice to change things, no matter how young or old. Naturally, there are barriers and for each person the choice is easier or harder to actually make. Yet, this is what I have always been taught and have always said to people when they get demotivated about life.
+I've always said, "It's never too late to change your mind!" believing that no matter what happens to people in life they always have the choice to change things, no matter how young or old. Naturally, there are barriers and for each person the choice is easier or harder to actually make. Yet, this is what I have always been taught and have always said to people when they get demotivated about life.
 
 So why was I not doing the thing that I wanted to do?
 
 ## The Slow Decline
 
-As the months went on, I started considering my options. I looked for new jobs, but nothing excited me in the same way that Huddle did when I first discovered the job. I started new projects at work, but I never felt excited about where they might be in a year, or two years. I didn't see myself at Huddle 12 months later. And yet, I had no exit strategy. I would just sit there and something would magically happen. Yeah, right.
+As the months went on, I started considering my options. I looked for new jobs, but nothing excited me in the same way that Huddle did when I first discovered the job. I started new projects at work, but I never felt excited about where they might be in a year, or two years. I didn't see myself at Huddle 12 months later, but I had no exit strategy. I would just sit there and something would magically happen. Yeah, right.
 
 My side projects continued, and I started busking from time-to-time. I was enjoying these things, but whenever I was at work I would struggle to keep my mind away from those things. My list of ideas built up. I continued reading books and watching videos by people who've gone it alone and done okay from it. Mike Rugnetta posted a new Idea Channel video each week, his cheery face reminding me that on the other side of this huge wall called my career, there's loads of opportunities.
 
-But I lost motivation, and I started to see myself resenting my work despite having a much better job than so, so many people. I knew I had to do something soon, or I'd become bitter. I might burn out young.
+But I lost motivation, and I started to see myself resenting my work despite having a much better job than so, so many people. I knew I had to do something soon, or I'd become bitter.
 
 ## The Perfect Opportunity
 
-Fast-forward to September 2013. I've managed to get myself into a position at work of some responsibility over a new feature (more on this in a later blog post) which I am seeing from inception to live release. For the last 3 months it has been great work.
+Fast-forward to September 2013. I've managed to get myself into a position at work of some responsibility over a new feature (more on this in a later blog post) which I am seeing from inception to live release. For the last 3 months it has been great work. It would seem that my career is going well. *This* is the perfect time to make my move.
+
+I came to the conclusion that a good time to leave would be before finding myself becoming bitter. I knew that this feeling coud only last so long, and there was a craving inside of me for more indpendence. I'd leave on a high.
+
+My manager knew I'd been feeling like this for a while, so when I handed my notice in officially, there wasn't a lot of surprise. He knew it wasn't about money, and he knew that I had thought it through over a long time. It was sad, but he accepted my resignation and the process of leaving began.
+
+## The Day Finally Came
+
+Now, here I am, sitting in a coffee shop in Islington with no fixed income, no employer, no startup that I've just received seed funding for: just me, my laptop, and a bunch of ideas. I have roughly 6 months of runway funds, and I'm going to spend that time learning new skills, trying out those ideas and spending some more time on my hobbies, including some busking, and climbing, and public speaking. I'm gonna keep my eye out for good freelance opportunities that might come up, too. In short, **I'm going to do the thing that I enjoy doing, full time.** Hopefully, it'll turn into something that can fund itself. But if not, the most important things ar that I enjoy myself, and I learn interesting things.
+
+I'm scared, but I'm excited. If you'd like to chat, if you have any thoughts or advice about my plans or ideas for things to do, or if you'd like to work with me, just email me: dan[at]danielhough.co.uk, or [follow me on Twitter](http://twitter.com/basicallydan) to follow my adventures.
