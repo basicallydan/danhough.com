@@ -1,0 +1,117 @@
+/* VARIABLES */
+$standard-margin:24px;
+$gutter:$standard-margin;
+$standard-font-size:14pt;
+$standard-line-height:20pt;
+$black:#333333;
+$twitter-blue:#55ACEE;
+$linkedin-blue:#4875B4;
+$white:#fefefe;
+
+$green:#A0C55F;
+
+@import "normalize";
+@import "font-awesome/font-awesome";
+@import "csswizardry-grids";
+@import "mixins.scss";
+
+body {
+	margin: $standard-margin auto;
+	padding: 0 $standard-margin;
+	max-width:900px;
+	font-size:$standard-font-size;
+	line-height:$standard-line-height;
+	color:$black;
+}
+
+.top-level-full-width {
+	@extend .grid;
+
+	.centered {
+		margin:0 auto;
+	}
+}
+
+.header-container {
+	h1 {
+		text-transform: uppercase;
+		font-size:4.7em;
+		font-family:'Roboto Condensed', sans-serif;
+		margin:0;
+		line-height:100px;
+	}
+
+	h2 {
+		text-transform: uppercase;
+		font-size:1.56em;
+		font-family:'Roboto Condensed', sans-serif;
+		font-weight:300;
+		margin:0;
+		line-height:10px;
+	}
+}
+
+.top-navigation-items {
+	text-align:right;
+	a:link {
+		font-size:	65pt;
+		display:inline-block;
+		margin:$standard-margin / 4 $standard-margin / 2;
+		color:$black;
+		@include transition(color, 0.2s, ease-in-out);
+	}
+	a:visited {
+		color:$black;
+	}
+	a:hover {
+		@include transition(color, 0.2s, ease-in-out);
+	}
+
+	a.nav-twitter {
+		color:$twitter-blue;
+		&:hover {
+			color:darken($twitter-blue, 10%);
+		}
+	}
+
+	a.nav-github {
+		color:$black;
+		&:hover {
+			color:darken($black, 10%);
+		}
+	}
+
+	a.nav-linkedin {
+		color:$linkedin-blue;
+		&:hover {
+			color:darken($linkedin-blue, 10%);
+		}
+	}
+}
+
+.hero {
+	@extend .grid;
+	margin-top:$standard-margin * 2;
+
+	.button {
+		width:50%;
+	}
+}
+
+.button {
+	@include box-sizing("border");
+	@include border-radius($standard-margin / 2);
+	text-align:center;
+	display:inline-block;
+	padding:$standard-margin / 2;
+}
+
+.button-projects {
+	background-color:$green;
+	color:$white;
+}
+
+.button-work-with-me {
+	background-color:$green;
+	color:$white;
+}
