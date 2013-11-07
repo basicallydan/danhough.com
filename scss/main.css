@@ -2480,18 +2480,22 @@ body {
     -ms-transition: color 0.2s ease-in-out;
     -o-transition: color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out; }
-  .top-navigation-items a.nav-twitter {
-    color: #55acee; }
-    .top-navigation-items a.nav-twitter:hover {
-      color: #2795e9; }
   .top-navigation-items a.nav-github {
-    color: #333333; }
+    color: #333333;
+    margin-left: 0; }
     .top-navigation-items a.nav-github:hover {
       color: #1a1a1a; }
   .top-navigation-items a.nav-linkedin {
-    color: #4875b4; }
+    color: #4875b4;
+    margin-left: 37px;
+    margin-right: 37px; }
     .top-navigation-items a.nav-linkedin:hover {
       color: #395d90; }
+  .top-navigation-items a.nav-twitter {
+    color: #55acee;
+    margin-right: 0; }
+    .top-navigation-items a.nav-twitter:hover {
+      color: #2795e9; }
 
 .hero {
   margin-top: 48px; }

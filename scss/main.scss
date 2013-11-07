@@ -67,15 +67,9 @@ body {
 		@include transition(color, 0.2s, ease-in-out);
 	}
 
-	a.nav-twitter {
-		color:$twitter-blue;
-		&:hover {
-			color:darken($twitter-blue, 10%);
-		}
-	}
-
 	a.nav-github {
 		color:$black;
+		margin-left:0;
 		&:hover {
 			color:darken($black, 10%);
 		}
@@ -83,8 +77,18 @@ body {
 
 	a.nav-linkedin {
 		color:$linkedin-blue;
+		margin-left:37px;
+		margin-right:37px;
 		&:hover {
 			color:darken($linkedin-blue, 10%);
+		}
+	}
+
+	a.nav-twitter {
+		color:$twitter-blue;
+		margin-right:0;
+		&:hover {
+			color:darken($twitter-blue, 10%);
 		}
 	}
 }
