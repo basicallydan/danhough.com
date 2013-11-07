@@ -65,7 +65,7 @@ I have roughly 6 months of runway funds, and I'm going to spend that time trying
 
 In short, **I'm going to do the things that I enjoy doing, full time.** Hopefully, it'll turn into something that can fund itself. But if not, the most important things are that I enjoy myself, and I learn interesting things.
 
-I'm scared, but I'm excited. I'm confused, but looking forward to learning more.
+I'm scared, but I'm excited. I'm confused, but looking forward to learning more. Over the next few weeks I will hopefully be starting, and finishing new projects, or possibly picking up old ones, and I'd like to keep anybody who is interested out there up-to-date. A lot of it will be recorded here.
 
 If you'd like to chat, if you have any thoughts or advice about my plans or ideas for things to do, or if you'd like to work with me, just email me: dan[at]danielhough.co.uk, or [follow me on Twitter](http://twitter.com/basicallydan) to keep up with my adventures.
 
