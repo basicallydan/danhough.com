@@ -1,3 +1,5 @@
+This is a story about how in a few months my outlook on work and life changed, and I ended up where I am now: full time, doing stuff that I enjoy for fun, learning and hopefully, profit.
+
 A few months ago, I was sitting in a car being driven by my friend and colleague, whose name is also Dan. The two Dans, driving along the I-10 to Austin, TX for South by South-West. Two Brits in the Land of the Free, eating too much food and going to too many bars, with plenty of time on the road. Obviously, as colleagues, we talked about work.
 
 ## The Realisation
@@ -50,6 +52,16 @@ My manager knew I'd been feeling like this for a while, so when I handed my noti
 
 ## The Day Finally Came
 
-Now, here I am, sitting in a coffee shop in Islington with no fixed income, no employer, no startup that I've just received seed funding for: just me, my laptop, and a bunch of ideas. I have roughly 6 months of runway funds, and I'm going to spend that time learning new skills, trying out those ideas and spending some more time on my hobbies, including some busking, and climbing, and public speaking. I'm gonna keep my eye out for good freelance opportunities that might come up, too. In short, **I'm going to do the thing that I enjoy doing, full time.** Hopefully, it'll turn into something that can fund itself. But if not, the most important things ar that I enjoy myself, and I learn interesting things.
+Now, here I am, sitting in a coffee shop in Islington with no fixed income, no employer, and no startup which I've just received seed funding for: just me, my laptop, and a bunch of ideas.
 
-I'm scared, but I'm excited. If you'd like to chat, if you have any thoughts or advice about my plans or ideas for things to do, or if you'd like to work with me, just email me: dan[at]danielhough.co.uk, or [follow me on Twitter](http://twitter.com/basicallydan) to follow my adventures.
+I have roughly 6 months of runway funds, and I'm going to spend that time trying out those ideas, learning new skills, and spending some more time on my hobbies, including [busking](https://twitter.com/danplusadd), [bouldering](https://twitter.com/archclimbing), and public speaking. I'm gonna keep my eye out for good freelance opportunities that might come up, too.
+
+In short, **I'm going to do the things that I enjoy doing, full time.** Hopefully, it'll turn into something that can fund itself. But if not, the most important things are that I enjoy myself, and I learn interesting things.
+
+I'm scared, but I'm excited. I'm confused, but looking forward to learning more.
+
+If you'd like to chat, if you have any thoughts or advice about my plans or ideas for things to do, or if you'd like to work with me, just email me: dan[at]danielhough.co.uk, or [follow me on Twitter](http://twitter.com/basicallydan) to keep up with my adventures.
+
+The final thing I'd like to add is that my former employer, Huddle, has been extremely supportive and we parted on very good terms. I am very grateful to everybody who I've worked with, because it's been a lot of fun and I'll miss seeing all of the friends I've made there on a daily basis. Plus, I learned so much there. Thank you, Huddle.
+
+And thank you, reader, for reading.
