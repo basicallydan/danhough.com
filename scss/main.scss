@@ -7,8 +7,13 @@ $black:#333333;
 $twitter-blue:#55ACEE;
 $linkedin-blue:#4875B4;
 $white:#fefefe;
+$blue:#223249;
+$light-blue:lighten($blue, 20%);
 
-$green:#A0C55F;
+$light-red:#F75A49;
+$red:darken($light-red, 30%);
+
+$off-white:lighten($light-blue, 10%);
 
 @import "normalize";
 @import "font-awesome/font-awesome";
@@ -22,6 +27,21 @@ body {
 	font-size:$standard-font-size;
 	line-height:$standard-line-height;
 	color:$black;
+	font-family:'Roboto', sans-serif;
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0.15);
+}
+
+h1 {
+	font-size:4.7em;
+	font-weight:500;
+}
+h2 {
+	font-size:1.56em;
+	font-weight:500;
+}
+h3 {
+	font-size:1.3em;
+	font-weight:500;
 }
 
 .top-level-full-width {
@@ -98,7 +118,13 @@ body {
 	margin-top:$standard-margin * 2;
 
 	.button {
-		width:50%;
+		width:49%;
+
+		text-decoration:none;
+
+		&:last-child {
+			float:right;
+		}
 	}
 }
 
@@ -108,14 +134,64 @@ body {
 	text-align:center;
 	display:inline-block;
 	padding:$standard-margin / 2;
+
+	@include transition(color, 0.2s, ease-in-out);
+	@include transition(background-color, 0.2s, ease-in-out);
+	@include transition(box-shadow, 0.2s, ease-in-out);
+	@include box-shadow(0px, -1px, 0px, 0px, transparentize($black, 0.7), "inset");
 }
 
 .button-projects {
-	background-color:$green;
+	background-color:$light-blue;
 	color:$white;
+	-webkit-text-stroke: 0px;
+
+	&:hover {
+		// background-color:$blue;
+		@include transition(color, 0.2s, ease-in-out);
+		@include transition(box-shadow, 0.2s, ease-in-out);
+		@include box-shadow(0px, -3px, 0px, 0px, transparentize($black, 0.7), "inset");
+	}
 }
 
 .button-work-with-me {
-	background-color:$green;
+	background-color:$light-red;
 	color:$white;
+	-webkit-text-stroke: 0px;
+
+	&:hover {
+		// background-color:$red;
+		@include transition(color, 0.2s, ease-in-out);
+		@include transition(box-shadow, 0.2s, ease-in-out);
+		@include box-shadow(0px, -3px, 0px, 0px, transparentize($black, 0.7), "inset");
+	}
+}
+
+.body {
+	@extend .grid;
+	margin-top:$standard-margin;
+}
+
+.post-list {
+	list-style:none;
+	padding-left:0;
+	margin-left:0;
+	font-size:0.8em;
+	.post-list-item {
+		text-indent:0;
+		margin-left:0;
+		list-style:inherit;
+		.published-date {
+			display:inline-block;
+			width:164px;
+			margin-right:$standard-margin / 2;
+			text-align:left;
+			float:left;
+		}
+
+		a {
+			margin-left:164px + ($standard-margin / 2);
+			float:left;
+		}
+	}
 }

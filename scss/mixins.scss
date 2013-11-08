@@ -21,3 +21,9 @@
 	-webkit-box-sizing: #{$type}-box;
 	-moz-box-sizing: #{$type}-box;
 }
+
+@mixin box-shadow($horizontal, $vertical, $blur, $spread, $color, $inset: "") {
+	-webkit-box-shadow:#{$inset} $horizontal $vertical $blur $spread $color;
+	-moz-box-shadow:#{$inset} $horizontal $vertical $blur $spread $color;
+	box-shadow:#{$inset} $horizontal $vertical $blur $spread $color;
+}

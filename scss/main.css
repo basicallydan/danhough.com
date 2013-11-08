@@ -1820,7 +1820,7 @@ table {
  * 2. Remove any margins and paddings that might affect the grid system.
  * 3. Apply a negative `margin-left` to negate the columns’ gutters.
  */
-.grid, .top-level-full-width, .hero {
+.grid, .top-level-full-width, .hero, .body {
   list-style: none;
   /* [1] */
   margin: 0;
@@ -2441,7 +2441,21 @@ body {
   max-width: 900px;
   font-size: 14pt;
   line-height: 20pt;
-  color: #333333; }
+  color: #333333;
+  font-family: 'Roboto', sans-serif;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.15); }
+
+h1 {
+  font-size: 4.7em;
+  font-weight: 500; }
+
+h2 {
+  font-size: 1.56em;
+  font-weight: 500; }
+
+h3 {
+  font-size: 1.3em;
+  font-weight: 500; }
 
 .top-level-full-width .centered {
   margin: 0 auto; }
@@ -2500,7 +2514,10 @@ body {
 .hero {
   margin-top: 48px; }
   .hero .button {
-    width: 50%; }
+    width: 49%;
+    text-decoration: none; }
+    .hero .button:last-child {
+      float: right; }
 
 .button {
   /* Acceptable values are border, content, and padding - content is the default W3C model */
@@ -2515,12 +2532,82 @@ body {
   border-radius: 12px;
   text-align: center;
   display: inline-block;
-  padding: 12px; }
+  padding: 12px;
+  -webkit-transition: color 0.2s ease-in-out;
+  -moz-transition: color 0.2s ease-in-out;
+  -ms-transition: color 0.2s ease-in-out;
+  -o-transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+  -webkit-transition: background-color 0.2s ease-in-out;
+  -moz-transition: background-color 0.2s ease-in-out;
+  -ms-transition: background-color 0.2s ease-in-out;
+  -o-transition: background-color 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
+  -webkit-transition: box-shadow 0.2s ease-in-out;
+  -moz-transition: box-shadow 0.2s ease-in-out;
+  -ms-transition: box-shadow 0.2s ease-in-out;
+  -o-transition: box-shadow 0.2s ease-in-out;
+  transition: box-shadow 0.2s ease-in-out;
+  -webkit-box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3);
+  -moz-box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3);
+  box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3); }
 
 .button-projects {
-  background-color: #a0c55f;
-  color: #fefefe; }
+  background-color: #42628f;
+  color: #fefefe;
+  -webkit-text-stroke: 0px; }
+  .button-projects:hover {
+    -webkit-transition: color 0.2s ease-in-out;
+    -moz-transition: color 0.2s ease-in-out;
+    -ms-transition: color 0.2s ease-in-out;
+    -o-transition: color 0.2s ease-in-out;
+    transition: color 0.2s ease-in-out;
+    -webkit-transition: box-shadow 0.2s ease-in-out;
+    -moz-transition: box-shadow 0.2s ease-in-out;
+    -ms-transition: box-shadow 0.2s ease-in-out;
+    -o-transition: box-shadow 0.2s ease-in-out;
+    transition: box-shadow 0.2s ease-in-out;
+    -webkit-box-shadow: inset 0px -3px 0px 0px rgba(51, 51, 51, 0.3);
+    -moz-box-shadow: inset 0px -3px 0px 0px rgba(51, 51, 51, 0.3);
+    box-shadow: inset 0px -3px 0px 0px rgba(51, 51, 51, 0.3); }
 
 .button-work-with-me {
-  background-color: #a0c55f;
-  color: #fefefe; }
+  background-color: #f75a49;
+  color: #fefefe;
+  -webkit-text-stroke: 0px; }
+  .button-work-with-me:hover {
+    -webkit-transition: color 0.2s ease-in-out;
+    -moz-transition: color 0.2s ease-in-out;
+    -ms-transition: color 0.2s ease-in-out;
+    -o-transition: color 0.2s ease-in-out;
+    transition: color 0.2s ease-in-out;
+    -webkit-transition: box-shadow 0.2s ease-in-out;
+    -moz-transition: box-shadow 0.2s ease-in-out;
+    -ms-transition: box-shadow 0.2s ease-in-out;
+    -o-transition: box-shadow 0.2s ease-in-out;
+    transition: box-shadow 0.2s ease-in-out;
+    -webkit-box-shadow: inset 0px -3px 0px 0px rgba(51, 51, 51, 0.3);
+    -moz-box-shadow: inset 0px -3px 0px 0px rgba(51, 51, 51, 0.3);
+    box-shadow: inset 0px -3px 0px 0px rgba(51, 51, 51, 0.3); }
+
+.body {
+  margin-top: 24px; }
+
+.post-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+  font-size: 0.8em; }
+  .post-list .post-list-item {
+    text-indent: 0;
+    margin-left: 0;
+    list-style: inherit; }
+    .post-list .post-list-item .published-date {
+      display: inline-block;
+      width: 164px;
+      margin-right: 12px;
+      text-align: left;
+      float: left; }
+    .post-list .post-list-item a {
+      margin-left: 176px;
+      float: left; }
