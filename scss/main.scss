@@ -17,6 +17,9 @@ $off-white:lighten($light-blue, 10%);
 
 $light-grey:lighten($black, 40%);
 
+$green:#2CAF34;
+$light-green:lighten($green, 30%);
+
 @import "normalize";
 @import "font-awesome/font-awesome";
 @import "csswizardry-grids";
@@ -25,7 +28,7 @@ $light-grey:lighten($black, 40%);
 body {
 	margin: $standard-margin auto;
 	padding: 0 $standard-margin;
-	max-width:900px;
+	max-width:800px;
 	font-size:$standard-font-size;
 	line-height:$standard-line-height;
 	color:$black;
@@ -94,9 +97,9 @@ a:visited {
 .top-navigation-items {
 	text-align:right;
 	a:link {
-		font-size:65pt;
+		font-size:58pt;
 		display:inline-block;
-		margin:$standard-margin / 4 $standard-margin / 2;
+		margin:$standard-margin / 2 $standard-margin;
 		color:$black;
 		@include transition(color, 0.2s, ease-in-out);
 		@include grid-media-query('palm') {
@@ -122,8 +125,8 @@ a:visited {
 
 	a.nav-linkedin {
 		color:$linkedin-blue;
-		margin-left:37px;
-		margin-right:37px;
+		margin-left:$standard-margin / 3;
+		margin-right:$standard-margin / 3;
 		&:hover {
 			color:darken($linkedin-blue, 10%);
 		}
@@ -145,8 +148,13 @@ a:visited {
 		margin-top:$standard-margin * 2;
 	}
 
+	.intro {
+		line-height:28px;
+	}
+
 	.button {
-		width:49%;
+		width:100%;
+		margin-bottom:$standard-margin / 2;
 
 		text-decoration:none;
 
@@ -260,21 +268,21 @@ a:visited {
 		&.see-cv {
 			.title, .icon {
 				color:$light-red;
-				-webkit-text-stroke: 1px transparentize($light-red, 0.15);
+				-webkit-text-stroke: 0;
 			}
 		}
 
-		&.see-music .title {
+		&.see-music {
 			.title, .icon {
 				color:$light-blue;
-				-webkit-text-stroke: 1px transparentize($light-blue, 0.15);
+				-webkit-text-stroke: 0;
 			}
 		}
 
-		&.see-art .title {
+		&.see-art {
 			.title, .icon {
-				color:$black;
-				-webkit-text-stroke: 1px transparentize($black, 0.15);
+				color:$green;
+				-webkit-text-stroke: 0;
 			}
 		}
 
@@ -290,13 +298,15 @@ a:visited {
 		.title {
 			display:block;
 			font-size:1.1em;
+			text-align:right;
 		}
 
 		.subtitle {
 			display:block;
 			color:$light-grey;
-			-webkit-text-stroke: 1px transparentize($light-grey, 0.15);
+			-webkit-text-stroke: 0;
 			font-size:0.7em;
+			text-align:right;
 		}
 	}
 }

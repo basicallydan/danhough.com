@@ -2438,7 +2438,7 @@ table {
 body {
   margin: 24px auto;
   padding: 0 24px;
-  max-width: 900px;
+  max-width: 800px;
   font-size: 14pt;
   line-height: 20pt;
   color: #333333;
@@ -2494,9 +2494,9 @@ a:visited {
 .top-navigation-items {
   text-align: right; }
   .top-navigation-items a:link {
-    font-size: 65pt;
+    font-size: 58pt;
     display: inline-block;
-    margin: 6px 12px;
+    margin: 12px 24px;
     color: #333333;
     -webkit-transition: color 0.2s ease-in-out;
     -moz-transition: color 0.2s ease-in-out;
@@ -2523,8 +2523,8 @@ a:visited {
       color: #1a1a1a; }
   .top-navigation-items a.nav-linkedin {
     color: #4875b4;
-    margin-left: 37px;
-    margin-right: 37px; }
+    margin-left: 8px;
+    margin-right: 8px; }
     .top-navigation-items a.nav-linkedin:hover {
       color: #395d90; }
   .top-navigation-items a.nav-twitter {
@@ -2535,8 +2535,11 @@ a:visited {
 
 .hero div {
   margin-top: 48px; }
+.hero .intro {
+  line-height: 28px; }
 .hero .button {
-  width: 49%;
+  width: 100%;
+  margin-bottom: 12px;
   text-decoration: none; }
   .hero .button:last-child {
     float: right; }
@@ -2656,13 +2659,13 @@ a:visited {
     margin-bottom: 24px; }
     .see-also-list .see-also-list-item.see-cv .title, .see-also-list .see-also-list-item.see-cv .icon {
       color: #f75a49;
-      -webkit-text-stroke: 1px rgba(247, 90, 73, 0.85); }
-    .see-also-list .see-also-list-item.see-music .title .title, .see-also-list .see-also-list-item.see-music .title .icon {
+      -webkit-text-stroke: 0; }
+    .see-also-list .see-also-list-item.see-music .title, .see-also-list .see-also-list-item.see-music .icon {
       color: #42628f;
-      -webkit-text-stroke: 1px rgba(66, 98, 143, 0.85); }
-    .see-also-list .see-also-list-item.see-art .title .title, .see-also-list .see-also-list-item.see-art .title .icon {
-      color: #333333;
-      -webkit-text-stroke: 1px rgba(51, 51, 51, 0.85); }
+      -webkit-text-stroke: 0; }
+    .see-also-list .see-also-list-item.see-art .title, .see-also-list .see-also-list-item.see-art .icon {
+      color: #2caf34;
+      -webkit-text-stroke: 0; }
     .see-also-list .see-also-list-item .icon {
       font-size: 2em;
       display: block;
@@ -2672,9 +2675,11 @@ a:visited {
       float: left; }
     .see-also-list .see-also-list-item .title {
       display: block;
-      font-size: 1.1em; }
+      font-size: 1.1em;
+      text-align: right; }
     .see-also-list .see-also-list-item .subtitle {
       display: block;
       color: #999999;
-      -webkit-text-stroke: 1px rgba(153, 153, 153, 0.85);
-      font-size: 0.7em; }
+      -webkit-text-stroke: 0;
+      font-size: 0.7em;
+      text-align: right; }
