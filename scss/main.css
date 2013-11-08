@@ -2448,31 +2448,48 @@ body {
 h1 {
   font-size: 4.7em;
   font-weight: 500; }
+  @media only screen and (max-width: 480px) {
+    h1 {
+      font-size: 1.5em; } }
 
 h2 {
   font-size: 1.56em;
   font-weight: 500; }
+  @media only screen and (max-width: 480px) {
+    h2 {
+      font-size: 1.0em;
+      text-align: center; } }
 
 h3 {
   font-size: 1.3em;
   font-weight: 500; }
+
+a:link {
+  color: #42628f; }
+
+a:visited {
+  color: #223249; }
 
 .top-level-full-width .centered {
   margin: 0 auto; }
 
 .header-container h1 {
   text-transform: uppercase;
-  font-size: 4.7em;
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
   line-height: 100px; }
+  @media only screen and (max-width: 480px) {
+    .header-container h1 {
+      line-height: 62px; } }
 .header-container h2 {
   text-transform: uppercase;
-  font-size: 1.56em;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   margin: 0;
   line-height: 10px; }
+  @media only screen and (max-width: 480px) {
+    .header-container h2 {
+      line-height: auto; } }
 
 .top-navigation-items {
   text-align: right; }
@@ -2486,8 +2503,13 @@ h3 {
     -ms-transition: color 0.2s ease-in-out;
     -o-transition: color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out; }
+    @media only screen and (max-width: 480px) {
+      .top-navigation-items a:link {
+        font-size: 1.5em;
+        line-height: 62px;
+        margin: 0 6px !important; } }
   .top-navigation-items a:visited {
-    color: #333333; }
+    color: inherit; }
   .top-navigation-items a:hover {
     -webkit-transition: color 0.2s ease-in-out;
     -moz-transition: color 0.2s ease-in-out;
@@ -2511,13 +2533,13 @@ h3 {
     .top-navigation-items a.nav-twitter:hover {
       color: #2795e9; }
 
-.hero {
+.hero div {
   margin-top: 48px; }
-  .hero .button {
-    width: 49%;
-    text-decoration: none; }
-    .hero .button:last-child {
-      float: right; }
+.hero .button {
+  width: 49%;
+  text-decoration: none; }
+  .hero .button:last-child {
+    float: right; }
 
 .button {
   /* Acceptable values are border, content, and padding - content is the default W3C model */
@@ -2551,6 +2573,8 @@ h3 {
   -webkit-box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3);
   -moz-box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3);
   box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3); }
+  .button:link, .button :visited {
+    color: #fefefe; }
 
 .button-projects {
   background-color: #42628f;
@@ -2593,21 +2617,64 @@ h3 {
 .body {
   margin-top: 24px; }
 
-.post-list {
+.custom-list, .post-list, .see-also-list {
   list-style: none;
   padding-left: 0;
-  margin-left: 0;
-  font-size: 0.8em; }
-  .post-list .post-list-item {
+  margin-left: 0; }
+  .custom-list li, .post-list li, .see-also-list li {
     text-indent: 0;
     margin-left: 0;
+    margin-bottom: 6px;
     list-style: inherit; }
-    .post-list .post-list-item .published-date {
-      display: inline-block;
-      width: 164px;
-      margin-right: 12px;
-      text-align: left;
+
+.post-list {
+  font-size: 0.8em; }
+  .post-list .post-list-item .published-date {
+    display: inline-block;
+    width: 140px;
+    margin-right: 12px;
+    text-align: left;
+    float: left; }
+    @media only screen and (max-width: 480px) {
+      .post-list .post-list-item .published-date {
+        display: block;
+        margin-left: 0;
+        float: none; } }
+  .post-list .post-list-item a {
+    margin-left: 152px;
+    display: block; }
+    @media only screen and (max-width: 480px) {
+      .post-list .post-list-item a {
+        margin-left: 0; } }
+
+.see-also-list {
+  font-size: 1.4em; }
+  .see-also-list a:link {
+    text-decoration: none; }
+  .see-also-list .see-also-list-item {
+    display: block;
+    margin-bottom: 24px; }
+    .see-also-list .see-also-list-item.see-cv .title, .see-also-list .see-also-list-item.see-cv .icon {
+      color: #f75a49;
+      -webkit-text-stroke: 1px rgba(247, 90, 73, 0.85); }
+    .see-also-list .see-also-list-item.see-music .title .title, .see-also-list .see-also-list-item.see-music .title .icon {
+      color: #42628f;
+      -webkit-text-stroke: 1px rgba(66, 98, 143, 0.85); }
+    .see-also-list .see-also-list-item.see-art .title .title, .see-also-list .see-also-list-item.see-art .title .icon {
+      color: #333333;
+      -webkit-text-stroke: 1px rgba(51, 51, 51, 0.85); }
+    .see-also-list .see-also-list-item .icon {
+      font-size: 2em;
+      display: block;
+      margin-right: 24px;
+      width: 50px;
+      height: 50px;
       float: left; }
-    .post-list .post-list-item a {
-      margin-left: 176px;
-      float: left; }
+    .see-also-list .see-also-list-item .title {
+      display: block;
+      font-size: 1.1em; }
+    .see-also-list .see-also-list-item .subtitle {
+      display: block;
+      color: #999999;
+      -webkit-text-stroke: 1px rgba(153, 153, 153, 0.85);
+      font-size: 0.7em; }
