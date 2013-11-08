@@ -2486,7 +2486,9 @@ a:visited {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   margin: 0;
-  line-height: 10px; }
+  line-height: 10px;
+  text-indent: 4px;
+  letter-spacing: -0.35px; }
   @media only screen and (max-width: 480px) {
     .header-container h2 {
       line-height: auto; } }

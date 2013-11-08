@@ -88,6 +88,8 @@ a:visited {
 		font-weight:300;
 		margin:0;
 		line-height:10px;
+		text-indent:4px;
+		letter-spacing:-0.35px;
 		@include grid-media-query('palm') {
 			line-height:auto;
 		}
