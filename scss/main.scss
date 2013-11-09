@@ -37,10 +37,10 @@ body {
 }
 
 h1 {
-	font-size:4.7em;
+	font-size:5.2em;
 	font-weight:500;
 	@include grid-media-query('palm') {
-		font-size:1.5em;
+		font-size:1.4em;
 	}
 }
 h2 {
@@ -48,7 +48,6 @@ h2 {
 	font-weight:500;
 	@include grid-media-query('palm') {
 		font-size:1.0em;
-		text-align:center;
 	}
 }
 h3 {
@@ -77,8 +76,10 @@ a:visited {
 		font-family:'Roboto Condensed', sans-serif;
 		margin:0;
 		line-height:100px;
+		text-indent:-4px;
 		@include grid-media-query('palm') {
-			line-height:62px;
+			text-indent:0;
+			line-height:1;
 		}
 	}
 
@@ -87,11 +88,14 @@ a:visited {
 		font-family:'Roboto Condensed', sans-serif;
 		font-weight:300;
 		margin:0;
-		line-height:10px;
-		text-indent:4px;
-		letter-spacing:-0.35px;
+		line-height:$standard-margin * 1.5;
+		text-indent:0;
+		letter-spacing:0.05px;
+		font-size:1.68em;
 		@include grid-media-query('palm') {
 			line-height:auto;
+			text-align:center;
+			font-size:0.95em;
 		}
 	}
 }
@@ -99,14 +103,15 @@ a:visited {
 .top-navigation-items {
 	text-align:right;
 	a:link {
-		font-size:58pt;
+		font-size:64pt;
 		display:inline-block;
-		margin:$standard-margin / 2 $standard-margin;
+		margin:0 ($standard-margin  * (2 / 4)) - 1;
 		color:$black;
+		line-height:100px;
 		@include transition(color, 0.2s, ease-in-out);
 		@include grid-media-query('palm') {
 			font-size:1.5em;
-			line-height:62px;
+			line-height:1;
 			margin:0 $standard-margin / 4!important;
 		}
 	}
@@ -127,8 +132,6 @@ a:visited {
 
 	a.nav-linkedin {
 		color:$linkedin-blue;
-		margin-left:$standard-margin / 3;
-		margin-right:$standard-margin / 3;
 		&:hover {
 			color:darken($linkedin-blue, 10%);
 		}
@@ -139,6 +142,25 @@ a:visited {
 		margin-right:0;
 		&:hover {
 			color:darken($twitter-blue, 10%);
+		}
+	}
+}
+
+.sub-navigation-items {
+
+	.button {
+		width:48%;
+		margin-top:$standard-margin / 4;
+		margin-bottom:$standard-margin / 2;
+
+		font-size:0.8em;
+
+		padding:0;
+
+		text-decoration:none;
+
+		&:last-child {
+			float:right;
 		}
 	}
 }

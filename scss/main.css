@@ -2446,19 +2446,18 @@ body {
   -webkit-text-stroke: 1px rgba(0, 0, 0, 0.15); }
 
 h1 {
-  font-size: 4.7em;
+  font-size: 5.2em;
   font-weight: 500; }
   @media only screen and (max-width: 480px) {
     h1 {
-      font-size: 1.5em; } }
+      font-size: 1.4em; } }
 
 h2 {
   font-size: 1.56em;
   font-weight: 500; }
   @media only screen and (max-width: 480px) {
     h2 {
-      font-size: 1.0em;
-      text-align: center; } }
+      font-size: 1.0em; } }
 
 h3 {
   font-size: 1.3em;
@@ -2477,29 +2476,35 @@ a:visited {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
-  line-height: 100px; }
+  line-height: 100px;
+  text-indent: -4px; }
   @media only screen and (max-width: 480px) {
     .header-container h1 {
-      line-height: 62px; } }
+      text-indent: 0;
+      line-height: 1; } }
 .header-container h2 {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   margin: 0;
-  line-height: 10px;
-  text-indent: 4px;
-  letter-spacing: -0.35px; }
+  line-height: 36px;
+  text-indent: 0;
+  letter-spacing: 0.05px;
+  font-size: 1.68em; }
   @media only screen and (max-width: 480px) {
     .header-container h2 {
-      line-height: auto; } }
+      line-height: auto;
+      text-align: center;
+      font-size: 0.95em; } }
 
 .top-navigation-items {
   text-align: right; }
   .top-navigation-items a:link {
-    font-size: 58pt;
+    font-size: 64pt;
     display: inline-block;
-    margin: 12px 24px;
+    margin: 0 11px;
     color: #333333;
+    line-height: 100px;
     -webkit-transition: color 0.2s ease-in-out;
     -moz-transition: color 0.2s ease-in-out;
     -ms-transition: color 0.2s ease-in-out;
@@ -2508,7 +2513,7 @@ a:visited {
     @media only screen and (max-width: 480px) {
       .top-navigation-items a:link {
         font-size: 1.5em;
-        line-height: 62px;
+        line-height: 1;
         margin: 0 6px !important; } }
   .top-navigation-items a:visited {
     color: inherit; }
@@ -2524,9 +2529,7 @@ a:visited {
     .top-navigation-items a.nav-github:hover {
       color: #1a1a1a; }
   .top-navigation-items a.nav-linkedin {
-    color: #4875b4;
-    margin-left: 8px;
-    margin-right: 8px; }
+    color: #4875b4; }
     .top-navigation-items a.nav-linkedin:hover {
       color: #395d90; }
   .top-navigation-items a.nav-twitter {
@@ -2534,6 +2537,16 @@ a:visited {
     margin-right: 0; }
     .top-navigation-items a.nav-twitter:hover {
       color: #2795e9; }
+
+.sub-navigation-items .button {
+  width: 48%;
+  margin-top: 6px;
+  margin-bottom: 12px;
+  font-size: 0.8em;
+  padding: 0;
+  text-decoration: none; }
+  .sub-navigation-items .button:last-child {
+    float: right; }
 
 .hero div {
   margin-top: 48px; }

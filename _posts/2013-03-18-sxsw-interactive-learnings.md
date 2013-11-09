@@ -11,9 +11,9 @@ The Queen will be delighted with the influx of business cards from CEOs and Head
 
 But what did I take back from "South-By" which can't be weighed in grammes or ounces, but only in some difficult-to-explain measure which probably got its own buzzword this week? **What did I learn?!**
 
-h2. 1. Take the Bad with the Good
+## 1. Take the Bad with the Good
 
-"I wrote a post about this":/blog/bad-with-the-good while I was at the festival.
+[I wrote a post about this](/blog/bad-with-the-good) while I was at the festival.
 
 I met two people this week who are very well-respected in their fields. They are both powerful, well-loved and in-demand for their time, thoughts and opinions. They are both inspirational people.
 
@@ -27,7 +27,7 @@ They both had their own reasons for thinking the idea was great or terrible, but
 
 I knew this was a good thing to do anyway, but I learned it again here, and felt the emotional rollercoaster that goes along with that learning.
 
-h2. 2. Everyone is doing the same things
+## 2. Everyone is doing the same things
 
 If I see one more social discovery app I think I'm going to cry. The truth is, many spaces are insanely busy at the moment. It's difficult to get into many of them and yet people keep trying.
 
@@ -35,7 +35,7 @@ Apps have their various niches and different types of user experience which both
 
 The key thing though, as with any social app, is adoption - and I can't see how they many of them can successful in the long-run without the massive adoption needed to take it to the next level.
 
-h2. 3. There's more to Silicon than the Valley
+## 3. There's more to Silicon than the Valley
 
 As somebody in tech who works in London, obviously I know that Silicon Valley is not the only tech 'cluster' area.
 
@@ -45,10 +45,10 @@ There are many other tech hubs in the United States: Las Vegas; Portland; New Yo
 
 The US is full of opportunity, all over the place. I was particularly impressed by all the work being done in Las Vegas. It's great!
 
-h2. 4. There are __many__ people like me
+## 4. There are __many__ people like me
 
 I am an ambitious developer who wants to make a bold move into unknown territory and do his own thing, and reclaim some time - and I am not the only one. There are __loads__ of people like me. I met a few, they are good people.
 
-h2. Conclusion
+## Conclusion
 
 It was a genuinely inspiring festival, and I'd recommend it to anybody who is into tech, entrepreneurship, or honestly - just wants to have a good time. Though, it's a little pricey just for the latter.
