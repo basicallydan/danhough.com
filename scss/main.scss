@@ -197,7 +197,7 @@ a:visited {
 	display:inline-block;
 	padding:$standard-margin / 2;
 
-	&:link, :visited {
+	&:link, &:visited {
 		color:$white;
 	}
 
@@ -335,4 +335,19 @@ a:visited {
 			text-align:right;
 		}
 	}
+}
+
+.project-item {
+	margin-top:$standard-margin;
+
+	img {
+		width:300px;
+		height:300px;
+	}
+}
+
+.project-item-description {
+	@extend .grid__item;
+	@extend .five-eighths;
+	@extend .palm--one-whole;
 }

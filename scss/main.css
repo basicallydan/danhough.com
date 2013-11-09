@@ -1837,7 +1837,7 @@ table {
  * 4. Full-width unless told to behave otherwise.
  * 5. Required to combine fluid widths and fixed gutters.
  */
-.grid__item {
+.grid__item, .project-item-description {
   display: inline-block;
   /* [1] */
   padding-left: 24px;
@@ -1860,7 +1860,7 @@ table {
 .grid--rev {
   direction: rtl;
   text-align: left; }
-  .grid--rev > .grid__item {
+  .grid--rev > .grid__item, .grid--rev > .project-item-description {
     direction: ltr;
     text-align: left; }
 
@@ -1870,7 +1870,7 @@ table {
  */
 .grid--full {
   margin-left: 0; }
-  .grid--full > .grid__item {
+  .grid--full > .grid__item, .grid--full > .project-item-description {
     padding-left: 0; }
 
 /**
@@ -1878,7 +1878,7 @@ table {
  */
 .grid--right {
   text-align: right; }
-  .grid--right > .grid__item {
+  .grid--right > .grid__item, .grid--right > .project-item-description {
     text-align: left; }
 
 /**
@@ -1887,17 +1887,17 @@ table {
  */
 .grid--center {
   text-align: center; }
-  .grid--center > .grid__item {
+  .grid--center > .grid__item, .grid--center > .project-item-description {
     text-align: left; }
 
 /**
  * Align grid cells vertically (`.grid--middle` or `.grid--bottom`). Extends
  * `.grid`.
  */
-.grid--middle > .grid__item {
+.grid--middle > .grid__item, .grid--middle > .project-item-description {
   vertical-align: middle; }
 
-.grid--bottom > .grid__item {
+.grid--bottom > .grid__item, .grid--bottom > .project-item-description {
   vertical-align: bottom; }
 
 /**
@@ -1905,7 +1905,7 @@ table {
  */
 .grid--narrow {
   margin-left: -12px; }
-  .grid--narrow > .grid__item {
+  .grid--narrow > .grid__item, .grid--narrow > .project-item-description {
     padding-left: 12px; }
 
 /**
@@ -1913,7 +1913,7 @@ table {
  */
 .grid--wide {
   margin-left: -48px; }
-  .grid--wide > .grid__item {
+  .grid--wide > .grid__item, .grid--wide > .project-item-description {
     padding-left: 48px; }
 
 /*------------------------------------*\
@@ -1988,7 +1988,7 @@ table {
 .three-eighths {
   width: 37.5%; }
 
-.five-eighths {
+.five-eighths, .project-item-description {
   width: 62.5%; }
 
 .seven-eighths {
@@ -2031,7 +2031,7 @@ table {
   /**
    * Whole
    */
-  .palm--one-whole {
+  .palm--one-whole, .project-item-description {
     width: 100%; }
 
   /**
@@ -2593,7 +2593,7 @@ a:visited {
   -webkit-box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3);
   -moz-box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3);
   box-shadow: inset 0px -1px 0px 0px rgba(51, 51, 51, 0.3); }
-  .button:link, .button :visited {
+  .button:link, .button:visited {
     color: #fefefe; }
 
 .button-projects {
@@ -2700,3 +2700,9 @@ a:visited {
       -webkit-text-stroke: 0;
       font-size: 0.7em;
       text-align: right; }
+
+.project-item {
+  margin-top: 24px; }
+  .project-item img {
+    width: 300px;
+    height: 300px; }
