@@ -1,64 +1,54 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-gb">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>{{ page.title }}</title>
-    <meta name="author" content="Daniel Hough" />
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/main.css" />
-    <link rel="stylesheet" href="/css/font-awesome.min.css" />
-    <script src="/lib/lightbox/js/jquery-1.7.2.min.js"></script>
-    <script src="/lib/lightbox/js/lightbox.js"></script>
-    <link href="/lib/lightbox/css/lightbox.css" rel="stylesheet" />
-    <meta name='viewport' content='width=device-width; initial-scale=1.0;' />
-  </head>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="author" content="Daniel Hough" />
+		<meta name='viewport' content='width=device-width; initial-scale=1.0;' />
+		<title>{% if page.title %}{{ page.title }} — Dan Hough — Independent Software Developer{% else %}Dan Hough — Independent Software Developer{% endif %}</title>
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="/scss/main.css">
+	</head>
 
-  <body>
-    <div class="header">
-      <h1 class="title">
-        <a href="/" title="Home">
-          <!-- <img alt="Dan Hough" src="http://danielhough.co.uk/images/dan_hough_logo.png" /> -->
-          Dan Hough
-        </a>
-      </h1>
-      <ul class="links">
-        <li><a href="https://github.com/basicallydan"><i class="icon-github-alt"></i></a></li>
-        <li><a href="http://www.linkedin.com/pub/daniel-hough/14/202/801"><i class="icon-linkedin"></i></a></li>
-        <li><a href="https://twitter.com/basicallydan"><i class="icon-twitter"></i></a></li>
-      </ul>
-    </div>
-    <div class="container">
-      <div class="body">
-        {{ content }}
-      </div>
-      <div class="footer">
-      </div>
-    </div>
-   <script type="text/javascript">
+	<body>
+		<div class="top-level-full-width header-container">
+			<h1 class="grid__item five-eighths palm--one-half lap--one-half" title="It's prounounced 'Huff'">Dan Hough</h1><!--
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2289826-1']);
-  _gaq.push(['_trackPageview']);
+	   --><div class="grid__item three-eighths top-navigation-items palm--one-half lap--one-half">
+				<a href="https://github.com/basicallydan" class="nav-github" target="_blank"><i class="fa fa-github-alt"></i></a>
+				<a href="http://www.linkedin.com/pub/daniel-hough/14/202/801" class="nav-linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
+				<a href="https://twitter.com/basicallydan" class="nav-twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+			</div><!--
+		
+		--><h2 class="grid__item five-eighths palm--one-whole lap--one-whole">Independent software developer</h2><!--
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+		-->{% if page.hide_sub_nav %}{% else %}<div class="sub-navigation-items grid__item three-eighths palm--one-whole lap--one-whole">
+				<a href="/projects" class="button button-projects">Projects</a>
+				<a href="/contact" class="button button-work-with-me">Work with me</a>
+			</div>{% endif %}
+		</div>
 
-</script> 
-<script>
-// open external links in new window
-$(document).ready(function() {
-  $("a[href^=http]").each(
-    function(){
-      if(this.href.indexOf(location.hostname) == -1) {
-        $(this).attr('target', '_blank');
-      }
-    }
-  )
-});
-</script>
-  </body>
+		{{ content }}
+		
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2289826-1']);
+			_gaq.push(['_trackPageview']);
 
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script> 
+		<script>
+			// open external links in new window
+			$(document).ready(function() {
+				$("a[href^=http]").each(function(){
+					if(this.href.indexOf(location.hostname) == -1) {
+						$(this).attr('target', '_blank');
+					}
+				});
+			});
+		</script>
+	</body>
 </html>

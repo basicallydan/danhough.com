@@ -37,7 +37,7 @@ body {
 }
 
 h1 {
-	font-size:5.2em;
+	font-size:1.7em;
 	font-weight:500;
 	@include grid-media-query('palm') {
 		font-size:1.4em;
@@ -77,7 +77,9 @@ a:visited {
 		margin:0;
 		line-height:100px;
 		text-indent:-4px;
+		font-size:5.2em;
 		@include grid-media-query('palm') {
+			font-size:1.4em;
 			text-indent:0;
 			line-height:1;
 		}

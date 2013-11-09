@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Unhuddled: To Independence
-date_created: 07 November 2013
+title: Unhuddled - To Independence
+date_created: 09 November 2013
 location: London, UK
 ---
 

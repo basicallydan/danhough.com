@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Festival Stewarding\: More than just a free ticket
+title: Festival Stewarding - More than just a free ticket
 date_created: 1 August 2013
 location: London, UK
 ---
@@ -9,13 +9,13 @@ This weekend, I was recruited by Elli to volunteer to steward the [WOMAD](http:/
 
 What is stewarding? [According to OXFAM](http://www.oxfam.org.uk/stewarding):
 
-    As one of our stewards, you represent Oxfam.
-
-    Each summer Oxfam provides a professional stewarding service to some of the UK's biggest music festivals. In 2013, Oxfam will provide more than 5,000 stewards to 20 major festivals and we aim to raise over £1m.
-
-    ...
-
-    The primary purpose of stewarding is to keep people safe and provide information and advice to festival-goers.
+> As one of our stewards, you represent Oxfam.
+> 
+> Each summer Oxfam provides a professional stewarding service to some of the UK's biggest music festivals. In 2013, Oxfam will provide more than 5,000 stewards to 20 major festivals and we aim to raise over £1m.
+> 
+> ...
+> 
+> The primary purpose of stewarding is to keep people safe and provide information and advice to festival-goers.
 
 In exchange for a free ticket to the festival, and a reasonable food allowance, I was obliged to work three 8-hour shifts helping out festival-goers, putting out fires, looking out for lost children or worried parents and generally keeping an eye on things.
 

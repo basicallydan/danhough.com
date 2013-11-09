@@ -1,22 +1,48 @@
 ---
 layout: default
+hide_sub_nav: 1
 title: Dan Hough
 ---
 
-<div class="intro">
-  <h1>Hello</h1>
-  <p>I'm Dan, I live in London, Great Britain and I make <strong>web apps</strong>.</p>
-  <p>You can find me on <a href="http://www.twitter.com/basicallydan">Twitter</a>, <a href="http://uk.linkedin.com/pub/daniel-hough/14/202/801">LinkedIn</a> and <a href="http://github.com/basicallydan">GitHub</a>, and you can contact me using <span id="email-address">dan[at]danielhough.co.uk</a>.</p>
-  <p>I am the founder of <a href="https://streetscoutapp.com/">StreetScout</a>, and I spend my weekdays at <a href="http://www.huddle.com">Huddle</a> where I'm a mobile &amp; web developer.</p>
-  <p>I'm also <a href="http://danplusadd.co.uk">a singer/songwriter</a> and I am a <a href="http://danplusadd.co.uk/blog/going-underground/">licensed London Underground busker</a>.</a>
+
+<div class="hero">
+	<div class="grid__item five-eighths palm--one-whole lap--one-whole intro">I make websites, mobile apps, music, pictures and words. This website is my personal blog and a directory of all the things I make and do on the Web. I live in London, in the UK.</div><!--
+
+	--><div class="grid__item three-eighths palm--one-whole lap--one-whole">
+		<a href="/projects" class="button button-projects">Projects</a>
+		<a href="/contact" class="button button-work-with-me">Work with me</a>
+	</div>
 </div>
 
-<h2>Blog Posts</h2>
-<ul id="post-list">
-  {% for post in site.posts %}
-  <li class="post-list-item"><span class="published-date">{{ post.date | date: "%d %B %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<div class="body">
+	<div class="grid__item five-eighths palm--one-whole lap--one-whole">
+		<h2>Blog</h2>
+		<ul class="post-list">
+			{% for post in site.posts %}
+			<li class="post-list-item">
+				<span class="published-date">{{ post.date | date: "%d %B %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</div><!--
+
+	--><div class="grid__item three-eighths palm--one-whole lap--one-whole">
+		<h2>See also</h2>
+		<ul class="see-also-list">
+			<li class="see-also-list-item see-cv"><a href="/dan-hough-developer-cv-latest.pdf">
+				<i class="fa fa-check icon"></i><span class="title">My CV</span><!--
+				--><span class="subtitle">.pdf format</span>
+			</a></li>
+			<li class="see-also-list-item see-music"><a href="https://danplusadd.co.uk">
+				<i class="fa fa-music icon"></i><span class="title">My Music</span><!--
+				--><span class="subtitle">I'm a busker</span>
+			</a></li>
+			<li class="see-also-list-item see-art"><a href="http://danhough.deviantart.com/">
+				<i class="fa fa-picture-o icon"></i><span class="title">My Art</span><!--
+				--><span class="subtitle">I'm improving</span>
+			</a></li>
+		</ul>
+	</div>
+</div>
 
 <script type="text/javascript">
 $(document).ready(function() {

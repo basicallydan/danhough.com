@@ -2446,7 +2446,7 @@ body {
   -webkit-text-stroke: 1px rgba(0, 0, 0, 0.15); }
 
 h1 {
-  font-size: 5.2em;
+  font-size: 1.7em;
   font-weight: 500; }
   @media only screen and (max-width: 480px) {
     h1 {
@@ -2477,9 +2477,11 @@ a:visited {
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
   line-height: 100px;
-  text-indent: -4px; }
+  text-indent: -4px;
+  font-size: 5.2em; }
   @media only screen and (max-width: 480px) {
     .header-container h1 {
+      font-size: 1.4em;
       text-indent: 0;
       line-height: 1; } }
 .header-container h2 {
