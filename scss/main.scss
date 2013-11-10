@@ -351,3 +351,21 @@ a:visited {
 	@extend .five-eighths;
 	@extend .palm--one-whole;
 }
+
+.post {
+	@extend .grid__item;
+	@extend .one-whole;
+
+	h1 {
+		margin-bottom:0;
+	}
+
+	.meta {
+		font-size:0.8em;
+		margin-top:$standard-margin / 6;
+	}
+
+	.intro {
+		color:$light-grey;
+	}
+}

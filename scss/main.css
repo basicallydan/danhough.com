@@ -1,4 +1,4 @@
-@charset "CP850";
+@charset "UTF-8";
 /* VARIABLES */
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
 /* ==========================================================================
@@ -1837,7 +1837,7 @@ table {
  * 4. Full-width unless told to behave otherwise.
  * 5. Required to combine fluid widths and fixed gutters.
  */
-.grid__item, .project-item-description {
+.grid__item, .project-item-description, .post {
   display: inline-block;
   /* [1] */
   padding-left: 24px;
@@ -1860,7 +1860,7 @@ table {
 .grid--rev {
   direction: rtl;
   text-align: left; }
-  .grid--rev > .grid__item, .grid--rev > .project-item-description {
+  .grid--rev > .grid__item, .grid--rev > .project-item-description, .grid--rev > .post {
     direction: ltr;
     text-align: left; }
 
@@ -1870,7 +1870,7 @@ table {
  */
 .grid--full {
   margin-left: 0; }
-  .grid--full > .grid__item, .grid--full > .project-item-description {
+  .grid--full > .grid__item, .grid--full > .project-item-description, .grid--full > .post {
     padding-left: 0; }
 
 /**
@@ -1878,7 +1878,7 @@ table {
  */
 .grid--right {
   text-align: right; }
-  .grid--right > .grid__item, .grid--right > .project-item-description {
+  .grid--right > .grid__item, .grid--right > .project-item-description, .grid--right > .post {
     text-align: left; }
 
 /**
@@ -1887,17 +1887,17 @@ table {
  */
 .grid--center {
   text-align: center; }
-  .grid--center > .grid__item, .grid--center > .project-item-description {
+  .grid--center > .grid__item, .grid--center > .project-item-description, .grid--center > .post {
     text-align: left; }
 
 /**
  * Align grid cells vertically (`.grid--middle` or `.grid--bottom`). Extends
  * `.grid`.
  */
-.grid--middle > .grid__item, .grid--middle > .project-item-description {
+.grid--middle > .grid__item, .grid--middle > .project-item-description, .grid--middle > .post {
   vertical-align: middle; }
 
-.grid--bottom > .grid__item, .grid--bottom > .project-item-description {
+.grid--bottom > .grid__item, .grid--bottom > .project-item-description, .grid--bottom > .post {
   vertical-align: bottom; }
 
 /**
@@ -1905,7 +1905,7 @@ table {
  */
 .grid--narrow {
   margin-left: -12px; }
-  .grid--narrow > .grid__item, .grid--narrow > .project-item-description {
+  .grid--narrow > .grid__item, .grid--narrow > .project-item-description, .grid--narrow > .post {
     padding-left: 12px; }
 
 /**
@@ -1913,7 +1913,7 @@ table {
  */
 .grid--wide {
   margin-left: -48px; }
-  .grid--wide > .grid__item, .grid--wide > .project-item-description {
+  .grid--wide > .grid__item, .grid--wide > .project-item-description, .grid--wide > .post {
     padding-left: 48px; }
 
 /*------------------------------------*\
@@ -1928,7 +1928,7 @@ table {
 /**
  * Whole
  */
-.one-whole {
+.one-whole, .post {
   width: 100%; }
 
 /**
@@ -2706,3 +2706,11 @@ a:visited {
   .project-item img {
     width: 300px;
     height: 300px; }
+
+.post h1 {
+  margin-bottom: 0; }
+.post .meta {
+  font-size: 0.8em;
+  margin-top: 4px; }
+.post .intro {
+  color: #999999; }

@@ -3,10 +3,15 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="author" content="Daniel Hough" />
-		<meta name='viewport' content='width=device-width; initial-scale=1.0;' />
+		<meta name='viewport' content='width=device-width,initial-scale=1.0' />
 		<title>{% if page.title %}{{ page.title }} — Dan Hough — Independent Software Developer{% else %}Dan Hough — Independent Software Developer{% endif %}</title>
 		<link href='http://fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="/scss/main.css">
+		<script type="text/javascript" src="/js/jquery-2.0.3.min.js"></script>
+		<script type="text/javascript">
+		var analytics=analytics||[];(function(){var e=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],t=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var n=0;n<e.length;n++)analytics[e[n]]=t(e[n])})(),analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)};
+		analytics.load("8qyl0bv4gn");
+		</script>
 	</head>
 
 	<body>
@@ -14,34 +19,21 @@
 			<a href="/"><h1 class="grid__item five-eighths palm--one-half lap--one-half" title="It's prounounced 'Huff'">Dan Hough</h1></a><!--
 
 	   --><div class="grid__item three-eighths top-navigation-items palm--one-half lap--one-half">
-				<a href="https://github.com/basicallydan" class="nav-github" target="_blank"><i class="fa fa-github-alt"></i></a>
-				<a href="http://www.linkedin.com/pub/daniel-hough/14/202/801" class="nav-linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
-				<a href="https://twitter.com/basicallydan" class="nav-twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+				<a href="https://github.com/basicallydan" class="nav-github" target="_blank" data-segment='{ "name" : "GitHub Link Clicked", "location" : "Top Nav" }'><i class="fa fa-github-alt"></i></a>
+				<a href="http://www.linkedin.com/pub/daniel-hough/14/202/801" class="nav-linkedin" target="_blank" data-segment='{ "name" : "LinkedIn Link Clicked", "location" : "Top Nav" }'><i class="fa fa-linkedin"></i></a>
+				<a href="https://twitter.com/basicallydan" class="nav-twitter" target="_blank" data-segment='{ "name" : "Twitter Link Clicked", "location" : "Top Nav" }'><i class="fa fa-twitter"></i></a>
 			</div><!--
 		
 		--><h2 class="grid__item five-eighths palm--one-whole lap--one-whole">Independent software developer</h2><!--
 
 		-->{% if page.hide_sub_nav %}{% else %}<div class="sub-navigation-items grid__item three-eighths palm--one-whole lap--one-whole">
-				<a href="/projects" class="button button-projects">Projects</a>
-				<a href="/contact" class="button button-work-with-me">Work with me</a>
+				<a href="/projects" class="button button-projects" data-segment='{ "name" : "Projects Button Clicked", "location" : "Sub Top Nav" }'>Projects</a>
+				<a href="/contact" class="button button-work-with-me" data-segment='{ "name" : "Contact Button Clicked", "location" : "Sub Top Nav" }'>Work with me</a>
 			</div>{% endif %}
 		</div>
 
 		{{ content }}
-		
-		<script type="text/javascript" src="/js/jquery-2.0.3.min.js"></script>
 
-		<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-2289826-1']);
-			_gaq.push(['_trackPageview']);
-
-			(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-		</script> 
 		<script>
 			// open external links in new window
 			$(document).ready(function() {
@@ -58,6 +50,19 @@
 				};
 
 				$(document).bind('mousemove.email', renderEmail).bind('keydown.email', renderEmail).bind('focus.email', renderEmail);
+
+				$('[data-segment]').click(function() {
+					var segmentData = $(this).attr('data-segment');
+					var eventName;
+					if (!segmentData) return true;
+					if ($.parseJSON) {
+						segmentData = $.parseJSON(segmentData);
+						eventName = segmentData.name;
+						segmentData.name = undefined;
+
+						analytics.track(eventName, segmentData);
+					}
+				});
 			});
 		</script>
 	</body>

@@ -2,4 +2,5 @@ _site
 node_modules/
 .gist-cache/
 _gist_cache/
+.sass-cache/
 .DS_Store
