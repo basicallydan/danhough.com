@@ -14,7 +14,9 @@ If you want to play the game (at time of writing it is still a work-in-progress,
 [SkiFree](http://en.wikipedia.org/wiki/SkiFree) is a game which was first created as we know it in 1991 by a programmer called [Chris Pirih](http://www.ihoc.net/). It was a huge hit, and most of my colleagues and friends remember it vividly, either from Windows or from the Game Boy Color port.
 
 I started simple by just creating a nice little `Sprite` class, and having it take a `CanvasRenderingContext2D` from the canvas, and drawing itself onto that context.
-{% gistnocache 4973324 %}
+
+{% gist 4973324 %}
+
 I grabbed some sprites from a place on the [Web](http://spriters-resource.com/submitter/Wing%20Wang%20Wao) where a chap called Wing Wang Wao had ripped them and posted them online, and then played the game for about 2 minutes before being consumed by excitement for the rest of the night. I added a monster, and made trees generate at random, and there it was: a simple port of SkiFree.
 
 After I'd showed my family my handiwork and they'd given me the mandatory smile and nod, I put it on GitHub and continued the holiday fun by eating too much turkey and cake.
