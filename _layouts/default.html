@@ -29,6 +29,8 @@
 
 		{{ content }}
 		
+		<script type="text/javascript" src="/js/jquery-2.0.3.min.js"></script>
+
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-2289826-1']);
@@ -48,6 +50,14 @@
 						$(this).attr('target', '_blank');
 					}
 				});
+
+				var renderEmail = function () {
+					$(".email-address-placeholder").html('<a href="mailto:dan' + '@' + '' + '' + 'danielhough.co.uk">dan' + '@' + '' + '' + 'danielhough.co.uk</a>');
+					$(document).unbind('mousemove.email').unbind('keydown.email').unbind('focus.email');
+					console.log('Unbound events');
+				};
+
+				$(document).bind('mousemove.email', renderEmail).bind('keydown.email', renderEmail).bind('focus.email', renderEmail);
 			});
 		</script>
 	</body>
