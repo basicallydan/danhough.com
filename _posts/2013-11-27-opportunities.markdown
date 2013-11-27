@@ -5,9 +5,9 @@ date_created: 27 November 2013
 location: London, UK
 ---
 
-A week ago, I was sitting around [in my office](http://danielhough.co.uk/blog/unhuddled/) (also known as my living room) when I recieved a panicked email from [Charlotte Spencer](https://twitter.com/charlotteis) of Event Handler fame. I was due to be co-DJing the after-party of their upcoming GeekyConf. This conference was actually happening the very next day, which earned me, apart from a fantastically fun experience and a licence to dance like a twat on a stage, a free ticket to the conference.
+A week ago, I was sitting around [in my office](http://danielhough.co.uk/blog/unhuddled/) (also known as my living room) when I recieved a panicked email from [Charlotte Spencer](https://twitter.com/charlotteis) of Event Handler fame. I was due to be co-DJing the after-party of their upcoming GeekyConf. This conference was actually happening the very next day, which earned me, apart from a fantastically fun experience and a licence to dance like a twat on a stage, a free ticket to attend.
 
-I'd previously delivered a talk about Music for Gamers at one of the smaller Geeky Meetups, where speakers get to ramble on about whatever subject they are passionate about for the information, education and entertainment of the audience. It's great, and since I'm into games and music, and writing music about games, it seemed like a good idea for me to talk about it.
+I'd previously delivered a talk about Music for Gamers at [one of the smaller Geeky Meetups](http://lanyrd.com/2013/geekynight-june/), where speakers get to ramble on about whatever subject they are passionate about for the information, education and entertainment of the audience. Geeky is great, and since I'm into games and music, and writing music about games, it seemed like a good idea for me to talk about these things.
 
 GeekyConf is a larger, day-long version of the Geeky Meetups, filled with much more fun and opportunities for learning. The food, by the way, was incredible. More on that later.
 
@@ -15,8 +15,7 @@ Clearly, Charlotte must've enjoyed my original talk or at least thought that som
 
 Definitely, yes: I would. And I was. So, I did, despite being pretty unprepared and in the midst of work and meetings. It went down well and gave me a warm, fuzzy feeling inside. Plus, one of the musicians I included in my whistlestop tour of Music for Gamers actually found out thanks to the wonderful Helen Arney and seemed chuffed about it. So, that was nice.
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/helenarney">@helenarney</a> <a href="https://twitter.com/basicallydan">@basicallydan</a> Ooh, how interesting, cheers dear!!</p>&mdash; Mark Hibbett (@MJHibbett) <a href="https://twitter.com/MJHibbett/statuses/403549468835868672">November 21, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% tweet https://twitter.com/MJHibbett/statuses/403549468835868672 %}
 
 All of that aside, though, I was in my opinion the worst of a whole host of good speakers - and that is no insult to me, because the other speakers really were excellent.
 
