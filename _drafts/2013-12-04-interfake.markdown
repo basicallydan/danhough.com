@@ -1,6 +1,6 @@
 Interfake is a new NodeJS module I've been developing on-and-off to help with some projects.
 
-It's a quick, easy and platform-independent way for developers working on applications to spin up dummy APIs using a single JSON file. I'll show you how to use it in this quick guide.
+It's a quick, easy and platform-independent way for developers working on applications to spin up dummy APIs using a single JSON file. I'll show you how to use it in this quick guide. Alternatively, skip this stuff and go [straight to GitHub to check it out](https://github.com/basicallydan/interfake).
 
 ### Install
 
@@ -98,11 +98,75 @@ You can also spin up new endpoints using HTTP requests. Using the same structure
 curl -X POST -d '{ "request":{"url":"/whattimeisit", "method":"get"}, "response":{"code":200,"body":{ "theTime" : "Adventure Time!" } } }' http://localhost:3000/_request --header "Content-Type:application/json"
 ```
 
-This is particularly useful when you're running tests where the data isn't always the same, and sometimes depends on semi-random or time-related data, since you can tailor the request during the test.
+This is particularly useful when you're running tests where the data isn't always the same, and sometimes depends on semi-random or time-related data. In this case, you can tailor the requests you need during the test, as the data evolves.
 
 ### That's all for now: Fork it?
 
-I'd like to add some more features to this tool. Particularly, I'd like to do the following:
+The code is all available at https://github.com/basicallydan/interfake, and I'd welcome some help to improve it in any way.
+
+### The Future
+
+In particular, I'd like to add the following features:
 
 * Create a guide/some examples for how to integrate this with existing test frameworks, whether written in JavaScript or not
-* Improve the templating, so that a response might include a repeated structure with an incrementing counter or randomized data
+* Improve the templating, so that a response might include a repeated structure with incrementing counter variables and randomised bits of data, like so:
+
+```
+[
+	{
+		"repeat": 2
+		"request": {
+			"url": "/books/{id:int}",
+			"method": "get"
+		},
+		"response": {
+			"code":200,
+			"body": {
+				"books": [{
+					"id":{id:int},
+					"title":"{random:lorem-ipsum:30}"
+				}]
+			}
+		}
+	}
+]
+```
+
+Would produce the following endpoints: **(Note this is still just an idea for a future feature - don't try this yet!)**
+
+```
+[
+	{
+		"request": {
+			"url": "/books/0",
+			"method": "get"
+		},
+		"response": {
+			"code":200,
+			"body": {
+				"books": [{
+					"id":0,
+					"title":"Lorem ipsum dolor sit amet."
+				}]
+			}
+		}
+	},
+	{
+		"request": {
+			"url": "/books/1",
+			"method": "get"
+		},
+		"response": {
+			"code":200,
+			"body": {
+				"books": [{
+					"id":1,
+					"title":"Duis a dapibus risus."
+				}]
+			}
+		}
+	},
+]
+```
+
+Something like that, anyway.
