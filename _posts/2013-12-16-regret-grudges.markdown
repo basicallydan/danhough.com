@@ -1,3 +1,10 @@
+---
+layout: post
+title: Regret, Grudges, and Doing the Right Thing
+date_created: 17 December 2013
+location: London, UK
+---
+
 When I was fifteen, I looked at my 10-year-old self and thought, "what a moron." When I was twenty I looked at my fifteen-year-old self and thought, "so simple-minded!" Now I look at my twenty-year-old self and think, "so naive..."
 
 In five years time, when I'm thirty, I'll look back at myself now and I know that I'm going to have similar feelings. I hope, however, that I will at least give my former self the same credit that I do now: he knew that he was still learning and that he always will be. He knew that by making mistakes, even if he didn't know that he was making them, he was going to get better and learn from those mistakes.
@@ -20,6 +27,8 @@ If you've read this far, thanks, and I hope that I've made you think a little bi
 
 Now onto the self-promotion part of my email. I'm an Independent Software Developer, and I recently left my full-time job to pursue a little more independence. I've written about it on my blog. I am doing a little bit of freelance and contract work at the mo so if you need a JavaScript (front-end or server) or iOS developer, or whatever, maybe I can help?
 
-I'm also a busker on the London Underground, and I've recorded some music. You can hear it on bandcamp, look for "Dan Plus Add". it's kinda nerdy, and kinda folky. I hope you enjoy it.
+---
 
-Finally, shoutouts. Jon and Alun: put your hand where your foot is. Happy 30th, Natty! As for you, Elli: you are wonderful, beautiful, funny and smart, and you fill me with so much joy and energy. Oeuf ou boeuf? <3
+h3. Post-script
+
+This was a post which I wrote originally when I won the Listserve Lottery. The reaction by email was extremely positive, and it was heartwarming to have touched the lives of so many people. Notable, [I received a video link](http://www.youtube.com/watch?v=1Evwgu369Jw) from [@MichelleGlauser](https://twitter.com/MichelleGlauser), explaining the difference between sypmathy and empathy, and explaining why empathy is important. I thought it was extremely apt given the subject of my email.
