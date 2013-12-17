@@ -1,3 +1,10 @@
+---
+layout: post
+title: Interfake, Just-Add-JSON HTTP APIs
+date_created: 02 December 2013
+location: London, UK
+---
+
 Interfake is a new NodeJS module I've been developing on-and-off to help with some projects.
 
 It's a quick, easy and platform-independent way for developers working on applications to spin up dummy APIs using a single JSON file. I'll show you how to use it in this quick guide. Alternatively, skip this stuff and go [straight to GitHub to check it out](https://github.com/basicallydan/interfake).

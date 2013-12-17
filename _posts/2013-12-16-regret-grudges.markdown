@@ -29,6 +29,6 @@ Now onto the self-promotion part of my email. I'm an Independent Software Develo
 
 ---
 
-h3. Post-script
+### Post-script
 
 This was a post which I wrote originally when I won the Listserve Lottery. The reaction by email was extremely positive, and it was heartwarming to have touched the lives of so many people. Notable, [I received a video link](http://www.youtube.com/watch?v=1Evwgu369Jw) from [@MichelleGlauser](https://twitter.com/MichelleGlauser), explaining the difference between sypmathy and empathy, and explaining why empathy is important. I thought it was extremely apt given the subject of my email.
