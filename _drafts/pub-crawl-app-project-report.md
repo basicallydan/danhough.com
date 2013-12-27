@@ -8,7 +8,7 @@ Things to mention having learned:
 
 ---
 layout: post
-title: A Pub Crawl App for London
+title: A Pub App for London
 date_created: 27 December 2012
 location: London, UK
 ---
