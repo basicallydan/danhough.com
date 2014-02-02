@@ -1,4 +1,8 @@
-title: Au revoir, Londres (for three months)
+---
+layout: post
+title: Au revoir, Londres (for 3 months)
+date_created: 02/02/2014
+location: London, UK
 ---
 
 I have been offered, and I have accepted, a contract position working for a young British startup called [upmysport](https://www.upmysport.com/), based in the mountain town of Chamonix, in South-eastern France near the border with Switzerland.
