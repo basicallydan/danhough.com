@@ -15,7 +15,7 @@ Back in November 2013 when I began as an Independent Software Developer I did no
 
 Luckily, I will be armed with a MacBook, a snowboard, and plenty of body armour, and hopefully there will be more to learn during my stay than just a lot of new things about mobile app development. I am massively excited, but also massively terrified. Despite being a life-long traveller to various countries and born ex-pat, the prospect of working abroad is a little bit new to me.
 
-Nevertheless, I'm really looking forward to it. There's a great team to work on, and a great problem to solve. I have no doubt that the next three months are going to be a hoot, full of challenges, surprises and lots of fun.
+Nevertheless, I'm really looking forward to it. There's a great team to work with, and a great problem to help solve. I have no doubt that the next three months are going to be a hoot, full of challenges, surprises and lots of fun.
 
 If anybody has any tips about working abroad, or lives in Chamonix and fancies a beer when I arrive, that'd be great :)
 
