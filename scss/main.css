@@ -2708,7 +2708,9 @@ a:visited {
     height: 300px; }
 
 .post h1 {
-  margin-bottom: 0; }
+  margin-top: 0.27em;
+  margin-bottom: 0;
+  line-height: 1.36em; }
 .post .meta {
   font-size: 0.8em;
   margin-top: 4px; }

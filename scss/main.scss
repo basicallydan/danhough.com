@@ -2,6 +2,7 @@
 $standard-margin:24px;
 $gutter:$standard-margin;
 $standard-font-size:14pt;
+$large-font-size:1.7em;
 $standard-line-height:20pt;
 $black:#333333;
 $twitter-blue:#55ACEE;
@@ -37,7 +38,7 @@ body {
 }
 
 h1 {
-	font-size:1.7em;
+	font-size:$large-font-size;
 	font-weight:500;
 	@include grid-media-query('palm') {
 		font-size:1.4em;
@@ -357,7 +358,9 @@ a:visited {
 	@extend .one-whole;
 
 	h1 {
+		margin-top:0.27em;
 		margin-bottom:0;
+		line-height:$large-font-size * 0.8;
 	}
 
 	.meta {
