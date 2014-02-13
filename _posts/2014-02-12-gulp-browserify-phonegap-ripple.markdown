@@ -2,7 +2,7 @@
 layout: post
 title: How to use Gulp, Browserify and Ripple in harmony for your PhoneGap app
 date_created: 02/02/2014
-location: Chamonix, UK
+location: Chamonix, France
 ---
 
 Just like every other front-end developer who [likes to changes their mind about the best build tools at a moment's notice](http://www.100percentjs.com/just-like-grunt-gulp-browserify-now/), yesterday I decided that Gulp and Browserify were for me. However, I am currently working on a PhoneGap project and the workflow can be a little different. When developing PhoneGap applications some people like to use [Ripple](http://ripple.incubator.apache.org/), a little browser-based emulator for the various devices on which you might run your PhoneGap application.
