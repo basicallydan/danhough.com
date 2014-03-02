@@ -9,3 +9,9 @@
 * Author was one of the lucky ones in many ways - enjoyed a fairly easy life before and after his detention
 * Honest and balanced, does not simply cast off the original idea behind the regime as evil and corrupt, but describes the downfall
 * Strong message inside about raising awareness and understanding the true challenges of reunification
+
+## [Zen and the Art of Motorcycle Maintenance](http://www.amazon.co.uk/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0063HC7EQ/ref=sr_1_1?tag=daplad-21)
+
+* Such a well-told tale of a rediscovery of oneself
+* Explores many philosophical ideas in a little bit of detail
+* Incredible climax!
