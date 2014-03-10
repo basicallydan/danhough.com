@@ -141,7 +141,7 @@ Is it really? Shouldn't one of the determining factors in how "readable" code is
 
 ```javascript
 var bar    = thing.doTheThing('a')
-    ,stuff = bar.makeMeAThing(),
+    ,stuff = bar.makeMeAThing()
     ,foo   = thing.doTheOtherThing('b')
     ,baz   = 'qux';
 ```
@@ -161,5 +161,7 @@ That's why I personally use the "Vars At The Top" pattern (or VATT, if you like)
 **Further reading**: [Douglas Lee](http://douglastclee.blogspot.fr/2013/07/coding-javascript-single-var-vs-multi.html) shares my opinion and writes about it. StackOverflow has a couple of good discussions about [Disadvantages](http://stackoverflow.com/questions/8581869/disadvantages-of-javascript-single-var-pattern) and [Overdoing it](http://stackoverflow.com/questions/6235417/javascript-single-var-pattern-am-i-overloading-it). I was unable to find any posts in *defence* of the Single Var Pattern, only many which simply explained it and it's usefulness for all the usual reasons, but I'd love to read a rebuttal.
 
 P.S. Some people call the pattern I use the "multi-var pattern" but I don't think it accurately describes what's going on since if you had your `var`s scattered around the scope it could still be described as "multi-var".
+
+P.P.S. After publication I realised that Ben Alman actually [wrote this blog post almost two years ago](http://benalman.com/news/2012/05/multiple-var-statements-javascript/), pretty much header-for-header. Good man for getting there way before me, but I guess I'd expect that from the chap who brought us the brilliant [jQuery BBQ](http://benalman.com/projects/jquery-bbq-plugin/) and of course the infamous [Star Wipe](http://benalman.com/projects/jquery-starwipe-plugin/).
 
 Thank you [Lenny Martin](https://twitter.com/lennym), [Jon Finerty](https://twitter.com/jonfinerty) and [Charlotte Spencer](https://twitter.com/charlotteis) for proofreading this post and suggesting some great edits.
