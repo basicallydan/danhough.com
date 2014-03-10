@@ -7,7 +7,7 @@ location: Chamonix, France
 
 The *Single Var Pattern* is a JavaScript design pattern in which for each scope, one `var` statement and **only** one `var` statement is used to declare all the variables for the current scope. It's used in order to help prevent logical confusion (variables being *hoisted* half-way through a scope are declared before being necessarily defined), collisions due to a variable being declared twice, and from unused variables being created and forgotten during refactoring.
 
-In general, the Single Var Pattern is a wonderful idea and works very well, but it can quickly become difficult to work with, understand, debug and read. For that reason, I follow the guidelines except for one small difference.
+In general the Single Var Pattern is a wonderful idea and works very well, but it can quickly become difficult to work with, understand, debug and read. For that reason, I follow the guidelines except for one small difference.
 
 This is the Single Var Pattern:
 
@@ -150,3 +150,5 @@ That's why I personally use the "Vars At The Top" pattern (or VATT, if you like)
 **Further reading**: [Douglas Lee](http://douglastclee.blogspot.fr/2013/07/coding-javascript-single-var-vs-multi.html) shares my opinion and writes about it. StackOverflow has a couple of good discussions about [Disadvantages](http://stackoverflow.com/questions/8581869/disadvantages-of-javascript-single-var-pattern) and [Overdoing it](http://stackoverflow.com/questions/6235417/javascript-single-var-pattern-am-i-overloading-it). I was unable to find any posts in *defence* of the Single Var Pattern, only many which simply explained it and it's usefulness for all the usual reasons, but I'd love to read a rebuttal.
 
 P.S. Some people call the pattern I use the "multi-var pattern" but I don't think it accurately describes what's going on since if you had your `var`s scattered around the scope it could still be described as "multi-var".
+
+Thank you [Lenny Martin](https://twitter.com/lennym) and [Jon Finerty](https://twitter.com/jonfinerty) for proofreading this opinionated post.
