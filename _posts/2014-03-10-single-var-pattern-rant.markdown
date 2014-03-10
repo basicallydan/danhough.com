@@ -162,4 +162,4 @@ That's why I personally use the "Vars At The Top" pattern (or VATT, if you like)
 
 P.S. Some people call the pattern I use the "multi-var pattern" but I don't think it accurately describes what's going on since if you had your `var`s scattered around the scope it could still be described as "multi-var".
 
-Thank you [Lenny Martin](https://twitter.com/lennym) and [Jon Finerty](https://twitter.com/jonfinerty) for proofreading this opinionated post.
+Thank you [Lenny Martin](https://twitter.com/lennym), [Jon Finerty](https://twitter.com/jonfinerty) and [Charlotte Spencer](https://twitter.com/charlotteis) for proofreading this post and suggesting some great edits.
