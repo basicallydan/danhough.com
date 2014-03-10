@@ -9,7 +9,8 @@ $twitter-blue:#55ACEE;
 $linkedin-blue:#4875B4;
 $white:#fefefe;
 $blue:#223249;
-$light-blue:lighten($blue, 20%);
+$mid-blue:lighten($blue, 15%);
+$light-blue:lighten($blue, 30%);
 
 $light-red:#F75A49;
 $red:darken($light-red, 30%);
@@ -60,7 +61,7 @@ a:link {
 	color:$light-blue;
 }
 a:visited {
-	color:$blue;
+	color:$mid-blue;
 }
 
 .top-level-full-width {
@@ -372,3 +373,5 @@ a:visited {
 		color:$light-grey;
 	}
 }
+
+@import 'syntax.scss';
