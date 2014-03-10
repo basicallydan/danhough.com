@@ -45,11 +45,11 @@ Those of you who use Chrome Developer Tools will probably be familiar with this 
 
 ![Chrome Dev Tools Code Navigation Toolbar](/img/single-var-dev-tools-1.png)
 
-Let's focus on the orange-circled button first. This little guy is called the **'Step Over'** button, and what he does it takes you from one line to the next line. If there's an error while going from the current line to the next line, it'll highlight that problem! Let's say that there's a problem on line 4 in this screenshot from Dev Tools because the argument `doWork` is a function that is producing some unexpected behaviour:
+Let's focus on the orange-circled button first. As you may know, this little guy is called the **'Step Over'** button, and what he does is take you from one line to the next line. Let's say that there's a problem on line 4 in this screenshot from Dev Tools because the argument `doWork` is a function that is producing some unexpected behaviour:
 
 ![Breakpoint at line 2](/img/single-var-dev-tools-2.png)
 
-So we have a breakpoint at line 2 which is currently where we're at. We know there's something wrong with the `doWork` function, and for argument's sake let's say we can't easily find it in the code. So to have a look inside that function we're gonna use the button highlighted with a blue circle in the first image: the **'Step Into'** button. But first, we need to **Step Over** a couple of times. So, let's click **Step Over**. What we expect to happen is to go to line 3 after the first click, and Line 4 after the second.
+So we have a breakpoint at line 2 which is currently where we're at. We know there's something wrong with the `doWork` function, and for argument's sake let's say we can't easily find it in the code. So to have a look inside that function we're gonna use the button highlighted with a blue circle in the first image: the **'Step Into'** button. But first, we need to **Step Over** a couple of times. What we expect to happen is to go to line 3 after the first click of the button, and Line 4 after the second.
 
 ![Goes straight to error](/img/single-var-dev-tools-3.png)
 
@@ -94,11 +94,11 @@ var dodgyVar1 = doSomethingDodgy('value'),
 // Do some stuff here with those variables
 ```
 
-At some point in writing this code I decide to comment out `dodgyVar1` and `dodgyVar2`, because I suspect they're doing something dodgy. Since I use Sublime Text, I `CMD`+`Click` lines 1 and 4 to have a cursor on both of them, and hit `CMD`+`/`.
+At some point in writing this code I decide to comment out `dodgyVar1` and `dodgyVar2`, because I suspect they're doing something dodgy. Since I use Sublime Text, I select both lines 1 and 4 (`CMD`+`Click`) to have a cursor on both of them, and hit the comment shortcut (`CMD`+`/`).
 
 Now in order to make the code valid, I need to go through the fiddly process of navigating to the beginning of line 2, adding a `var` statement there, an then to the end of line 3, and replacing the comma with a semi-colon. This doesn't sound like much, but over time it becomes very tedious and was in fact the original reason for why I questioned my use of the Single Var Pattern.
 
-## The usual arguments in favour
+## Some arguments in favour
 
 ### "But it's less code, which means a smaller footprint"
 
@@ -136,6 +136,8 @@ var bar    = thing.doTheThing('a')
     ,foo   = thing.doTheOtherThing('b')
     ,baz   = 'qux';
 ```
+
+As my friend [Jon](https://twitter.com/jonfinerty) said, "I've always found that for new people, the less syntax the better." With Single Var, we're introducing seemingly random comments and convention-based indentation. This is *more* syntax.
 
 The "readability" thing is clearly a subjective matter, and I can't get my head around the supposed benefits. To me it seems more simple and elegant to give each variable the honour of having its own `var` statement.
 
