@@ -45,17 +45,17 @@ Those of you who use Chrome Developer Tools will probably be familiar with this 
 
 ![Chrome Dev Tools Code Navigation Toolbar](/img/single-var-dev-tools-1.png)
 
-Let's focus on the orange-circled button first. This little guy is called the **'Step Over'** button, and what he does it takes you from one line to the next line. If there's an error while going from the current line to the next line, it'll highlight that problem! Let's say that there's a problem on Line 4 in this screenshot from Dev Tools because the argument `doWork` is a function that is producing some unexpected behaviour:
+Let's focus on the orange-circled button first. This little guy is called the **'Step Over'** button, and what he does it takes you from one line to the next line. If there's an error while going from the current line to the next line, it'll highlight that problem! Let's say that there's a problem on line 4 in this screenshot from Dev Tools because the argument `doWork` is a function that is producing some unexpected behaviour:
 
 ![Breakpoint at line 2](/img/single-var-dev-tools-2.png)
 
-So we have a breakpoint at Line 2 which is currently where we're at. We know there's something wrong with the `doWork` function, and for argument's sake let's say we can't easily find it in the code. So to have a look inside that function we're gonna use the button highlighted with a blue circle in the first image: the **'Step Into'** button. But first, we need to **Step Over** a couple of times. So, let's click **Step Over**. What we expect to happen is to go to Line 3 after the first click, and Line 4 after the second.
+So we have a breakpoint at line 2 which is currently where we're at. We know there's something wrong with the `doWork` function, and for argument's sake let's say we can't easily find it in the code. So to have a look inside that function we're gonna use the button highlighted with a blue circle in the first image: the **'Step Into'** button. But first, we need to **Step Over** a couple of times. So, let's click **Step Over**. What we expect to happen is to go to line 3 after the first click, and Line 4 after the second.
 
 ![Goes straight to error](/img/single-var-dev-tools-3.png)
 
 Well, that's a shame. What we see here is Dev Tools interpreting the whole thing as one line for the purposes of stepping over.
 
-I will say, though, at *least* Dev Tools identifies that the error is on Line 4. It's just annoying when debugging someone else's code - or even your own - if you can't step into a function they're using, especially when it's been passed in as an argument.
+I will say, though, at *least* Dev Tools identifies that the error is on line 4. It's just annoying when debugging someone else's code - or even your own - if you can't step into a function they're using, especially when it's been passed in as an argument.
 
 ### Prone to errors
 
@@ -79,7 +79,7 @@ JavaScript engines will insert semi-colons at the end of lines which do not have
 
 ### Difficulty in commenting & refactoring
 
-This is a little, but significant thing which in my opinion can really slow down the development process.
+This is a small but significant thing, which in my opinion can really slow down the development process.
 
 Because the statement is essentially one, long line, it has to compile properly *as a single line* every time we run the program, which can become a pain in the butt to maintain.
 
@@ -137,11 +137,11 @@ var bar    = thing.doTheThing('a')
     ,baz   = 'qux';
 ```
 
-The "readability" thing is clearly a subjective matter, and I can't get my head around the supposed benefits. To me it seems more simple and elegant to give each variable the honour of having it's own `var` statement.
+The "readability" thing is clearly a subjective matter, and I can't get my head around the supposed benefits. To me it seems more simple and elegant to give each variable the honour of having its own `var` statement.
 
 ## Conclusion
 
-The Single Var Pattern has spread and been encouraged by JavaScript legends because it helps to prevent a large number of mistakes that people, both new and experienced with the language, make. Thus, it has become very popular as part of the average developer's toolkit and "Gotcha!" library. Nevertheless, as with most fixes in programming, it introduces a few new problems.
+The Single Var Pattern has spread and been encouraged by JavaScript legends because it helps to prevent a large number of mistakes that people - both new and experienced with the language - make. Thus, it has become very popular as part of the average developer's toolkit and "Gotcha!" library. Nevertheless, as with most fixes in programming, it introduces a few new problems.
 
 Think about the cost/benefit. You may realise that by making one little change you can save yourself a lot of hassle, and may find yourself making far fewer mistakes.
 
@@ -149,4 +149,4 @@ That's why I personally use the "Vars At The Top" pattern (or VATT, if you like)
 
 **Further reading**: [Douglas Lee](http://douglastclee.blogspot.fr/2013/07/coding-javascript-single-var-vs-multi.html) shares my opinion and writes about it. StackOverflow has a couple of good discussions about [Disadvantages](http://stackoverflow.com/questions/8581869/disadvantages-of-javascript-single-var-pattern) and [Overdoing it](http://stackoverflow.com/questions/6235417/javascript-single-var-pattern-am-i-overloading-it). I was unable to find any posts in *defence* of the Single Var Pattern, only many which simply explained it and it's usefulness for all the usual reasons, but I'd love to read a rebuttal.
 
-P.S. Some people call the pattern I use the "multi-var pattern" but I don't think it accurately describes what's going on since if you had your `var`'s scattered around the scope it could still be described as "multi-var".
+P.S. Some people call the pattern I use the "multi-var pattern" but I don't think it accurately describes what's going on since if you had your `var`s scattered around the scope it could still be described as "multi-var".
