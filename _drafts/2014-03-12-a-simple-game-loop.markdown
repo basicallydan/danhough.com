@@ -5,7 +5,7 @@ date_created: 12 March 2014
 location: Chamonix, France
 ---
 
-I've made a couple of little JavaScript games in my time, my favourite (and the one I return to the most) being t[he port of SkiFree](https://basicallydan.github.io/skifree.js/).
+I've made a couple of little JavaScript games in my time, my favourite (and the one I return to the most) being [the port of SkiFree](https://basicallydan.github.io/skifree.js/).
 
 An important aspect of getting started with a game is creating the loops that will be constantly updating the state and rendering the graphics. It's very easy at the start to fall for this trap:
 
@@ -18,11 +18,11 @@ setInterval(function () {
 }, 100);
 ```
 
-But actually this causes a few problems in the long run. First of all, if you happen to want to be able to control the speed of the rendering (in terms of framerate) it's pretty useful to be able to reduce the frequency at which the drawing happens.
+This causes a few problems in the long run. First of all, if you happen to want to be able to control the speed of the rendering (in terms of framerate) it's pretty useful to be able to reduce the frequency at which the drawing happens.
 
 Secondly, you need to keep drawing and updating separate. Keeping the logic which determines how the game looks separate from the logic which determines how the game acts reduces issues you may encounter later on with screen sizes, collision detection, sprite behaviour and so forth.
 
-So it kinda makes sense to have two separate loops which operate independently. It occurred to me that this should be pretty easy, just by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two set interval calls to worry about. When I want to pause the game for example I'd have to stop them both. Plus, it's kinda ugly havine these things all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
+It makes sense to have two separate loops which operate independently. It occurred to me that this should be pretty easy, just by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two `setInterval` calls to worry about. When I want to pause the game for example I'd have to stop them both. Plus, it's kinda ugly havine these things all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
 
 ```javascript
 var game = new Game();
