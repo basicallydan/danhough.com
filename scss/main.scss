@@ -38,6 +38,11 @@ body {
 	-webkit-text-stroke: 1px rgba(0, 0, 0, 0.15);
 }
 
+pre code {
+	margin:1.5em 0;
+	display:block;
+}
+
 h1 {
 	font-size:$large-font-size;
 	font-weight:500;

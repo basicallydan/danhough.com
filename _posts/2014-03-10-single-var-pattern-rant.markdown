@@ -57,6 +57,8 @@ Well, that's a shame. What we see here is Dev Tools interpreting the whole thing
 
 I will say, though, at *least* Dev Tools identifies that the error is on line 4. It's just annoying when debugging someone else's code - or even your own - if you can't step into a function they're using, especially when it's been passed in as an argument.
 
+EDIT: Someone in [the comments on Reddit](http://www.reddit.com/r/javascript/comments/202zfa/a_criticism_of_the_single_var_pattern_in) pointed out to me that it is in fact possible to step into these functions using SVP, but if there are multiple functions being used, you must step into each one and then out again until you get to the one you want. Anyway, my mistake. Thank you, [html6dev on Reddit](http://www.reddit.com/r/javascript/comments/202zfa/a_criticism_of_the_single_var_pattern_in/cg00f1k)
+
 ### Prone to errors
 
 I recently read [a post by Yoav Rubin](http://yoavrubin.blogspot.fr/2011/09/function-javascript-engine-and-single.html) which pointed out how a little mistake in using the Single Var Pattern can lead to a grave error. I'll quote directly from what he gave as examples. The first one is how the developer *intended* to write their code, and what the effect for each variable is.
