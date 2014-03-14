@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A really simple and flexible way to do a game loop in JavaScript
-date_created: 12 March 2014
+date_created: 14 March 2014
 location: Chamonix, France
 ---
 
@@ -71,3 +71,5 @@ loop.start();
 So far I've used it in two instances. I [put it into SkiFree](https://github.com/basicallydan/skifree.js/blob/master/js/lib/game.js), and [recreated XKCD's Frequency comic using it](http://basicallydan.github.io/eventedloop/xkcd-example/).
 
 [Give it a go](https://github.com/basicallydan/eventedloop), and please fork and improve it if you think you spot something you can improve on, or perhaps [raise an issue](https://github.com/basicallydan/eventedloop/issues).
+
+Thank you [Zuzanna Pasierbinska-Wilson](https://twitter.com/fattypontoonski) and [Jon Finerty](https://twitter.com/jonfinerty) for proofreading this post and suggesting some great edits.
