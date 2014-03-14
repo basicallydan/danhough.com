@@ -90,7 +90,7 @@ I've also toyed with the idea of randomness.
 loop.every('20ms').chance('1:10').do(function() { /* Maybe the stuff */ });
 ```
 
-This would be especially useful in many simple games in which enemies or items appear randomly.
+This would be especially useful for many simple games in which enemies or items appear semi-randomly.
 
 Finally, I'm in the (very slow) process of building up a small GitHub repository with bootstrap code for JavaScript games, for anybody who likes to develop them in a similar way to me. This, I expect, will be a part of it.
 
