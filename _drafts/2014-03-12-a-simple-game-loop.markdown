@@ -18,11 +18,11 @@ setInterval(function () {
 }, 100);
 ```
 
-This causes a few problems in the long run. First of all, if you happen to want to be able to control the speed of the rendering (in terms of framerate) it's pretty useful to be able to reduce the frequency at which the drawing happens.
+This causes a few problems in the long run. First of all, if you want to be able to control the speed of the rendering (in terms of frame rate) it's pretty useful to be able to reduce the frequency at which the drawing happens.
 
-Secondly, you need to keep drawing and updating separate. Keeping the logic which determines how the game looks separate from the logic which determines how the game acts reduces issues you may encounter later on with screen sizes, collision detection, sprite behaviour and so forth.
+Secondly, you need to keep the drawing and updating function separate. Keeping the logic that determines how the game looks separate from the logic which determines how the game acts is useful. Reduces issues you may encounter later on with screen sizes, collision detection, sprite behaviour and so forth.
 
-It makes sense to have two separate loops which operate independently. It occurred to me that this should be pretty easy, just by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two `setInterval` calls to worry about. When I want to pause the game for example I'd have to stop them both. Plus, it's kinda ugly havine these things all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
+It just makes sense to have two separate loops which operate independently. It occurred to me that this should be pretty easy to achieve by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two `setInterval` calls to worry about. When I want to pause the game, for example, I'd have to stop them both. Plus, it's kind of ugly having `setInterval`s all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
 
 ```javascript
 var game = new Game();
