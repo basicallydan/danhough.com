@@ -12,17 +12,17 @@ An important aspect of getting started with a game is creating the loops that wi
 ```javascript
 var game = new Game();
 setInterval(function () {
-	// Do the game update stuff here
-	// Draw the game here
+	// Update the game state
+	// Draw the game
 	// This is wrong.
 }, 100);
 ```
 
-This causes a few problems in the long run. First of all, if you want to be able to control the speed of the rendering (in terms of frame rate) it's pretty useful to be able to reduce the frequency at which the drawing happens.
+This causes a few problems in the long run. First of all, if you want to control the speed of the rendering (in terms of frame rate) independently from the speed of state updates, you can't.
 
-Secondly, you need to keep the drawing and updating function separate. Keeping the logic that determines how the game looks separate from the logic which determines how the game acts is useful. Reduces issues you may encounter later on with screen sizes, collision detection, sprite behaviour and so forth.
+Secondly, you need to keep the drawing and updating functions separate. Keeping the logic that determines how the game looks separate from the logic which determines how the game acts is useful. Reduces issues you may encounter later on with screen sizes, collision detection, sprite behaviour and so forth.
 
-It just makes sense to have two separate loops which operate independently. It occurred to me that this should be pretty easy to achieve by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two `setInterval` calls to worry about. When I want to pause the game, for example, I'd have to stop them both. Plus, it's kind of ugly having `setInterval`s all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
+It therefore makes sense to have two separate loops which operate independently. It occurred to me that this should be pretty easy to achieve by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two `setInterval` calls to worry about. When I want to pause the game, for example, I'd have to stop them both. Plus, it's kind of ugly having `setInterval`s all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
 
 ```javascript
 var game = new Game();
@@ -70,4 +70,30 @@ loop.start();
 
 So far I've used it in two instances. I [put it into SkiFree](https://github.com/basicallydan/skifree.js/blob/master/js/lib/game.js), and [recreated XKCD's Frequency comic using it](http://basicallydan.github.io/eventedloop/xkcd-example/).
 
-[Give it a go](https://github.com/basicallydan/eventedloop), and please fork and improve it if you think you spot something you can improve on, or perhaps [raise an issue](https://github.com/basicallydan/eventedloop/issues).
+## What's next: possible features
+
+There are a few more things to be done with this. Commands in the vein of `loop.at('5/min')` would be a useful way to trigger events.
+
+EventedLoop could be a more powerful tool, too, given a few extra pieces such as the ability to continue an event for a certain number of executions until it expires. Something like this:
+
+```javascript
+loop.every('20ms').until(5).do(function() { /* The stuff */ });
+```
+
+I've also toyed with the idea of randomness.
+
+```javascript
+loop.every('20ms').chance('1:10').do(function() { /* Maybe the stuff */ });
+```
+
+This would be especially useful in many simple games in which enemies or items appear randomly.
+
+Finally, I'm in the (very slow) process of building up a small GitHub repository with bootstrap code for JavaScript games, for anybody who likes to develop them in a similar way to me. This, I expect, will be a part of it.
+
+## Limitations
+
+Ultimately, JavaScript can only handle so many things happening at one time, so remember if that you're going to create a bunch of loops which execute a whole bunch of code, you're eventually going to notice some slowing down of things since ultimately, under the covers, [there is some synchronicity happening here](http://ejohn.org/blog/how-javascript-timers-work/).
+
+
+
+**So, to conclude:** [Give it a go](https://github.com/basicallydan/eventedloop), and please fork and improve it if you think you spot something you can improve on, or perhaps [raise an issue](https://github.com/basicallydan/eventedloop/issues).
