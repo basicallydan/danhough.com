@@ -22,7 +22,7 @@ This causes a few problems in the long run. First of all, if you want to control
 
 Secondly, you need to keep the drawing and updating functions separate. Keeping the logic that determines how the game looks separate from the logic which determines how the game acts is useful. Reduces issues you may encounter later on with screen sizes, collision detection, sprite behaviour and so forth.
 
-It therefore makes sense to have two separate loops which operate independently. It occurred to me that this should be pretty easy to achieve by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two `setInterval` calls to worry about. When I want to pause the game, for example, I'd have to stop them both. Plus, it's kind of ugly having `setInterval`s all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
+It makes sense then to have two separate loops which operate independently. This should be pretty easy to achieve by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two `setInterval` calls to worry about. When I want to pause the game, for example, I'd have to stop them both. Plus, it's kind of ugly having `setInterval`s all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
 
 ```javascript
 var game = new Game();
@@ -73,6 +73,8 @@ So far I've used it in two instances. I [put it into SkiFree](https://github.com
 ## Limitations
 
 JavaScript can of course only handle so many things happening at one time, so remember if that you're going to create a bunch of loops which execute a whole bunch of code, you're eventually going to notice some slowing down of things since ultimately, under the covers, [there is some synchronicity happening here](http://ejohn.org/blog/how-javascript-timers-work/).
+
+One of the features of timeouts and intervals in browser-based JavaScript environments is the limitation of only allowing one timeout or interval per second when the executing browser tab is inactive. Since this would screw up the execution of EventedLoop completely, when the executing browser tab becomes inactive, the loop will pause entirely.
 
 ## What's next: possible features
 
