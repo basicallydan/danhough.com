@@ -72,7 +72,7 @@ So far I've used it in two instances. I [put it into SkiFree](https://github.com
 
 ## What's next: possible features
 
-There are a few more things to be done with this. Commands in the vein of `loop.at('5/min')` would be a useful way to trigger events.
+There are a few more things to be done with this. Commands in the vein of `loop.at('5 times per minute')` would be a useful way to trigger events.
 
 EventedLoop could be a more powerful tool, too, given a few extra pieces such as the ability to continue an event for a certain number of executions until it expires. Something like this:
 
