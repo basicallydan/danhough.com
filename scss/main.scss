@@ -62,6 +62,12 @@ h3 {
 	font-weight:500;
 }
 
+hr {
+	height: 1px;
+	border: none;
+	background-color: #ddd;
+}
+
 a:link {
 	color:$light-blue;
 }

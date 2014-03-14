@@ -38,7 +38,7 @@ This is nice and clean. Furthermore, it allows you to do other, more flexible ev
 ```javascript
 var game = new Game();
 var loop = new EventedLoop();
-loop.every('20ms', function () { /* update the movements of all the sprites here  */ });
+loop.every('20ms', function () { /* update the movements of all the sprites here */ });
 loop.every('50ms', function () { /* spawn a new enemy */ });
 loop.every('1s', function () { /* tick a countdown timer */ });
 loop.every('2s', function () { /* decrease the player's heath if they are poisoned */ });

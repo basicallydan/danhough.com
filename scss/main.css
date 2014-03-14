@@ -2467,6 +2467,11 @@ h3 {
   font-size: 1.3em;
   font-weight: 500; }
 
+hr {
+  height: 1px;
+  border: none;
+  background-color: #ddd; }
+
 a:link {
   color: #547ab0; }
 
