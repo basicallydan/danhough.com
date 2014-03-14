@@ -5,7 +5,7 @@ date_created: 12 March 2014
 location: Chamonix, France
 ---
 
-I've made a couple of little JavaScript games in my time, my favourite (and the one I return to the most) being [the port of SkiFree](https://basicallydan.github.io/skifree.js/).
+I've made a couple of little JavaScript games in my time, my favourite (and the one I return to the most) being [a port of SkiFree](https://basicallydan.github.io/skifree.js/).
 
 An important aspect of getting started with a game is creating the loops that will be constantly updating the state and rendering the graphics. It's very easy at the start to fall for this trap:
 
