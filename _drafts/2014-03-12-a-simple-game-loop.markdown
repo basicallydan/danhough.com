@@ -70,11 +70,15 @@ loop.start();
 
 So far I've used it in two instances. I [put it into SkiFree](https://github.com/basicallydan/skifree.js/blob/master/js/lib/game.js), and [recreated XKCD's Frequency comic using it](http://basicallydan.github.io/eventedloop/xkcd-example/).
 
+## Limitations
+
+JavaScript can of course only handle so many things happening at one time, so remember if that you're going to create a bunch of loops which execute a whole bunch of code, you're eventually going to notice some slowing down of things since ultimately, under the covers, [there is some synchronicity happening here](http://ejohn.org/blog/how-javascript-timers-work/).
+
 ## What's next: possible features
 
 There are a few more things to be done with this. Commands in the vein of `loop.at('5 times per minute')` would be a useful way to trigger events.
 
-EventedLoop could be a more powerful tool, too, given a few extra pieces such as the ability to continue an event for a certain number of executions until it expires. Something like this:
+EventedLoop could be a more powerful tool with a few extra pieces such as the ability to continue an event for a certain number of executions until it expires. Something like this:
 
 ```javascript
 loop.every('20ms').until(5).do(function() { /* The stuff */ });
@@ -90,10 +94,6 @@ This would be especially useful in many simple games in which enemies or items a
 
 Finally, I'm in the (very slow) process of building up a small GitHub repository with bootstrap code for JavaScript games, for anybody who likes to develop them in a similar way to me. This, I expect, will be a part of it.
 
-## Limitations
-
-Ultimately, JavaScript can only handle so many things happening at one time, so remember if that you're going to create a bunch of loops which execute a whole bunch of code, you're eventually going to notice some slowing down of things since ultimately, under the covers, [there is some synchronicity happening here](http://ejohn.org/blog/how-javascript-timers-work/).
-
-
+---
 
 **So, to conclude:** [Give it a go](https://github.com/basicallydan/eventedloop), and please fork and improve it if you think you spot something you can improve on, or perhaps [raise an issue](https://github.com/basicallydan/eventedloop/issues).
