@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interfake 1.2.0: Fluency
+title: Interfake 1.2.0 - Fluency
 date_created: 17 March 2014
 location: Chamonix, France
 ---
@@ -41,7 +41,7 @@ Now, when `GET /hello` is hit, `PUT /update-something` is created and will retur
 
 ## Quick example: testing a single-page app
 
-I'm going to write a full blog post on this, but in the meantime I've knocked together a quick example of how to test a single-page application using [Zombie.js](http://zombie.labnotes.org), Interfake and NodeJS's native `assert` module.
+I'm going to write a full blog post on this, but in the meantime I've knocked together a quick example of how to test a single-page application using a headless NodeJS browser called [Zombie.js](http://zombie.labnotes.org), Interfake and NodeJS's native `assert` module.
 
 ### Install prerequisites
 
@@ -99,7 +99,7 @@ browser.visit('http://localhost:3000/static/index.html')
 Now let's create an HTML file, which is the entirety of our single-page app, in the same directory.
 
 ### Create app file `index.html`
-```javascript
+```html
 <html>
 <head>
 	<title>Interfake it 'til you make it</title>
@@ -107,9 +107,12 @@ Now let's create an HTML file, which is the entirety of our single-page app, in 
 	<script type="text/javascript">
 		$(document).ready(function () {
 			$('#update').click(function (e) {
+                // When the 'update' link is clicked
 				e.preventDefault();
-				$.getJSON('http://localhost:3000/update')
+                // Make a request to our new API endpoint
+                $.getJSON('http://localhost:3000/update')
 					.done(function (data) {
+                        // When the data comes back, replace the span
 						$('#target').text(data.text)
 					});
 			});
