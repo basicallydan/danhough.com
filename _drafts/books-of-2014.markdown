@@ -15,3 +15,17 @@
 * Such a well-told tale of a rediscovery of oneself
 * Explores many philosophical ideas in a little bit of detail
 * Incredible climax!
+
+## [Lie and Let Die: James Bond 007](http://www.amazon.co.uk/Live-Let-Die-James-Bond-ebook/dp/B008FQBA2I/ref=sr_1_2?ie=UTF8&qid=1397846750&sr=8-2&keywords=LIve+and+Let+Die) by Ian Fleming
+
+* Interesting and strange glimpse into a different world of social equality in the mid-20th Century
+* Portrays a naive and sensitive bond, unlike what one sees many times in the movies
+* Really likes his breakfast
+
+## [Down and Out in Paris and London](http://www.amazon.co.uk/Paris-London-Penguin-Modern-Classics-ebook/dp/B002RI9IT2/ref=sr_1_1?ie=UTF8&qid=1397846834&sr=8-1&keywords=down+and+out+in+paris+and+london) by George Orwell
+
+* An explanation of poverty and homelessness which I hadn't ever had before
+* Not at all patronising or looking for sympathy, merely an account of the author's time experiencing poverty and the effect it has on the human spirit
+* Very easy read
+* Great excerpt: *"I shall never again think that all tramps are drunken scoundrels, nor expect a begar to be grateful when I give him a penny, nor be surprised if men out of work lack energy, nor subscribe to the Salvation Army, nor pawn my clothes, nor refuse a handbill, or enjoy a meal at a smart restaurant. That is a beginning."*
+* Maybe we should all spend a bit more time down-to-earth
