@@ -29,3 +29,12 @@
 * Very easy read
 * Great excerpt: *"I shall never again think that all tramps are drunken scoundrels, nor expect a begar to be grateful when I give him a penny, nor be surprised if men out of work lack energy, nor subscribe to the Salvation Army, nor pawn my clothes, nor refuse a handbill, or enjoy a meal at a smart restaurant. That is a beginning."*
 * Maybe we should all spend a bit more time down-to-earth
+
+## [The Cargo Ship Diares](http://www.amazon.com/The-Cargo-Ship-Diaries-countries-ebook/dp/B00JDNAQ36) by Niall Doherty
+
+* Blatantly and honestly self-obsessed
+* Sometimes narcissitic
+* Actually seems like a nice, honest guy just trying to figure out life
+* Has some great ideas and suggestions for how to deal with certain situations on the road
+* Easy read, pretty fun and inspiring
+* Good for a lazy weekend
