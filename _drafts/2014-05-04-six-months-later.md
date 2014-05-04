@@ -8,15 +8,29 @@ published: false
 
 -- [Me, 9th November 2013](http://danhough.com/blog/unhuddled/)
 
+I admit it: I failed.
+
+...kind of.
+
 Six months ago, I was newly unemployed, fresh from my job at Huddle where I'd learned so much, and made many friends. I was nervous and excited. I published a blog post which struck a chord with hundreds of people and attracted the attention of thousands.
 
-I promised readers that I'd be spending my time doing things I loved and using my "runway funds" to do so, hopefully turning that into profit. Again with the quote:
+In hindsight, if I had followed the vague, thirteen-word plan I'd hastily typed up that night, I probably would not have had as much fun as I've had in the last six months.
 
-> **I'm going to do the things that I enjoy doing, full time**
+## The Beginning of an Era
 
-Did I succeed at that goal? Well, kind of. Let me explain.
+Unemployed life was pretty novel at first. On my first day, three separate people sent me a link to that [Mitchell & Webb sketch about working from home](https://www.youtube.com/watch?v=co_DNpTMKXk). I continued to go to my regular social engagements. At movie club every Friday I was jokingly teased about sitting around doing nothing all day. At early-morning bouldering sessions I had a much more blazé attitude towards finishing up our session at 7:40am as my friends rushed to work and I sauntered back home or to a nearby café with my laptop.
 
-## The Paid Work
+Naturally, though, I didn't spend all my time sitting around, playing computer games and watching crappy daytime TV. I've heard the horror stories and read the advice, so I knew from the beginning that I needed a routine. So, I decided I'd stick to my usual routine: wake up, do some exercise, shower, eat breakfast, get to work, stop at about 6pm. But working solo from home is not at all the same as working in a team, in an office. I had more flexibility because I had nobody to report to, and nobody waiting on me. I had no stand-ups, no retrospectives, no planning meetings, no lunch & learns, and most days, no team lunches (I still visited friends, from time to time).
+
+There were some days I went all day standing up at my desk, programming and speaking to not a soul until my flatmate came home or I went to visit my girlfriend.
+
+It wasn't long, though, before I started running around town chasing potential jobs.
+
+## The Meetings
+
+The moment a software engineer in London makes it public knowledge that they are no longer attached to a particular company, they're going to be inundated with emails from former colleagues, recruiters, and total strangers looking for a work partner. I guarantee it.
+
+### All the below is shit.
 
 It wasn't long after publishing my news that I started getting emails and Facebook messages from former colleagues and complete strangers about work that I might be suitable for. This was great, because this is the kind of thing I wanted: I wanted to open myself up to new opportunities which I couldn't pursue whilst in full-time employment. But I was bugged my a part of my mind which told me, "you wanted to work for yourself.
 
