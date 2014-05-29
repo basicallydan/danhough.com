@@ -13,7 +13,7 @@ So I figured that after about 3 and a half months of experience with the cross-p
 
 ## Pre- and post- build scripts
 
-It's not very well known that PhoneGap allows you to run scripts at various stages in the build cycle. 
+It's not very well known that PhoneGap allows you to run scripts, or "hooks" as they are called, at various stages in the build cycle. 
 
 ## The relationship between PhoneGap and Cordova
 
