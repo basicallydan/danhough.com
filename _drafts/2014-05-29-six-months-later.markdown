@@ -16,7 +16,7 @@ I admit it: I failed.
 
 ...kind of.
 
-Six months ago, I was newly unemployed, fresh from my job at Huddle where I'd learned so much, and made many friends. I was nervous and excited. One night, I published a blog post which struck a chord with hundreds of people and attracted the attention of thousands.
+Seven months ago, I was newly unemployed, fresh from my job at Huddle where I'd learned so much, and made many friends. I was nervous and excited. One night, I published a blog post which struck a chord with hundreds of people and attracted the attention of thousands.
 
 I've been writing this post for a month but it was becoming long and boring. So, here I am getting it done in simpler terms. Rather than writing all about what I've been up to, I'm going to share with you some snippets of what has been going on and what I've learned. If there's demand for more detail, I will provide.
 
@@ -62,7 +62,9 @@ Plus, there's something to be said for the feeling of creating an invoice and se
 
 ## The grass is still greener, sometimes
 
-One of the general lessons I've learned is that the grass usually is greener at some point or another, regardless of the situation. Full-time employment has it's perks, and sometimes, especially when talking to my former colleagues, I look back on those perks and feel a little bit of sadness that I don't get to enjoy them, too.
+One of the lessons I'd learned before which has been further solidified is that the grass usually is greener at some point or another, regardless of the situation. Full-time employment has it's perks, and sometimes, especially when talking to my former colleagues, I look back on those perks and feel a little bit of sadness that I don't get to enjoy them, too.
+
+There's a particular aspect of being part of a company that I really miss, too. At 26, almost 4 years into my career, I still feel like it's nice and helpful to have a mentor. I had plenty at Huddle, and although there are people I can turn to for advice, I don't have a mentor out on my own. This is a problem I'd like to resolve somehow.
 
 ## I made the right choice
 
@@ -78,4 +80,34 @@ I'm not saying that I'll rule out full-time employment in the future - I'm alway
 
 ## So, what about the projects?
 
-This blog post wouldn't be complete without a peek into what I've done with my free time during the last few months. I've done a lot of little things here and there and I'm very proud of what I've achieved.
+This blog post wouldn't be complete without a peek into what I've done with my free time during the last few months. I've done a lot of little things here and there and I'm very proud of what I've achieved. However, there are three projects which I'd to talk about here.
+
+### Interfake
+
+What started as a small project before I left Huddle to help my buddy Pete to spin up a mocked REST API for the Huddle iOS app tests became my most popular and contributed-to GitHub project yet. [Interfake](https://github.com/basicallydan/interfake) has become a very useful tool to quickly spin up fake APIs, which I hope is now a part of many peoples' prototyping or testing toolkit, and I have partly-realised plans which will make the process even easier: [fluent API creation on the command line](https://github.com/basicallydan/interfake/issues/5).
+
+### Pub Crawl: London
+
+Back when I released StreetScout I had a very strong sense that it would make a good tool for planning a pub crawl, but I wasn't satisfied with the kind of interactions which it involved for something like a pub crawl. Too much clicking back and forth. My idea was that it would be much nicer to swipe from one pub to the next. Simultaneously, I wanted to use this same interaction to navigate the London Underground, and so the idea for Pub Crawl: London was born.
+
+![One of the key interactions of the pub crawl app](https://d13yacurqjgara.cloudfront.net/users/118181/screenshots/1326115/london-pub-crawl-interaction.gif)
+
+It's an app which allows me to explore and experiment with UX, app marketing, in-app purchases and has created [some pretty good Dribbble fodder](https://dribbble.com/basicallydan/buckets/200704-Pub-Crawl-LDN). I don't expect to make a lot from it, but a few quid would be nice. I'm pretty pleased with how it has ended up and it'll be on the iOS App Store very soon.
+
+### Busking
+
+As you may remember me mentioning somewhere, I began busking on the London Underground last year. Sadly lately I haven't had the chance which I mostly blame on a tumultuous housing situation, but it was truly a joyous experience which I hope to get a bit more of before my busking licence expires. If you'd like a taste of what it's like, [I wrote about it on Medium](https://medium.com/world-of-music/six-commuters-of-the-london-underground-e3f0f83452ad) and there's [a pretty good YouTube video which I recorded at Southwark station](https://www.youtube.com/watch?v=LmDXpLbi2w0).
+
+Live music is something I don't do anywhere near as much as I'd like to, and I'd like to remedy that. If you have an open mic night which needs a half-arsed English folk musician who sings silly songs from his silly face, let me know.
+
+## What's next?
+
+I'm still flying solo, for now. As I've alluded, I do enjoy many aspects of working on client work. Ultimately though, I still want to create my own things and deliver value to the rest of the world with my own creations. I'd like to open up a co-working space and build a software development studio. I'd like to help others get their ideas off the ground and come up with ways to work with friends and people whose work I admire. I'd like to do more public speaking, and encourage people to get involved in the open-source community. I'd like to play more music. I'd like to live abroad again.
+
+There's a whole load of things I want to do which I think are easier to do when I'm not attached tightly to an employer. I could be wrong, but there's only one way to find out.
+
+Oh, and I'm well and truly back in London now and I'd like to start getting involved with the tech community again. So if you fancy a chat, [get in touch](mailto:dan@danhough.com).
+
+To everyone who read the original post: thanks. If you emailed me or encouraged me in the comments: extra thanks. If you followed up in an email within the last month: even more thanks.
+
+To all of my friends and family, and my wonderful girlfriend Elli who all humoured me at the beginning and supported my decision to go into the unknown without trying to scare me with talk of losing pensions, job security or free food: **maximum thanks**. You're awesome.
