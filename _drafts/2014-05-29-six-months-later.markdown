@@ -56,7 +56,7 @@ Now that any work I do is billed with invoices instead of paid as a salary, I ca
 
 Tell someone what you're willing to work for. If they accept, great! If not, they may have a lower offer. A lot of advice says to only accept jobs which are willing to pay the rate that you're offering, but I'm not yet convinced by this rule. Look at each job individually and you may find that you can gain more from a lower-paying job than a higher-paying job, in non-monetary terms.
 
-For instance, one of the jobs I accepted in the last 6 months I took for a rate lower than one would expect in London, but the location was at a Ski resort, and they were extremely helpful in terms of getting me settled in. Another job had me in charge of an API written in NodeJS, which gave me my first bit of experience writing and maintaining *production-level* NodeJS applications.
+For instance, one of the jobs I accepted in the last 6 months I took for a rate lower than one would expect in London, but the location was at a ski resort, and they were extremely helpful in terms of getting me settled in. Another job had me in charge of an API written in NodeJS, which gave me my first bit of experience writing and maintaining *production-level* NodeJS applications.
 
 Plus, there's something to be said for the feeling of creating an invoice and sending it off to a client. There's something very empowering about that.
 
@@ -102,7 +102,7 @@ Live music is something I don't do anywhere near as much as I want, and I'd like
 
 ## What's next?
 
-I'm still flying solo, for now. As I've alluded, I do enjoy many aspects of working on client work. Ultimately, though, I still want to create my own things and deliver value to the rest of the world with my own creations. I'd like to open up a co-working space and build a software development studio. I'd like to help others get their ideas off the ground and come up with ways to work with friends and people whose work I admire. I'd like to do more public speaking, and encourage people to get involved in the open-source community. I'd like to play more music. I'd like to live abroad again.
+I'm still flying solo, for now. As I've alluded, I do enjoy many aspects of working on client work. Ultimately, though, I still want to create my own things and deliver value to the rest of the world with my own creations. I'd like to open a co-working space and build a software development studio. I'd like to help others get their ideas off the ground and come up with ways to work with friends and people whose work I admire. I'd like to do more public speaking, and encourage people to get involved in the open-source community. I'd like to play more music. I'd like to live abroad again.
 
 There's a whole load of things I'd like to do which I think are easier to do when I'm not attached to an employer. I could be wrong, but there's only one way to find out.
 
