@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 title: Six (Seven) Months Later
-date_created: 04 June 2014
+date_created: 08 June 2014
 location: London, UK
 ---
 
@@ -99,6 +99,8 @@ It's an app which allows me to explore and experiment with UX, app marketing, in
 ### Busking
 
 As you may remember me mentioning in a previous post, I began busking on the London Underground last year. Sadly, I haven't had the chance to busk lately, which I mostly blame on a tumultuous housing situation, but it has been a great experience so far. If you'd like a taste of what it's like, [I wrote about it on Medium](https://medium.com/world-of-music/six-commuters-of-the-london-underground-e3f0f83452ad) and there's [a pretty good YouTube video which I recorded at Southwark station](https://www.youtube.com/watch?v=LmDXpLbi2w0).
+
+![Busking on the Tube](/img/busking.jpeg)
 
 Live music is something I don't do anywhere near as much as I want, and I'd like to remedy that. If you have an open mic night which needs a half-arsed English folk musician who sings silly songs from his silly face, let me know.
 

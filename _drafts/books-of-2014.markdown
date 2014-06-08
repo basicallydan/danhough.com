@@ -41,4 +41,8 @@
 
 ## [The Time Machine](http://www.amazon.co.uk/Time-Machine-Enriched-Classics-Pocket-ebook/dp/B00APIJZGC/ref=tmm_kin_title_0) by H.G. Wells
 
+Classic sci-fi from a bygone era which still amazes me and makes my imagination go wild.
 
+## [American Gods](http://www.amazon.co.uk/American-Gods-Neil-Gaiman/dp/0755322819) by Neil Gaiman
+
+First ever Gaiman book and I was not disappointed. Really interesting and well-executed idea that I think many have probably explored before, but his attention to detail and use of the "blank slate" character is superb.
