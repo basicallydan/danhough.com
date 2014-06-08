@@ -94,7 +94,7 @@ Back when I released [StreetScout](http://streetscoutapp.com) I had a very stron
 
 ![One of the key interactions of the pub crawl app](https://d13yacurqjgara.cloudfront.net/users/118181/screenshots/1326115/london-pub-crawl-interaction.gif)
 
-It's an app which allows me to explore and experiment with UX, app marketing, in-app purchases, and has created [some pretty good Dribbble fodder](https://dribbble.com/basicallydan/buckets/200704-Pub-Crawl-LDN). I don't expect to make a lot of money from it, but a few quid would be nice. I'm pretty pleased with how it has ended up and it'll be on the iOS App Store very soon.
+It's an app which allows me to explore and experiment with UX, app marketing, in-app purchases, and has created [some pretty good Dribbble fodder](https://dribbble.com/basicallydan/buckets/200704-Pub-Crawl-LDN). I don't expect to make a lot of money from it, but a few quid would be nice. I'm pretty pleased with how it has ended up and it'll be on the iOS App Store very soon, once beta testing has completed.
 
 ### Busking
 
