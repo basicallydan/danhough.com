@@ -18,8 +18,6 @@ I admit it: I failed.
 
 Seven months ago, I was newly unemployed, fresh from my last full-time job, where I'd learned so much, and made many friends. I was nervous and excited. One night, I published a blog post which struck a chord with hundreds of people and attracted the attention of thousands.
 
-I've been writing this post for a month but it was becoming long and boring. So, here I am getting it done in simpler terms. Rather than writing all about what I've been up to, I'm going to share with you some of the trials and tribulations of my new life. If there's demand for more detail, I will provide.
-
 ## How I failed
 
 **Confession:** I haven't been unemployed for the last six months and sadly, I didn't (strictly speaking) end up doing what I enjoy full-time. I've been self-employed, working for paying clients. I've had two software contracts with different startups and now I'm starting another.
@@ -40,11 +38,15 @@ It wasn't all fun and games, though.
 
 There are now a lot more things that, as a self-employed person in the UK, I need to do. I need to file my own tax return, for example, and keep my own tax reserve. I can't just receive a paycheck and know for sure that all that money is mine.
 
-I actually like this part of it. I like knowing where my money is going, and how I can legitimately and fairly pay fewer taxes because the things I've bought have contributed towards my business as a software engineer.
+I actually like this part of it. I like knowing where my money is coming from and why, how my taxes are worked out and where the money is going.
+
+I also have more power over how I spend my time. I find myself spending less time working on individual projects but the time that I *do* spend is much more effective. The subtle kind of resent I felt by being bound by the rules of my employment no longer exists.
 
 Naturally, however, the freedom has it's downsides. I'm on my own now in so many more ways. Now, when I'm stuck with a problem I can't typically turn around and ask a colleague to drop everything and help me.
 
 I can't have things bought for me anymore, such as conference tickets and software licences. All of my work expenses are *my* expenses, so the opportunity cost when buying things is a lot higher.
+
+For instance, if I decide to go to an expensive conference there's a chance I won't get much out of it, and as a result may not be able to upgrade some hardware in a few months time or, in fact, go on a personal holiday. Before, my employer had a much larger budget for this sort of thing and didn't have to worry about it so much, and if I didn't get much out of it then it wouldn't have affected how I spend my money on personal holidays and hardware upgrades.
 
 I also don't get company lunches anymore, or health insurance, or paid holidays, or nights out with the company card behind the bar, or anything like that. Sometimes I can get a little envious of my employed friends when they do all these team-building-moral-improving-bonding acitivities as part of their working lives.
 
@@ -70,7 +72,7 @@ There's a particular aspect of being part of a company that I really miss. At 26
 
 I may not have totally succeeded with my initial goal (yet!) but I think I'm on the right track. The time I've spent being self-employed has so far been enlightening, exciting, and *very* freeing.
 
-Since I was a boy I've always been striving for more independence, and the move I made to leave full-time employment has given me that in a number of ways.
+Like many, I've always been striving for more independence, and the move I made to leave full-time employment has given me that in a number of ways.
 
 I've gained a greater understanding of my finances, gained a better feel for running a business, and understood what it's like not to have a regular, consistent paycheck coming in.
 
