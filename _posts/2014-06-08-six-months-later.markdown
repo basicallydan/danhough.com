@@ -115,3 +115,5 @@ Oh, and I'm well and truly back in London now so I'd like to start getting invol
 To everyone who read the original post: thanks. If you emailed me or encouraged me in the comments: extra thanks. If you followed up in an email within the last month: even more thanks.
 
 To all of my former colleagues, my friends and my family, and my wonderful girlfriend, who all humoured me at the beginning and supported my decision to go into the unknown without trying to scare me with talk of losing pensions, job security or free food: **maximum thanks**. You're awesome.
+
+Feel free to discuss this here, or on [Hacker News](https://news.ycombinator.com/item?id=7864762).
