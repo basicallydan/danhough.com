@@ -1,27 +1,35 @@
-title: On the benefits of API Prototyping
+---
+published: false
+layout: post
+title: API Prototyping
+date_created: 12 June 2014
+location: London, UK
+---
 
-This article is aimed at developers, product managers and software architects who are already bought into the idea that developing and API which is functionally and conceptually separate from the UI part of a piece of software. You may be developing a web application or mobile application, but whatever it is you've decided to keep the UI completely separate from the backend. Specifically, I'm going to talk about prototyping HTTP APIs.
+API prototyping is the process of iterating through simple, non-functional versions of an interface with little to no up-front design until you've come up with a beautiful interface that works for both it's creators and consumers.
 
-A common route to go down for this is for one developer/team to sit on one side of the desk and start developing a beautiful REST API, while another developer/team sits on the other side, hacking away at a front-end which points at the nascent API, or perhaps writing tests to create their front-end.
+Prototyping is used to test a concept, and save on the time and effort it takes to fully construct the software behind the API. In the modern world of app development (both web and mobile) this usually means creating an HTTP API which simply returns static data which isn't fetched from a database or some other dynamic data source.
 
-API prototyping is the process of rapidly creating and iterating on your API design with a real, working prototype which can be used by a consumer such as a web app or a mobile app.
+One of the benefits of going through this process is a lower barrier to entry for **front-end developers**. Many front-end devs start projects these days with the intention of creating a Single Page App (SPA) which has no direct link to the back-end concerns.
 
-This is a useful technique for developing both the front-end and back-end because it allows the developers to work out the contract between the two parts in practice instead of just in design and can speed up development of both. Let's talk about why with the help of our fictional friends, **Barry the front-end developer** and **Gemima the back-end developer**.
+They can create the endpoints they expect to see and give those endpoints status codes, response bodies and headers until they're satisfied that they're working with an API which fits their needs.
 
-## Lower barrier to entry for front-end developers
+For **back-end developers** we get a similar benefit: the ability to iterate on the design of their API until it looks the way they think it should without having to faff about in the proper codebase. They can leave the complex logic until they know what that logic is supposed to produce.
 
-Barry doesn't like developing APIs, which is why he became a front-end dev. His particular style of working is to get straight into the guts of the work. Set up the models, the API handlers, the templates and the views, and start working on real stuff. But instead of typing in hard-coded strings to represent the data, or intercepting API requests in his code, he sets up a quick fake API which he hosts locally and points his API handlers at.
+It's important that the back- and front- end devs work together here. The back-ender should be sharing their wisdom and experience in developing APIs and introducing the constraints they think are important as soon as possible, and the front-ender needs to understand those constraints when deciding what they need returned in the response.
 
-Barry doesn't have to go and ask Gemima to set up an API for him because he has API prototyping tools at his disposal - tools which are designed specifically for the purpose of creating quick and dirty APIs. They may not be pretty and they may not be final but at least for now he has something to work with.
+The front-end developer writes the code that hits the real API and the back-end developer works with them to come up with a water-tight interface. All the while *actual code* is being written and the design stage can be dramatically sped up.
 
-## Faster feedback loop for back-end developers
+## How to get started with API prototyping
 
-Gemima has a lot of tasks ahead of her for making a fully-fledged backend. Apart from creating the public-facing API she also has to come up with a decent way of connecting that to the data model, set up a queuing system for more complex requests, implement payment handlers and all manner of complex things, but she knows that Barry is relying on her input for getting the contract worked out between the API and the front-end.
+There are a few tools available. One of them is something I have developed with the help of some folks on GitHub (Interfake) but there are alternatives if it isn't for you.
 
-With the same API prototyping tools she can work with Barry to come up with a sensible API. She can look at what Barry has come up with, refine it based on her vast wisdom of API best practices and send it back.
+**[Interfake](https://github.com/basicallydan/interfake)** is an open-source library and command-line tool written in JavaScript which allows you to create a basic endpoint in a single line:
 
-When Barry tells Gemima five minutes later that they're missing a couple of pieces of data or that the route for a particular endpoint is hugely ambiguous, they can refine it quickly and get on with some proper work.
+```new Interfake().get('/ping').status(200).body({ message: "Hello" }).listen(3000)```
 
-## Zero up-front design
+That's all it takes to get started. It supports custom headers, dynamic creation of new endpoints and can be started on the command line by loading a JSON file containing your mocked API, as well as [many other features](https://github.com/basicallydan/interfake#api). It's also in active development, so expect new features and improvements. It currently only supports JSON as the response type, but that is the only real limitation; apart from that it is extremely unopinionated.
 
-Barry and Gemima are developers, and they hate having to write huge design docs. If they have an API prototyping tool at their beck and call they don't actually need to specify how the API is gonna look, they can just start writing it *directly*.
+**Apiary** is a SaaS product which includes an API mocking solution, called [Blueprint](http://apiary.io/blueprint). It's fairly verbose and quite readable, and has many features including the ability to set headers and have parameter-based request URLs. I'd say the main benefit of using Apiary is that it's accessible anywhere, being an online solution, but you do need to have an account for it and it won't work well in tests.
+
+**Fortune.js** is a framework for prototyping hypermedia APIs with built-in database adapters including the dependency-free NeDB. It also implements the work-in-progress [JSON API standard](http://jsonapi.org/), so it promotes a good approach to API design but as a result is quite opinionated, which isn't necessarily for everyone. It does a lot of the heavy lifting, though, so it's a good way to get a CRUD app set up quickly.
