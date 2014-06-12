@@ -20,6 +20,8 @@ It's important that the back- and front- end devs work together here. The back-e
 
 The front-end developer writes the code that hits the real API and the back-end developer works with them to come up with a water-tight interface. All the while *actual code* is being written and the design stage can be dramatically sped up.
 
+If you're bogged down with API design work, I'd recommend trying a prototyping process as soon as possible.
+
 ## How to get started with API prototyping
 
 There are a few tools available. One of them is something I have developed with the help of some folks on GitHub (Interfake) but there are alternatives if it isn't for you.
