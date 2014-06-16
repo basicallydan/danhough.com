@@ -35,3 +35,7 @@ That's all it takes to get started. It supports custom headers, dynamic creation
 **Apiary** is a SaaS product which includes an API mocking solution, called [Blueprint](http://apiary.io/blueprint). It's fairly verbose and quite readable, and has many features including the ability to set headers and have parameter-based request URLs. I'd say the main benefit of using Apiary is that it's accessible anywhere, being an online solution, but you do need to have an account for it and it won't work well in tests.
 
 **Fortune.js** is a framework for prototyping hypermedia APIs with built-in database adapters including the dependency-free NeDB. It also implements the work-in-progress [JSON API standard](http://jsonapi.org/), so it promotes a good approach to API design but as a result is quite opinionated, which isn't necessarily for everyone. It does a lot of the heavy lifting, though, so it's a good way to get a CRUD app set up quickly.
+
+Hopefully this gives you a nice, simple introduction to the concept, and if you'd like to share any tips or other tools to use, please do so in the comments.
+
+Thank you to [Ian](https://twitter.com/icooper) for giving this post a once-over, and, frankly, for teaching me pretty much all I know about REST. Legend!
