@@ -46,3 +46,7 @@ Classic sci-fi from a bygone era which still amazes me and makes my imagination 
 ## [American Gods](http://www.amazon.co.uk/American-Gods-Neil-Gaiman/dp/0755322819) by Neil Gaiman
 
 First ever Gaiman book and I was not disappointed. Really interesting and well-executed idea that I think many have probably explored before, but his attention to detail and use of the "blank slate" character is superb.
+
+## [A Little History of Philosophy] by Nigel Warburton
+
+Very readable and accessible, great for someone with only a very basic level of understanding the history of philosophy and all of it's greatest contributors. Nigel does touch on some of his own opinion at times but in general stays quite unbiased and delivers all the different philosophies of the 40 thinkers features in a way which seems very fair. It would be wise to note also that this is a history of *western* philosophy and doesn't touch on ideas from the east. Great intro to a large and fascinating subject.
