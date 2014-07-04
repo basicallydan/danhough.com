@@ -221,7 +221,7 @@ a:visited {
 }
 
 .button-projects {
-	background-color:$light-blue 
+	background-color:$light-blue;
 	color:$white;
 	-webkit-text-stroke: 0px;
 
@@ -252,8 +252,15 @@ a:visited {
 	-webkit-text-stroke: 0px;
 	text-decoration:none;
 
-	span {
-		display:block;
+	.left {
+		border-right: 1px solid white;
+		padding-right: 1rem;
+		margin-right: 1rem;
+		display: inline-block;
+	}
+
+	.right {
+		display: inline-block;
 	}
 
 	&:hover {

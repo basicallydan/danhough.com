@@ -2642,6 +2642,13 @@ a:visited {
   color: #fefefe;
   -webkit-text-stroke: 0px;
   text-decoration: none; }
+  .button-product .left {
+    border-right: 1px solid white;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    display: inline-block; }
+  .button-product .right {
+    display: inline-block; }
   .button-product:hover {
     -webkit-transition: color 0.2s ease-in-out;
     -moz-transition: color 0.2s ease-in-out;

@@ -16,9 +16,11 @@ I'll create a landing page for you, including information about your product, te
 This will be built in HTML5, CSS3 and JavaScript, and hosted on GitHub pages completely free of charge. Once it's done, I'll hand the reigns over completely to you.
 
 <a href="mailto:dan@danhough.com&subject=Landing Page" class="button button-product">
-	<span>One-time cost</span>
-	<span class="cost">£300</span>
-	<span>Email me</span>
+	<span class="left">
+		<span>One-time cost</span>
+		<span class="cost">£300</span>
+	</span>
+	<span class="right">Email me</span>
 </a>
 
 ### API Consultancy
