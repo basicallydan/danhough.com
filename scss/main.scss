@@ -221,7 +221,7 @@ a:visited {
 }
 
 .button-projects {
-	background-color:$light-blue;
+	background-color:$light-blue 
 	color:$white;
 	-webkit-text-stroke: 0px;
 
@@ -237,6 +237,24 @@ a:visited {
 	background-color:$light-red;
 	color:$white;
 	-webkit-text-stroke: 0px;
+
+	&:hover {
+		// background-color:$red;
+		@include transition(color, 0.2s, ease-in-out);
+		@include transition(box-shadow, 0.2s, ease-in-out);
+		@include box-shadow(0px, -3px, 0px, 0px, transparentize($black, 0.7), "inset");
+	}
+}
+
+.button-product {
+	background-color:$green;
+	color:$white;
+	-webkit-text-stroke: 0px;
+	text-decoration:none;
+
+	span {
+		display:block;
+	}
 
 	&:hover {
 		// background-color:$red;
