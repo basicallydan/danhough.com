@@ -47,6 +47,10 @@ Classic sci-fi from a bygone era which still amazes me and makes my imagination 
 
 First ever Gaiman book and I was not disappointed. Really interesting and well-executed idea that I think many have probably explored before, but his attention to detail and use of the "blank slate" character is superb.
 
-## [A Little History of Philosophy] by Nigel Warburton
+## [A Little History of Philosophy](http://www.amazon.co.uk/Little-History-Philosophy-Nigel-Warburton-ebook/dp/B005W9XXLW?tag=daplad-21) by Nigel Warburton
 
 Very readable and accessible, great for someone with only a very basic level of understanding the history of philosophy and all of it's greatest contributors. Nigel does touch on some of his own opinion at times but in general stays quite unbiased and delivers all the different philosophies of the 40 thinkers features in a way which seems very fair. It would be wise to note also that this is a history of *western* philosophy and doesn't touch on ideas from the east. Great intro to a large and fascinating subject.
+
+## [A Little History of Philosophy](http://www.amazon.co.uk/Moonraker-James-Bond-007-Vintage-ebook/dp/B008FQBD7K?tag=daplad-21) by Ian Fleming
+
+Certainly the most serious and political of the 007 novels that I've read so far. Set entirely in England and partly in London this is a much more easier novel to relate to than the others. Less focus on mysoginy and bigotry and more on the poltical landscape of the time, Bond shows real signs of maturity in this thrilling episode of the 007 series.

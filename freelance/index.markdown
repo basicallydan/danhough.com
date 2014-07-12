@@ -23,6 +23,6 @@ This will be built in HTML5, CSS3 and JavaScript, and hosted on GitHub pages com
 
 ### API Consultancy
 
-An API (Application Programming Interface) is a great way to encourage third parties to interact with the data your business or organisation is in possession of.
+In recent years, the trend has been moving towards businesses providing an API (Application Programming Interface) to reduce cost and lower the barrier to entry for business-to-business interactions.
 
 ### Prototype/MVP
