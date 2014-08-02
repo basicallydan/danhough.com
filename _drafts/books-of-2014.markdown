@@ -50,3 +50,11 @@ First ever Gaiman book and I was not disappointed. Really interesting and well-e
 ## [A Little History of Philosophy] by Nigel Warburton
 
 Very readable and accessible, great for someone with only a very basic level of understanding the history of philosophy and all of it's greatest contributors. Nigel does touch on some of his own opinion at times but in general stays quite unbiased and delivers all the different philosophies of the 40 thinkers features in a way which seems very fair. It would be wise to note also that this is a history of *western* philosophy and doesn't touch on ideas from the east. Great intro to a large and fascinating subject.
+
+[Moonraker] by Ian Fleming
+
+Tense, so much more serious. Really great.
+
+[Superfreakonomics]
+
+Delivered in the same expert storyteller way I expect from the duo. Raises interesting questions but not afraid to cover hard topics which question morality itself. The bit on US healthcare was a bit boring
