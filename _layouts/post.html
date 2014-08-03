@@ -2,25 +2,36 @@
 layout: default
 ---
 
+<style type="text/css">
+	.end-of-post-cta {
+		margin: 24px auto;
+	}
+
+	.end-of-post-cta input {
+		padding: 0.5rem 0.4rem;
+		font-size: 1rem;
+	}
+
+	.end-of-post-cta input[type="submit"] {
+		padding: 0.6rem 0.4rem;
+	}
+</style>
+
 <div class="body">
 	<div class="post">
 		<h1 id="top">{{ page.title }}</h1>
 		<p class="meta">Published {{ page.date_created }} in {{ page.location }}</p>
 		{{ content }}
-		<p>You can stalk me on Twitter <a href="http://twitter.com/basicallydan">@basicallydan</a>. Or, <a href="#top">go back to the top</a> of this article.</p>
-		<div id="disqus_thread"></div>
-		<script type="text/javascript">
-		    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-		    var disqus_shortname = 'danhough'; // required: replace example with your forum shortname
-
-		    /* * * DON'T EDIT BELOW THIS LINE * * */
-		    (function() {
-		        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-		        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-		    })();
-		</script>
-		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-		<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+		<hr style="height:3px">
+		<p>Heckle me on Twitter <a href="http://twitter.com/basicallydan">@basicallydan</a>.</p>
+		<div class="end-of-post-cta">
+			<p>Get more posts like this in your inbox:</p>
+			<form action="//danhough.us8.list-manage.com/subscribe/post?u=fb767a2592dd6490ca38c324b&amp;id=2e88f8cc04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				<input placeholder="you@domain.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+				<input type="submit" value="Subscribe">
+			</form>
+		</div>
+		{% include recent-posts.html %}
+		{% include disqus.html %}
 	</div>
 </div>

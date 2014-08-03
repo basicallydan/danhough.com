@@ -4,6 +4,7 @@ layout: post
 title: You should use hypermedia in your API
 date_created: 12 July 2014
 location: London, UK
+comments: false
 ---
 
 Let's get something straight, API Developers of the World: **Your JSON API should [include hypermedia links](http://en.wikipedia.org/wiki/HATEOAS)**. (and [it might help to do it using HAL](http://stateless.co/hal_specification.html)). Why? I'll give you three reasons. This list is not exhaustive.
