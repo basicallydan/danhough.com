@@ -1,8 +1,8 @@
-<section class="navigation" style="border-top: 1px dotted #ddd;padding-top:13; margin:0">
+<div class="post-navigation">
   {% if page.previous %}
     <div class="pull-left">
       <a href="{{ page.previous.url }}">
-        <i class='icon-angle-left'></i>
+        <i class="fa fa-angle-left icon"></i>
         <span>{{page.previous.title}}</span>
       </a>
     </div>
@@ -11,8 +11,8 @@
     <div class="pull-right">
       <a href="{{page.next.url}}">
         <span>{{page.next.title}}</span>
-        <i class='icon-angle-right'></i>
+        <i class="fa fa-angle-right icon"></i>
       </a>
     </div>
   {% endif %}
-</section>
+</div>

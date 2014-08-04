@@ -410,4 +410,10 @@ a:visited {
 	}
 }
 
+.post-navigation {
+	border-top: 1px dotted #ddd;
+	padding-top:1rem;
+	margin:0
+}
+
 @import 'syntax.scss';
