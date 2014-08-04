@@ -28,10 +28,32 @@ layout: default
 			<p>Get more posts like this in your inbox:</p>
 			<form action="//danhough.us8.list-manage.com/subscribe/post?u=fb767a2592dd6490ca38c324b&amp;id=2e88f8cc04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 				<input placeholder="you@domain.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-				<input type="submit" value="Subscribe">
+				<input class="submit-email" type="submit" value="Subscribe">
 			</form>
 		</div>
 		{% include recent-posts.html %}
 		{% include disqus.html %}
 	</div>
 </div>
+
+<script type="text/javascript">
+	var typed = false;
+	var typeHandler = function() {
+		var segmentData = {
+			location: 'Blog Post: {{ page.title }}'
+		};
+		var eventName = 'Typed into email subscription';
+		$('#mc-embedded-subscribe-form .email').unbind('keydown', typeHandler);
+	};
+	$('#mc-embedded-subscribe-form .email').bind('keydown', typeHandler);
+
+	var submitHandler = function() {
+		var segmentData = {
+			location: 'Blog Post: {{ page.title }}'
+		};
+		var eventName = 'Submitted email subscription';
+		$('#mc-embedded-subscribe-form').unbind('click', submitHandler);
+	};
+
+	$('#mc-embedded-subscribe-form').bind('submit', submitHandler);
+</script>
