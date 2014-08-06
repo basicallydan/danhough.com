@@ -1,6 +1,7 @@
 task :build_and_copy do
+	sh("jekyll build")
 	rm_r("/home/dan/websites/danielhough.co.uk/www")
-	sh("jekyll")
+	# sh("mkdir /home/dan/websites/danielhough.co.uk/www")
 	cp_r("_site/", "/home/dan/websites/danielhough.co.uk/www")
 end
 
