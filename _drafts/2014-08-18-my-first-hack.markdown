@@ -13,9 +13,9 @@ Back in those days it was common to ask your fellow forumites  -  the ones w
 
 As a fickle teenager, I would change mine a lot, so I came up with a PHP script which chose from three random images to cycle through whenever that script was hit. You would set the URL of your random avatar as your avatar URL (if the forum allowed it - otherwise it would go in your signature), and every time you came up on the forum you'd have a different avatar. There was a little control panel and you could upload new pictures whenever you liked, after logging into your account.
 
-This was cool! I had made Real Thing, and Real People used it. I think I probably had about 50-100 users. Nothing to write home about, but it felt good and I was really proud. I even allowed users to add more pictures if they sent me a little bit of money on PayPal. Premium features! What an app! I think only one person ever did this, and it might've been my mum.
+This was cool! I had made a Real Thing, and Real People used it. I think I probably had about 50-100 users. Nothing to write home about, but it felt good and I was really proud. I even allowed users to add more pictures if they sent me a little bit of money on PayPal. Premium features! What an app! I think only one person ever did this, and it might've been my mum.
 
-On refection, this app was ripe for abuse. I didn’t protect against SQL injection and I stored the images in the database. There was every chance that simply by putting someone else’s username as the query parameter, and encoding something in the right way, a malicious user with a hilarious sense of humour could replace their enemy’s avatar with something totally inappropriate. Luckily, nobody ever did this.
+On reflection, this app was ripe for abuse. I didn’t protect against SQL injection and I stored the images in the database. There was every chance that simply by putting someone else’s username as the query parameter, and encoding something in the right way, a malicious user with a hilarious sense of humour could replace their enemy’s avatar with something totally inappropriate. Luckily, nobody ever did this.
 
 It wasn't pretty, and it wasn't clever, but it was cool to me. I'd found a problem that apparently some people had, and come up with a solution that they were willing to use. I was proud.
 

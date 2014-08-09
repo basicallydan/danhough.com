@@ -1,0 +1,82 @@
+---
+published: true
+layout: post
+title: Interfake 1.9 Released
+date_created: 9 August 2014
+location: London, UK
+comments: true
+---
+
+Good news, everyone! Interfake 1.9 is now available on npm. If you're not familiar with Interfake already, I recommend checking out the [Interfake GitHub repository](https://github.com/basicallydan/interfake). If you're an existing user, head over to your repo and do this:
+
+```
+npm install interfake --save
+```
+
+## What's new?
+
+The main addition in 1.9, hence the minor version bump, is `.extends` in the fluent JavaScript interface. You may be familiar with `.creates`, which causes whatever endpoint you're currently working on to create a *new* endpoint when it has finished sending its response. `.extends` works similarly, except that it will *add to* extending response properties such as the response body, headers, status code or delay.
+
+Let's look at an example of a [CRUD](https://en.wikipedia.org/CRUD) API written using Interfake 1.9. I've removed the D(elete) part to simplify it since we're not interested in that.
+
+```js
+var interfake = new Interfake();
+
+// We start with an empty set of items
+interfake.get('/items').body({ items: [] });
+
+// When an item is created, update the items set request
+var postRequest = interfake.post('/items').status(201);
+postRequest.extends.get('/items').body({ items: [
+	{ id: 1, name: 'Item 1' }
+]});
+
+// When POST /items is hit, we creating a new resource, which needs GET and PUT endpoints. We need to work with the latter.
+postRequest.creates.get('/items/1').body({ id: 1, name: 'Item 1' });
+var putRequest = postRequest.creates.put('/items/1').body({ items: [
+	{ id: 1, name: 'Item One' }
+]});
+
+// When PUT /items/1 is hit, modify GET /items/1. This will only change whatever keys we specified in the body.
+putRequest.extends.get('/items/1').body({ name: 'Item One' });
+
+// When PUT /items/1 is hit we also need to modify GET /items to reflect the changes. We can target specific array items using numeric indices
+putRequest.extends.get('/items').body({ items: {
+	0 : { name: 'Item One' }
+}});
+
+interfake.listen(3000); // The server will listen on port 3030
+```
+
+Run the above snippet then do the following requests in cURL:
+
+```
+curl http://localhost:3000/items -X GET # returns empty array
+curl http://localhost:3000/items/1 -X GET # returns 404
+curl http://localhost:3000/items -X POST # returns 201
+curl http://localhost:3000/items/1 -X POST # returns new resource
+curl http://localhost:3000/items/1 -X PUT # returns modified resource
+curl http://localhost:3000/items/1 -X GET # returns modified resource
+```
+
+Before, we would have had to create whole new endpoints to modify small amounts of data. When you're working with large responses, the benefits are huge.
+
+This has been a long time coming for Interfake, and it took a lot of refactoring to get the codebase to a point where this was possible.
+
+## What's new behind the scenes?
+
+The refactoring involved completely changing the way that requests are handled.
+
+Rather than creating a new endpoint for the underlying *express* server for each new endpoint, Interfake now manages its own set of routes and responds to almost every request to the server using the same catch-all request handler. Then, it finds the route you're looking for and works out what to do with it.
+
+Not only is this more efficient, but it's far more intuitive as a developer working on the project.
+
+## Contributing
+
+Despite this big step forward, Interfake could still do with some love. There are some advanced templating features I'd like to implement, and some work needs to be done to add a Wiki which goes into the API in greater depth.
+
+If you'd like to help out, please check out the [CONTRIBUTING.md](https://github.com/basicallydan/interfake/blob/master/CONTRIBUTING.md) document.
+
+Thanks for reading, thanks for following Interfake, and as always, feedback is very welcome.
+
+![[Travis](http://img.shields.io/travis/basicallydan/interfake.svg)](https://travis-ci.org/basicallydan/interfake)
