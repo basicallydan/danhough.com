@@ -20,24 +20,25 @@ The main addition in 1.9, hence the minor version bump, is `.extends` in the flu
 Let's look at an example of a [CRUD](https://en.wikipedia.org/CRUD) API written using Interfake 1.9. I've removed the D(elete) part to simplify it since we're not interested in that.
 
 ```js
+var Interfake = require('interfake');
 var interfake = new Interfake();
 
 // We start with an empty set of items
 interfake.get('/items').body({ items: [] });
 
-// When an item is created, update the items set request
+// When POST /items is hit, update the GET /items request
 var postRequest = interfake.post('/items').status(201);
 postRequest.extends.get('/items').body({ items: [
 	{ id: 1, name: 'Item 1' }
 ]});
 
-// When POST /items is hit, we creating a new resource, which needs GET and PUT endpoints. We need to work with the latter.
+// When POST /items is hit, we also make GET and PUT endpoint for the new resource. We need to work with the latter.
 postRequest.creates.get('/items/1').body({ id: 1, name: 'Item 1' });
 var putRequest = postRequest.creates.put('/items/1').body({ items: [
 	{ id: 1, name: 'Item One' }
 ]});
 
-// When PUT /items/1 is hit, modify GET /items/1. This will only change whatever keys we specified in the body.
+// When PUT /items/1 is hit, modify GET /items/1. This will only change the keys we specify in the body.
 putRequest.extends.get('/items/1').body({ name: 'Item One' });
 
 // When PUT /items/1 is hit we also need to modify GET /items to reflect the changes. We can target specific array items using numeric indices
@@ -61,6 +62,8 @@ curl http://localhost:3000/items/1 -X GET # returns modified resource
 
 Before, we would have had to create whole new endpoints to modify small amounts of data. When you're working with large responses, the benefits are huge.
 
+Once again, you can extend response properties such as the response body, headers, status code or delay.
+
 This has been a long time coming for Interfake, and it took a lot of refactoring to get the codebase to a point where this was possible.
 
 ## What's new behind the scenes?
@@ -78,5 +81,3 @@ Despite this big step forward, Interfake could still do with some love. There ar
 If you'd like to help out, please check out the [CONTRIBUTING.md](https://github.com/basicallydan/interfake/blob/master/CONTRIBUTING.md) document.
 
 Thanks for reading, thanks for following Interfake, and as always, feedback is very welcome.
-
-![[Travis](http://img.shields.io/travis/basicallydan/interfake.svg)](https://travis-ci.org/basicallydan/interfake)
