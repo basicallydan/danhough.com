@@ -23,4 +23,4 @@ We all had to start somewhere. What was your first hack?
 
 EDIT: With a bit of searching, I managed to find an Archive.org snapshot of the page. It doesn't work, but [this is what it looked like](http://web.archive.org/web/20070207043937/http://www.silverferret.co.uk/sigimage/).
 
-If you like, you can [discuss this on Hacker News](https://news.ycombinator.com/item?id=8163493).
+<!-- If you like, you can [discuss this on Hacker News](https://news.ycombinator.com/item?id=8163493). -->
