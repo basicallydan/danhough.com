@@ -20,3 +20,5 @@ On reflection, this app was ripe for abuse. I didn’t protect against SQL injec
 It wasn't pretty, and it wasn't clever, but it was cool to me. I'd found a problem that apparently some people had, and come up with a solution that they were willing to use. I was proud.
 
 We all had to start somewhere. What was your first hack?
+
+EDIT: With a bit of searching, I managed to find an Archive.org snapshot of the page. It doesn't work, but [this is what it looked like](http://web.archive.org/web/20070207043937/http://www.silverferret.co.uk/sigimage/).
