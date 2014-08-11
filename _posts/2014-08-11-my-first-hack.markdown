@@ -4,7 +4,7 @@ layout: post
 title: My First Hack
 date_created: 11 August 2014
 location: London, UK
-comments: false
+comments: true
 ---
 
 When I was about 15, I spent a lot of time on web forums. We all remember PHPBB forums, right?
