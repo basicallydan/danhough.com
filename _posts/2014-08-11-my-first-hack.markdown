@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: My First Hack
-date_created: 18 August 2014
+date_created: 11 August 2014
 location: London, UK
 comments: false
 ---
