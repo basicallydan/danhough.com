@@ -9,7 +9,7 @@ comments: true
 
 When I was about 15, I spent a lot of time on web forums. We all remember PHPBB forums, right?
 
-Back in those days it was common to ask your fellow forumites  -  the ones with 'm4d photoshop skillz'  - for a new avatar based on a video game character, or with some crazy visual madness using the *Render Clouds* tool, or even an over-the-top typographic avatar with your username in it. (I was "Frag_of_lag" back then.)
+Back in those days it was common to ask your fellow forumites  -  the ones with 'm4d photoshop skillz'  - for a new avatar based on a video game character, or with some crazy visual madness using the *Render Clouds* tool, or even an over-the-top typographic avatar with your username in it. (I was "Frag\_of\_lag" back then.)
 
 As a fickle teenager, I would change mine a lot, so I came up with a PHP script which chose from three random images to cycle through whenever that script was hit. You would set the URL of your random avatar as your avatar URL (if the forum allowed it - otherwise it would go in your signature), and every time you came up on the forum you'd have a different avatar. There was a little control panel and you could upload new pictures whenever you liked, after logging into your account.
 
