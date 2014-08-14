@@ -21,7 +21,7 @@ It didn't take much thought to start to recognise what the original critic had m
 
 ---
 
-The truth is, StreetScout is *definitely* a feature. Obviously, it is technically a product: I built the API, [the web app](https://streetscout.io), and with some help I built [the iOS app](http://streetscoutapp.com) and put it on the App Store. People can download it, so it's a product. But the need it fulfills *"should"* be a feature in a different application. Foursquare, for example, or Yelp. Citymapper. Google Maps. Whatever. A widely-used and mature routing or place-finding application would be better poised to solve the problem which StreetScout exists to solve.
+The truth is, StreetScout is *definitely* a feature. Obviously, it is technically a product, too: I built the API, [the web app](https://streetscout.io), and with some help I built [the iOS app](http://streetscoutapp.com) and put it on the App Store. People can download it, so it's a product. But the need it fulfills *"should"* be a feature in a different application. Foursquare, for example, or Yelp. Citymapper. Google Maps. Whatever. A widely-used and mature routing or place-finding application would be better poised to solve the problem which StreetScout exists to solve.
 
 But, will they? Why would they? They have other priorities, and StreetScout exists to serve a niche. Not everything *has* to be a product.
 
@@ -31,4 +31,4 @@ Foursquare, Google Maps, Yelp and Citymapper aren't about to implement StreetSco
 
 Should I broaden its appeal? Maybe. Should I force it? Hell, no! If it's going to evolve, it's going to do so in an organic way.
 
-StreetScout is a feature, around which I have put together a simple, makeshift product so that said feature can be used, and I'm perfectly fine with that.
+So StreetScout is a feature, around which I have put together a simple, makeshift product so that said feature can be used. For some, that might not be enough, but it works perfectly well for me.
