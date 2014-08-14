@@ -13,7 +13,9 @@ When I show people [StreetScout, the route-finding-cum-place-finding app](https:
 
 The first time I heard this, I was a bit taken aback. "How dare they!" I exclaimed silently to myself while nodding in polite appreciation, surprised that they could put down my hard work with so little tact.
 
-The second time I heard it, it was from a friend. The third time was someone who approached me for advice, and as they began to say it, I finished their sentence for them. The fourth time, it was me.
+The second time I heard it, it was from a friend. The third time was someone who approached me for advice, and as they began to say it, I finished their sentence for them.
+
+The fourth time, it was me.
 
 It didn't take much thought to start to recognise what the original critic had meant by that. Of *course* it wasn't an insult, nor was it tactless. It was a helpful, thought-out criticism and in hindsight, I should have been less hurt.
 
@@ -27,6 +29,6 @@ And yet, I've been told by many people that I could position it as a "way to unc
 
 Foursquare, Google Maps, Yelp and Citymapper aren't about to implement StreetScout in their product offering. I'd love it if they, or someone similar, did - but for now, it will sit online and I will sometimes use it to solve the problem that it solves quite well.
 
-Should I broaden its appeal? Maybe! Should I force it? Hell, no! If it's going to evolve, it's going to do so in an organic way.
+Should I broaden its appeal? Maybe. Should I force it? Hell, no! If it's going to evolve, it's going to do so in an organic way.
 
 StreetScout is a feature, around which I have put together a simple, makeshift product so that said feature can be used, and I'm perfectly fine with that.
