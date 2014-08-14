@@ -31,4 +31,4 @@ Foursquare, Google Maps, Yelp and Citymapper aren't about to implement StreetSco
 
 Should I broaden its appeal? Maybe. Should I force it? Hell, no! If it's going to evolve, it's going to do so in an organic way.
 
-So StreetScout is a feature, around which I have put together a simple, makeshift product so that said feature can be used. For some, that might not be enough, but it works perfectly well for me.
+So StreetScout is a feature, around which I have put together a simple product in order to make said feature available. For some, that might not be enough, but it works perfectly well for me.
