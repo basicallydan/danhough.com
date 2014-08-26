@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Is it a product, or a feature?
+title: Is it a Product, or a Feature?
 date_created: 26 August 2014
 location: London, UK
 comments: true
