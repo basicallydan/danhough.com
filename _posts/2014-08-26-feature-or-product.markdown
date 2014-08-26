@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Is it a product, or a feature?
-date_created: 14 August 2014
+date_created: 26 August 2014
 location: London, UK
 comments: true
 ---
