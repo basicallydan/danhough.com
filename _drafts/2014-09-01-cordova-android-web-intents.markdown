@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Android Web Intents with Cordova
-date_created: 18 August 2014
+date_created: 01 September 2014
 location: London, UK
 comments: false
 ---
