@@ -57,4 +57,8 @@ Tense, so much more serious. Really great.
 
 [Superfreakonomics]
 
-Delivered in the same expert storyteller way I expect from the duo. Raises interesting questions but not afraid to cover hard topics which question morality itself. The bit on US healthcare was a bit boring
+Delivered in the same expert storyteller way I expect from the duo. Raises interesting questions but not afraid to cover hard topics which question morality itself. The bit on US healthcare was a bit boring.
+
+[Diamonds are Forever] by Ian Fleming
+
+Not the most action-packed so far, but certainly the one which most represents bond to me. Bond is showing signs of maturing, which is an interesting and welcome feature of the story. The characters are quite interesting, too, and the way that the story is set up (starts out in an African desert, skips to the UK, skips to the US, and then back again) is rather nice. Has some genuinely good twists which really took me by surprise. Really good, very readable. Nice that Fleming leaves out gory details in some parts, which are not necessary for underscoring the cruelty of his captors (we’ve had plenty of that in previous episodes)
