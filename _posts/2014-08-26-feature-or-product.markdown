@@ -30,3 +30,5 @@ And yet, I've been told by many people that I could position it as a "way to unc
 Foursquare, Google Maps, Yelp and Citymapper aren't about to implement StreetScout in their product offering. I'd love it if they, or someone similar, did - but for now, it will sit online and I will sometimes use it to solve the problem that it solves quite well.
 
 Should I broaden its appeal? Maybe. Should I force it? Hell, no! If it's going to evolve, it's going to do so in an organic way.
+
+(thanks to [Elli](https://twitter.com/elli_thomas) and [Jon](https://twitter.com/jonfinerty) for providing feedback on this post)
