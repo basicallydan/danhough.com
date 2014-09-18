@@ -62,3 +62,29 @@ Delivered in the same expert storyteller way I expect from the duo. Raises inter
 [Diamonds are Forever] by Ian Fleming
 
 Not the most action-packed so far, but certainly the one which most represents bond to me. Bond is showing signs of maturing, which is an interesting and welcome feature of the story. The characters are quite interesting, too, and the way that the story is set up (starts out in an African desert, skips to the UK, skips to the US, and then back again) is rather nice. Has some genuinely good twists which really took me by surprise. Really good, very readable. Nice that Fleming leaves out gory details in some parts, which are not necessary for underscoring the cruelty of his captors (we’ve had plenty of that in previous episodes)
+
+[Daemon] by Daniel Suarez
+
+I don't get the ending. I am not sure if there is a moral there except to demonstrate Sobol's remaining humanity - the fact that his avatar at the end is post surgery. Maybe he found some soul in his final days to give humanity a chance to redeem itself.
+
+Anyway, style wise Suarez annoys me a little, making many unnecessary computing references. However, his references, when they are or aren't necessary, are fairly accurate or seem accurate.
+
+A great thing about this story is how it doesn't seem to end on a low note nor a high.
+
+It is complex full of many different characters and is I think a realistic vision of a digital revolution which is unlike the "revolution" which the media portrays.
+
+He plays on many cynicalities of modern society including wars on drugs and terror.
+
+Sometimes its hard to tell whether Suarez is misogynistic or his characters. But not always.
+
+The Great Diffusion!
+
+Very gripping story. Very compelling. Want to see what happens next. I can empathise with protagonists on both sides of the war.
+
+[Terra] by Mitch Benn
+
+Terra is a sweet, comedic tale about an out-of-place human on an alien planet which explores morality and friendship and all those lovely things. It's a little bit teenagery, but a fun read and quite amusing at times. Though some of the jokes a bit too spelled-out. Easy read, too.
+
+[The Birth of Korean Cool] by Euny Hong
+
+Hong's account of Korea's transformation from nigh-on third-world status to global cultural superpower is a fun and interesting tale. She does not sell the country short and does give good justice to a frankly mind-blowing and impressive transformation which has happened in a very short time. However, she comes across rather strongly as being a bit too anti-Japanese at times and a little overly patriotic. Fair enough though, I suppose, given Korea's history of oppression. Hong's explanation of Korea's motivation is *han*, a certain combination of fear and resentment only Koreans can feel, which makes the book come seem sometimes like a very long humblebrag. Nevertheless, very entertaining and full of some interesting information about one of the world's coolest countries.
