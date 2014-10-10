@@ -3,5 +3,6 @@ baseurl: /
 url: http://danhough.com
 permalink: /blog/:title
 markdown: redcarpet
+exclude: favicon.sketch
 # redcarpet:
 #   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
