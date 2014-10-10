@@ -88,3 +88,19 @@ Terra is a sweet, comedic tale about an out-of-place human on an alien planet wh
 [The Birth of Korean Cool] by Euny Hong
 
 Hong's account of Korea's transformation from nigh-on third-world status to global cultural superpower is a fun and interesting tale. She does not sell the country short and does give good justice to a frankly mind-blowing and impressive transformation which has happened in a very short time. However, she comes across rather strongly as being a bit too anti-Japanese at times and a little overly patriotic. Fair enough though, I suppose, given Korea's history of oppression. Hong's explanation of Korea's motivation is *han*, a certain combination of fear and resentment only Koreans can feel, which makes the book come seem sometimes like a very long humblebrag. Nevertheless, very entertaining and full of some interesting information about one of the world's coolest countries.
+
+[From Russia with Love] by Ian Fleming
+
+By far my favourite Bond novel so far. This book is full of premonitions and mystery. It's got everything! Sex, suspicion, adventure, explosions, murder, double-crossing, and a good dose of humour!
+
+Amazing things about this one:
+
+* The moon thing. Days before Bond is attacked by Grant, Fleming makes many references to the three-quarter moon, as if to suggest that the time for Bond's assassination was coming close
+* The change from the Russian perspective to Bond's is so sudden and so contrasted, it is amazing that Fleming can write to empathetically with SMERSH. It's beautiful. He doesn't make the Russians out to be cold, kiniving, evil people - he just tells the story as if he were one of them.
+* The way Fleming describes Nash is perfect. The whole time, up to the very moment that he turns on Bond, the reader is left wondering whether he is Grant or not. All signs point to yes but it's hard to tell! The name, the build, the hair - but it can't be him, how would the Russians know the code??
+* The breakfast is absolutely fantastic
+* It ends on such a positive, high note with Bond hilariously fainting.
+* Bond is actually quite comical and pathetic in many ways.
+* Fleming is so good at describing environments.
+
+This is almost a tale of a man whose life has gone stale, and how his guard gets let down. In fact, Fleming even says that Bond's guard is down before he takes the mission. It was all bound to happen! Bond was *bound* to fall for the trap. Well, he won't again!
