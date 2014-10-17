@@ -5,6 +5,8 @@ date_created: 17/02/2013
 location: London, UK
 ---
 
+**EDIT:** This was edited to include code, rather than a gist.
+
 Over Christmas I wanted a simple, little project to play around with which involved making a game. I've been kind of obsessed with creating a game (which was always an on-off interest of mine growing up) since my interest in game design was reinvigorated last year when I read [Valve's Employee Handbook](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf). I know, I'm a huge cliché. Given that my programming life very much revolves around JavaScript at the moment, it made sense to do this port in HTML & JS using Canvas - plus, I'd like to get more familiar.
 
 Cliché or not, I was unswayed. So, given that for some reason people in the office were talking about it before the holidays I decided to create myself a port of SkiFree. I'm going to give you a bit of background, then outline the main things I learned whilst creating the port.
@@ -15,7 +17,26 @@ If you want to play the game (at time of writing it is still a work-in-progress,
 
 I started simple by just creating a nice little `Sprite` class, and having it take a `CanvasRenderingContext2D` from the canvas, and drawing itself onto that context.
 
-{% gist 4973324 %}
+```javascript
+var skier;
+var trees = [];
+var mouseX = getCentreOfViewport();
+var mouseY = mainCanvas.height;
+ 
+dContext.getLoadedImage = function (imgPath) {
+	if (images[imgPath]) {
+		return images[imgPath];
+	}
+};
+ 
+skier = new Skier(sprites.skier);
+tree = new Sprite(sprites.smallTree);
+ 
+skier.setPosition(mouseX, getMiddleOfViewport());
+setInterval(function () {
+  // Draw the bastards
+});
+```
 
 I grabbed some sprites from a place on the [Web](http://spriters-resource.com/submitter/Wing%20Wang%20Wao) where a chap called Wing Wang Wao had ripped them and posted them online, and then played the game for about 2 minutes before being consumed by excitement for the rest of the night. I added a monster, and made trees generate at random, and there it was: a simple port of SkiFree.
 
