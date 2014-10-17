@@ -1,0 +1,29 @@
+{
+  "name": "danhough.com",
+  "version": "1.0.0",
+  "description": "A website to be deployed at danhough.com",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basicallydan/Personal-Blog.git"
+  },
+  "keywords": [
+    "blog",
+    "daniel",
+    "hough",
+    "dan",
+    "hough",
+    "developer"
+  ],
+  "author": "Dan Hough <dan@danhough.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/basicallydan/Personal-Blog/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.8"
+  }
+}
