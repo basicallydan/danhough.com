@@ -35,7 +35,7 @@ body {
 	line-height:$standard-line-height;
 	color:$black;
 	font-family:'Roboto', sans-serif;
-	-webkit-text-stroke: 1px rgba(0, 0, 0, 0.15);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0body15);
 }
 
 pre code {
@@ -288,7 +288,7 @@ a:visited {
 	}
 }
 
-.body {
+main {
 	@extend .grid;
 	margin-top:$standard-margin;
 }
@@ -431,6 +431,20 @@ a:visited {
 	border-top: 1px dotted #ddd;
 	padding-top:1rem;
 	margin:0
+}
+
+
+.end-of-post-cta {
+	margin: 24px auto;
+}
+
+.end-of-post-cta input {
+	padding: 0.5rem 0.4rem;
+	font-size: 1rem;
+}
+
+.end-of-post-cta input[type="submit"] {
+	padding: 0.6rem 0.4rem;
 }
 
 @import 'syntax.scss';
