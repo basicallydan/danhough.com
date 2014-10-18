@@ -6,7 +6,7 @@ var config = {
 		destination: './_site'
 	},
 	live: {
-		destination: '/Users/dan/testdanhough.com'
+		destination: '/home/dan/websites/danielhough.co.uk/www'
 	}
 };
 var environment = 'local';
