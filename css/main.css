@@ -1929,7 +1929,7 @@ table {
  * 2. Remove any margins and paddings that might affect the grid system.
  * 3. Apply a negative `margin-left` to negate the columns’ gutters.
  */
-.grid, .top-level-full-width, .hero, main {
+.grid, body > header > section, body > header > article, body > header > div, body > main > section, body > main > article, body > main > div, body > footer > section, body > footer > article, body > footer > div, body > section > section, body > section > article, body > section > div, body > div > section, body > div > article, body > div > div, .hero > div {
   list-style: none;
   /* [1] */
   margin: 0;
@@ -2629,9 +2629,8 @@ table {
  * Pull classes, to move grid items back to the left by certain amounts.
  */
 body {
-  margin: 24px auto;
-  padding: 0 24px;
-  max-width: 800px;
+  margin: 24px 0;
+  padding: 0;
   font-size: 14pt;
   line-height: 20pt;
   color: #333333;
@@ -2685,10 +2684,11 @@ a:link {
 a:visited {
   color: #3a567d; }
 
-.top-level-full-width .centered {
+body > header > section, body > header > article, body > header > div, body > main > section, body > main > article, body > main > div, body > footer > section, body > footer > article, body > footer > div, body > section > section, body > section > article, body > section > div, body > div > section, body > div > article, body > div > div {
+  max-width: 848px;
   margin: 0 auto; }
 
-.header-container h1 {
+header h1 {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
@@ -2696,11 +2696,11 @@ a:visited {
   text-indent: -4px;
   font-size: 5.2em; }
   @media only screen and (max-width: 480px) {
-    .header-container h1 {
+    header h1 {
       font-size: 1.4em;
       text-indent: 0;
       line-height: 1; } }
-.header-container h2 {
+header h2 {
   text-transform: uppercase;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
@@ -2710,7 +2710,7 @@ a:visited {
   letter-spacing: 0.05px;
   font-size: 1.68em; }
   @media only screen and (max-width: 480px) {
-    .header-container h2 {
+    header h2 {
       line-height: auto;
       text-align: center;
       font-size: 0.95em; } }
@@ -2766,8 +2766,9 @@ a:visited {
   .sub-navigation-items .button:last-child {
     float: right; }
 
-.hero div {
-  margin-top: 48px; }
+.hero > div {
+  max-width: 848px;
+  margin: 24px auto 0 auto; }
 .hero .intro {
   line-height: 28px; }
 .hero .button {
@@ -2947,8 +2948,9 @@ main {
 .project-item {
   margin-top: 24px; }
   .project-item img {
-    width: 300px;
-    height: 300px; }
+    width: 100%;
+    max-width: 300px;
+    max-height: 300px; }
 
 .post h1 {
   margin-top: 0.27em;
