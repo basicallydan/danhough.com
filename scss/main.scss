@@ -397,19 +397,38 @@ main {
 }
 
 .project-item {
-	margin-top:$standard-margin;
+	width:100%;
+	max-width:100%;
+
+	background:url(http://placekitten.com/g/2500/1000);
+	background-position: center;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size:cover;
+	height:auto;
+	height:100vh;
+	display:block;
+	box-sizing:border-box;
+	padding:$standard-margin 0;
+	color:white;
 
 	img {
 		width:100%;
 		max-width:300px;
 		max-height:300px;
 	}
+
+	&.interfake {
+		background:blue;
+	}
 }
 
 .project-item-description {
 	@extend .grid__item;
-	@extend .five-eighths;
-	@extend .palm--one-whole;
+	@extend .one-whole;
+	max-width: $max-page-width;
+	display: block;
+	margin:0 auto;
 }
 
 .post {

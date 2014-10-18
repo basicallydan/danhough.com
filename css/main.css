@@ -2037,7 +2037,7 @@ table {
 /**
      * Whole
      */
-.one-whole, .post {
+.one-whole, .project-item-description, .post {
   width: 100%; }
 
 /**
@@ -2097,7 +2097,7 @@ table {
 .three-eighths {
   width: 37.5%; }
 
-.five-eighths, .project-item-description {
+.five-eighths {
   width: 62.5%; }
 
 .seven-eighths {
@@ -2140,7 +2140,7 @@ table {
   /**
      * Whole
      */
-  .palm--one-whole, .project-item-description {
+  .palm--one-whole {
     width: 100%; }
 
   /**
@@ -2946,11 +2946,30 @@ main {
       text-align: right; }
 
 .project-item {
-  margin-top: 24px; }
+  width: 100%;
+  max-width: 100%;
+  background: url(http://placekitten.com/g/2500/1000);
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+  height: 100vh;
+  display: block;
+  box-sizing: border-box;
+  padding: 24px 0;
+  color: white; }
   .project-item img {
     width: 100%;
     max-width: 300px;
     max-height: 300px; }
+  .project-item.interfake {
+    background: blue; }
+
+.project-item-description {
+  max-width: 848px;
+  display: block;
+  margin: 0 auto; }
 
 .post h1 {
   margin-top: 0.27em;
