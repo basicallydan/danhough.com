@@ -3,22 +3,24 @@ layout: default
 ---
 
 <main>
-	<article class="post">
-		<h1 id="top">{{ page.title }}</h1>
-		<p class="meta">Published {{ page.date_created }} in {{ page.location }}</p>
-		{{ content }}
-		<hr style="height:3px">
-		<p>Heckle me on Twitter <a href="http://twitter.com/basicallydan">@basicallydan</a>.</p>
-		<footer class="end-of-post-cta">
-			<p>Get more posts like this in your inbox:</p>
-			<form action="//danhough.us8.list-manage.com/subscribe/post?u=fb767a2592dd6490ca38c324b&amp;id=2e88f8cc04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-				<input placeholder="you@domain.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-				<input class="submit-email" type="submit" value="Subscribe">
-			</form>
-		</footer>
-		{% include recent-posts.html %}
-		{% include disqus.html %}
-	</article>
+	<div>
+		<article class="post">
+			<h1 id="top">{{ page.title }}</h1>
+			<p class="meta">Published {{ page.date_created }} in {{ page.location }}</p>
+			{{ content }}
+			<hr style="height:3px">
+			<p>Heckle me on Twitter <a href="http://twitter.com/basicallydan">@basicallydan</a>.</p>
+			<footer class="end-of-post-cta">
+				<p>Get more posts like this in your inbox:</p>
+				<form action="//danhough.us8.list-manage.com/subscribe/post?u=fb767a2592dd6490ca38c324b&amp;id=2e88f8cc04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<input placeholder="you@domain.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+					<input class="submit-email" type="submit" value="Subscribe">
+				</form>
+			</footer>
+			{% include recent-posts.html %}
+			{% include disqus.html %}
+		</article>
+	</div>
 </main>
 
 <script type="text/javascript" src="/js/post.js"></script>

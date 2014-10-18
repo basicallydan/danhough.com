@@ -22,15 +22,17 @@ $light-grey:lighten($black, 40%);
 $green:#2CAF34;
 $light-green:lighten($green, 30%);
 
+$max-page-width:848px;
+
 @import "normalize";
 @import "font-awesome/font-awesome";
 @import "csswizardry-grids";
 @import "mixins.scss";
 
 body {
-	margin: $standard-margin auto;
-	padding: 0 $standard-margin;
-	max-width:800px;
+	margin:24px 0;
+	padding:0;
+	// max-width:$max-page-width;
 	font-size:$standard-font-size;
 	line-height:$standard-line-height;
 	color:$black;
@@ -92,15 +94,18 @@ a:visited {
 	color:$mid-blue;
 }
 
-.top-level-full-width {
-	@extend .grid;
+body {
+	& > header, & > main, & > footer, & > section, & > div {
+		& > section, & > article, & > div {
+			@extend .grid;
 
-	.centered {
-		margin:0 auto;
+			max-width:$max-page-width;
+			margin:0 auto;
+		}
 	}
 }
 
-.header-container {
+header {
 	h1 {
 		text-transform: uppercase;
 		font-family:'Roboto Condensed', sans-serif;
@@ -198,10 +203,10 @@ a:visited {
 }
 
 .hero {
-	@extend .grid;
-
-	div {
-		margin-top:$standard-margin * 2;
+	& > div {
+		@extend .grid;
+		max-width:$max-page-width;
+		margin:$standard-margin auto 0 auto;
 	}
 
 	.intro {
@@ -289,7 +294,6 @@ a:visited {
 }
 
 main {
-	@extend .grid;
 	margin-top:$standard-margin;
 }
 
@@ -396,8 +400,9 @@ main {
 	margin-top:$standard-margin;
 
 	img {
-		width:300px;
-		height:300px;
+		width:100%;
+		max-width:300px;
+		max-height:300px;
 	}
 }
 
