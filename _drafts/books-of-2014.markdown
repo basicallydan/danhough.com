@@ -104,3 +104,12 @@ Amazing things about this one:
 * Fleming is so good at describing environments.
 
 This is almost a tale of a man whose life has gone stale, and how his guard gets let down. In fact, Fleming even says that Bond's guard is down before he takes the mission. It was all bound to happen! Bond was *bound* to fall for the trap. Well, he won't again!
+
+[Embassytown] by China Mieville
+
+The plot of this story is complex but well told. It is a drawn-out, detailed novel. The story is astoundingly imaginative, and I'd love to get a glimpse inside the mind of Mieville. But the real meat of this book isn't in the story it tells. It's the ideas that it puts across about the nature of language and how it affects the way that we think and the way we perceive the world.
+
+Some interesting techniques Mieville uses to tell the story which I liked:
+
+* Rather than lots of exposition, details about the universe were slowly eked out in a subtle manner. Terms were introduced and used long before they were explained.
+* The dialogue is very realistic. When a character is talking ambiguously because of some context which other characters are part of, they don't make themselves clear in the diaglogue, but the text makes clear what they were saying.

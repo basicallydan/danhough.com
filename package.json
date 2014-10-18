@@ -24,6 +24,8 @@
     "url": "https://github.com/basicallydan/Personal-Blog/issues"
   },
   "devDependencies": {
-    "gulp": "~3.8.8"
+    "gulp": "^3.8.8",
+    "gulp-sass": "^1.2.0",
+    "gulp-util": "^3.0.1"
   }
 }
