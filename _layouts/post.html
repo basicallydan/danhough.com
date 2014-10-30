@@ -13,13 +13,13 @@ layout: default
 		<footer class="end-of-post-cta">
 			<div class="grid__item one-half palm--one-whole work-together">
 				<p>Think we could work together?</p>
-				<a href="/contact" class="button button-cta">Get in touch.</a>
+				<a href="/contact" class="button button-cta" data-segment='{ "name" : "Contact CTA Clicked", "location" : "Post: {{ page.title }}" }'>Get in touch.</a>
 			</div>
 			<div class="grid__item one-half palm--one-whole subscribe">
 				<p>Get more in your inbox.</p>
 				<form action="//danhough.us8.list-manage.com/subscribe/post?u=fb767a2592dd6490ca38c324b&amp;id=2e88f8cc04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-					<input placeholder="you@domain.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-					<input class="submit-email" type="submit" value="Subscribe">
+					<input placeholder="you@domain.com" type="email" value="" name="EMAIL" class="required email" data-segment='{ "name" : "Subscribe Input Clicked", "location" : "Post: {{ page.title }}" }' id="mce-EMAIL">
+					<input class="submit-email" type="submit" value="Subscribe" data-segment='{ "name" : "Subscribe CTA Clicked", "location" : "Post: {{ page.title }}" }'>
 				</form>
 			</div>
 			<div class="meta">
