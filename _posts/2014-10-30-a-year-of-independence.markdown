@@ -18,7 +18,7 @@ This is going to be a fairly candid report of what I've been up to in the past y
 
 ## Clients & Colleagues
 
-I'm proud to report that the past year I've had two major contract jobs in this time: first with [Gojimo](http://gojimo.co/) and then with [upmysport](https://www.upmysport.com/). This has allowed me to work in some of the funnest startup offices in London alongside Songkick and Geckoboard, and [took me to Chamonix in France for a season of intense and frequent snow sports](/blog/au-revoir-londres/). I met a lot of great people there, including a client (or two!) and took part in a lot of new activites including parasailing, crag climbing and off-piste snowboarding.
+I'm proud to report that the past year I've had two major contract jobs in this time: first with [Gojimo](http://gojimo.co/) and then with [upmysport](https://www.upmysport.com/). This has allowed me to work in some of the funnest startup offices in London alongside Songkick and Geckoboard, and [took me to Chamonix in France for a season of intense and frequent snow sports](/blog/au-revoir-londres/). I met a lot of great people there, including a client (or two!) and took part in a lot of new activites including paragiding, crag climbing and off-piste snowboarding.
 
 I've also recently started working with General Assembly to teach Front End Web Development, and am planning my first workshops on that and other, related topics. This is something I've found I enjoy a lot more than I expected I would: it's really good fun and very rewarding. I am currently teaching a class of 20 really fantastic and enthusiastic students and their skills are coming along nicely.
 
