@@ -20,7 +20,7 @@ This is going to be a fairly candid report of what I've been up to in the past y
 
 I'm proud to report that the past year I've had two major contract jobs in this time: first with [Gojimo](http://gojimo.co/) and then with [upmysport](https://www.upmysport.com/). This has allowed me to work in some of the funnest startup offices in London alongside Songkick and Geckoboard, and [took me to Chamonix in France for a season of intense and frequent snow sports](/blog/au-revoir-londres/). I met a lot of great people there, including a client (or two!) and took part in a lot of new activites including paragiding, crag climbing and off-piste snowboarding.
 
-I've also recently started working with General Assembly to teach Front End Web Development, and am planning my first workshops on that and other, related topics. This is something I've found I enjoy a lot more than I expected I would: it's really good fun and very rewarding. I am currently teaching a class of 20 really fantastic and enthusiastic students and their skills are coming along nicely.
+I've also recently started working with [General Assembly](http://generalssemb.ly) to teach [Front End Web Development](https://generalassemb.ly/education/front-end-web-development), and am planning my first workshops on that and other, related topics. This is something I've found I enjoy a lot more than I expected I would: it's really good fun and very rewarding. I am currently teaching a class of 20 really fantastic and enthusiastic students and their skills are coming along nicely.
 
 ## Lifestyle
 
@@ -38,7 +38,7 @@ By and large, business has been really good. I've turned down quite a lot of wor
 
 I haven't actually earned quite as much as I would've done had I stayed with my previous job in the last year, but I haven't worked anywhere near as much. So in terms of daily rate, I'm earning at least twice what I was before.
 
-The goal for this venture wasn't money, though. As I said [in my original post](/blog/unduddled), it was about independence and doing more of the things I love. Well, I wrote [5 months ago about my progress in that regard](/log/six-months-later) and it wasn't all positive. I'm happy to report though that in that time things have turned around a little, mostly because the client work I'm doing is much more of the freelance style of work.
+The goal for this venture wasn't money, though. As I said [in my original post](/blog/unhuddled), it was about independence and doing more of the things I love. Well, I wrote [5 months ago about my progress in that regard](/log/six-months-later) and it wasn't all positive. I'm happy to report though that in that time things have turned around a little, mostly because the client work I'm doing is much more of the freelance style of work.
 
 Another thing to be said on the business side of things is how surprisingly interesting it is to actually *run* a business. I'm now the Managing Director of [Happily Ltd](http://happilyltd.co), and thanks to [some excellent accounting software (this is a referral link ;)](http://fre.ag/43phtauz) it's easy to see how well the business is going and it's easy to deal with the admin.
 
