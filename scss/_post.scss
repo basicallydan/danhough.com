@@ -1,6 +1,37 @@
 .post {
-	@extend .grid__item;
-	@extend .one-whole;
+	// @extend .grid;
+	max-width:$max-page-width;
+	margin:0 auto;
+
+	main, footer .meta {
+		@extend .grid__item;
+		@extend .one-whole;
+	}
+
+	footer .one-half {
+		@include grid-media-query('desk') {
+			width: 49.7%;
+		}
+	}
+
+	footer .subscribe {
+		text-align: right;
+		@include grid-media-query('palm') {
+			margin-top:$standard-margin;
+		}
+	}
+
+	footer .subscribe, footer .work-together {
+		@include grid-media-query('palm') {
+			text-align: center;
+		}
+	}
+
+	main > *:last-child {
+		padding-bottom:$standard-margin;
+		border-bottom:3px solid $off-white;
+		margin-bottom:0;
+	}
 
 	h1 {
 		margin-top:0.27em;
@@ -10,7 +41,7 @@
 
 	.meta {
 		font-size:0.8em;
-		margin-top:$standard-margin / 6;
+		margin-top:$standard-margin;
 	}
 
 	.intro {
@@ -21,7 +52,7 @@
 .post-navigation {
 	border-top: 1px dotted #ddd;
 	padding-top:1rem;
-	margin:0
+	margin:$standard-margin 0;
 }
 
 .end-of-post-cta {

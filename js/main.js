@@ -11,7 +11,12 @@ $(document).ready(function() {
 	});
 
 	var renderEmail = function () {
-		$(".email-address-placeholder").html('<a href="mailto:dan' + '@' + '' + '' + 'danhough.com">dan' + '@' + '' + '' + 'danhough.com</a>');
+		$(".email-address-placeholder").each(function () {
+			var classes = $(this).attr('class');
+			classes = classes.replace(/email-address-placeholder/, '');
+			$(this).html('<a href="mailto:dan' + '@' + '' + '' + 'danhough.com">dan' + '@' + '' + '' + 'danhough.com</a>').attr('class', classes);
+		});
+
 		$(document).unbind('mousemove.email').unbind('keydown.email').unbind('focus.email');
 		console.log('Unbound events');
 	};

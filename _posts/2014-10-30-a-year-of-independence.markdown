@@ -5,7 +5,7 @@ title: A Year of Independence
 description: What I've learned freelancing, contracting and working on my own projects for a year
 date_created: 30 October 2014
 location: London, UK
-comments: true
+comments: false
 ---
 
 Today marks the one-year anniversary of my going into self-employment, and the final day of full-time employment, ending 2 and a half brilliant years at Huddle.
