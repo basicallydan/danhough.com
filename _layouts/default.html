@@ -6,6 +6,8 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		{% if page.description %}
 		<meta name="description" content="{{ page.description }}" />
+		{% else %}
+		<meta name="description" content="Dan Hough is a software developer &amp; consultant, a writer and public speaker." />
 		{% endif %}
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		<title>{% if page.title %}{{ page.title }} — Dan Hough — Independent Software Developer{% else %}Dan Hough — Independent Software Developer{% endif %}</title>
@@ -20,9 +22,9 @@
 	<body>
 		<header>
 			<div>
-				<a href="/"><h1 class="grid__item five-eighths palm--one-half lap--one-half" title="It's prounounced 'Huff'">Dan Hough</h1></a><!--
+				<a href="/"><h1 class="grid__item" title="It's prounounced 'Huff'">Dan Hough</h1></a><!--
 
-		   --><div class="grid__item three-eighths top-navigation-items palm--one-half lap--one-half">
+		   --><div class="grid__item top-navigation-items">
 					<a href="https://github.com/basicallydan" class="nav-github" target="_blank" data-segment='{ "name" : "GitHub Link Clicked", "location" : "Top Nav" }'><i class="fa fa-github-alt"></i></a>
 					<a href="http://www.linkedin.com/pub/daniel-hough/14/202/801" class="nav-linkedin" target="_blank" data-segment='{ "name" : "LinkedIn Link Clicked", "location" : "Top Nav" }'><i class="fa fa-linkedin"></i></a>
 					<a href="https://twitter.com/basicallydan" class="nav-twitter" target="_blank" data-segment='{ "name" : "Twitter Link Clicked", "location" : "Top Nav" }'><i class="fa fa-twitter"></i></a>

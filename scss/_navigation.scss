@@ -1,0 +1,118 @@
+header {
+	h1.grid__item {
+		text-transform: uppercase;
+		font-family:'Roboto Condensed', sans-serif;
+		margin:0;
+		float:left;
+		width:auto;
+		color:$light-blue;
+		line-height:100px;
+		text-indent:-4px;
+		font-size:5.2em;
+		@include grid-media-query('palm') {
+			font-size:1.3em;
+			text-indent:0;
+			line-height:1;
+		}
+		@include grid-media-query('lap') {
+			font-size:$header-font-size-lap;
+			text-indent:0;
+			line-height:1;
+		}
+	}
+
+	h2 {
+		text-transform: uppercase;
+		font-family:'Roboto Condensed', sans-serif;
+		font-weight:300;
+		margin:0;
+		line-height:$standard-margin * 1.5;
+		text-indent:0;
+		letter-spacing:0.05px;
+		font-size:1.68em;
+		@include grid-media-query('palm') {
+			font-size:0.95em;
+			font-size:5.4vw;
+			text-align:center;
+			line-height:1.2em;
+		}
+		@include grid-media-query('lap') {
+			font-size:1.6em;
+			font-size:2.8vw;
+			text-align:left;
+			line-height:1.2em;
+		}
+	}
+}
+
+.top-navigation-items {
+	text-align:right;
+	float:right;
+	width:auto;
+	a:link {
+		font-size:64pt;
+		display:inline-block;
+		margin:0 ($standard-margin  * (2 / 4)) - 1;
+		color:$black;
+		line-height:100px;
+		@include transition(color, 0.2s, ease-in-out);
+		@include grid-media-query('palm') {
+			font-size:1.3em;
+			line-height:1;
+			margin:0 $standard-margin / 4!important;
+		}
+		@include grid-media-query('lap') {
+			font-size:$header-font-size-lap;
+			line-height:1;
+			margin:0 $standard-margin / 4!important;
+		}
+	}
+	a:visited {
+		color:inherit;
+	}
+	a:hover {
+		@include transition(color, 0.2s, ease-in-out);
+	}
+
+	a.nav-github {
+		color:$black;
+		margin-left:0;
+		&:hover {
+			color:darken($black, 10%);
+		}
+	}
+
+	a.nav-linkedin {
+		color:$linkedin-blue;
+		&:hover {
+			color:darken($linkedin-blue, 10%);
+		}
+	}
+
+	a.nav-twitter {
+		color:$twitter-blue;
+		margin-right:0;
+		&:hover {
+			color:darken($twitter-blue, 10%);
+		}
+	}
+}
+
+.sub-navigation-items {
+
+	.button {
+		width:48%;
+		margin-top:$standard-margin / 4;
+		margin-bottom:$standard-margin / 2;
+
+		font-size:0.8em;
+
+		padding:0;
+
+		text-decoration:none;
+
+		&:last-child {
+			float:right;
+		}
+	}
+}

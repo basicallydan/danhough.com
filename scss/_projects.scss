@@ -1,0 +1,15 @@
+.project-item {
+	margin-top:$standard-margin;
+
+	img {
+		width:100%;
+		max-width:300px;
+		max-height:300px;
+	}
+}
+
+.project-item-description {
+	@extend .grid__item;
+	@extend .five-eighths;
+	@extend .palm--one-whole;
+}

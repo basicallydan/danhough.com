@@ -1,0 +1,18 @@
+h1 {
+	font-size:$large-font-size;
+	font-weight:500;
+	@include grid-media-query('palm') {
+		font-size:1.4em;
+	}
+}
+h2 {
+	font-size:1.56em;
+	font-weight:500;
+	@include grid-media-query('palm') {
+		font-size:1.1em;
+	}
+}
+h3 {
+	font-size:1.3em;
+	font-weight:500;
+}
