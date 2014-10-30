@@ -30,6 +30,3 @@ Many projects these days don't warrant large amounts of design up-front and are 
 #### PhoneGap: It's not quite as bad as you think - Mobilise - 06/06/2014
 
 For a long time, PhoneGap applications have been second-class citizens in the native mobile landscape. It's actually quite a lot of work to get a PhoneGap application working quite as nicely as it could, and in this talk I take the audience through some ideas, and help them to decide whether PhoneGap is right for their project or not.
-
-#### Music for Gamers - GeekyConf - 10/10/2013
-
