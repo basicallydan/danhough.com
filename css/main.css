@@ -3258,6 +3258,9 @@ header h2 {
 .post {
   max-width: 848px;
   margin: 0 auto; }
+  @media only screen and (min-width: 481px) and (max-width: 1023px) {
+    .post footer .one-half, .post footer .two-quarters, .post footer .three-sixths, .post footer .four-eighths, .post footer .five-tenths, .post footer .six-twelfths {
+      width: 49.7%; } }
   @media only screen and (min-width: 1024px) {
     .post footer .one-half, .post footer .two-quarters, .post footer .three-sixths, .post footer .four-eighths, .post footer .five-tenths, .post footer .six-twelfths {
       width: 49.7%; } }

@@ -9,6 +9,9 @@
 	}
 
 	footer .one-half {
+		@include grid-media-query('lap') {
+			width: 49.7%;
+		}
 		@include grid-media-query('desk') {
 			width: 49.7%;
 		}
