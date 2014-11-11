@@ -1,6 +1,7 @@
 ---
 layout: sidebar-page
 title: Work with me
+description: I am available for hire and you can contact me directly.
 ---
 
 ## Work with me
