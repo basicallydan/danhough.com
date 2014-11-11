@@ -113,3 +113,9 @@ Some interesting techniques Mieville uses to tell the story which I liked:
 
 * Rather than lots of exposition, details about the universe were slowly eked out in a subtle manner. Terms were introduced and used long before they were explained.
 * The dialogue is very realistic. When a character is talking ambiguously because of some context which other characters are part of, they don't make themselves clear in the diaglogue, but the text makes clear what they were saying.
+
+[Dr No] by Ian Fleming
+
+Bonds in for it now! Just as things are starting to get boring for our hero, he's thrown into a life-or-death struggle with quintessential Bond villain, Dr No.
+
+It shows a side of Bond which allows him to sympathise with the "fairer" sex a little more. Not the best story so far but easily the most gripping. To be killed by a pile of dung is also somewhat slapstick for the villain.

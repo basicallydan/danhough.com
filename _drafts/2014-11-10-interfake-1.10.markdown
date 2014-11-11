@@ -1,0 +1,20 @@
+---
+published: true
+layout: post
+title: Interfake 1.10 Released
+date_created: 10 November 2014
+location: London, UK
+comments: true
+---
+
+Good news, everyone! Interfake 1.10 is now available on npm. If you're not familiar with Interfake already, I recommend checking out the [Interfake GitHub repository](https://github.com/basicallydan/interfake). If you're an existing user, head over to your repo and do this:
+
+```
+npm install interfake --save
+```
+
+11 minor versions in, now, since release of v1 and somehow I am avoiding bumping a major version.
+
+I probably would, if I were able to be more productive on the project. I do, of course, have clients.
+
+I think from now on I'd like to take a more liberal approach to getting contributors. Mikeal of request fame tends to do that and look at where that got his popular library.
