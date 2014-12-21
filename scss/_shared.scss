@@ -11,7 +11,7 @@ body {
 	line-height:$standard-line-height;
 	color:$black;
 	font-family:'Roboto', sans-serif;
-	-webkit-text-stroke: 1px rgba(0, 0, 0, 0body15);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
 	& > header, & > main, & > footer, & > section, & > div {
 		& > section, & > article, & > div {
 			@extend .grid;
