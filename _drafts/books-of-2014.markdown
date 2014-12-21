@@ -119,3 +119,31 @@ Some interesting techniques Mieville uses to tell the story which I liked:
 Bonds in for it now! Just as things are starting to get boring for our hero, he's thrown into a life-or-death struggle with quintessential Bond villain, Dr No.
 
 It shows a side of Bond which allows him to sympathise with the "fairer" sex a little more. Not the best story so far but easily the most gripping. To be killed by a pile of dung is also somewhat slapstick for the villain.
+
+The "Bond Girl" in this one is my favourite so far. Self-made, self-taught island woman, very admirable.
+
+This book is the point at which Bond villains and the story become quite far-fetched. That's no bad thing, though. It keeps the story interesting and highlights how Bond's status in the Service is reflected by the level of criminality he has to deal with.
+
+[Goldfinger] by Ian Fleming
+
+Truly Auric Goldfinger is a horrid, despicable man.
+
+Goldfinger's plot is absolutely genius, but the way that Bond and Felix foil it is even better.
+
+The way Bond dismisses his companion's disregard for him as, "she wasn't much into men" is ridiculous! The things he got away with! And of course at the end he "turns" Pussy Galore. Of course he does.
+
+At any rate, the way that this book showcases a bunch of slightly less believable, more pantomime villains. The sort that wouldn't seem out of place in Batman. But I love it! They're full of character and very interesting. Fleming's ability to empathise with villains is one of his strengths: rather than portraying them all as evil, he portrays them mostly as businesspeople or people with less-than-stellar respect for the law.
+
+[For Your Eyes Only]
+
+I found this one a little hard to get into. This strikes me as the most pulp fiction-y of the Bond books so far, because it goes through small, quick stories about Bond and his adventures. However, some of the characters can be quite compelling including the lady in Jamaica whose house is stolen. I love the way she uses a bow and arrow to kill the villain. Really puts Bond in his place!
+
+I also really enjoyed Quantum of Solace. It's unlike other stories. To me it's a story about how people can often end up being much more interesting than one first supposes they are. Important lesson, well told.
+
+[Thunderball] by Ian Fleming
+
+Bond and Felix Leiter take on the secretive and cunning SPECTRE. This story shows signs of Bond's (as well as Leiter's) aging - getting grumpier and more sensitive in his old age.
+
+The stint in Wormwood Scrubs, and the reaction to tourist treatment in Nassau, show off his softer side.
+
+This is an exciting and time-critical story, kind of over-the-top with sea-related adventure at times but I can see how the underwater battle would make for a good scene in a film.
