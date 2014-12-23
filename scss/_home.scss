@@ -1,27 +1,27 @@
-.post-list {
-	@extend .custom-list;
-	font-size:0.8em;
-	.post-list-item {
-		$published-date-width:140px;
-		.published-date {
-			display:inline-block;
-			width:$published-date-width;
-			margin-right:$standard-margin / 2;
-			text-align:left;
-			float:left;
-			@include grid-media-query('palm') {
-				display:block;
-				margin-left:0;
-				float:none;
-			}
-		}
+// .post-list {
+// 	@extend .custom-list;
+// 	font-size:0.8em;
+// 	.post-list-item {
+// 		$published-date-width:140px;
+// 		.published-date {
+// 			display:inline-block;
+// 			width:$published-date-width;
+// 			margin-right:$standard-margin / 2;
+// 			text-align:left;
+// 			float:left;
+// 			@include grid-media-query('palm') {
+// 				display:block;
+// 				margin-left:0;
+// 				float:none;
+// 			}
+// 		}
 
-		a {
-			margin-left:$published-date-width + ($standard-margin / 2);
-			@include grid-media-query('palm') {
-				margin-left:0;
-			}
-			display:block;
-		}
-	}
-}
+// 		a {
+// 			margin-left:$published-date-width + ($standard-margin / 2);
+// 			@include grid-media-query('palm') {
+// 				margin-left:0;
+// 			}
+// 			display:block;
+// 		}
+// 	}
+// }

@@ -12,7 +12,7 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		<title>{% if page.title %}{{ page.title }} — Dan Hough — Independent Software Developer{% else %}Dan Hough — Independent Software Developer{% endif %}</title>
 		<link rel="alternate" type="application/atom+xml" title="ATOM Feed for danhough.com" href="/atom.xml" />
-		<link href="http://fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
+		<!-- <link href="http://fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300" rel="stylesheet" type="text/css"> -->
 		{% include meta-images.html %}
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 		<script type="text/javascript" src="/js/jquery-2.0.3.min.js"></script>
@@ -21,22 +21,25 @@
 
 	<body>
 		<header>
-			<div>
-				<a href="/"><h1 class="grid__item" title="It's prounounced 'Huff'">Dan Hough</h1></a><!--
-
-		   --><nav class="grid__item top-navigation-items">
-					<a href="https://github.com/basicallydan" class="nav-github" target="_blank" data-segment='{ "name" : "GitHub Link Clicked", "location" : "Top Nav" }'><i class="fa fa-github-alt"></i></a>
-					<a href="http://www.linkedin.com/pub/daniel-hough/14/202/801" class="nav-linkedin" target="_blank" data-segment='{ "name" : "LinkedIn Link Clicked", "location" : "Top Nav" }'><i class="fa fa-linkedin"></i></a>
-					<a href="https://twitter.com/basicallydan" class="nav-twitter" target="_blank" data-segment='{ "name" : "Twitter Link Clicked", "location" : "Top Nav" }'><i class="fa fa-twitter"></i></a>
-				</nav><!--
-			
-			--><h2 class="grid__item five-eighths palm--one-whole lap--one-whole">Independent software developer</h2><!--
-
-			-->{% if page.hide_sub_nav %}{% else %}<nav class="sub-navigation-items grid__item three-eighths palm--one-whole lap--one-whole">
-					<a href="/projects" class="button button-projects" data-segment='{ "name" : "Projects Button Clicked", "location" : "Sub Top Nav" }'>Projects</a>
-					<a href="/contact" class="button button-work-with-me" data-segment='{ "name" : "Contact Button Clicked", "location" : "Sub Top Nav" }'>Work with me</a>
-				</nav>{% endif %}
-			</div>
+			<a href="/"><h1 title="It's prounounced 'Huff'">Dan Hough</h1></a>
+			<h2>Independent developer, open-source enthusiast</h2>
+			<nav id="external-profile-navigation" class="nav-list--icons">
+				<ul>
+					<li><a href="https://twitter.com/basicallydan" title="My Twitter Profile" class="nav-list--icons__twitter" target="_blank" data-segment='{ "name" : "Twitter Link Clicked", "location" : "Top Nav" }'><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://github.com/basicallydan" title="My GitHub Page" class="nav-list--icons__twitter" target="_blank" data-segment='{ "name" : "GitHub Link Clicked", "location" : "Top Nav" }'><i class="fa fa-github-alt"></i></a></li>
+					<li><a href="mailto:dan@danhough.com" title="Contact me by email" class="nav-list--icons__email" target="_blank" data-segment='{ "name" : "Email Link Clicked", "location" : "Top Nav" }'><i class="fa fa-envelope"></i></a></li>
+					<!-- <li><a href="http://www.linkedin.com/pub/daniel-hough/14/202/801" title="My LinkedIn Profile" class="nav-linkedin" target="_blank" data-segment='{ "name" : "LinkedIn Link Clicked", "location" : "Top Nav" }'><i class="fa fa-linkedin"></i></a></li> -->
+				</ul>
+			</nav>
+			<nav id="top-level-navigation" class="nav-list">
+				<h2>Quick Links</h2>
+				<ul>
+					<li>Homepage</li>
+					<li>All articles</li>
+					<li>Hire me</li>
+				</ul>
+			</nav>
+			<a class="cta--primary" href="mailto:dan@danhough.com?subject=I%20have%20an%20interesting%20project%20for%20you">Got a project? <strong>Get in touch.</strong></a>
 		</header>
 
 		{{ content }}

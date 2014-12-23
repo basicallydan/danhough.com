@@ -1,73 +1,73 @@
-.post {
-	// @extend .grid;
-	max-width:$max-page-width;
-	margin:0 auto;
+// .post {
+// 	// @extend .grid;
+// 	max-width:$max-page-width;
+// 	margin:0 auto;
 
-	main, footer .meta {
-		@extend .grid__item;
-		@extend .one-whole;
-	}
+// 	main, footer .meta {
+// 		@extend .grid__item;
+// 		@extend .one-whole;
+// 	}
 
-	footer .one-half {
-		@include grid-media-query('lap') {
-			width: 49.7%;
-		}
-		@include grid-media-query('desk') {
-			width: 49.7%;
-		}
-	}
+// 	footer .one-half {
+// 		@include grid-media-query('lap') {
+// 			width: 49.7%;
+// 		}
+// 		@include grid-media-query('desk') {
+// 			width: 49.7%;
+// 		}
+// 	}
 
-	footer .subscribe {
-		text-align: right;
-		@include grid-media-query('palm') {
-			margin-top:$standard-margin;
-		}
-	}
+// 	footer .subscribe {
+// 		text-align: right;
+// 		@include grid-media-query('palm') {
+// 			margin-top:$standard-margin;
+// 		}
+// 	}
 
-	footer .subscribe, footer .work-together {
-		@include grid-media-query('palm') {
-			text-align: center;
-		}
-	}
+// 	footer .subscribe, footer .work-together {
+// 		@include grid-media-query('palm') {
+// 			text-align: center;
+// 		}
+// 	}
 
-	main > *:last-child {
-		padding-bottom:$standard-margin;
-		border-bottom:3px solid $off-white;
-		margin-bottom:0;
-	}
+// 	main > *:last-child {
+// 		padding-bottom:$standard-margin;
+// 		border-bottom:3px solid $off-white;
+// 		margin-bottom:0;
+// 	}
 
-	h1 {
-		margin-top:0.27em;
-		margin-bottom:0;
-		line-height:$large-font-size * 0.8;
-	}
+// 	h1 {
+// 		margin-top:0.27em;
+// 		margin-bottom:0;
+// 		line-height:$large-font-size * 0.8;
+// 	}
 
-	.meta {
-		font-size:0.8em;
-		margin-top:$standard-margin;
-	}
+// 	.meta {
+// 		font-size:0.8em;
+// 		margin-top:$standard-margin;
+// 	}
 
-	.intro {
-		color:$light-grey;
-	}
-}
+// 	.intro {
+// 		color:$light-grey;
+// 	}
+// }
 
-.post-navigation {
-	border-top: 1px dotted #ddd;
-	padding-top:1rem;
-	margin:$standard-margin 0;
-}
+// .post-navigation {
+// 	border-top: 1px dotted #ddd;
+// 	padding-top:1rem;
+// 	margin:$standard-margin 0;
+// }
 
-.end-of-post-cta {
-	margin: 24px auto;
-}
+// .end-of-post-cta {
+// 	margin: 24px auto;
+// }
 
-.end-of-post-cta input {
-	padding: 0.5rem 0.4rem;
-	font-size: 1rem;
-}
+// .end-of-post-cta input {
+// 	padding: 0.5rem 0.4rem;
+// 	font-size: 1rem;
+// }
 
-.end-of-post-cta input[type="submit"] {
-	@extend .button;
-	padding: 0.6rem 0.4rem;
-}
+// .end-of-post-cta input[type="submit"] {
+// 	@extend .button;
+// 	padding: 0.6rem 0.4rem;
+// }
