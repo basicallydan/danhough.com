@@ -1,20 +1,40 @@
 ---
 layout: default
-hide_sub_nav: 1
 ---
 
-<section class="hero">
-	<div class="grid">
-		<div class="grid__item five-eighths palm--one-whole lap--one-whole intro">I make websites, mobile apps, music, pictures and words. This website is my personal blog and a directory of all the things I make and do on the Web. I live in London, UK.</div><!--
+<main>
+	<nav id="popular-articles-navigation" class="nav-list">
+		<h3>Popular Articles</h3>
+		<ul>
+			<li><a href="">A criticism of the Single Var Pattern in JavaScript</a></li>
+			<li><a href="">How to use Gulp and Browserify with PhoneGap</a></li>
+			<li><a href="">Unhuddled: To Independence</a></li>
+			<li><a href="">The best way to extend and inherit events in Backbone</a></li>
+			<li><a href="">Android Web Intents with Cordova</a></li>
+		</ul>
+	</nav>
+	<nav id="latest-articles-navigation" class="nav-list">
+		<h3>Latest Articles</h3>
+		<ul>
+			<!-- Need to figure out how to limit this -->
+			{% for post in site.posts[..5] %}
+			<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</nav>
+</main>
 
-		--><nav class="grid__item three-eighths palm--one-whole lap--one-whole">
+<!-- <section class="hero">
+	<div class="grid">
+		<div class="grid__item five-eighths palm--one-whole lap--one-whole intro">I make websites, mobile apps, music, pictures and words. This website is my personal blog and a directory of all the things I make and do on the Web. I live in London, UK.</div>
+		<nav class="grid__item three-eighths palm--one-whole lap--one-whole">
 			<a href="/projects" class="button button-projects" data-segment='{ "name" : "Projects Button Clicked", "location" : "Homepage Hero" }'>Projects</a>
 			<a href="/contact" class="button button-work-with-me" data-segment='{ "name" : "Contact Button Clicked", "location" : "Homepage Hero" }'>Work with me</a>
 		</nav>
 	</div>
-</section>
+</section -->
 
-<main>
+<!-- <main>
 	<div>
 		<div class="grid__item five-eighths palm--one-whole lap--one-whole">
 			<h2>Blog</h2>
@@ -24,24 +44,23 @@ hide_sub_nav: 1
 					<span class="published-date">{{ post.date | date: "%d %B %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
 				{% endfor %}
 			</ul>
-		</div><!--
-
-		--><aside class="grid__item three-eighths palm--one-whole lap--one-whole">
+		</div>
+		<aside class="grid__item three-eighths palm--one-whole lap--one-whole">
 			<h2>See also</h2>
 			<ul class="see-also-list">
 				<li class="see-also-list-item see-cv"><a href="/dan-hough-developer-cv-latest.pdf" data-segment='{ "name" : "CV Link Clicked", "location" : "Homepage Sidebar" }'>
-					<i class="fa fa-check icon"></i><span class="title">My CV</span><!--
-					--><span class="subtitle">.pdf format</span>
+					<i class="fa fa-check icon"></i><span class="title">My CV</span>
+					<span class="subtitle">.pdf format</span>
 				</a></li>
 				<li class="see-also-list-item see-music"><a href="http://danplusadd.co.uk" data-segment='{ "name" : "Music Link Clicked", "location" : "Homepage Sidebar" }'>
-					<i class="fa fa-music icon"></i><span class="title">My Music</span><!--
-					--><span class="subtitle">I'm a busker</span>
+					<i class="fa fa-music icon"></i><span class="title">My Music</span>
+					<span class="subtitle">I'm a busker</span>
 				</a></li>
 				<li class="see-also-list-item see-art"><a href="http://danhough.deviantart.com/" data-segment='{ "name" : "Art Link Clicked", "location" : "Homepage Sidebar" }'>
-					<i class="fa fa-picture-o icon"></i><span class="title">My Art</span><!--
-					--><span class="subtitle">I'm improving</span>
+					<i class="fa fa-picture-o icon"></i><span class="title">My Art</span>
+					<span class="subtitle">I'm improving</span>
 				</a></li>
 			</ul>
 		</aside>
 	</div>
-</main>
+</main> -->
