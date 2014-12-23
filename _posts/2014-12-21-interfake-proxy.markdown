@@ -3,8 +3,8 @@ published: true
 layout: post
 title: Interfake updates from 1.10 to 1.12
 description: A round-up of the features introduced to Interfake between versions 1.10 and 1.12 incuding
-date_created: 21 December 2014
-location: 39000 feet above the Pacific Ocean
+date_created: 23 December 2014
+location: Virgin Gorda, British Virgin Islands
 comments: true
 ---
 
