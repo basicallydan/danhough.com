@@ -147,3 +147,7 @@ Bond and Felix Leiter take on the secretive and cunning SPECTRE. This story show
 The stint in Wormwood Scrubs, and the reaction to tourist treatment in Nassau, show off his softer side.
 
 This is an exciting and time-critical story, kind of over-the-top with sea-related adventure at times but I can see how the underwater battle would make for a good scene in a film.
+
+[Zero to One] by Peter Thiel
+
+A book supposedly "about startups", it tends to go off-track in a variety of ways from talking about the future of humanity and cults of celebrity, but these subjects are still related back to the original one. It is at times hard to see the points that Thiel is making, especially when he goes into a rant about the US Education System, but overall the messages are inspiring but laced with hard truths that many engineer types with entrepreneurial dreams probably need to hear.
