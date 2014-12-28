@@ -157,6 +157,10 @@ This is an exciting and time-critical story, kind of over-the-top with sea-relat
 
 A book supposedly "about startups", it tends to go off-track in a variety of ways from talking about the future of humanity and cults of celebrity, but these subjects are still related back to the original one. It is at times hard to see the points that Thiel is making, especially when he goes into a rant about the US Education System, but overall the messages are inspiring but laced with hard truths that many engineer types with entrepreneurial dreams probably need to hear.
 
+### [The Spy Who Loved Me] by Ian Fleming
+
+This is a departure from previous Bond novels. It's not only narrated by a Canadian woman, rather than by Fleming, the majority of the book does not feature Bond. It seems to me almost to be a message to fans who see themselves becoming infatuated by the James Bond not to get too caught up in the fiction and take it too seriously. It's an interesting approach, and very interesting to see how Fleming imagine's a woman's thoughts to be. Mostly it doesn't seem too harmless to me, but he takes a few slightly unusual liberties. By far the most unusual one so far, it certainly mixes things up a bit.
+
 ## Retrospective
 
 Oh, and if you've read any of the books above and wanna see some spoiler discussion, check the source of this page.
