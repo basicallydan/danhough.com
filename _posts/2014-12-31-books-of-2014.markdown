@@ -4,7 +4,7 @@ title: The Books I Read in 2014
 date_created: 31 December 2014
 location: Virgin Gorda, British Virgin Islands
 description: The books I read in 2014 with short reviews/synopses.
-isbn: 0091956145
+thumbnail: http://ecx.images-amazon.com/images/I/51h%2Bg9GpMaL.jpg
 ---
 
 Just like in 2012 I'm going to try to limit how much I speak about each book I've read. Some I can't limit, but this time, two tweets worth is the goal: 280 characters or fewer. If you want to read my ramblings a bit check the source of the page.

@@ -14,8 +14,8 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		<title>{% if page.title %}{{ page.title }} — Dan Hough — Independent Software Developer{% else %}Dan Hough — Independent Software Developer{% endif %}</title>
 		<meta property="og:title" content="{% if page.title %}{{ page.title }} — Dan Hough{% else %}Dan Hough — Independent Software Developer{% endif %}" />
-		{% if page.isbn %}
-		<meta property="books:isbn" content="{{ page.isbn }}" />
+		{% if page.thumbnail %}
+		<meta property="og:image" content="{{ page.thumbnail }}" />
 		{% endif %}
 		<link rel="alternate" type="application/atom+xml" title="ATOM Feed for danhough.com" href="/atom.xml" />
 		<link href="http://fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
