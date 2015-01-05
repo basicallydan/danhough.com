@@ -22,3 +22,5 @@ Instead of this, you could decide that you want to do great things, too. Don't y
 I think so. I'm not suggesting you become an eternally optimistic ball of positivity and joy, and I'm not saying that positivity and inspiration will inevitably lead to success and happiness. I'm just suggesting that you remind yourself every now and then that there's nothing wrong with allowing yourself to be inspired. Re-read some inspiring stories - truly inspiring stories - and try and look at them in a different light. Maybe it'll lead to a happier, more interesting year for 2015.
 
 Happy New Year!
+
+Thank you [@NatalieCHough](https://twitter.com/NatalieCHough) and [@JonFinerty](https://twitter.com/jonfinerty) for reading and critiquing drafts.
