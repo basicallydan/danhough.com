@@ -1,16 +1,33 @@
-h1 {
-	font-size:$large-font-size;
+.site-title {
+	font-size:$site-title-font-size;
 	font-weight:500;
-	@include grid-media-query('palm') {
-		font-size:1.4em;
-	}
+	font-family:'Roboto Condensed';
+	text-transform:uppercase;
+	text-decoration:none;
+	// @include grid-media-query('palm') {
+	// 	font-size:1.4em;
+	// }
+}
+
+.site-subtitle {
+	font-size:$standard-font-size;
+	text-align: center;
+	display: block;
+}
+
+h1 {
+	font-size:$standard-font-size;
+	font-weight:500;
+	// @include grid-media-query('palm') {
+	// 	font-size:1.4em;
+	// }
 }
 h2 {
 	font-size:1.56em;
 	font-weight:500;
-	@include grid-media-query('palm') {
-		font-size:1.1em;
-	}
+	// @include grid-media-query('palm') {
+	// 	font-size:1.1em;
+	// }
 }
 h3 {
 	font-size:1.3em;

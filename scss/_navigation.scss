@@ -1,3 +1,25 @@
+nav {
+	ul {
+		margin:0;
+		padding:0;
+		list-style:none;
+	}
+
+	&.nav-list {
+		h2 {
+			font-size:$standard-font-size;
+		}
+	}
+
+	&.nav-list--icons {
+		li {
+			display:inline-block;
+		}
+		li a {
+			font-size:$nav-icon-font-size;
+		}
+	}
+}
 // header {
 // 	h1.grid__item {
 // 		text-transform: uppercase;
