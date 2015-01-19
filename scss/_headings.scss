@@ -1,5 +1,6 @@
 .site-title {
 	font-size:$site-title-font-size;
+	line-height:$site-title-font-size;
 	font-weight:500;
 	font-family:'Roboto Condensed';
 	text-transform:uppercase;
@@ -24,7 +25,8 @@ h1 {
 	// }
 }
 h2 {
-	font-size:1.56em;
+	font-size:1.56rem;
+	line-height:2rem;
 	font-weight:500;
 	// @include grid-media-query('palm') {
 	// 	font-size:1.1em;
