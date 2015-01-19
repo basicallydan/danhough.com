@@ -4,6 +4,7 @@
 	font-family:'Roboto Condensed';
 	text-transform:uppercase;
 	text-decoration:none;
+	color:$main-blue;
 	// @include grid-media-query('palm') {
 	// 	font-size:1.4em;
 	// }
@@ -11,8 +12,8 @@
 
 .site-subtitle {
 	font-size:$standard-font-size;
-	text-align: center;
-	display: block;
+	text-align:center;
+	display:block;
 }
 
 h1 {

@@ -2072,26 +2072,34 @@ table {
   box-sizing: border-box; }
 
 html {
-  font-size: 22px;
+  font-size: 20px;
   font-family: 'Roboto'; }
 
 header {
   width: 310px; }
 
+main, .secondary-homepage-navigation {
+  width: 330px; }
+
+header, main, .secondary-homepage-navigation {
+  margin-left: 2rem;
+  float: left; }
+
 .site-title {
-  font-size: 2.88rem;
+  font-size: 3.17rem;
   font-weight: 500;
   font-family: 'Roboto Condensed';
   text-transform: uppercase;
-  text-decoration: none; }
+  text-decoration: none;
+  color: #547AB0; }
 
 .site-subtitle {
-  font-size: 22px;
+  font-size: 20px;
   text-align: center;
   display: block; }
 
 h1 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 500; }
 
 h2 {
@@ -2130,15 +2138,37 @@ nav ul {
   margin: 0;
   padding: 0;
   list-style: none; }
-nav.nav-list h2 {
-  font-size: 22px; }
+nav.nav-list h2, nav.nav-list--icons h2 {
+  font-size: 20px;
+  margin: 1rem 0; }
+nav.nav-list li, nav.nav-list--icons li {
+  margin: 0.5rem 0; }
+  nav.nav-list li.nav-item--all a, nav.nav-list--icons li.nav-item--all a {
+    text-decoration: underline; }
+nav.nav-list li a, nav.nav-list--icons li a {
+  color: #333333;
+  text-decoration: none; }
 nav.nav-list--icons li {
   display: inline-block; }
 nav.nav-list--icons li a {
   font-size: 3.72rem; }
 
+.cta, .cta--primary {
+  color: #fefefe;
+  text-decoration: none; }
+  .cta--primary {
+    background: #2CAF34; }
+    header .cta--primary {
+      margin: 2rem 0 2rem -2rem;
+      padding: 1rem 0 1rem 2rem;
+      box-sizing: content-box;
+      width: 310px;
+      display: block;
+      border-top-right-radius: 0.5rem;
+      border-bottom-right-radius: 0.5rem; }
+
 .project-item {
-  margin-top: 24px; }
+  margin-top: 1rem; }
   .project-item img {
     width: 100%;
     max-width: 300px;
