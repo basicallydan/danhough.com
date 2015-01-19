@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<main>
+<main class="primary-homepage-navigation">
 	<nav id="popular-articles-navigation" class="nav-list">
-		<h3>Popular Articles</h3>
+		<h2>Popular Articles</h2>
 		<ul>
 			<li><a href="">A criticism of the Single Var Pattern in JavaScript</a></li>
 			<li><a href="">How to use Gulp and Browserify with PhoneGap</a></li>
@@ -14,15 +14,51 @@ layout: default
 		</ul>
 	</nav>
 	<nav id="latest-articles-navigation" class="nav-list">
-		<h3>Latest Articles</h3>
+		<h2>Latest Articles</h2>
 		<ul>
 			<!-- Need to figure out how to limit this -->
-			{% for post in site.posts[..5] %}
-			<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
-			{% endfor %}
+			<li class="post-list-item"><a href="{{ site.posts[0].url }}" title="Published {{ site.posts[0].date | date: "%d %B %Y" }}">{{ site.posts[0].title }}</a></li>
+			<li class="post-list-item"><a href="{{ site.posts[1].url }}" title="Published {{ site.posts[1].date | date: "%d %B %Y" }}">{{ site.posts[1].title }}</a></li>
+			<li class="post-list-item"><a href="{{ site.posts[2].url }}" title="Published {{ site.posts[2].date | date: "%d %B %Y" }}">{{ site.posts[2].title }}</a></li>
+			<li class="post-list-item"><a href="{{ site.posts[3].url }}" title="Published {{ site.posts[3].date | date: "%d %B %Y" }}">{{ site.posts[3].title }}</a></li>
+			<li class="post-list-item"><a href="{{ site.posts[4].url }}" title="Published {{ site.posts[4].date | date: "%d %B %Y" }}">{{ site.posts[4].title }}</a></li>
+			<li class="post-list-item nav-item--all"><a href="/blog" title="The entire archive of blog posts">See them all&hellip;</a></li>
 		</ul>
 	</nav>
 </main>
+
+<section class="secondary-homepage-navigation">
+	<nav id="libraries-navigation" class="nav-list">
+		<h2>Libraries &amp; Tools</h2>
+		<ul>
+			<li><a href="">A criticism of the Single Var Pattern in JavaScript</a></li>
+			<li><a href="">How to use Gulp and Browserify with PhoneGap</a></li>
+			<li><a href="">Unhuddled: To Independence</a></li>
+			<li><a href="">The best way to extend and inherit events in Backbone</a></li>
+			<li><a href="">Android Web Intents with Cordova</a></li>
+		</ul>
+	</nav>
+	<nav id="apps-navigation" class="nav-list">
+		<h2>Games &amp; Apps</h2>
+		<ul>
+			<li><a href="">A criticism of the Single Var Pattern in JavaScript</a></li>
+			<li><a href="">How to use Gulp and Browserify with PhoneGap</a></li>
+			<li><a href="">Unhuddled: To Independence</a></li>
+			<li><a href="">The best way to extend and inherit events in Backbone</a></li>
+			<li><a href="">Android Web Intents with Cordova</a></li>
+		</ul>
+	</nav>
+	<nav id="previous-work-navigation" class="nav-list">
+		<h2>Where I've worked</h2>
+		<ul>
+			<li><a href="">Marvel</a></li>
+			<li><a href="">upmysport</a></li>
+			<li><a href="">Gojimo</a></li>
+			<li><a href="">Huddle</a></li>
+			<li class="nav-item--all"><a href="">See what they say&hellip;</a></li>
+		</ul>
+	</nav>
+</section>
 
 <!-- <section class="hero">
 	<div class="grid">

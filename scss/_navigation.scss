@@ -8,10 +8,27 @@ nav {
 	&.nav-list {
 		h2 {
 			font-size:$standard-font-size;
+			margin:$standard-margin 0;
+		}
+
+		li {
+			margin:$small-margin 0;
+
+			&.nav-item--all {
+				a {
+					text-decoration:underline;
+				}
+			}
+		}
+
+		li a {
+			color:$black;
+			text-decoration:none;
 		}
 	}
 
 	&.nav-list--icons {
+		@extend .nav-list;
 		li {
 			display:inline-block;
 		}
@@ -20,6 +37,27 @@ nav {
 		}
 	}
 }
+
+.cta {
+	color:$white;
+	text-decoration:none;
+
+	&--primary {
+		@extend .cta;
+		background:$main-green;
+
+		header & {
+			margin:$large-margin 0 $large-margin (-$large-margin);
+			padding:$standard-margin 0 $standard-margin $large-margin;
+			box-sizing:content-box;
+			width:310px;
+			display:block;
+			border-top-right-radius:0.5rem;
+			border-bottom-right-radius:0.5rem;
+		}
+	}
+}
+
 // header {
 // 	h1.grid__item {
 // 		text-transform: uppercase;
