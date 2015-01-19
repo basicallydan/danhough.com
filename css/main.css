@@ -2075,18 +2075,48 @@ html {
   font-size: 20px;
   font-family: 'Roboto'; }
 
+body {
+  max-width: 1100px; }
+
 header {
-  width: 310px; }
+  width: 350px; }
 
 main, .secondary-homepage-navigation {
-  width: 330px; }
+  width: 33%; }
 
 header, main, .secondary-homepage-navigation {
-  margin-left: 2rem;
+  padding-top: 1rem;
+  padding-left: 2rem;
   float: left; }
+
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before, .cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */ }
+
+.cf:after {
+  clear: both; }
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+  *zoom: 1; }
 
 .site-title {
   font-size: 3.17rem;
+  line-height: 3.17rem;
   font-weight: 500;
   font-family: 'Roboto Condensed';
   text-transform: uppercase;
@@ -2103,7 +2133,8 @@ h1 {
   font-weight: 500; }
 
 h2 {
-  font-size: 1.56em;
+  font-size: 1.56rem;
+  line-height: 2rem;
   font-weight: 500; }
 
 h3 {
@@ -2138,20 +2169,40 @@ nav ul {
   margin: 0;
   padding: 0;
   list-style: none; }
-nav.nav-list h2, nav.nav-list--icons h2 {
-  font-size: 20px;
-  margin: 1rem 0; }
-nav.nav-list li, nav.nav-list--icons li {
-  margin: 0.5rem 0; }
-  nav.nav-list li.nav-item--all a, nav.nav-list--icons li.nav-item--all a {
-    text-decoration: underline; }
-nav.nav-list li a, nav.nav-list--icons li a {
-  color: #333333;
-  text-decoration: none; }
-nav.nav-list--icons li {
-  display: inline-block; }
-nav.nav-list--icons li a {
-  font-size: 3.72rem; }
+nav.nav-list, nav.nav-list--icons {
+  margin-bottom: 1rem; }
+  nav.nav-list h2, nav.nav-list--icons h2 {
+    font-size: 20px;
+    margin: 0 0 1rem 0; }
+  nav.nav-list li, nav.nav-list--icons li {
+    margin: 0.5rem 0; }
+    nav.nav-list li.nav-item--all a, nav.nav-list--icons li.nav-item--all a {
+      text-decoration: underline; }
+  nav.nav-list li a, nav.nav-list--icons li a {
+    color: #333333;
+    text-decoration: none; }
+nav.nav-list--icons {
+  margin-top: 1rem;
+  text-align: center;
+  height: 3.72rem;
+  line-height: 3.72rem; }
+  nav.nav-list--icons li {
+    display: inline-block;
+    height: 3.72rem;
+    line-height: 3.72rem;
+    margin: 0 1rem; }
+    nav.nav-list--icons li:first-child {
+      margin-left: 0; }
+    nav.nav-list--icons li:last-child {
+      margin-right: 0; }
+  nav.nav-list--icons li a {
+    font-size: 3.72rem; }
+  nav.nav-list--icons .nav-list--icons__twitter {
+    color: #55ACEE; }
+  nav.nav-list--icons .nav-list--icons__github {
+    color: #333333; }
+  nav.nav-list--icons .nav-list--icons__email {
+    color: #F75A49; }
 
 .cta, .cta--primary {
   color: #fefefe;
