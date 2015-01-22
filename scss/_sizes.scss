@@ -1,23 +1,24 @@
-$small-margin:0.75rem;
-$standard-margin:1.5rem;
-$large-margin:3rem;
-$gutter:$standard-margin;
+// Fixed sizes
+$smartphone-root-font-size:14px;
+$root-font-size:16px;
 
-$smartphone-font-size:14px;
-$standard-font-size:16px;
+// Font sizes
+$standard-font-size:1rem;
 $large-font-size:1.57rem;
 $page-title-font-size:1.8rem;
 $site-title-font-size:3.17rem;
 $nav-icon-font-size:3.72rem;
 
+// Margins/padding
+$small-margin:0.6rem;
+$standard-margin:1.2rem;
+$large-margin:2.4rem;
+$gutter:$standard-margin;
+
+// Widths
 $header-width:18.75rem;
-$header-cta-width:16.25rem;
+$header-cta-width:100%;
+$max-page-width:68.75rem;
 
-$border-radius:0.5rem;
-
+// Border
 $standard-border-radius:0.5rem;
-
-$standard-line-height:20pt;
-$max-page-width:848px;
-
-$header-font-size-lap:2.6em;
