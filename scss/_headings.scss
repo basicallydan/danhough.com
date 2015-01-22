@@ -6,9 +6,8 @@
 	text-transform:uppercase;
 	text-decoration:none;
 	color:$main-blue;
-	// @include grid-media-query('palm') {
-	// 	font-size:1.4em;
-	// }
+	text-align: center;
+	display: block;
 }
 
 .site-subtitle {
@@ -18,14 +17,16 @@
 }
 
 h1 {
-	font-size:$standard-font-size;
+	font-size:$page-title-font-size;
 	font-weight:500;
+	margin-top:0;
 	// @include grid-media-query('palm') {
 	// 	font-size:1.4em;
 	// }
 }
+
 h2 {
-	font-size:1.56rem;
+	font-size:$large-font-size;
 	line-height:2rem;
 	font-weight:500;
 	// @include grid-media-query('palm') {

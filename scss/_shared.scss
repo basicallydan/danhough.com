@@ -4,25 +4,49 @@
 
 html {
 	font-size:$standard-font-size;
+	@media only screen and (max-width : 320px) {
+		font-size:$smartphone-font-size;
+	}
 	font-family:'Roboto';
 }
 
 body {
 	max-width:1100px;
+	display: flex;
+	flex-direction:column;
+
+	@media (min-width: 769px) {
+		flex-direction:row;
+	}
 }
 
 header {
-	width: 350px;
-}
-
-main, .secondary-homepage-navigation {
-	width: 33%;
-}
-
-header, main, .secondary-homepage-navigation {
+	width:$header-width;
 	padding-top:$standard-margin;
-	padding-left:$large-margin;
-	float:left;
+	padding-left:$standard-margin;
+	order:-1;
+
+	@media (min-width: 769px) {
+		flex: 0 0 $header-width;
+	}
+}
+
+body > main {
+	padding-top:$standard-margin;
+	padding-left:$standard-margin;
+
+	@media (min-width: 769px) {
+		flex: 1;
+	}
+}
+
+body > .content-navigation-column {
+	padding-top:$standard-margin;
+	padding-left:$standard-margin;
+
+	@media (min-width: 769px) {
+		flex: 1;
+	}
 }
 
 /**
