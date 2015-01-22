@@ -24,6 +24,7 @@ header {
 	width:$header-width;
 	padding-top:$standard-margin;
 	padding-left:$standard-margin;
+	margin-right:$large-margin;
 	order:-1;
 
 	@media (min-width: 769px) {

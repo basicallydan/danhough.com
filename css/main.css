@@ -2090,6 +2090,7 @@ header {
   width: 18.75rem;
   padding-top: 1.2rem;
   padding-left: 1.2rem;
+  margin-right: 2.4rem;
   order: -1; }
   @media (min-width: 769px) {
     header {
@@ -2235,7 +2236,8 @@ nav ul {
 
 .cta, .cta--primary {
   color: #fefefe;
-  text-decoration: none; }
+  text-decoration: none;
+  font-size: 1.1rem; }
   .cta--primary {
     background: #2CAF34; }
     header .cta--primary {

@@ -79,6 +79,7 @@ nav {
 .cta {
 	color:$white;
 	text-decoration:none;
+	font-size:$medium-font-size;
 
 	&--primary {
 		@extend .cta;
