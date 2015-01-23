@@ -6,11 +6,10 @@ layout: default
 	<nav id="popular-articles-navigation" class="nav-list">
 		<h2>Popular Articles</h2>
 		<ul>
-			<li><a href="">A criticism of the Single Var Pattern in JavaScript</a></li>
-			<li><a href="">How to use Gulp and Browserify with PhoneGap</a></li>
-			<li><a href="">Unhuddled: To Independence</a></li>
-			<li><a href="">The best way to extend and inherit events in Backbone</a></li>
-			<li><a href="">Android Web Intents with Cordova</a></li>
+			{% assign featuredPostsInReversedArray = "22,21,14,28,32" | split: "," | to_numbers %}
+			{% for post in site.posts reversed | select:featuredPostsInReversedArray %}
+				<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+			{% endfor %}
 		</ul>
 	</nav>
 	<nav id="latest-articles-navigation" class="nav-list">
