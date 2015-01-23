@@ -38,6 +38,11 @@ a {
 	&:link {
 		color:$main-blue;
 	}
+
+	&:hover {
+		text-decoration: underline;
+	}
+
 	&:visited {
 		color:darken($main-blue, 20%);
 	}
