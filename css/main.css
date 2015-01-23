@@ -2072,14 +2072,14 @@ table {
   box-sizing: border-box; }
 
 html {
-  font-size: 16px;
+  font-size: 18px;
   font-family: 'Roboto'; }
   @media only screen and (max-width: 320px) {
     html {
-      font-size: 14px; } }
+      font-size: 16px; } }
 
 body {
-  max-width: 68.75rem;
+  max-width: 1100px;
   display: flex;
   flex-direction: column; }
   @media (min-width: 769px) {
@@ -2095,6 +2095,16 @@ header {
   @media (min-width: 769px) {
     header {
       flex: 0 0 18.75rem; } }
+
+a {
+  font-weight: 600;
+  text-decoration: none; }
+  a:link {
+    color: #547AB0; }
+  a:visited {
+    color: #324a6c; }
+  a.external {
+    color: #2CAF34; }
 
 body > main {
   padding-top: 1.2rem;
@@ -2135,7 +2145,7 @@ body > .content-navigation-column {
 .cf {
   *zoom: 1; }
 
-.site-title {
+a.site-title, .site-title {
   font-size: 3.17rem;
   line-height: 3.17rem;
   font-weight: 500;
@@ -2209,7 +2219,8 @@ nav ul {
     display: block; }
   .nav-list li a, .nav-list--icons li a {
     color: #222;
-    text-decoration: none; }
+    text-decoration: none;
+    font-weight: normal; }
 
 .nav-list--icons {
   margin-top: 1.2rem;
@@ -2226,7 +2237,8 @@ nav ul {
     .nav-list--icons li:last-child {
       margin-right: 0; }
   .nav-list--icons li a {
-    font-size: 3.72rem; }
+    font-size: 3.72rem;
+    font-weight: normal; }
   .nav-list--icons .nav-list--icons__twitter {
     color: #55ACEE; }
   .nav-list--icons .nav-list--icons__github {
@@ -2234,20 +2246,26 @@ nav ul {
   .nav-list--icons .nav-list--icons__email {
     color: #F75A49; }
 
-.cta, .cta--primary {
+a:link.cta, a.cta--primary:link, .cta, a.cta--primary:link, .cta--primary {
+  font-weight: normal;
   color: #fefefe;
   text-decoration: none;
-  font-size: 1.1rem; }
-  .cta--primary {
+  font-size: 1.1rem;
+  border-radius: 0.5rem;
+  margin: 2.4rem 0;
+  padding: 1.2rem 2.4rem;
+  display: block;
+  text-align: center; }
+  a:link.cta--primary, .cta--primary {
     background: #2CAF34; }
-    header .cta--primary {
+    header a:link.cta--primary, header .cta--primary {
+      text-align: left;
       margin: 2.4rem 0 2.4rem -2.4rem;
       padding: 1.2rem 0 1.2rem 2.4rem;
       box-sizing: content-box;
       width: 100%;
-      display: block;
-      border-top-right-radius: 0.5rem;
-      border-bottom-right-radius: 0.5rem; }
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0; }
 
 .project-item {
   margin-top: 1.2rem; }

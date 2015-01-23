@@ -31,6 +31,7 @@ nav {
 	li a {
 		color:$black;
 		text-decoration:none;
+		font-weight:normal;
 	}
 }
 
@@ -61,6 +62,7 @@ nav {
 	}
 	li a {
 		font-size:$nav-icon-font-size;
+		font-weight:normal;
 	}
 
 	.nav-list--icons__twitter {
@@ -76,23 +78,29 @@ nav {
 	}
 }
 
-.cta {
+a:link.cta, .cta {
+	font-weight:normal;
 	color:$white;
 	text-decoration:none;
 	font-size:$medium-font-size;
+	border-radius:$standard-border-radius;
+	margin:$large-margin 0;
+	padding:$standard-margin $large-margin;
+	display:block;
+	text-align:center;
 
 	&--primary {
 		@extend .cta;
 		background:$main-green;
 
 		header & {
+			text-align:left;
 			margin:$large-margin 0 $large-margin (-$large-margin);
 			padding:$standard-margin 0 $standard-margin $large-margin;
 			box-sizing:content-box;
 			width:$header-cta-width;
-			display:block;
-			border-top-right-radius:$standard-border-radius;
-			border-bottom-right-radius:$standard-border-radius;
+			border-top-left-radius:0;
+			border-bottom-left-radius:0;
 		}
 	}
 }
