@@ -8,12 +8,14 @@ a.site-title, .site-title {
 	color:$main-blue;
 	text-align: center;
 	display: block;
+	margin-bottom:$standard-margin;
 }
 
 .site-subtitle {
 	font-size:$standard-font-size;
 	text-align:center;
 	display:block;
+	margin-bottom:$standard-margin;
 }
 
 h1 {

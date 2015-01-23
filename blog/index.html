@@ -1,0 +1,14 @@
+---
+layout: page
+title: All Articles
+---
+
+<h1>All Articles</h1>
+<nav id="all-articles-navigation" class="nav-list">
+	<ul>
+		{% for post in site.posts %}
+		<li class="post-list-item">
+			<span class="published-date">{{ post.date | date: "%d %B %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+</nav>

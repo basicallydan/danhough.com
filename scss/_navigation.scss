@@ -30,7 +30,6 @@ nav {
 
 	li a {
 		color:$black;
-		text-decoration:none;
 		font-weight:normal;
 	}
 }
@@ -38,7 +37,7 @@ nav {
 &.nav-list--icons {
 	@extend .nav-list;
 
-	margin-top:$standard-margin;
+	// margin-top:$standard-margin;
 
 	text-align: center;
 
