@@ -1,9 +1,0 @@
-In the 2005 film Batman Begins, Bruce Wayne (played by Christian Bale) leaves town as a young man to abandon his millionaire lifestyle and join a criminal gang, in order to learn about the criminal underworld. Shortly after this, he is put in prison in Bhutan, picked up by Henri Ducard (played by Liam Neeson) to join the League of Shadows, an assasin organisation in Tibet. What follows is a brutal training programme and minimalist lifestyle in the mountains, after which Bruce eventually [Spoilers ahead!] refuses to join and leaves the League of Shadows headquarters in ruin. He then returns to Gotham City to become The Batman.
-
-While many would look at this and say, "why, what a terrible affair - poor Bruce Wayne!" many others (myself included) consider this to be a positive and transformative experience. Bruce learns various martial arts, becomes very fit and healthy in the process, gains a new perspective on life and understanding of the minds of criminals (empathy!). He learns about his true nature and what he should do with his life, and learns a new kind of patience that most people in modern society, with our always-connected lives cannot fathom.
-
-Bruce Wayne, in short, became a better person. He went in a stuck-up, prissy rich boy with a sense of entitlement, and came out a hardened criminal with, ironically, a greater sense of justice.
-
-And I won't lie: while I have no intention of being part of a crime syndicate, or hurting people for my own gain, there's a certain aspect of cinematic criminal life which is slightly exciting. Not knowing what each day will bring, for instance, and being constantly on the run.
-
-I thought that it would be pretty cool to emulate Bruce's experience for a year. To be able to spend a bit of time being part of a criminal gang, experience prison and then become a kung-fu Buddhist monk, essentially.
