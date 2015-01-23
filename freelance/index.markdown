@@ -1,30 +1,30 @@
 ---
-layout: default
-title: Freelance
+layout: page
+title: Freelance Front End & JavaScript Developer
 ---
 
-## Freelance
+# Freelance Front End & JavaScript Developer
 
-I'm a web and mobile developer available for hire, and I enjoy working with individuals as well as small to medium sized organisations to contribute to the success of projects. For more information about me and what I do, see my [CV](/dan-hough-developer-cv-latest.pdf), my [projects page](/projects) and my [GitHub](https://github.com/basicallydan).
+I’ve been freelancing since 2013, and been a professional developer since 2010. In that time I’ve worked for a few great companies and with a lot of great people. Some of them have been kind enough to share some thoughts about how our work went, which you can read here. Alternatively, learn more about me or have a look at my CV.
 
-### Landing Page
+## Developer for Hire
 
-If you're just getting started with your product or company, it can really help to get potential customers engaged as quickly as possible, even if you don't have a working product yet.
+If you need someone to come into your office and work with the team on your product, I’m your man. I specialise in anything to do with JavaScript on the back end or front end, but I have a keen eye for web design and development. I also have experience with iOS applications and the .NET stack.
 
-I'll create a landing page for you, including information about your product, team and links to social media accounts if you have them. It'll also include, crucially, a sign-up form for future customers to pre-register for your product and receive updates.
+> First up, Dan is great fun to work with and he has masses of enthusiasm about pretty much anything.  He is knowledgeable about a great deal of web software development, both client side and server side, and also had great input into user experience and usability design of the app he built for us.
 
-This will be built in HTML5, CSS3 and JavaScript, and hosted on GitHub pages completely free of charge. Once it's done, I'll hand the reigns over completely to you.
+**Client**
 
-<a href="mailto:dan@danhough.com&subject=Landing Page" class="button button-product">
-	<span class="left">
-		<span>One-time cost</span>
-		<span class="cost">£300</span>
-	</span>
-	<span class="right">Email me</span>
-</a>
+Neill Pearman, CTO of upmysport
 
-### API Consultancy
+I’m open to all sorts of offers. For me, being an independent developer is about working on lots of interesting projects, meeting great people and getting experience in many fields and technologies. Whatever your situation, budget or goals, get in touch and let’s see if we can work something out.
 
-An API (Application Programming Interface) is a great way to encourage third parties to interact with the data your business or organisation is in possession of.
+> Dan was a great addition to our team when we needed him most: in the run up to our iOS app launch. He settled in extremely quickly and got on well with the rest of the team. His work was exceptional and he required little management. We couldn't have been happier!
 
-### Prototype/MVP
+# Convinced?
+
+I’m booked up for work until March 2015, but get in touch anyway if you think I might be the right man for the job. I’m not looking for a permanent role, but if you think you’ve got an interesting job - especially if it involves travelling abroad - please get in touch.
+
+Think we could work together?
+
+<a href="mailto:dan@danhough.com?I think we should work together" class="cta--primary"><strong>Get in touch.</strong></a>

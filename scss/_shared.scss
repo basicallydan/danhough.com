@@ -32,6 +32,21 @@ header {
 	}
 }
 
+a {
+	font-weight:600;
+	text-decoration:none;
+	&:link {
+		color:$main-blue;
+	}
+	&:visited {
+		color:darken($main-blue, 20%);
+	}
+
+	&.external {
+		color:$main-green;
+	}
+}
+
 body > main {
 	padding-top:$standard-margin;
 	padding-left:$standard-margin;
