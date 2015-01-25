@@ -3,6 +3,7 @@ layout: post
 title: Unhuddled - To Independence
 date_created: 09 November 2013
 location: London, UK
+category: popular
 ---
 
 This is a story about how in a few months my outlook on work and life changed, and I ended up where I am now: full time, doing stuff that I enjoy for independence, fun, learning and hopefully, profit.

@@ -5,6 +5,7 @@ title: Android Web Intents with Cordova
 date_created: 02 September 2014
 location: London, UK
 comments: false
+category: popular
 ---
 
 **Important:** I'm doing this using Cordova 3.5.0. It'll probably work for 3.x.x in general but I can't guarantee it!

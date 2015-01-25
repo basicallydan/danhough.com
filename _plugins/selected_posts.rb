@@ -1,11 +1,11 @@
 module Jekyll
-  module SelectedPosts
-    def select(posts, postIds)
-    	selected = []
-    	postIds.each{|i| selected.push(posts[i])}
-	    selected
-    end
-  end
+	module SelectedPosts
+		def select_posts(posts, postIds)
+			selected = []
+			postIds.each{|i| selected.push(posts[i])}
+			selected
+		end
+	end
 end
 
 
