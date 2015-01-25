@@ -2248,7 +2248,7 @@ nav ul {
   .nav-list--icons .nav-list--icons__email {
     color: #F75A49; }
 
-a:link.cta, a.cta--primary:link, .cta, a.cta--primary:link, .cta--primary {
+a:link.cta, a.cta--primary:link, a:visited.cta, a.cta--primary:visited, .cta, a.cta--primary:link, a.cta--primary:visited, .cta--primary {
   font-weight: normal;
   color: #fefefe;
   text-decoration: none;
@@ -2258,9 +2258,9 @@ a:link.cta, a.cta--primary:link, .cta, a.cta--primary:link, .cta--primary {
   padding: 1rem 2rem;
   display: block;
   text-align: center; }
-  a:link.cta--primary, .cta--primary {
+  a:link.cta--primary, a:visited.cta--primary, .cta--primary {
     background: #2CAF34; }
-    header a:link.cta--primary, header .cta--primary {
+    header a:link.cta--primary, header a:visited.cta--primary, header .cta--primary {
       text-align: left;
       margin: 2rem 0 2rem -2rem;
       padding: 1rem 0 1rem 2rem;
@@ -2278,3 +2278,20 @@ a:link.cta, a.cta--primary:link, .cta, a.cta--primary:link, .cta--primary {
 
 .post {
   padding-right: 1rem; }
+  .post h1 {
+    margin-bottom: 0; }
+  .post__footer {
+    width: 100%; }
+    .post__footer__contact {
+      padding-right: 1rem; }
+    .post__footer__contact, .post__footer__subscribe {
+      width: 50%;
+      float: left; }
+    .post__footer__meta {
+      width: 100%;
+      clear: both; }
+
+.meta {
+  font-size: 0.9rem;
+  margin-top: 0;
+  margin-bottom: 2rem; }

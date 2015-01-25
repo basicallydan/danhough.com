@@ -77,7 +77,7 @@ nav {
 	}
 }
 
-a:link.cta, .cta {
+a:link.cta, a:visited.cta, .cta {
 	font-weight:normal;
 	color:$white;
 	text-decoration:none;
