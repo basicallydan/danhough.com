@@ -1,10 +1,10 @@
 module Jekyll
-  module StringArray
-    def to_numbers(input)
-	    output = input.map(&:to_i)
-	    output
-    end
-  end
+	module StringArray
+		def to_numbers(input)
+			output = input.map(&:to_i)
+			output
+		end
+	end
 end
 
 

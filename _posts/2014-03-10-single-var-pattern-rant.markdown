@@ -3,6 +3,7 @@ layout: post
 title: A criticism of the Single Var Pattern in JavaScript, and a simple alternative
 date_created: 10 March 2014
 location: Chamonix, France
+category: popular
 ---
 
 The *Single Var Pattern* is a JavaScript design pattern where for each scope, one `var` statement and **only** one `var` statement is used to declare all the variables for the current scope. It's used to help prevent logical confusion (variables being *hoisted* half-way through a scope are declared before being necessarily defined), collisions due to a variable being declared twice, and from unused variables being created and forgotten during refactoring.

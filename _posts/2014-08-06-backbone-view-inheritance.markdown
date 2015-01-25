@@ -5,6 +5,7 @@ title: The best way to inherit and extend events in Backbone
 date_created: 6 August 2014
 location: London, UK
 comments: true
+category: popular
 ---
 
 My latest client project is a fairly big and complex app, with a lot of small modules for views. In order to keep my code nice and DRY, some good-old-fashioned inheritance has done the trick.
