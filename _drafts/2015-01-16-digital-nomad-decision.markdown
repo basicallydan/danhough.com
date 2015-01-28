@@ -62,3 +62,15 @@ The reason I ended up with "go home for a bit" at the end is because of Christma
 July the 2nd is about 2 weeks before the lease ends on my flat in London. This seems like as sensible a time to do it as any. This means that the trip will last from 2nd July to some time around Christmas. 5 1/2 months away seems like a good first part to the trip before having some time in more familiar surroundings.
 
 Once I'd decided this, I decided to leave any further travel planning until I'd actually started my trip. Christmas would be a good point to decide whether I wanted to keep going a bit longer or not. Those 5 1/2 months would be a nice taster of the "digital nomad" lifestyle for me to find out whether it's worth continuing for a while.
+
+---
+
+I had this plan, I knew I wanted to execute on it so it was time to commit somehow. What better way than to put some money down? Once the money has been paid and the tickets are in your inbox, turning back is difficult, and you then know for sure whether you've done what you wanted to do.
+
+With my credit card in hand, I bought a round-trip ticket: Go to Tokyo, then fly to Seoul, then fly back to London... 5 months later. It ended up being considerably cheaper (think ~£1,000) to buy this crazy round trip than to buy individual tickets. All I have to do now is make sure I'm in Seoul in time for my return flight to London. Easy, right?
+
+So, it's happening. It's not a humongously long trip, but it's the longest I've ever taken full stop, let alone the longest I've taken on my own.
+
+What next? Now I have to figure out how I'm going to afford it. More on that in Part 2.
+
+In the meantime, if you're currently living out in Seoul or Canada or anywhere nearby working remotely I'd love to meet up with you when I get to these locations. [Get in touch](dan@danhough.com)!
