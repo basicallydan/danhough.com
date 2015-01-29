@@ -42,3 +42,21 @@ The right way is surprisingly simple. The abstract solution, which I'll explain 
 	* `Retrieve the stored position from the static property or variable, and make the view scroll to that position`
 8. User continues scrolling, being sucked into the ever-expanding list of items appearing at the bottom of their list
 9. `App happily continues doing its job` :relaxed:
+
+Much better. Now let's look at how to do this using Backbone.
+
+## Do it in Backbone
+
+```javascript
+/* FirstView.js */
+var FirstView = Backbone.View.extend({
+	template: 'whatever',
+	render: function () {
+		this.$el.html(this.template());
+	}
+});
+
+// Create something to store the view state in, statically attached to the View
+// type itself, rather than an instance
+FirstView.viewState = new Backbone.Model();
+```
