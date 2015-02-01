@@ -3300,3 +3300,10 @@ header h2 {
 
 .end-of-post-cta input[type="submit"] {
   padding: 0.6rem 0.4rem; }
+
+.float-right {
+  float: right; }
+
+.small-iphone-image {
+  width: 160px;
+  height: 284px; }
