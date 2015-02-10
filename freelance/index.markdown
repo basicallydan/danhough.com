@@ -11,11 +11,10 @@ I’ve been freelancing since 2013, and been a professional developer since 2010
 
 If you need someone to come into your office and work with the team on your product, I’m your man. I specialise in anything to do with JavaScript on the back end or front end, but I have a keen eye for web design and development. I also have experience with iOS applications and the .NET stack.
 
-> First up, Dan is great fun to work with and he has masses of enthusiasm about pretty much anything.  He is knowledgeable about a great deal of web software development, both client side and server side, and also had great input into user experience and usability design of the app he built for us.
-
-**Client**
-
-Neill Pearman, CTO of upmysport
+<blockquote>
+First up, Dan is great fun to work with and he has masses of enthusiasm about pretty much anything.  He is knowledgeable about a great deal of web software development, both client side and server side, and also had great input into user experience and usability design of the app he built for us.
+	<footer><span class="quotee-type">Client</span> Neill Pearman, CTO of <a href="https://upmysport.com">upmysport</a></footer>
+</blockquote>
 
 I’m open to all sorts of offers. For me, being an independent developer is about working on lots of interesting projects, meeting great people and getting experience in many fields and technologies. Whatever your situation, budget or goals, get in touch and let’s see if we can work something out.
 

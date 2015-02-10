@@ -1,0 +1,21 @@
+blockquote {
+	margin:0 auto $standard-margin auto;
+	padding-left:$standard-margin;
+	border-left:$standard-margin $lighter-grey solid;
+	footer {
+		margin-top:$standard-margin;
+		text-align:right;
+
+		color:$grey;
+
+		.quotee-type {
+			float:left;
+			font-weight:bold;
+			color:$black;
+		}
+
+		a:link, a:visited {
+			color:$main-green;
+		}
+	}
+}
