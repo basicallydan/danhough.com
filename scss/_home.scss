@@ -1,3 +1,22 @@
+#latest-articles-navigation {
+	.post-list-item:first-child {
+		a:link, a:hover, a:visited {
+			&:after {
+				content:'New';
+				margin-left:$small-margin;
+				text-transform:uppercase;
+				font-size:$small-font-size;
+				line-height:$standard-font-size;
+				background-color:$main-red;
+				color:$white;
+				border-radius:$standard-border-radius;
+				padding:0 $small-margin;
+				text-decoration: inherit;
+			}
+		}
+	}
+}
+
 // .post-list {
 // 	@extend .custom-list;
 // 	font-size:0.8em;
