@@ -32,6 +32,23 @@ nav {
 		color:$black;
 		font-weight:normal;
 	}
+
+	&.grid {
+		li {
+			a {
+				display:block;
+				float:left;
+				position: relative;
+				width:50%;
+				padding-bottom:10%;
+				overflow:hidden;
+				border:1px solid black;
+				text-align: center;
+				padding-top:10%;
+				min-height:12rem;
+			}
+		}
+	}
 }
 
 &.nav-list--icons {
