@@ -9,14 +9,14 @@ I’ve been freelancing since 2013, and been a professional developer since 2010
 
 ## Developer for Hire
 
-If you need someone to come into your office and work with the team on your product, I’m your man. I specialise in anything to do with JavaScript on the back end or front end, and I have a keen eye for web design and development. I also have experience with iOS applications and the .NET stack.
+If you need someone to come into your office and work with the team on your product, **I’m your man**. I specialise in anything to do with **JavaScript on the back end or front end**, and I have a keen eye for **web design as well as development**. I also have experience with iOS applications and the .NET stack.
 
 <blockquote>
 First up, Dan is great fun to work with and he has masses of enthusiasm about pretty much anything.  He is knowledgeable about a great deal of web software development, both client side and server side, and also had great input into user experience and usability design of the app he built for us.
 	<footer><span class="quotee-type">Client</span> Neill Pearman, CTO of <a href="https://upmysport.com">upmysport</a></footer>
 </blockquote>
 
-I’m open to all sorts of offers. For me, being an independent developer is about working on lots of interesting projects, meeting great people and getting experience in many fields and technologies. Whatever your situation, budget or goals, get in touch and let’s see if we can work something out.
+I’m open to all sorts of offers. For me, being an independent developer is about working on **lots of interesting projects**, meeting **great people** and getting **experience** in many fields and technologies. Whatever your situation, budget or goals, get in touch and let’s see if we can work something out.
 
 <blockquote>
 Dan was a great addition to our team when we needed him most: in the run up to our iOS app launch. He settled in extremely quickly and got on well with the rest of the team. His work was exceptional and he required little management. We couldn't have been happier!
@@ -36,7 +36,7 @@ Think we could work together?
 
 ### What tools do you use?
 
-While developing I mostly use Sublime Text 3, and I design almost everything that requires design work in Sketch.
+While developing I mostly use Sublime Text 3, and I design almost everything that requires design work in Sketch. I often use [Marvel](https://marvelapp.com/) for creating design/interaction prototypes, and [Interfake](https://github.com/basicallydan/interfake) for API prototypes.
 
 ### What technologies do you use?
 
