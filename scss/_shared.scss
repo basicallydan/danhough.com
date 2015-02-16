@@ -14,15 +14,27 @@ html {
 body {
 	// max-width:$max-page-width;
 	width:100%;
+
+	@media (max-width: ($max-page-width + $root-font-size)) {
+		padding:0 $standard-margin 0 $standard-margin;
+	}
 }
 
 header {
-	width:100%;
 	padding-top:$small-margin;
 	padding-left:$standard-margin;
 	margin-right:$large-margin;
 	margin-bottom:$standard-margin;
 	border-bottom:1px solid $lighter-grey;
+
+	width:100%;
+
+	@media (max-width: 1000px) {
+		max-width:$max-page-width;
+		margin:0 auto $standard-margin auto;
+		padding-top:$small-margin;
+		padding-left:0;
+	}
 }
 
 a {
@@ -42,37 +54,6 @@ a {
 
 	&.external {
 		color:$main-green;
-	}
-}
-
-body > main {
-	padding-top:$standard-margin;
-	padding-left:$standard-margin;
-
-	@media (min-width: 769px) {
-		flex: 1;
-	}
-}
-
-.full-width {
-	width:100%;
-}
-
-.full-width.columns {
-	display: flex;
-	flex-direction:column;
-
-	@media (min-width: 769px) {
-		flex-direction:row;
-	}
-}
-
-body > .content-navigation-column {
-	padding-top:$standard-margin;
-	padding-left:$standard-margin;
-
-	@media (min-width: 769px) {
-		flex: 1;
 	}
 }
 
