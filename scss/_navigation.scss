@@ -33,6 +33,22 @@ nav {
 		font-weight:normal;
 	}
 
+	&.inline {
+		ul {
+			line-height:$site-title-font-size;
+		}
+		li {
+			display:inline-block;
+			margin:0 $small-margin 0 0;
+			line-height:$site-title-font-size;
+			vertical-align:middle;
+
+			&:last-child {
+				margin-right:0;
+			}
+		}
+	}
+
 	&.grid {
 		li {
 			a {

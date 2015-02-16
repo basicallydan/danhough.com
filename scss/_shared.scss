@@ -23,6 +23,7 @@ body {
 header {
 	padding-top:$small-margin;
 	padding-left:$standard-margin;
+	padding-right:$standard-margin;
 	margin-right:$large-margin;
 	margin-bottom:$standard-margin;
 	border-bottom:1px solid $lighter-grey;
@@ -34,6 +35,7 @@ header {
 		margin:0 auto $standard-margin auto;
 		padding-top:$small-margin;
 		padding-left:0;
+		padding-right:0;
 	}
 }
 
