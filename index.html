@@ -1,100 +1,72 @@
 ---
 layout: default
 ---
-
-<main class="content-navigation-column">
-	<nav id="popular-articles-navigation" class="nav-list">
-		<h2>Popular Articles</h2>
-		<ul>
-			{% for post in site.categories.popular %}
-				<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
-			{% endfor %}
-		</ul>
-	</nav>
-	<nav id="latest-articles-navigation" class="nav-list">
-		<h2>Latest Articles</h2>
-		<ul>
-			<!-- Need to figure out how to limit this -->
-			<li class="post-list-item"><a href="{{ site.posts[0].url }}" title="Published {{ site.posts[0].date | date: "%d %B %Y" }}">{{ site.posts[0].title }}</a></li>
-			<li class="post-list-item"><a href="{{ site.posts[1].url }}" title="Published {{ site.posts[1].date | date: "%d %B %Y" }}">{{ site.posts[1].title }}</a></li>
-			<li class="post-list-item"><a href="{{ site.posts[2].url }}" title="Published {{ site.posts[2].date | date: "%d %B %Y" }}">{{ site.posts[2].title }}</a></li>
-			<li class="post-list-item"><a href="{{ site.posts[3].url }}" title="Published {{ site.posts[3].date | date: "%d %B %Y" }}">{{ site.posts[3].title }}</a></li>
-			<li class="post-list-item"><a href="{{ site.posts[4].url }}" title="Published {{ site.posts[4].date | date: "%d %B %Y" }}">{{ site.posts[4].title }}</a></li>
-			<li class="post-list-item nav-item--all"><a href="/blog" title="The entire archive of blog posts">See them all&hellip;</a></li>
-		</ul>
-	</nav>
-</main>
-
-<section class="content-navigation-column">
-	<nav id="libraries-navigation" class="nav-list">
-		<h2>Libraries &amp; Tools</h2>
-		<ul>
-			<li><a href="https://github.com/basicallydan/interfake">Interfake <span class="nav-list__item-subtitle">Fake APIs for prototypes & automated tests.</span></a></li>
-			<li><a href="https://github.com/basicallydan/forkability">Forkability <span class="nav-list__item-subtitle">A linter for your repository.</span></a></li>
-			<li><a href="https://github.com/basicallydan/eventedloop">Eventedloop <span class="nav-list__item-subtitle">Event-driven timed loops</span></a></li>
-			<li><a href="https://github.com/basicallydan/wen">Wen <span class="nav-list__item-subtitle">Event-driven if statements</span></a></li>
-			<li class="post-list-item nav-item--all"><a href="/projects" title="All of my side-projects">See them all&hellip;</a></li>
-		</ul>
-	</nav>
-	<nav id="apps-navigation" class="nav-list">
-		<h2>Games &amp; Apps</h2>
-		<ul>
-			<li><a href="https://github.com/basicallydan/skifree.js">SkiFree.js <span class="nav-list__item-subtitle">The classic PC game SkiFree, but in JS.</span></a></li>
-			<li><a href="https://github.com/conwaysgame">Conway's Game of Life <span class="nav-list__item-subtitle">Implementations in various languages</span></a></li>
-			<li><a href="https://streetscout.io">StreetScout<span class="nav-list__item-subtitle">Route-and-place-finding hybrid</span></a></li>
-			<li><a href="http://pubcrawlapp.co.uk">Pub Crawl: London<span class="nav-list__item-subtitle">A different type of tube map</span></a></li>
-			<li class="post-list-item nav-item--all"><a href="/projects" title="All of my side-projects">See them all&hellip;</a></li>
-		</ul>
-	</nav>
-	<nav id="previous-work-navigation" class="nav-list">
-		<h2>Where I've worked</h2>
-		<ul>
-			<li><a href="">Marvel</a></li>
-			<li><a href="">upmysport</a></li>
-			<li><a href="">Gojimo</a></li>
-			<li><a href="">Huddle</a></li>
-			<li class="nav-item--all"><a href="">See what they say&hellip;</a></li>
-		</ul>
-	</nav>
-</section>
-
-<!-- <section class="hero">
-	<div class="grid">
-		<div class="grid__item five-eighths palm--one-whole lap--one-whole intro">I make websites, mobile apps, music, pictures and words. This website is my personal blog and a directory of all the things I make and do on the Web. I live in London, UK.</div>
-		<nav class="grid__item three-eighths palm--one-whole lap--one-whole">
-			<a href="/projects" class="button button-projects" data-segment='{ "name" : "Projects Button Clicked", "location" : "Homepage Hero" }'>Projects</a>
-			<a href="/contact" class="button button-work-with-me" data-segment='{ "name" : "Contact Button Clicked", "location" : "Homepage Hero" }'>Work with me</a>
+<main class="full-width columns">
+	<aside class="content-navigation-column">
+		<span class="site-subtitle">Independent developer, open-source enthusiast</span>
+		<nav id="quick-links-navigation" class="nav-list">
+			<h2>Quick Links</h2>
+			<ul>
+				<li><a href="/">Homepage</a></li>
+				<li><a href="/blog">All articles</a></li>
+				<li><a href="/freelance">Hire me</a></li>
+				<li><a href="/projects">Projects</a></li>
+			</ul>
 		</nav>
-	</div>
-</section -->
-
-<!-- <main>
-	<div>
-		<div class="grid__item five-eighths palm--one-whole lap--one-whole">
-			<h2>Blog</h2>
-			<ul class="post-list">
-				{% for post in site.posts %}
-				<li class="post-list-item">
-					<span class="published-date">{{ post.date | date: "%d %B %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+		<a class="cta--primary" href="mailto:dan@danhough.com?subject=I%20have%20an%20interesting%20project%20for%20you">Got a project? <strong>Get in touch.</strong></a>
+	</aside>
+	<section class="content-navigation-column">
+		<nav id="popular-articles-navigation" class="nav-list">
+			<h2>Popular Articles</h2>
+			<ul>
+				{% for post in site.categories.popular %}
+					<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
 				{% endfor %}
 			</ul>
-		</div>
-		<aside class="grid__item three-eighths palm--one-whole lap--one-whole">
-			<h2>See also</h2>
-			<ul class="see-also-list">
-				<li class="see-also-list-item see-cv"><a href="/dan-hough-developer-cv-latest.pdf" data-segment='{ "name" : "CV Link Clicked", "location" : "Homepage Sidebar" }'>
-					<i class="fa fa-check icon"></i><span class="title">My CV</span>
-					<span class="subtitle">.pdf format</span>
-				</a></li>
-				<li class="see-also-list-item see-music"><a href="http://danplusadd.co.uk" data-segment='{ "name" : "Music Link Clicked", "location" : "Homepage Sidebar" }'>
-					<i class="fa fa-music icon"></i><span class="title">My Music</span>
-					<span class="subtitle">I'm a busker</span>
-				</a></li>
-				<li class="see-also-list-item see-art"><a href="http://danhough.deviantart.com/" data-segment='{ "name" : "Art Link Clicked", "location" : "Homepage Sidebar" }'>
-					<i class="fa fa-picture-o icon"></i><span class="title">My Art</span>
-					<span class="subtitle">I'm improving</span>
-				</a></li>
+		</nav>
+		<nav id="latest-articles-navigation" class="nav-list">
+			<h2>Latest Articles</h2>
+			<ul>
+				<!-- Need to figure out how to limit this -->
+				<li class="post-list-item"><a href="{{ site.posts[0].url }}" title="Published {{ site.posts[0].date | date: "%d %B %Y" }}">{{ site.posts[0].title }}</a></li>
+				<li class="post-list-item"><a href="{{ site.posts[1].url }}" title="Published {{ site.posts[1].date | date: "%d %B %Y" }}">{{ site.posts[1].title }}</a></li>
+				<li class="post-list-item"><a href="{{ site.posts[2].url }}" title="Published {{ site.posts[2].date | date: "%d %B %Y" }}">{{ site.posts[2].title }}</a></li>
+				<li class="post-list-item"><a href="{{ site.posts[3].url }}" title="Published {{ site.posts[3].date | date: "%d %B %Y" }}">{{ site.posts[3].title }}</a></li>
+				<li class="post-list-item"><a href="{{ site.posts[4].url }}" title="Published {{ site.posts[4].date | date: "%d %B %Y" }}">{{ site.posts[4].title }}</a></li>
+				<li class="post-list-item nav-item--all"><a href="/blog" title="The entire archive of blog posts">See them all&hellip;</a></li>
 			</ul>
-		</aside>
-	</div>
-</main> -->
+		</nav>
+	</section>
+	<section class="content-navigation-column">
+		<nav id="libraries-navigation" class="nav-list">
+			<h2>Libraries &amp; Tools</h2>
+			<ul>
+				<li><a href="https://github.com/basicallydan/interfake">Interfake <span class="nav-list__item-subtitle">Fake APIs for prototypes & automated tests.</span></a></li>
+				<li><a href="https://github.com/basicallydan/forkability">Forkability <span class="nav-list__item-subtitle">A linter for your repository.</span></a></li>
+				<li><a href="https://github.com/basicallydan/eventedloop">Eventedloop <span class="nav-list__item-subtitle">Event-driven timed loops</span></a></li>
+				<li><a href="https://github.com/basicallydan/wen">Wen <span class="nav-list__item-subtitle">Event-driven if statements</span></a></li>
+				<li class="post-list-item nav-item--all"><a href="/projects" title="All of my side-projects">See them all&hellip;</a></li>
+			</ul>
+		</nav>
+		<nav id="apps-navigation" class="nav-list">
+			<h2>Games &amp; Apps</h2>
+			<ul>
+				<li><a href="https://github.com/basicallydan/skifree.js">SkiFree.js <span class="nav-list__item-subtitle">The classic PC game SkiFree, but in JS.</span></a></li>
+				<li><a href="https://github.com/conwaysgame">Conway's Game of Life <span class="nav-list__item-subtitle">Implementations in various languages</span></a></li>
+				<li><a href="https://streetscout.io">StreetScout<span class="nav-list__item-subtitle">Route-and-place-finding hybrid</span></a></li>
+				<li><a href="http://pubcrawlapp.co.uk">Pub Crawl: London<span class="nav-list__item-subtitle">A different type of tube map</span></a></li>
+				<li class="post-list-item nav-item--all"><a href="/projects" title="All of my side-projects">See them all&hellip;</a></li>
+			</ul>
+		</nav>
+		<nav id="previous-work-navigation" class="nav-list">
+			<h2>Where I've worked</h2>
+			<ul>
+				<li><a href="">Marvel</a></li>
+				<li><a href="">upmysport</a></li>
+				<li><a href="">Gojimo</a></li>
+				<li><a href="">Huddle</a></li>
+				<li class="nav-item--all"><a href="">See what they say&hellip;</a></li>
+			</ul>
+		</nav>
+	</section>
+</main>

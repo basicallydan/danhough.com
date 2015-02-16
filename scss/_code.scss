@@ -2,6 +2,7 @@ pre code {
 	margin:1.5em 0;
 	display:block;
   overflow: scroll;
+  font-size:$code-font-size;
 }
 
 code.language-html:before, code.language-css:before, code.language-javascript:before, code.language-js:before, code.language-xml:before {

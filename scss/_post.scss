@@ -1,20 +1,26 @@
 .post {
-	padding-right:$standard-margin;
+	&-content, &-footer-content {
+		max-width:$max-page-width;
+		margin:0 auto;
+		margin-bottom:$standard-margin;
+	}
 
 	h1 {
 		margin-bottom:0;
 	}
 
-	&__footer {
+	&-footer {
+		padding-top:$standard-margin;
+		background-color:$lightest-grey;
 		width:100%;
-		&__contact {
+		&-contact {
 			padding-right:$standard-margin;
 		}
-		&__contact, &__subscribe {
+		&-contact, &-subscribe {
 			width:50%;
 			float:left;
 		}
-		&__meta {
+		&-meta {
 			width:100%;
 			clear:both;
 		}

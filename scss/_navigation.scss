@@ -54,7 +54,9 @@ nav {
 &.nav-list--icons {
 	@extend .nav-list;
 
-	// margin-top:$standard-margin;
+	display:inline-block;
+
+	margin:0 $standard-margin;
 
 	text-align: center;
 
@@ -64,7 +66,7 @@ nav {
 	li {
 		display:inline-block;
 		height:$nav-icon-font-size;
-		line-height:$nav-icon-font-size;
+		line-height:$site-title-font-size;
 
 		margin:0 $small-margin;
 
@@ -100,7 +102,7 @@ a:link.cta, a:visited.cta, .cta {
 	text-decoration:none;
 	font-size:$medium-font-size;
 	border-radius:$standard-border-radius;
-	margin:$large-margin 0;
+	margin:$small-margin 0;
 	padding:$standard-margin $large-margin;
 	display:block;
 	text-align:center;

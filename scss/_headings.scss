@@ -7,13 +7,13 @@ a.site-title, .site-title {
 	text-decoration:none;
 	color:$main-blue;
 	text-align: center;
-	display: block;
-	margin-bottom:$standard-margin;
+	display: inline-block;
+	margin-bottom:$small-margin;
 }
 
 .site-subtitle {
 	font-size:$standard-font-size;
-	text-align:center;
+	text-align:left;
 	display:block;
 	margin-bottom:$standard-margin;
 }
