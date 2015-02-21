@@ -17,12 +17,11 @@
 		border:1px solid $lighter-grey;
 	}
 
-	input[type=submit].fa-button {
-		// font-family: FontAwesome;
-		font-style: normal;
-		font-weight: normal;
-		// line-height: 1.45;
-		// -webkit-font-smoothing: antialiased;
-		// -moz-osx-font-smoothing: grayscale;
+	@media (max-width: 1000px) {
+		display: flex;
+		input[type=email], input[type=text] {
+			flex:1;
+			margin-right:$standard-margin;
+		}
 	}
 }

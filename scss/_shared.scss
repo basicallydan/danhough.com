@@ -16,7 +16,10 @@ body {
 	width:100%;
 
 	@media (max-width: ($max-page-width + $root-font-size)) {
-		padding:0 $standard-margin 0 $standard-margin;
+		header, .article-content {
+			padding-left:$standard-margin;
+			padding-right:$standard-margin;
+		}
 	}
 }
 
@@ -36,6 +39,17 @@ header {
 		padding-top:$small-margin;
 		padding-left:0;
 		padding-right:0;
+	}
+
+	@media (max-width: 515px) {
+		text-align: center;
+		.pull-right {
+			float:none;
+		}
+	}
+
+	.nav-list {
+		margin-bottom:$small-margin;
 	}
 }
 
