@@ -125,8 +125,9 @@ a:link.cta, a:visited.cta, .cta {
 	text-align:center;
 
 	&.inline {
+		display:inline-block;
 		@media (max-width: 320px) {
-			display:inline-block;
+			display:block;
 		}
 	}
 
