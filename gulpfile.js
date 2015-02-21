@@ -7,12 +7,19 @@ var config = {
 	},
 	live: {
 		destination: '/home/dan/websites/danhough.com/www'
+	},
+	dev: {
+		destination: '/home/dan/websites/danhough.com/dev'
 	}
 };
 var environment = 'local';
 
 if (gutil.env.live) {
 	environment = 'live';
+}
+
+if (gutil.env.dev) {
+	environment = 'dev';
 }
 
 config = config[environment];
