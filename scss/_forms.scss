@@ -1,4 +1,6 @@
-.large-one-line {
+.one-line-form {
+	display: flex;
+
 	input {
 		display:inline;
 		display:inline-block;
@@ -9,19 +11,29 @@
 		font-weight:lighter;
 		color:$black;
 		text-decoration:none;
-		font-size:$medium-font-size;
-		border-radius:$standard-border-radius;
-		margin:$small-margin 0;
-		padding:$standard-margin $small-margin;
 		text-align:left;
 		border:1px solid $lighter-grey;
+		flex:1;
+		margin:$small-margin $small-margin $small-margin 0;
 	}
 
-	@media (max-width: 1000px) {
-		display: flex;
+	&.small {
 		input[type=email], input[type=text] {
-			flex:1;
-			margin-right:$standard-margin;
+			font-size:$standard-font-size;
+			border-radius:$standard-border-radius;
+			padding:$small-margin $small-margin;
 		}
+	}
+	&.large {
+		input[type=email], input[type=text] {
+			font-size:$medium-font-size;
+			border-radius:$standard-border-radius;
+			padding:$standard-margin $small-margin;
+		}
+	}
+
+	.cta {
+		font-size:$standard-font-size;
+		padding:$small-margin $standard-margin;
 	}
 }
