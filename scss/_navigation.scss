@@ -124,6 +124,12 @@ a:link.cta, a:visited.cta, .cta {
 	display:block;
 	text-align:center;
 
+	&.inline {
+		@media (max-width: 320px) {
+			display:inline-block;
+		}
+	}
+
 	&--primary {
 		@extend .cta;
 		background:$main-green;
@@ -132,6 +138,13 @@ a:link.cta, a:visited.cta, .cta {
 	&--secondary {
 		@extend .cta;
 		background:$main-blue;
+	}
+
+	&--tertiary {
+		@extend .cta;
+		color:$black;
+		background:$white;
+		border:1px solid $lighter-grey;
 	}
 
 	&.square-padding {
