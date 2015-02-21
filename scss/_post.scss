@@ -15,6 +15,9 @@
 		width:100%;
 		&-contact {
 			padding-right:$standard-margin;
+			@media (max-width: 1000px) {
+				margin-bottom:$standard-margin;
+			}
 		}
 		&-contact, &-subscribe {
 			width:50%;
