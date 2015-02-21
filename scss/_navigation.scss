@@ -99,6 +99,10 @@ nav {
 		font-weight:normal;
 	}
 
+	@media (max-width: 515px) {
+		margin-right:0;
+	}
+
 	.nav-list--icons__twitter {
 		color:$twitter-blue;
 	}
