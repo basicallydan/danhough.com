@@ -158,5 +158,8 @@ a:link.cta, a:visited.cta, .cta {
 }
 
 .post-navigation {
-	
+	@media (max-width: 748px) {
+		padding-right:$standard-margin;
+		padding-left:$standard-margin;
+	}
 }
