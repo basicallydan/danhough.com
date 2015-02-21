@@ -118,6 +118,7 @@ a:link.cta, a:visited.cta, .cta {
 	text-decoration:none;
 	font-size:$medium-font-size;
 	border-radius:$standard-border-radius;
+	border:none;
 	margin:$small-margin 0;
 	padding:$standard-margin $large-margin;
 	display:block;
@@ -126,6 +127,15 @@ a:link.cta, a:visited.cta, .cta {
 	&--primary {
 		@extend .cta;
 		background:$main-green;
+	}
+
+	&--secondary {
+		@extend .cta;
+		background:$main-blue;
+	}
+
+	&.square-padding {
+		padding:$standard-margin $standard-margin;
 	}
 }
 
