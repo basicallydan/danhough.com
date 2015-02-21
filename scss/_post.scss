@@ -22,11 +22,8 @@
 			@media (max-width: 1000px) {
 				width:100%;
 				float:none;
-			}
-		}
-		&-subscribe {
-			@media (max-width: 1000px) {
 				padding-right:$standard-margin;
+				padding-left:$standard-margin;
 			}
 		}
 		&-meta {
