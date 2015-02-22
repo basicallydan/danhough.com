@@ -10,7 +10,7 @@ Just like every other front-end developer who [likes to changes their mind about
 
 I initially started with Martin Genev's `gulpfile` which included a LiveReload server, but soon found that making this work with the Ripple emulator is a bit of a faff and involves some unnecessary proxying. So, I created one which works better for Ripple. It's very simple, and this is what it looks like.
 
-```js
+~~~js
 var gulp = require('gulp');
 var browserify = require('gulp-browserify');
 var concat = require('gulp-concat');
@@ -69,13 +69,13 @@ gulp.task('default', function() {
         o('http://localhost:' + options.port + '?enableripple=cordova-3.0.0');
     }
 });
-```
+~~~
 
 Quite simply, the `scripts` and `styles` tasks are re-run whenever their files change and the ripple server starts when the default task is run. It even opens the browser to show you Ripple just like the globally-installed Ripple would. Any suggestions feel free to [leave them in this gist](https://gist.github.com/basicallydan/8951183). I hope this helps a few people out there.
 
 Oh, and don't forget to keep your devDependencies in package.json nice and organised:
 
-```
+~~~
   "devDependencies": {
     "gulp": "~3.5.2",
     "gulp-browserify": "~0.4.4",
@@ -86,4 +86,4 @@ Oh, and don't forget to keep your devDependencies in package.json nice and organ
     "handlebars": "~1.3.0",
     "hbsfy": "~1.3.1"
   }
-```
+~~~

@@ -11,31 +11,31 @@ Yesterday I published an update to npm which massively decreases the barrier to 
 
 If you're gonna use these snippets don't forget to install interfake first, or update the version if you already have it:
 
-```
+~~~
 $ npm install interfake
-```
+~~~
 
-```javascript
+~~~javascript
 var Interfake = require('interfake');
 var interfake = new Interfake();
 interfake.get('/hello');
-```
+~~~
 
 You're done! `/hello` will now return a `200 OK` response with an empty JSON object as the body. The fluency is the ability to customise responses with chained methods.
 
-```javascript
+~~~javascript
 var Interfake = require('interfake');
 var interfake = new Interfake();
 interfake.get('/hello').status(200).body({ message : 'what up!' });
-```
+~~~
 
 As you can probably guess, `/hello` now returns a 200, with a body which includes a little message. Great! So easy! But there's more. One of the coolest features of Interfake, in my opinion, is it's ability to dynamically create new endpoints when existing ones have been hit, and that's even easier now with the fluent API.
 
-```javascript
+~~~javascript
 var Interfake = require('interfake');
 var interfake = new Interfake();
 interfake.get('/hello').status(200).body({ message : 'what up!' }).creates.put('/update-something').creates.delete('/delete-me');
-```
+~~~
 
 Now, when `GET /hello` is hit, `PUT /update-something` is created and will return `200`. When `PUT /update-something` is hit, `DELETE /delete-me` is created. Super easy.
 
@@ -49,7 +49,7 @@ Create a new directory for the app, and run `npm install interfake zombie` in th
 
 ### Create test file `spa-test.js`
 
-```javascript
+~~~javascript
 // Include interfake
 var Interfake = require('interfake');
 var Browser = require('zombie');
@@ -94,12 +94,12 @@ browser.visit('http://localhost:3000/static/index.html')
 		console.log('All asserts passed just fine!');
 		browser.close();
 	});
-```
+~~~
 
 Now let's create an HTML file, which is the entirety of our single-page app, in the same directory.
 
 ### Create app file `index.html`
-```html
+~~~html
 <html>
 <head>
 	<title>Interfake it 'til you make it</title>
@@ -124,7 +124,7 @@ Now let's create an HTML file, which is the entirety of our single-page app, in 
 	<a href="#" id="update">Update</a>
 </body>
 </html>
-```
+~~~
 
 ### Run those tests!
 

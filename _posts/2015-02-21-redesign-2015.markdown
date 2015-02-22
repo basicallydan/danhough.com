@@ -7,7 +7,7 @@ location: London, UK
 comments: false
 ---
 
-Some time back in 2005, I started my personal website, [danielhough.co.uk](http://danielhough.co.uk). The idea was to advertise myself as a freelance web developer. I was 17 years old. I quote [from the site](http://web.archive.org/web/20060505042750/http://www.danielhough.co.uk/index.php?c=services) at the time:
+Some time back in `2005`, I started my personal website, [danielhough.co.uk](http://danielhough.co.uk). The idea was to advertise myself as a freelance web developer. I was 17 years old. I quote [from the site](http://web.archive.org/web/20060505042750/http://www.danielhough.co.uk/index.php?c=services) at the time:
 
 > I offer my service as a web designer for small business or personal websites. I have more than 5 years experience in HTML and have been using PHP & MySQL for around a year.
 

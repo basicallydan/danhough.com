@@ -17,7 +17,7 @@ If you want to play the game (at time of writing it is still a work-in-progress,
 
 I started simple by just creating a nice little `Sprite` class, and having it take a `CanvasRenderingContext2D` from the canvas, and drawing itself onto that context.
 
-```javascript
+~~~javascript
 var skier;
 var trees = [];
 var mouseX = getCentreOfViewport();
@@ -36,7 +36,7 @@ skier.setPosition(mouseX, getMiddleOfViewport());
 setInterval(function () {
   // Draw the bastards
 });
-```
+~~~
 
 I grabbed some sprites from a place on the [Web](http://spriters-resource.com/submitter/Wing%20Wang%20Wao) where a chap called Wing Wang Wao had ripped them and posted them online, and then played the game for about 2 minutes before being consumed by excitement for the rest of the night. I added a monster, and made trees generate at random, and there it was: a simple port of SkiFree.
 

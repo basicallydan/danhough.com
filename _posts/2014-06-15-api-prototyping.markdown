@@ -28,7 +28,7 @@ There are a few tools available. One of them is something I have developed with 
 
 **[Interfake](https://github.com/basicallydan/interfake)** is an open-source library and command-line tool written in JavaScript which allows you to create a basic endpoint in a single line:
 
-```new Interfake().get('/ping').status(200).body({ message: "Hello" }).listen(3000)```
+~~~new Interfake().get('/ping').status(200).body({ message: "Hello" }).listen(3000)~~~
 
 That's all it takes to get started. It supports custom headers, dynamic creation of new endpoints and can be started on the command line by loading a JSON file containing your mocked API, as well as [many other features](https://github.com/basicallydan/interfake#api). It's also in active development, so expect new features and improvements. It currently only supports JSON as the response type, but that is the only real limitation; apart from that it is extremely unopinionated.
 

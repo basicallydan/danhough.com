@@ -12,7 +12,7 @@ In general the Single Var Pattern is a great idea and works very well, but it ca
 
 This is the Single Var Pattern:
 
-```javascript
+~~~javascript
 function() {
     var declare = 'all',
         your = 'variables',
@@ -22,11 +22,11 @@ function() {
         semicolon;
     // Everything else.
 }
-```
+~~~
 
 And this is what I do instead. I call it *Vars At The Top*.
 
-```javascript
+~~~javascript
 function() {
     var declare = 'all';
     var the = 'variables';
@@ -36,7 +36,7 @@ function() {
     var varStatements;
     // Everything else.
 }
-```
+~~~
 
 Why do I do this? Read on...
 
@@ -64,19 +64,19 @@ EDIT: Someone in [the comments on Reddit](http://www.reddit.com/r/javascript/com
 
 I recently read [a post by Yoav Rubin](http://yoavrubin.blogspot.fr/2011/09/function-javascript-engine-and-single.html) which pointed out how a little mistake in using the Single Var Pattern can lead to a grave error. I'll quote directly from what he gave as examples. The first one is how the developer *intended* to write their code, and what the effect for each variable is.
 
-```javascript
+~~~javascript
 var someData = 'testing', // local within the function
     otherData = 'data1', // local within the function
     moreData = 'data2'; // local within the function
-```
+~~~
 
 And now, what if they forget just a single comma after the first variable?
 
-```javascript
+~~~javascript
 var someData = 'testing' // local within the function
     otherData = 'data1', // global
     moreData = 'data2'; // global
-```
+~~~
 
 JavaScript engines will insert semi-colons at the end of lines which do not have them (or a comma), and as you may know, a variable declaration without a `var` statement means a [global variable declaration, which could be a huge problem](http://code.tutsplus.com/tutorials/the-11-javascript-mistakes-youre-making--net-20413).
 
@@ -88,25 +88,25 @@ Because the statement is essentially one long line, it has to compile properly *
 
 Often, during the process of developing something I'll end up commenting out lines of code bit-by-bit and sometimes commenting out entire variable declarations to see if, for some reason, this line is causing trouble. Let's look at an example:
 
-```javascript
+~~~javascript
 var dodgyVar1 = doSomethingDodgy('value'),
     goodVar1 = 'value',
     goodVar2 = 'value',
     dodgyVar2 = doSomethingDodgy('value');
 
 // Do some stuff here with those variables
-```
+~~~
 
 At some point in writing this code I decide to comment out `dodgyVar1` and `dodgyVar2`, because I suspect they're doing something dodgy. Since I use Sublime Text, I select both lines 1 and 4 (`CMD`+`Click`) to have a cursor on both of them, and hit the comment shortcut (`CMD`+`/`).
 
-```javascript
+~~~javascript
 // var dodgyVar1 = doSomethingDodgy('value'),
     goodVar1 = 'value',
     goodVar2 = 'value',
 //    dodgyVar2 = doSomethingDodgy('value');
 
 // Do some stuff here with those variables
-```
+~~~
 
 Now in order to make the code valid, I need to go through the fiddly process of navigating to the beginning of line 2, adding a `var` statement there, an then to the end of line 3, and replacing the comma with a semi-colon. This doesn't sound like much, but over time it becomes very tedious and was in fact the original reason for why I questioned my use of the Single Var Pattern.
 
@@ -116,7 +116,7 @@ Now in order to make the code valid, I need to go through the fiddly process of 
 
 If you're minifying your code, (which in 90% of situations is something you want to do) then you'll be fine. Here's some simple JavaScript I wrote:
 
-```javascript
+~~~javascript
 function doit() {
     var foo = 'bar';
     var baz = 'qux';
@@ -128,13 +128,13 @@ function doit() {
 }
 
 doit();
-```
+~~~
 
 And here's the result produced by [UglifyJS2](https://github.com/mishoo/UglifyJS2):
 
-```javascript
+~~~javascript
 function doit(){var e="bar",t="qux",n="time";return e="qux",t="bar",n="stuff",e+t+n}doit();
-```
+~~~
 
 As you can see, Uglify does the single `var` stuff for me, since in the `doit` scope there's only one `var` statement. Not a problem. In fact, if you Single-Var-Pattern-ify my code, you'll find the output to be exactly the same.
 
@@ -142,12 +142,12 @@ As you can see, Uglify does the single `var` stuff for me, since in the `doit` s
 
 Is it really? Shouldn't one of the determining factors in how "readable" code is be how many people can understand what's going on? I've seen many examples of code using SVP which assert that you should put the comma at the beginning of each line. If you ask me, this is not readable code for most people, *especially* JavaScript newbies or people not familiar with the Single Var Pattern:
 
-```javascript
+~~~javascript
 var bar    = thing.doTheThing('a')
     ,stuff = bar.makeMeAThing()
     ,foo   = thing.doTheOtherThing('b')
     ,baz   = 'qux';
-```
+~~~
 
 As my friend [Jon](https://twitter.com/jonfinerty) said, "I've always found that for new people, the less syntax the better." With Single Var, we're introducing seemingly random comments and convention-based indentation. This is *more* syntax.
 
