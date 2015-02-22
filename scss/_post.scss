@@ -39,6 +39,10 @@
 		}
 	}
 
+	&-content blockquote + .center {
+		margin:$large-margin auto $large-margin auto;
+	}
+
 	h1 {
 		margin-bottom:0;
 	}

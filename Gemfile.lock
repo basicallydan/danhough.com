@@ -91,3 +91,4 @@ PLATFORMS
 
 DEPENDENCIES
   jemoji
+  kramdown

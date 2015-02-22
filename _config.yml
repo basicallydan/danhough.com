@@ -2,7 +2,7 @@ port: 4000
 baseurl: /
 url: http://danhough.com
 permalink: /blog/:title
-markdown: redcarpet
+markdown: KramdownPygments
 exclude: ['favicon.sketch','scss', 'node_modules', 'new-blog-post.html', 'new-projects.html', 'new.html', 'package.json', 'gulpfile.js']
 debug: true
 gems:
