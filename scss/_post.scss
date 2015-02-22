@@ -72,8 +72,16 @@
 		&-meta {
 			width:100%;
 			clear:both;
+			@media (max-width: 748px) {
+				padding-right:$standard-margin;
+				padding-left:$standard-margin;
+			}
 		}
 	}
+}
+
+.post-comments {
+	margin:1rem auto;
 }
 
 .meta {

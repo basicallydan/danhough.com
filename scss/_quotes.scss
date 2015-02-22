@@ -18,4 +18,8 @@ blockquote {
 			color:$main-green;
 		}
 	}
+
+	p:last-child {
+		margin-bottom:0;
+	}
 }
