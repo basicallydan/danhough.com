@@ -1,0 +1,17 @@
+---
+published: true
+layout: post
+title: Redesign, February 2015
+date_created: 21 February 2015
+location: London, UK
+comments: false
+---
+
+Some time back in 2005, I started my personal website, [danielhough.co.uk](http://danielhough.co.uk). The idea was to advertise myself as a freelance web developer. I was 17 years old. I quote [from the site](http://web.archive.org/web/20060505042750/http://www.danielhough.co.uk/index.php?c=services) at the time:
+
+> I offer my service as a web designer for small business or personal websites. I have more than 5 years experience in HTML and have been using PHP & MySQL for around a year.
+
+{% include _figure.html src="/img/2006-danielhough-screenshot.png" caption="My website in 2005, and 2006." %}
+
+Back then I didn't have much content to share with people. Not professional content, anyway. I had a huge pile of Flash animations, a couple of songs that I'd written and some holiday snaps, but not much when it comes to web development. Therefore, the site was necessarily simple. There wasn't much to share, so the site wasn't cluttered. Yes, it used tables, but it looked fine for 2005. Clean, simple, not overly offensive to the eyes.
+

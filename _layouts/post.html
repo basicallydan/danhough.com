@@ -4,8 +4,10 @@ layout: default
 
 <article class="article">
 	<main class="article-content">
-		<h1 id="top">{{ page.title }}</h1>
-		<p class="meta">Published {{ page.date_created }} in {{ page.location }}</p>
+		<header>
+			<h1 id="top">{{ page.title }}</h1>
+			<p class="meta">Published {{ page.date_created }} in {{ page.location }}</p>
+		</header>
 		{{ content }}
 		<p>Heckle me on Twitter <a href="http://twitter.com/basicallydan">@basicallydan</a>.</p>
 	</main>

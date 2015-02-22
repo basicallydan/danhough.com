@@ -1,8 +1,42 @@
 .article {
-	&-content, &-footer-content {
+	&-content p,
+	&-content header,
+	&-content ul,
+	&-content h1,
+	&-content h2,
+	&-content h3,
+	&-content ol,
+	&-content code,
+	&-content blockquote,
+	&-footer-content {
 		max-width:$max-page-width;
 		margin:0 auto;
 		margin-bottom:$standard-margin;
+	}
+
+	&-content header {
+		padding:0;
+	}
+
+	&-content header {
+		border-bottom:none;
+	}
+
+	&-content {
+		.center {
+			margin:$standard-margin auto $large-margin auto;
+			max-width:$max-break-out-page-width;
+
+			img {
+				width:100%;
+				margin:0;
+			}
+
+			figcaption {
+				text-align: center;
+				font-size:$small-font-size;
+			}
+		}
 	}
 
 	h1 {
