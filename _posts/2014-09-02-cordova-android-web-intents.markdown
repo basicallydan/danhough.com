@@ -16,13 +16,13 @@ The example I'm going to use is an app which intercepts (filters) Google search 
 
 First, add the appropriate plugin. Don't forget that if you [use a hook to manage plugins, like devgirl](http://devgirl.org/2013/11/12/three-hooks-your-cordovaphonegap-project-needs/), add it to there, too. On the command line/terminal:
 
-~~~bash
+```bash
 $ cordova plugin add https://github.com/Initsogar/cordova-webintent.git
-~~~
+```
 
 Now go to your AndroidManifest.xml file. If you use a template to generate this, go there. Inside of `<manifest>...<application>...<activity>`, paste this XML element:
 
-~~~xml
+```xml
 <intent-filter>
 	<action android:name="android.intent.action.VIEW"></action>
 	<category android:name="android.intent.category.DEFAULT"></category>
@@ -30,13 +30,13 @@ Now go to your AndroidManifest.xml file. If you use a template to generate this,
 	<data android:host="google.com" android:scheme="http"></data>
 	<data android:host="www.google.com" android:scheme="http"></data>
 </intent-filter>
-~~~
+```
 
 Here we're registering an "intent filter", for any URL in the `http` scheme which is on the host `google.com` or, with the subdomain at `www.google.com`. You may also want to specify more filters for `https`.
 
 Now head to your initialisation code. This is whatever gets executed inside of the `document.addEventListener('deviceready'...` callback. Stick this inside of it somewhere:
 
-~~~javascript
+```javascript
 window.webintent.getUri(function(uri) {
 	if (!_.isString(uri)) {
 		Backbone.history.navigate('#/');
@@ -49,7 +49,7 @@ window.webintent.getUri(function(uri) {
 		// alert(innerUrl); // Do this if you just want proof!
 	}
 });
-~~~
+```
 
 So what does this do? First, we call `getUri` to get the URI that was given by our intent. We extract the bit that we need (in this case, a search query) using a regular expression, and navigate to our "Search" page with the query as our parameter. Or, if you just want proof, do an alert of the `innerUrl` variable to see what we've extracted.
 
@@ -61,7 +61,7 @@ You might find that you only want to intercept URLs at a specific path, to avoid
 
 To fix this and only open `/search` links, we go back to our AndroidManifest.xml file and change the XML that we pasted in earlier. In the `<data>` element, we put an `android:pathPattern` attribute whose value specifies the pattern of the path we'd like to intercept. So, let's make it look like this:
 
-~~~xml
+```xml
 <intent-filter>
 	<action android:name="android.intent.action.VIEW"></action>
 	<category android:name="android.intent.category.DEFAULT"></category>
@@ -69,7 +69,7 @@ To fix this and only open `/search` links, we go back to our AndroidManifest.xml
 	<data android:host="google.com" android:pathPattern="/search" android:scheme="http"></data>
 	<data android:host="www.google.com" android:pathPattern="/search" android:scheme="http"></data>
 </intent-filter>
-~~~
+```
 
 Now, try opening http://google.com/about/ again. It won't open your app!
 

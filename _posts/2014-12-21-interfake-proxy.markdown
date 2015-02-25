@@ -10,9 +10,9 @@ comments: true
 
 Good news, everyone! Interfake 1.12 is now available on npm. If you're not familiar with Interfake already, I recommend checking out the [Interfake GitHub repository](https://github.com/basicallydan/interfake). If you're an existing user, head over to your repo and do this:
 
-~~~
+```
 npm install interfake --save
-~~~
+```
 
 This is the first blog post I've written in a while about Interfake so this could be a good opportunity to go over some features which have been released over the last few months.
 
@@ -22,18 +22,18 @@ This is my favourite new feature so I'll do this first. If you need a local API 
 
 A simple example:
 
-~~~js
+```js
 var Interfake = require('interfake');
 var interfake = new Interfake();
 interfake.get('/interfake-tags').proxy({
 	url: 'https://api.github.com/repos/basicallydan/interfake/tags'
 });
 interfake.listen(3000);
-~~~
+```
 
 And specifying headers:
 
-~~~js
+```js
 var Interfake = require('interfake');
 var interfake = new Interfake();
 interfake.get('/interfake-tags').proxy({
@@ -45,7 +45,7 @@ interfake.get('/interfake-tags').proxy({
 	}
 });
 interfake.listen(3000);
-~~~
+```
 
 In both examples, Interfake will make a request behind-the-scenes to the URL you specify, and the response it gets back it will forward on. Any headers specified in the proxy function will be sent as request headers.
 
@@ -55,7 +55,7 @@ I can see this being very useful in the future!
 
 A good REST API open includes support for the `PATCH` HTTP method. The purpose of this method is represent a partial change to an existing resource. As an example, let's look at an instance of a resource called `Kingdom` located on a fictional API at `/kingdoms/5`. Below is the response to a `GET /kingdoms/5` request.
 
-~~~json
+```json
 {
 	"id" : 5,
 	"name" : "Candy Kingdom",
@@ -63,11 +63,11 @@ A good REST API open includes support for the `PATCH` HTTP method. The purpose o
 	"population" : 10000,
 	"hero" : "Finn the Human"
 }
-~~~
+```
 
 If we wanted to modify the `hero` property of this resource but leave all else untouched, a very suitable HTTP method to do this with would be the `PATCH` method, sending `{ "hero" : "Jake the Dog" }` to `PATCH /kingdoms/5`. This would probably return a `200` or whatever - but that's not important right now. The important thing is how to implement this kind of functionality using Interfake. We do this using `extends`, like so:
 
-~~~js
+```js
 var Interfake = require('interfake');
 var interfake = new Interfake();
 interfake.get('/kingdoms/5').body({
@@ -81,7 +81,7 @@ interfake.patch('/kingdoms/5').extends.get('/kingdoms/5').body({
 	'hero' : 'Jake the Dog'
 });
 interfake.listen(3000);
-~~~
+```
 
 There! Simple! Now, when we make a `PATCH` request to `/kingdoms/5`, the body of `GET /kingdoms/5` will change slightly. REST to your heart's content.
 

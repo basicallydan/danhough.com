@@ -19,24 +19,24 @@ The `<datalist>` element has [pretty OK support](http://caniuse.com/#feat=datali
 
 This is really easy. First, you're gonna need a regular ol' `<input type="text">` element, and let's give it a label just because.
 
-~~~html
+```html
 <label for="fav-fruit">Favourite Fruit</label>
 <input type="text" id="fav-fruit">
-~~~
+```
 
 Now we add the new element, datalist. It needs an ID so we can hook it up to the `<input>`. Put it above the `<input>`, because it looks better there. While you're at it, add the `list` attribute to your `<input>` so it points at the `<datalist>` we created.
 
-~~~html
+```html
 <datalist id="fruits">
 </datalist>
 
 <label for="fav-fruit">Favourite Fruit</label>
 <input type="text" id="fav-fruit" list="fruits">
-~~~
+```
 
 Just like the `<select>` element, we put `<option>` elements inside the `<datalist>`, like so:
 
-~~~html
+```html
 <datalist id="fruits">
 	<option value="Orange">
 	<option value="Strawberry">
@@ -45,7 +45,7 @@ Just like the `<select>` element, we put `<option>` elements inside the `<datali
 
 <label for="fav-fruit">Favourite Fruit</label>
 <input type="text" id="fav-fruit" list="fruits">
-~~~
+```
 
 As usual, we can also add a `placeholder` attribute to the `<input>` so you might as well do that.
 
@@ -65,7 +65,7 @@ Try typing in it, or hitting the arrow on the right:
 
 In some instances, the actual value that you want to have in the autocomplete might not be enough to convey meaning to the user. Luckily, one of the options provided by the `<option>` element still exist here. We can put a display value as a hint in the content of each `<option>`:
 
-~~~html
+```html
 <datalist id="fruits">
 	<option value="Citrus sinensis">Orange</option>
 	<option value="Fragaria vesca">Strawberry</option>
@@ -74,7 +74,7 @@ In some instances, the actual value that you want to have in the autocomplete mi
 
 <label for="fav-fruit">Favourite Fruit</label>
 <input type="text" id="fav-fruit" list="fruits">
-~~~
+```
 
 ### Result
 
@@ -92,23 +92,23 @@ In some instances, the actual value that you want to have in the autocomplete mi
 
 There's all the usual things you can do to style an `<input>` here, but if we want to style the arrow, here's what we have to do:
 
-~~~css
+```css
 input[type=text]::-webkit-calendar-picker-indicator, input[type=text]::calendar-picker-indicator {
 	color:#4E4141; /* In this case color will control the arrow colour */
 }
-~~~
+```
 
 We're selecting the `::(-webkit-)calendar-picker-indicator` pseudo-element of the `<input>` element. In this case, we're just changing how it looks when the input is hovered, but if you wanted to show the arrow all the time:
 
-~~~css
+```css
 input[type=text]::-webkit-calendar-picker-indicator, input[type=text]::calendar-picker-indicator {
 	opacity:1; /* By default, this is set to 0 unless the input has :hover */
 }
-~~~
+```
 
 We can also manipulate the arrow's box:
 
-~~~css
+```css
 input[type=text]::-webkit-calendar-picker-indicator, input[type=text]::calendar-picker-indicator {
 	border-radius:12px;
 	background-color:#FF6363;
@@ -117,7 +117,7 @@ input[type=text]::-webkit-calendar-picker-indicator, input[type=text]::calendar-
 	margin-right:4px;
 	height: 10px;
 }
-~~~
+```
 
 <style type="text/css">
 input#fav-fruit-3[type=text]::-webkit-calendar-picker-indicator {

@@ -11,15 +11,15 @@ It's a quick, easy and platform-independent way for developers working on applic
 
 ### Install
 
-~~~
+```
 npm install interfake -g
-~~~
+```
 
 ### Create your API Endpoints
 
 Make a JSON file which matches this format:
 
-~~~
+```
 [
 	{
 		"request": {
@@ -37,7 +37,7 @@ Make a JSON file which matches this format:
 		}
 	}
 ]
-~~~
+```
 
 At the root of the JSON we have an array, which contains any number of request/response pairs.
 
@@ -49,7 +49,7 @@ At the root of the JSON we have an array, which contains any number of request/r
 
 So, it's pretty simple to come up with a basic dummy API which services up GET requests. What about when you want your API to respond to requests which you'd expect to make changes? Consider this dummy request/response pair:
 
-~~~
+```
 [
 	{
 		"request": {
@@ -87,7 +87,7 @@ So, it's pretty simple to come up with a basic dummy API which services up GET r
 		}
 	}
 ]
-~~~
+```
 
 If we **add this to the original example**, we should end up with a GET request which, at first will return from `/books` just *The War of the Worlds* as one of the books in the response. But when we make *any* POST request to that same endpoint, the original GET request is overwritten, and the new one specified in the `afterResponse` property is used instead, because the `url` and `method` match the original.
 
@@ -101,9 +101,9 @@ Since this is platform-independent we need to be able to support single-page Jav
 
 You can also spin up new endpoints using HTTP requests. Using the same structure as the example JSON above, send a `POST` request to the `/_request` endpoint. Here's a mathematical example:
 
-~~~
+```
 curl -X POST -d '{ "request":{"url":"/whattimeisit", "method":"get"}, "response":{"code":200,"body":{ "theTime" : "Adventure Time!" } } }' http://localhost:3000/_request --header "Content-Type:application/json"
-~~~
+```
 
 This is particularly useful when you're running tests where the data isn't always the same, and sometimes depends on semi-random or time-related data. In this case, you can tailor the requests you need during the test, as the data evolves.
 
@@ -118,7 +118,7 @@ In particular, I'd like to add the following features:
 * Create a guide/some examples for how to integrate this with existing test frameworks, whether written in JavaScript or not
 * Improve the templating, so that a response might include a repeated structure with incrementing counter variables and randomised bits of data, like so:
 
-~~~
+```
 [
 	{
 		"repeat": 2
@@ -137,11 +137,11 @@ In particular, I'd like to add the following features:
 		}
 	}
 ]
-~~~
+```
 
 Would produce the following endpoints: **(Note this is still just an idea for a future feature - don't try this yet!)**
 
-~~~
+```
 [
 	{
 		"request": {
@@ -174,6 +174,6 @@ Would produce the following endpoints: **(Note this is still just an idea for a 
 		}
 	},
 ]
-~~~
+```
 
 Something like that, anyway.

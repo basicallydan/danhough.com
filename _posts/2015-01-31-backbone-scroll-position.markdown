@@ -51,7 +51,7 @@ Much better. Now let's look at how to do this using Backbone.
 
 I'm gonna use a bit of jQuery here for some things like rendering, but for scroll position related stuff I'll show you the vanilla JS way, too.
 
-~~~javascript
+```javascript
 /* FirstView.js */
 App.FirstView = Backbone.View.extend({
 	render: function () {
@@ -69,13 +69,13 @@ App.FirstView = Backbone.View.extend({
 /* Create something to store the view state in, statically attached to the View constructor itself, rather than an instance. The default scroll position should be 0, and remember this'll only be set *once*, when this file first loads. */
 App.FirstView.viewState = new Backbone.Model();
 App.FirstView.viewState.set('scrollPosition', 0);
-~~~
+```
 
 You don't need to see SecondView.js as it just renders some HTML, but if you want to it's on GitHub.
 
 Next is our "main" file, which for the purposes of brevity I'm just gonna stick the router in, too.
 
-~~~javascript
+```javascript
 App.Router = Backbone.Router.extend({
 	routes: {
 		"first": "first",
@@ -116,7 +116,7 @@ Backbone.history.start();
 App.router.navigate("first", {
 	trigger: true
 });
-~~~
+```
 
 This all works by assigning a new Backbone Model to the constructor of whatever view that you'd like to maintain scroll position for. In our case it's `FirstView`. Then, I attach a scroll event callback to the body and set the scroll position for the "current" view, as long as it already has a scroll position.
 

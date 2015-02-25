@@ -14,7 +14,7 @@ One of these views is a modal view. There are a few modals, which all have an "X
 
 Here's how I did it. The child views are just examples
 
-~~~js
+```js
 // ModalView.js
 var ModalView = Backbone.View.extend({
 	events: {
@@ -45,7 +45,7 @@ var ChatModalView = ModalView.extend({
 	},
 	sendButtonClicked: function() { /* Whatever */ }
 });
-~~~
+```
 
 There are [other solutions](http://stackoverflow.com/a/9403713/403406) of course, but **this is my favourite**. Why?
 
