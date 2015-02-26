@@ -1,13 +1,13 @@
 ---
 published: true
 layout: post
-title: On Rems
+title: Why rems are great in under 200 words
 date_created: 26 February 2015
 location: London, UK
-comments: false
+comments: true
 ---
 
-My main reason for using `rem` is in order to easily keep margins, padding, and other whitespace-affecting things consistent with font size and well-proportioned. I make three basic assumptions:
+My main reason for using `rem` in CSS is in order to easily keep margins, padding, and other whitespace-affecting things consistent with font size and well-proportioned. I make three basic assumptions:
 
 1. It's good to follow the rule of thumb that a margin around an element should be the size of a single "M" character
 2. Margins should be linearly proportional - have a standard size, then a smaller one (half size) and a larger one (double size)
@@ -16,3 +16,5 @@ My main reason for using `rem` is in order to easily keep margins, padding, and 
 That means the standard margin is the width of a single "M" character at the most common font size, which can be set in the `html` selector in CSS, and if I want to use that standard margin I need look no further than `1rem`. I can easily figure out a small margin using `0.5rem` and a large one using `2rem`. It's a good starting point, at least.
 
 Then if you decide that you want to change the base font size and thus the margins, you need only change it in one place, the `html` selector.
+
+Thoughts?
