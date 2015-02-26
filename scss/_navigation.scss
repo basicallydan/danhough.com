@@ -23,6 +23,10 @@ nav {
 		}
 	}
 
+	& + .one-line-form {
+		margin-bottom:$small-margin;
+	}
+
 	&__item-subtitle {
 		color:$grey;
 		display:block;

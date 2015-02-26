@@ -54,7 +54,7 @@
 		margin-bottom:$standard-margin;
 	}
 
-	h1 + .meta {
+	h1 + .meta, h2 + .meta {
 		margin-top:-1rem;
 	}
 
