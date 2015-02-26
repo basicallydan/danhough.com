@@ -133,6 +133,10 @@ a:link.cta, a:visited.cta, .cta {
 		@media (max-width: 320px) {
 			display:block;
 		}
+
+		& + .inline {
+			margin-left:$small-margin;
+		}
 	}
 
 	&--primary {

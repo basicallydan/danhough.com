@@ -9,7 +9,7 @@
 	&-content code,
 	&-content blockquote,
 	&-footer-content {
-		max-width:$max-page-width;
+		max-width:$max-centered-page-width;
 		margin:0 auto;
 		margin-bottom:$standard-margin;
 	}
@@ -44,7 +44,18 @@
 	}
 
 	h1 {
-		margin-bottom:0;
+		// margin-bottom:0;
+		margin-bottom: 1rem;
+	}
+
+	.meta {
+		font-size:$small-font-size;
+		margin-top:0;
+		margin-bottom:$standard-margin;
+	}
+
+	h1 + .meta {
+		margin-top:-1rem;
 	}
 
 	&-footer {
@@ -86,10 +97,4 @@
 
 .post-comments {
 	margin:1rem auto;
-}
-
-.meta {
-	font-size:$small-font-size;
-	margin-top:0;
-	margin-bottom:$standard-margin;
 }

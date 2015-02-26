@@ -1,6 +1,6 @@
 .columns {
 	max-width:100%;
-	width:$max-page-width * 2;
+	width:$max-centered-page-width * 2;
 	display: flex;
 	flex-direction:column;
 
@@ -12,14 +12,14 @@
 .content-navigation-column {
 	padding-left:$standard-margin;
 
-	max-width:$max-page-width / 2;
+	max-width:$max-centered-page-width * 0.6;
 
 	@media (min-width: 769px) {
 		flex: 1;
 	}
 
 	&:first-child {
-		max-width:$max-page-width * 0.4;
+		max-width:$max-centered-page-width * 0.4;
 		.cta--primary {
 			text-align:left;
 			margin:$large-margin 0 $large-margin (-$large-margin);

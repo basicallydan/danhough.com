@@ -12,10 +12,10 @@ html {
 }
 
 body {
-	// max-width:$max-page-width;
+	// max-width:$max-centered-page-width;
 	width:100%;
 
-	@media (max-width: ($max-page-width + $root-font-size)) {
+	@media (max-width: ($max-centered-page-width + $root-font-size)) {
 		header, .article-content {
 			padding-left:$standard-margin;
 			padding-right:$standard-margin;
@@ -34,7 +34,7 @@ header {
 	width:100%;
 
 	@media (max-width: 1000px) {
-		max-width:$max-page-width;
+		max-width:$max-centered-page-width;
 		margin:0 auto $standard-margin auto;
 		padding-top:$small-margin;
 		padding-left:0;
