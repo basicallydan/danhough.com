@@ -3,6 +3,7 @@
 	width:$max-centered-page-width * 2;
 	display: flex;
 	flex-direction:column;
+	padding-right:$standard-margin;
 
 	@media (min-width: 769px) {
 		flex-direction:row;

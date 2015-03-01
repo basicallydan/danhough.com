@@ -60,4 +60,4 @@ I prefer not to take very long-term on-site jobs, but I'm more than happy to mee
 
 ### Are you looking for a permanent job?
 
-I'm interested in relocating to the **United States**, **Canada**, or **South Korea**. If you can sponsor a visa, please [get in touch](mailto:dan@danhough.com?subject=I have some overseas work for you).
+I'm vaguely interested relocating to the **United States**, **Canada**, or **South Korea**. If you can sponsor a visa, please [get in touch](mailto:dan@danhough.com?subject=I have some overseas work for you).
