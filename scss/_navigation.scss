@@ -7,7 +7,7 @@ nav {
 }
 
 &.nav-list {
-	margin-bottom:$standard-margin;
+	margin-bottom:$large-margin;
 	h2 {
 		font-size:$standard-font-size;
 		margin:0 0 $small-margin 0;
@@ -24,7 +24,7 @@ nav {
 	}
 
 	& + .one-line-form {
-		margin-bottom:$small-margin;
+		margin-bottom:$large-margin;
 	}
 
 	&__item-subtitle {
@@ -35,6 +35,10 @@ nav {
 	li a {
 		color:$black;
 		font-weight:normal;
+
+		@media (max-width: 748px) {
+			// text-decoration:underline;
+		}
 	}
 
 	&.inline {

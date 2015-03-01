@@ -53,6 +53,12 @@ header {
 	}
 }
 
+.hide-handheld {
+	@media (max-width: 360px) {
+		display:none;
+	}
+}
+
 a {
 	font-weight:600;
 	text-decoration:none;
