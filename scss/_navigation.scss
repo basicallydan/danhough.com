@@ -27,6 +27,35 @@ nav {
 		margin-bottom:$large-margin;
 	}
 
+	&-item {
+		&-prefix {
+			color:$grey;
+			&::after {
+				margin-left:$small-margin;
+				content:"-";
+				margin-right:$small-margin;
+				text-decoration:none;
+			}
+		}
+
+		&-suffix {
+			float:right;
+			color:$lighter-grey;
+			&::before {
+				margin-left:$small-margin;
+			}
+		}
+
+		a {
+			max-width:70%;
+			display:inline-block;
+		}
+
+		a:hover + &-suffix {
+			color:$grey;
+		}
+	}
+
 	&__item-subtitle {
 		color:$grey;
 		display:block;
