@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-title: Redesign, February 2015
-date_created: 21 February 2015
+title: Redesign 2015
+date_created: 12 March 2015
 location: London, UK
 comments: false
 ---
