@@ -9,6 +9,11 @@ description: These are my former and future speaking engagements - conferences, 
 
 The talk was titled *I'm a Node Maintainer and So Can You!*., and the purpose was to educate the audience about some of the things I've learned in maintaining open-source NodeJS modules.
 
+<figure class="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/rCM2paoike0?list=PLcyixWPrzYtXxOIYGy04A2HaZnU3jktEe" frameborder="0" allowfullscreen></iframe>
+	<figcaption>Speaking at London Node User Group</figcaption>
+</figure>
+
 <a href="" class="cta--secondary inline">Video</a><a href="https://github.com/basicallydan/node-maintainer-talk" class="cta--tertiary inline">Slides and Notes</a>
 
 <h2>London API</h2>
