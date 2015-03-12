@@ -14,14 +14,14 @@ The talk was titled *I'm a Node Maintainer and So Can You!*., and the purpose wa
 	<figcaption>Speaking at London Node User Group</figcaption>
 </figure>
 
-<a href="" class="cta--secondary inline">Video</a><a href="https://github.com/basicallydan/node-maintainer-talk" class="cta--tertiary inline">Slides and Notes</a>
+<a href="https://www.youtube.com/embed/rCM2paoike0?list=PLcyixWPrzYtXxOIYGy04A2HaZnU3jktEe" class="cta--secondary inline">Video</a><a href="https://github.com/basicallydan/node-maintainer-talk" class="cta--tertiary inline">Slides and Notes</a>
 
 <h2>London API</h2>
 <p class="meta">July 2nd 2014 at The Skills Matter eXchange, London</p>
 
 The talk was titled *API Prototyping*, and it's about the process of interatively prototyping HTTP APIs. In this talk I demonstrate the tool I created to aid this process, Interfake.
 
-<a href="" class="cta--secondary inline">Video</a><a href="https://skillsmatter.com/skillscasts/5444-interfake-and-prototyping-apis" class="cta--tertiary inline">Slides and Notes</a>
+<a href="https://skillsmatter.com/skillscasts/5444-interfake-and-prototyping-apis" class="cta--secondary inline">Video</a>
 
 <h2>Mobilise</h2>
 <p class="meta">June 10th 2014 at Badoo, London</p>
