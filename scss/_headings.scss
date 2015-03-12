@@ -1,6 +1,6 @@
 a.site-title, .site-title {
 	font-size:$site-title-font-size;
-	line-height:$site-title-font-size;
+	line-height:$site-title-line-height;
 	font-weight:500;
 	font-family:'Roboto Condensed';
 	text-transform:uppercase;
@@ -9,6 +9,10 @@ a.site-title, .site-title {
 	text-align: center;
 	display: inline-block;
 	margin-bottom:$small-margin;
+
+	@media (min-width: 515px) {
+		float:left;
+	}
 }
 
 .site-subtitle {

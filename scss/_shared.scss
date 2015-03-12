@@ -51,6 +51,12 @@ header {
 	.nav-list {
 		margin-bottom:$small-margin;
 	}
+
+	.nav-list.pull-right {
+		@media (max-width: 515px) {
+			clear:both;
+		}
+	}
 }
 
 .hide-handheld {

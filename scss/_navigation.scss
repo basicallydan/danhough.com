@@ -155,6 +155,10 @@ nav {
 		margin-right:0;
 	}
 
+	@media (min-width: 515px) {
+		float:left;
+	}
+
 	.nav-list--icons__twitter {
 		color:$twitter-blue;
 	}
