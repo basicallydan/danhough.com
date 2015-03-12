@@ -21,15 +21,20 @@
 	}
 
 	&:first-child {
-		max-width:$max-centered-page-width * 0.4;
 		.cta--primary {
-			text-align:left;
-			margin:$large-margin 0 $large-margin (-$large-margin);
-			padding:$standard-margin 0 $standard-margin $large-margin;
-			box-sizing:content-box;
-			width:$header-cta-width;
-			border-top-left-radius:0;
-			border-bottom-left-radius:0;
+			margin: 2rem 0 2rem 0;
+		}
+		@media (min-width: 361px) {
+			max-width:$max-centered-page-width * 0.4;
+			.cta--primary {
+				text-align:left;
+				margin:$large-margin 0 $large-margin (-$large-margin);
+				padding:$standard-margin 0 $standard-margin $large-margin;
+				box-sizing:content-box;
+				width:$header-cta-width;
+				border-top-left-radius:0;
+				border-bottom-left-radius:0;
+			}
 		}
 	}
 }
