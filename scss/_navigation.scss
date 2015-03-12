@@ -44,9 +44,24 @@ nav {
 			&::before {
 				margin-left:$small-margin;
 			}
+
+			@media (max-width: 360px) {
+				&::before {
+					margin-left:0;
+				}
+				display:block;
+				width:100%;
+				max-width:100%;
+				float:none;
+			}
 		}
 
 		a {
+			@media (max-width: 360px) {
+				display:block;
+				width:100%;
+				max-width:100%;
+			}
 			max-width:70%;
 			display:inline-block;
 		}
@@ -167,12 +182,16 @@ a:link.cta, a:visited.cta, .cta {
 
 	&.inline {
 		display:inline-block;
-		@media (max-width: 320px) {
+		@media (max-width: 360px) {
 			display:block;
+			margin-bottom:$standard-margin;
 		}
 
 		& + .inline {
 			margin-left:$small-margin;
+			@media (max-width: 360px) {
+				margin-left:0;
+			}
 		}
 	}
 
