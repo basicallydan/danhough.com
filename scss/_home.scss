@@ -22,7 +22,7 @@
 
 	&:first-child {
 		.cta--primary {
-			margin: 2rem 0 2rem 0;
+			margin: $large-margin 0 $large-margin 0;
 		}
 		@media (min-width: 361px) {
 			max-width:$max-centered-page-width * 0.4;

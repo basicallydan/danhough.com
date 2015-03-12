@@ -29,7 +29,7 @@ h1 {
 
 h2 {
 	font-size:$large-font-size;
-	line-height:2rem;
+	line-height:$large-margin;
 	font-weight:500;
 	// @include grid-media-query('palm') {
 	// 	font-size:1.1em;
