@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: How to keep scroll position between views in Backbone
-date_created: 29 January 2015
+date_created: 1 February 2015
 location: London, UK
 comments: true
 ---
