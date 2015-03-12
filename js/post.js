@@ -17,3 +17,19 @@ var submitHandler = function() {
 };
 
 $('#mc-embedded-subscribe-form').bind('submit', submitHandler);
+
+$(document).on('ready', function() {
+	var winHeight = $(window).height();
+	var docHeight = $(document).height();
+	var progressBar = $('progress');
+	var max, value;
+
+	/* Set the max scrollable area */
+	max = docHeight - winHeight;
+	progressBar.attr('max', max);
+
+	$(document).on('scroll', function() {
+		value = $(window).scrollTop();
+		progressBar.attr('value', value);
+	});
+});
