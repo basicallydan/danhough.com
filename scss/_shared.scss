@@ -79,6 +79,17 @@ a {
 	}
 }
 
+hr {
+	max-width:$max-centered-page-width;
+	height:1px;
+	margin:$large-margin auto;
+	height:1px;
+	border-color:$lightest-grey;
+	background:$lightest-grey;
+	font-size:0;
+	border:0;
+}
+
 /**
  * For modern browsers
  * 1. The space content is one way to avoid an Opera bug when the
