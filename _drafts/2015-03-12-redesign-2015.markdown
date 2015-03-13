@@ -19,7 +19,7 @@ After I went to university in late 2006, [something went wrong](http://web.archi
 
 {% include _figure.html src="/img/2007-danielhough-screenshot.png" caption="My website between 2007 and 2009." %}
 
-Wise colour choices and understanding of contrast were beyond me at that point, I guess that the HCI module at university must've had more of an effect than I thought. However, at least I had become more vocal. I had started to write more and expose some of my creations (mostly then flash animations and music, like before) more openly. Curiously, the [experiments](http://web.archive.org/web/20070205105349/http://www.danielhough.co.uk/index.php?c=experiments) page of this site includes [my first hack](/blog/my-first-hack), the Random Sig Imager, but sadly its website no longer exists.
+Wise colour choices and understanding of contrast were beyond me at that point. I suppose the Human-Computer Interfaces class I took at university must've had more of an effect than I thought. However, at least I had become more vocal. I had started to write more and expose some of my creations (mostly then flash animations and music, like before) more openly. Curiously, the [experiments](http://web.archive.org/web/20070205105349/http://www.danielhough.co.uk/index.php?c=experiments) page of this site includes [my first hack](/blog/my-first-hack), the *Random Sig Imager*, but sadly its website no longer exists.
 
 ## The New Design
 
