@@ -37,7 +37,7 @@ The Trello board helped me to collect a bunch of ideas together, including some 
 
 ## Inspiration
 
-[Alex MacCaw's minimalistic homepage](http://alexmaccaw.com/) inspired me pare-down my own a little and curate it more carefully. [Paul Stamiatou's article page](http://paulstamatiou.com/traveling-and-photography-part-1/) and header showed me that the left-sidebar layout I was going for just wasn't optimal for reading articles. [Harry Roberts's conversion-focused use of CTAs](http://csswizardry.com/work/) and "instructional" seemed very encouraging to me and I liked reading [Ben Howdle's projects list](http://benhowdle.im/) for its simplicity in explaining what each Thing He'd Worked On was in a single sentence.
+[Alex MacCaw's minimalistic homepage](http://alexmaccaw.com/) inspired me pare-down my own a little and curate it more carefully. [Paul Stamiatou's article page](http://paulstamatiou.com/traveling-and-photography-part-1/) and header showed me that the left-sidebar layout I was going for just wasn't optimal for reading articles. [Harry Roberts's conversion-focused use of CTAs](http://csswizardry.com/work/) and "instructional" copy seemed very encouraging to me and I liked reading [Ben Howdle's projects list](http://benhowdle.im/) for its simplicity in explaining what each Thing He'd Worked On was in a single sentence.
 
 Some of these websites have strongly influenced my design, such as Paul's top bar. This is a common element in websites these days, but when I made the decision to do it, it was because I'd seen how well it worked on Paul's site.
 
