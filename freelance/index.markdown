@@ -26,7 +26,7 @@ Dan was a great addition to our team when we needed him most: in the run up to o
 
 ## Convinced?
 
-I’m **booked up for work until April 2015**, but get in touch anyway if you think I might be the right man for the job. I’m not looking for a permanent role, but if you think you’ve got an interesting job - especially if it involves travelling abroad - please get in touch.
+I’m **booked up for work until July 2015**, after which I will only be accepting remote work until 2016. Please get in touch anyway if you think I might be the right man for the job, it doesn't hurt to chat. I’m not looking for a permanent role, but if you think you’ve got an interesting job - especially if it involves travelling abroad - please get in touch.
 
 Think we could work together?
 
