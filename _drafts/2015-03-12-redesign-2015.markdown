@@ -19,7 +19,7 @@ After I went to university in late 2006, [something went wrong](http://web.archi
 
 {% include _figure.html src="/img/2007-danielhough-screenshot.png" caption="My website between 2007 and 2009." %}
 
-Wise colour choices and understanding of contrast were beyond me at that point, I guess that the HCI module at university must've had more of an effect than I thought. However, at least I had become more vocal. I had started to write more and expose some of my creations (mostly then flash animations and music, like before) more openly. Curiously, the [experiments](http://web.archive.org/web/20070205105349/http://www.danielhough.co.uk/index.php?c=experiments) page of this site includes [my first hack](/blog/my-first-hack), the Random Sig Imager, but sadly its website no longer exists.
+Wise colour choices and understanding of contrast were beyond me at that point. I suppose the Human-Computer Interfaces class I took at university must've had more of an effect than I thought. However, at least I had become more vocal. I had started to write more and expose some of my creations (mostly then flash animations and music, like before) more openly. Curiously, the [experiments](http://web.archive.org/web/20070205105349/http://www.danielhough.co.uk/index.php?c=experiments) page of this site includes [my first hack](/blog/my-first-hack), the *Random Sig Imager*, but sadly its website no longer exists.
 
 ## The New Design
 
@@ -37,7 +37,7 @@ The Trello board helped me to collect a bunch of ideas together, including some 
 
 ## Inspiration
 
-[Alex MacCaw's minimalistic homepage](http://alexmaccaw.com/) inspired me pare-down my own a little and curate it more carefully. [Paul Stamiatou's article page](http://paulstamatiou.com/traveling-and-photography-part-1/) and header showed me that the left-sidebar layout I was going for just wasn't optimal for reading articles. [Harry Roberts's conversion-focused use of CTAs](http://csswizardry.com/work/) and "instructional" seemed very encouraging to me and I liked reading [Ben Howdle's projects list](http://benhowdle.im/) for its simplicity in explaining what each Thing He'd Worked On was in a single sentence.
+[Alex MacCaw's minimalistic homepage](http://alexmaccaw.com/) inspired me pare-down my own a little and curate it more carefully. [Paul Stamiatou's article page](http://paulstamatiou.com/traveling-and-photography-part-1/) and header showed me that the left-sidebar layout I was going for just wasn't optimal for reading articles. [Harry Roberts's conversion-focused use of CTAs](http://csswizardry.com/work/) and "instructional" copy seemed very encouraging to me and I liked reading [Ben Howdle's projects list](http://benhowdle.im/) for its simplicity in explaining what each Thing He'd Worked On was in a single sentence.
 
 Some of these websites have strongly influenced my design, such as Paul's top bar. This is a common element in websites these days, but when I made the decision to do it, it was because I'd seen how well it worked on Paul's site.
 
@@ -47,7 +47,6 @@ In other cases, they gave me the push to achieve a similar effect.
 
 I still constantly worry about the spacing. This is something I come back to every time I'm designing a site: have I left enough space between elements, or have I left too much? I've taken care to keep spacing linear, with three standard sizes to use depending on the situation.
 
-
 <aside markdown="1">
 ```scss
 // Margins/padding
@@ -56,3 +55,23 @@ $standard-margin:1rem;
 $large-margin:2rem;
 ```
 </aside>
+
+Despite having this small set of rules to guide me, some things felt wrong. In most instances, headings have the same top and bottom spacing in relation to surrounding elements. In articles this looks fine, but on the homepage it looked wrong - because the headings of the lists were the same size as the list items (to prevent it from becoming too noisy and distracting), it became difficult to distinguish between these two types of element.
+
+Ultimately, on the advice of some friends I ended up giving those headings `$large-margin` above and `$standard-margin` below. This may not match up with the article style, but that's a different context, so I'll let it go. Not every design can pull off such monotony.
+
+## Progress
+
+Another feature I stole from [Paul Stamiatou](http://paulstamatiou.com/) was a progress bar. I had to read the same [CSS tricks article which feature's Stammy's progress bar](https://css-tricks.com/reading-position-indicator/) before realising that the best element to use for this was, in fact, the native HTML5 `<progress>` element. It works a charm: very smooth, subtle, and helps the reader to decide whether they're going to read, skim, or skip an article.
+
+Spotted it yet? Look at the top of your browser viewport. There it is! If you don't see it, please let me know. :wink:
+
+## Talks
+
+A feature that I had intended to add to the previous iteration of my website is a [list of talks I've done](/speaking).
+
+**Why?** Well, I enjoy public speaking, and I'd like to improve at it and hopefully, at some point, make it a regular part of my career. In order to indicate to people that I'm capable of this and interested, it seems sensible to keep a log of the talks I've done and link to/embed videos if they're available.
+
+## Thoughts?
+
+If you have any thoughts on the design, spot any bugs in some functionality (broken links, images that won't load, dodgy-looking formatting etc.) I'd love to hear about it - thanks. And thanks for reading!
