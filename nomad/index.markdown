@@ -77,9 +77,9 @@ The final destination in my journey before a slightly mad-looking three-week-lon
 
 The next few destinations will be far more manic and probably a little more flexible. While I'm interested in meeting up with people in this time, it's going to be harder because travel will be harder to predict. I'll be taking boats, planes, trains, buses and tuk-tuks during this leg of the journey, and I expect it'll be a lot less sitting around with a lot more walking than before. It's going to be very exciting indeed :smile:
 
-* Ho Chi Minh, Vietnam
+* Ho Chi Minh City, Vietnam
 * Phnom Penh, Cambodia
-* Siem Reap, Cambodia,
+* Siem Reap, Cambodia
 * Bangkok, Thailand
 * Vientiane, Laos
 * Luang Prabang, Laos
