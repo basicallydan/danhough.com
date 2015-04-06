@@ -37,6 +37,13 @@
 				font-size:$small-font-size;
 			}
 		}
+
+		blockquote.large.center {
+			font-style:italic;
+			border:none;
+			text-align:center;
+			font-size:$large-font-size;
+		}
 	}
 
 	&-content blockquote + .center {
