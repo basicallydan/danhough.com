@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: A trip through Asia in 2015
-date_created: 06 April 2015
+date_created: 01 May 2015
 location: London, UK
 comments: true
 ---
@@ -15,7 +15,7 @@ At least that's the rough plan. I've created [a page which I will update as my i
 
 {% include _figure.html src="/img/asia-trip-korea-photo.jpg" caption="The Hyangwonjeong pavilion at the Gyeongbokgung palace in Seoul." %}
 
-Of course, this is a break from my life. But while I'm out there I won't just vacationing.
+Of course, this is a break from my usual working life in London. But while I'm out there I won't just vacationing.
 
 First, I'll continue working on my side projects. Second, I'll be bouldering wherever I can find rocks to climb or a gym to climb in, just like I do in London. Third, I'll be learning about the places I'm staying and trying to get familiar with the culture. Last, but certainly not least, I'll be hoping to make some friends on the way.
 
