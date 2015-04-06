@@ -60,6 +60,14 @@ There are many ways to specify this information. For how to install or compile y
 
 We're probably all familiar with `npm install` and `npm install --save` to install and save dependencies, but here are some other commands which are helpful for making sure your dependencies are properly managed.
 
+### `npm version`
+
+This is pretty cool: not only will `npm version` update the version code in `package.json`, it'll also create a new git commit for the version, and a new git tag at that commit that looks like `v1.3.2`, a common convention for version tags on GitHub.
+
+`npm version` takes an option to specify what type of a version bump this is: Major, meaning a change which alters existing APIs in some way; Minor, meaning an addition or change which does not modify existing APIs; and patch, usually meaning a bug fix, or some refactoring which does not affect behaviour. For example, if you've added some new config options you might use `npm version minor` - but if you change the `generateBlogPost` function to be called `writeBrilliantBlogPost`, then it's a major change because it changes an existing API.
+
+Since `npm version` creates a git commit, then you can specify a commit message. Just like with `git commit`, you can do this with the `-m` flag.
+
 ### `npm shrinkwrap`
 
 What does it do? It will create a file called `npm-shrinkwrap.json`, listing all the dependencies of your project and the dependencies of *those* dependencies, and so on, but at a specific version - the version you currently have in your project.
@@ -73,14 +81,6 @@ You can also specify to shrinkwrap the `devDependencies`, which will be useful f
 ### `npm prune`
 
 This is pretty useful if you're using `npm shrinkwrap`, because it will remove any installed modules which are not added as dependencies, perhaps because you were trying them out temporarily, or something. If you have un-saved dependencies, and you try to run `npm shrinkwrap`, you'll get an `extraneous` error. This is when you run `npm prune`, and start again.
-
-### `npm version`
-
-This is pretty cool: not only will `npm version` update the version code in `package.json`, it'll also create a new git commit for the version, and a new git tag at that commit that looks like `v1.3.2`, a common convention for version tags on GitHub.
-
-`npm version` takes an option to specify what type of a version bump this is: Major, meaning a change which alters existing APIs in some way; Minor, meaning an addition or change which does not modify existing APIs; and patch, usually meaning a bug fix, or some refactoring which does not affect behaviour. For example, if you've added some new config options you might use `npm version minor` - but if you change the `generateBlogPost` function to be called `writeBrilliantBlogPost`, then it's a major change because it changes an existing API.
-
-Since `npm version` creates a git commit, then you can specify a commit message. Just like with `git commit`, you can do this with the `-m` flag.
 
 ## A pre-publish checklist
 
