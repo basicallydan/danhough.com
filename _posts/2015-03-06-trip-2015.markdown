@@ -9,17 +9,19 @@ comments: true
 
 Starting in July 2015, I will be taking a nomadic journey through Asia. Starting in **Tokyo, Japan**, and culminating in **Hanoi, Vietnam**, the trip will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train and tuk-tuk.
 
-At least that's the rough plan. I've created [a page which will be updated regularly with my changing itinerary](/nomad), as well as content relating to each destination. I'll use this as the main source of info for third parties about my trip.
+At least that's the rough plan. I've created [a page which I will update as my itinerary changes and the trip goes on](/nomad), as well as content relating to each destination. I'll use this as the main source of info for third parties about my trip.
 
-**What's the purpose of the trip?** I've always been a keen traveler, but since I visited South Korea for the first time in 2010, I fell in love with the place and decided that I had to live there at some point. That's where this idea began. I then decided that I could probably extend the trip and see parts of Asia I've always wanted to see, too.
+**What's the purpose of the trip?** I've always been a keen traveller, but since I visited South Korea for the first time in 2010, I fell in love with the place and decided that I _had_ to live there at some point. That's where this idea began. I soon realised I could extend the trip and see other parts of Asia I've always wanted to see, too. Over weeks of map-trawling, flight-searching and spreadsheet-tinkering, it started to look like a real itinerary.
 
-<!-- PUT IN THE TRAVELELRS POCKET REFERENCE PIC HERE -->
+{% include _figure.html src="/img/asia-trip-korea-photo.jpg" caption="The Hyangwonjeong pavilion at the Gyeongbokgung palace in Seoul." %}
 
-But while I'm out there I won't just vacationing. I'll continue working on my side projects and try out a few ideas for apps that I've had. I'll be bouldering wherever I can find rocks or a gym to climb. I'll be learning about the places I'm staying and trying to get familiar with the culture. Finally, and not least, I'll be hoping to make some friends on the way.
+Of course, this is a break from my life. But while I'm out there I won't just vacationing.
+
+First, I'll continue working on my side projects. Second, I'll be bouldering wherever I can find rocks to climb or a gym to climb in, just like I do in London. Third, I'll be learning about the places I'm staying and trying to get familiar with the culture. Last, but certainly not least, I'll be hoping to make some friends on the way.
 
 That's where you, the reader, come in. If you're in any of the places listed in my itinerary, and any of the things I'm saying sound interesting to you, let's meet up and get a drink of coffee, beer, or whatever it is that people drink around here. I'd love to meet you.
 
-<a href="mailto:dan@danhough.com?subject=Nomadic+Journey" class="cta--primary inline">Get in touch.</a>
+<a href="mailto:dan@danhough.com?subject=Nomadic+Journey" class="cta--primary">Get in touch.</a>
 
 My trip starts on the 2nd of July 2015, and ends on the 20th of December 2015. As I said, I have a plan. Half of it is certain, the other half still may change. But as it stands at the time of writing this article, here it is:
 
@@ -45,14 +47,18 @@ Again, this will be kept up-to-date on my [travel page](/nomad), so keep an eye 
 
 ## Travelling Light
 
-I'm aiming to travel light. As you might imagine, I've been doing a lot of research for this trip. I've read the blogs of many nomads who've gone before me and the way to do this seems to be to go as light as possible. If I could, I'd fit my entire life into a small rucksack. But I will need a little extra, so I'm going for one small wheelie bag which can be fit into hand luggage, plus a small rucksack. This will be the longest trip I've ever taken with so little luggage, and I'm excited about what it means for my mobility.
+I've been doing a lot of research for this trip. I've read the blogs of many nomads who've gone before me and the way to do this seems to be to go as light as possible. If I could, I'd fit my entire life into a small rucksack. But I will need a little extra, so I'm going for one small wheelie bag which can be fit into hand luggage, plus a small rucksack. This will be the longest trip I've ever taken with so little luggage, and I'm excited about what it means for my mobility.
 
-But it won't only be in the literal sense that I travel light. Figuratively speaking, in the companion department, I'll be travelling light, too. Like most people, I love to travel with my friends and loved ones. We share the experience of discovering new places together, of being relaxed and doing things we love together. It's great.
+## Travelling Solo
+
+Like most people, I love to travel with my friends and loved ones. We share the experience of discovering new places together, of being relaxed and doing things we love together. It's great.
 
 But I've also learned to appreciate the joy of travelling alone, originally by necessity (nobody wanted to join me on my first trip to South Korea) and eventually by choice. I find myself being more adventurous and less socially awkward when I'm travelling solo. I'm forced to go out and make friends with locals and fellow travellers, and to genuinely do the things I want to do. Plus, from a logistical point of view, 90% it's a lot easier.
 
 It does get lonely at times, but that's when the desperate urge to be around other humans comes into play and boosts confidence, at least most of the time.
 
+And hopefully, people will come over to visit me :wink:
+
 ## See you there?
 
-As I mentioned before, I'd like to make some friends while I'm out there. If you'd like to hang out, <a href="mailto:dan@danhough.com?subject=About+your+trip">send me an email</a>. And keep an eye on my [travel](/nomad) page, too, for updates - or subscribe using the form below. Thanks for reading, and happy travels!
+As I mentioned before, I'd like to meet people while I'm out there. If you'd like to hang out, <a href="mailto:dan@danhough.com?subject=About+your+trip">send me an email</a>. And keep an eye on my [travel](/nomad) page, too, for updates - or subscribe using the form below. Thanks for reading, and happy travels!

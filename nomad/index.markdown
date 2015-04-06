@@ -1,23 +1,27 @@
 ---
 layout: page
-title: A Trip through Asia
+title: Tokyo - Seoul - Hanoi, 2015
 description: From July 2015 until December 2015 I will be taking a nomadic journey through Asia.
 lastModified: Thu, 06 Apr 2015 01:50:00 GMT
 ---
 
-# A trip through Asia
+# Tokyo -- Seoul -- Hanoi, 2015
 
 Starting in July 2015, I will be taking a nomadic journey through Asia. Starting in **Tokyo, Japan**, and culminating in **Hanoi, Vietnam**, the trip will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train and tuk-tuk.
 
 At least that's the rough plan. On this page I will keep a high-level intinerary of where I'll be (City, Country) and for how many days, and keep links to related blog posts and other pages.
 
-**What's the purpose of the trip?** I've always been a keen traveler, but since I visited South Korea for the first time in 2010, I fell in love with the place and decided that I had to live there at some point. That's where this idea began. I then decided that I could probably extend the trip and see parts of Asia I've always wanted to see, too.
+**What's the purpose of the trip?** I've always been a keen traveller, but since I visited South Korea for the first time in 2010, I fell in love with the place and decided that I _had_ to live there at some point. That's where this idea began. I soon realised I could extend the trip and see other parts of Asia I've always wanted to see, too. Over weeks of map-trawling, flight-searching and spreadsheet-tinkering, it started to look like a real itinerary.
 
-But while I'm out there I won't just vacationing. I'll continue working on my side projects and try out a few ideas for apps that I've had. I'll be bouldering wherever I can find rocks or a gym to climb. I'll be learning about the places I'm staying and trying to get familiar with the culture. Finally, and not least, I'll be hoping to make some friends on the way.
+{% include _figure.html src="/img/asia-trip-korea-photo.jpg" caption="The Hyangwonjeong pavilion at the Gyeongbokgung palace in Seoul." %}
+
+Of course, this is a break from my life. But while I'm out there I won't just vacationing.
+
+First, I'll continue working on my side projects. Second, I'll be bouldering wherever I can find rocks to climb or a gym to climb in, just like I do in London. Third, I'll be learning about the places I'm staying and trying to get familiar with the culture. Last, but certainly not least, I'll be hoping to make some friends on the way.
 
 That's where you, the reader, come in. If you're in any of the places listed in my itinerary, and any of the things I'm saying sound interesting to you, let's meet up and get a drink of coffee, beer, or whatever it is that people drink around here. I'd love to meet you.
 
-<a href="mailto:dan@danhough.com?subject=Nomadic+Journey" class="cta--primary inline">Get in touch.</a>
+<a href="mailto:dan@danhough.com?subject=Nomadic+Journey" class="cta--primary">Get in touch.</a>
 
 ## Itinerary
 
@@ -33,9 +37,9 @@ My friends will be joining me here for a week, before they head home. I'll be st
 
 This is where I'll be staying for the longest time: **89 days**, just a day short of what the Visa waiver allows for British Citizens. I'm quite keen to make some friends here and get to know fellow travellers, people in tech, and anybody else with whom I might get on well :smile:
 
-I'm planning to do a lot of rock climbing - mainly bouldering - while I'm in Korea, with the help of [Korea on the Rocks](http://www.koreaontherocks.com/). If you're into that stuff, I want to hear from you.
+I'm planning to do a lot of rock climbing -- mainly bouldering -- while I'm in Korea, with the help of [Korea on the Rocks](http://www.koreaontherocks.com/). If you're into that stuff, I want to hear from you.
 
-I've been before - twice - so I am aware of how much fun this place can be! If you're interested in meeting up, <a href="mailto:dan@danhough.com?subject=Meet+me+in+Seoul">drop me a line</a>.
+I've been before -- twice -- so I am aware of how much fun this place can be! If you're interested in meeting up, <a href="mailto:dan@danhough.com?subject=Meet+me+in+Seoul">drop me a line</a>.
 
 ### 4 October 2015: Beijing, China
 
