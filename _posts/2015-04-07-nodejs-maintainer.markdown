@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: How to be a better NodeJS Module Maintainer
-date_created: 06 April 2015
+date_created: 07 April 2015
 location: Buckinghamshire, UK
 comments: true
 ---
@@ -44,7 +44,7 @@ That doesn't mean it needs to include comprehensive documentation, but for simpl
 
 Simply writing down how to use your API is not enough. **Include examples.** This is a very important rule. Think of some common use cases for your code and show people how your module can solve their problem in that use case.
 
-<blockquote class="large center"><span markdown="1">Simply writing down how to use your API is not enough. **Include examples.** This is a very important rule.</span></blockquote>
+<blockquote class="large center"><span markdown="1">Simply writing down how to use your API is not enough.<br />**Include examples.** This is a very important rule.</span></blockquote>
 
 As for how to write it, you should **definitely** use [Markdown](http://en.wikipedia.org/wiki/Markdown) rather than plain text. Markdown is much easier to read on GitHub or npm.org (which is where most people will be reading it) because it will be rendered as HTML. It's easy to get started with Markdown - simply using headers (e.g. `###` for H3) is enough to make a big difference.
 
