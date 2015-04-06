@@ -71,7 +71,7 @@ If you're there, (especially if you're interested in climbing or diving) and you
 
 <h3 title="This part of the journey is not yet confirmed" class="unconfirmed">22 November 2015: Singapore</h3>
 
-The final destination in my journey before a three-week-long mad trip, and the last major metropolitan area in the trip. It would be a great place, I think, to meet up with some fellow nomads. <a href="mailto:dan@danhough.com?subject=Meet+me+in+Singapore">Drop me a line</a> if you'd like to meet up.
+The final destination in my journey before a slightly mad-looking three-week-long trip up to Hanoi. It would be a great place, I think, to meet up with some fellow nomads. <a href="mailto:dan@danhough.com?subject=Meet+me+in+Singapore">Drop me a line</a> if you'd like to meet up.
 
 <h3 title="These plans are not yet confirmed" class="unconfirmed">27 November 2015-19 December 2015</h3>
 
