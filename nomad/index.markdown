@@ -25,7 +25,7 @@ This is a loose, high-level plan. The destination headings in black are confirme
 
 ### 2 July 2015: Tokyo, Japan
 
-I'll be going here on more of a holiday with some friends.
+This part is more of a holiday with a couple of friends :smile: we won't be here long, sadly, but I will be in the next destination for ages...
 
 ### 8 July 2015: Seoul, Korea
 

@@ -11,6 +11,9 @@
 		<meta name="description" content="Dan Hough is a software developer &amp; consultant, a writer and public speaker." />
 		<meta property="og:description" content="Dan Hough is a software developer &amp; consultant, a writer and public speaker." />
 		{% endif %}
+		{% if page.lastModified %}
+		<meta http-equiv="last-modified" content="{{page.lastModified}}" />
+		{% endif %}
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		<title>{% if page.title %}{{ page.title }} — Dan Hough — Independent Software Developer{% else %}Dan Hough — Independent Software Developer{% endif %}</title>
 		<meta property="og:title" content="{% if page.title %}{{ page.title }} — Dan Hough{% else %}Dan Hough — Independent Software Developer{% endif %}" />
