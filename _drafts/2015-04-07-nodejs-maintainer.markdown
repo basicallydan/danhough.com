@@ -2,8 +2,8 @@
 published: true
 layout: post
 title: How to be a better NodeJS Module Maintainer
-date_created: 07 April 2015
-location: Buckinghamshire, UK
+date_created: 10 April 2015
+location: London, UK
 comments: true
 ---
 
@@ -108,3 +108,5 @@ I guarantee you that if you do this, not only will you encourage more contributo
 People also need to be responded to as quickly as possible. If someone opens an issue or a pull request, you shouldn't put it off for weeks. I think it's safe to say that because you're doing this work for free, nobody expects you to treat it like a full-time job. But if you get a second simply to tell someone that their issue or PR has been seen, it's a nice thing to do. Nobody likes to be ignored! And if someone's PR isn't going to be merged, you should be honest: tell them so, and why it isn't going to happen. Perhaps they can fix a couple of things in their fork and then try again.
 
 I hope this has been helpful to some folks out there. If you have any more tips to share, leave them in the comments or drop me a line! :smile:
+
+**Thanks to:** Jon Kelly for his comprehensive and feedback about content and language, and Orlando for his feedback about layout and readability.
