@@ -7,21 +7,45 @@ location: London, UK
 comments: true
 ---
 
+<!-- FEEDBACK FROM JON KELLY:
+Thought I'd send these thoughts as you asked for feedback, although the blog post will be up now. They are just some instant response thoughts, and also may not be so relevant to blog-style writing.
+ 
+Firstly, I really liked the talk and I like the post. I had forgotten about shrinkwrap and so straight away I used that on a personal project after reading (where it picked on an issue with mkdirp).
+ 
+I saw Orlie's comments. Readability wasn't an issue for me, but I read it on a desktop, not a phone, so that might make a difference.
+ 
+I see you dropped the fun title? I guess the new title is better for seo.
+ 
+In the first para, did you mean "some of which you" rather than "some of which I"? Perhaps "preferable" would suggest it's the reader's choice of method, whereas "better" hints that your ideas are not quite the best?
+ 
+A silly point, but is it clear enough that module is a made-up example rather than something real?
+ 
+In the ticked list, in the talk, did "legit" refer to licenses? Still, it sounds good in the list, and applies in a general sense to everything here.
+ 
+On the ticked list items generally - they encourage people to read, and your post has great advice, so that's good. I just wondered - are they meant to specifically relate to individual bits of content, or just the overall benefit of the advice?
+ 
+Really like your emphasis on examples, the lack of these is a real pain, even for some established modules.
+ 
+Is "warning" in bold about globals? However, "should work the same" sounds like a positive thing - is there a sort of mixed message here?
+ 
+Great advice about treating contributors well.
+ -->
+
 This post will share with you some of the lessons I've learned as a developer and maintainer of some NodeJS modules available on NPM, and from watching what others do with *their* projects. Naturally, this is just going to be the way that *I* do things. Others may have completely different ways, some of which I might find a lot better. This blog post is adapted from a talk I gave at LNUG in London, which [you can watch here if you're not in a reading mood](https://www.youtube.com/watch?v=rCM2paoike0).
 
 ## I've written my Node module. Now what?
 
-Congratulations, you've finished a fine piece of work. Your module, `blogPostGenerator`, is going to make it easy for blog authors to write new articles with minimal effort.
+Congratulations, you've finished a fine piece of work. Your hypothetical example module, `blogPostGenerator`, is going to make it easy for hypothetical example blog authors to write new hypothetical example articles with minimal effort.
 
 But they can't benefit from your excellent work unless they know:
 
-✓ That is exists
 ✓ How to use it
-✓ That it's *legit*
+✓ That it does what it says it does
 ✓ Whether it's going to be maintained and kept up-to-date
 ✓ Whether it's reliable enough to use in production
+✓ That is exists
 
-Let's look at some of the things we can do to ensure your module is as inclusive and accessible as we can reasonably make it. Just a quick **warning**, most of the examples I give here are for some kind of command-line and generally use globally installed NodeJS modules, so they should work the same regardless of your operating system.
+Let's look at some of the things we can do to ensure your module is as inclusive and accessible as we can reasonably make it. Just so you know, most of the examples I give here are for some kind of command-line and generally use globally installed NodeJS modules, so they should work the same regardless of your operating system.
 
 ## Target Everyone
 
@@ -106,6 +130,16 @@ With that in mind, I think it is of huge importance to publicly recognise contri
 I guarantee you that if you do this, not only will you encourage more contributors, you'll get a warm, fuzzy feeling inside, and so will your new open-source-co-workers.
 
 People also need to be responded to as quickly as possible. If someone opens an issue or a pull request, you shouldn't put it off for weeks. I think it's safe to say that because you're doing this work for free, nobody expects you to treat it like a full-time job. But if you get a second simply to tell someone that their issue or PR has been seen, it's a nice thing to do. Nobody likes to be ignored! And if someone's PR isn't going to be merged, you should be honest: tell them so, and why it isn't going to happen. Perhaps they can fix a couple of things in their fork and then try again.
+
+## Is it done?
+
+Let's revisit our checklist from the beginning. How did we check off each of the points?
+
+✓ How to use it - You've not only written documentation, but examples too. That should do it!
+✓ That it does what it says it does - The examples should check this off too, if you can write ones which cover the most common use cases.
+✓ Whether it's going to be maintained and kept up-to-date - Having a changelog, and responding quickly and usefully to issues and PRs should reassure people.
+✓ Whether it's reliable enough to use in production - You've told them how to compile and test it, so now your users can figure out how it does what it does.
+✓ That is exists - it's published, so if people search for it on npm, they'll find it!
 
 I hope this has been helpful to some folks out there. If you have any more tips to share, leave them in the comments or drop me a line! :smile:
 
