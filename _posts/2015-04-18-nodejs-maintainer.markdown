@@ -2,34 +2,10 @@
 published: true
 layout: post
 title: How to be a better NodeJS Module Maintainer
-date_created: 10 April 2015
+date_created: 18 April 2015
 location: London, UK
 comments: true
 ---
-
-<!-- FEEDBACK FROM JON KELLY:
-Thought I'd send these thoughts as you asked for feedback, although the blog post will be up now. They are just some instant response thoughts, and also may not be so relevant to blog-style writing.
- 
-Firstly, I really liked the talk and I like the post. I had forgotten about shrinkwrap and so straight away I used that on a personal project after reading (where it picked on an issue with mkdirp).
- 
-I saw Orlie's comments. Readability wasn't an issue for me, but I read it on a desktop, not a phone, so that might make a difference.
- 
-I see you dropped the fun title? I guess the new title is better for seo.
- 
-In the first para, did you mean "some of which you" rather than "some of which I"? Perhaps "preferable" would suggest it's the reader's choice of method, whereas "better" hints that your ideas are not quite the best?
- 
-A silly point, but is it clear enough that module is a made-up example rather than something real?
- 
-In the ticked list, in the talk, did "legit" refer to licenses? Still, it sounds good in the list, and applies in a general sense to everything here.
- 
-On the ticked list items generally - they encourage people to read, and your post has great advice, so that's good. I just wondered - are they meant to specifically relate to individual bits of content, or just the overall benefit of the advice?
- 
-Really like your emphasis on examples, the lack of these is a real pain, even for some established modules.
- 
-Is "warning" in bold about globals? However, "should work the same" sounds like a positive thing - is there a sort of mixed message here?
- 
-Great advice about treating contributors well.
- -->
 
 This post will share with you some of the lessons I've learned as a developer and maintainer of some NodeJS modules available on NPM, and from watching what others do with *their* projects. Naturally, this is just going to be the way that *I* do things. Others may have completely different ways, some of which I might find a lot better. This blog post is adapted from a talk I gave at LNUG in London, which [you can watch here if you're not in a reading mood](https://www.youtube.com/watch?v=rCM2paoike0).
 
@@ -135,12 +111,12 @@ People also need to be responded to as quickly as possible. If someone opens an 
 
 Let's revisit our checklist from the beginning. How did we check off each of the points?
 
-✓ How to use it - You've not only written documentation, but examples too. That should do it!
-✓ That it does what it says it does - The examples should check this off too, if you can write ones which cover the most common use cases.
-✓ Whether it's going to be maintained and kept up-to-date - Having a changelog, and responding quickly and usefully to issues and PRs should reassure people.
-✓ Whether it's reliable enough to use in production - You've told them how to compile and test it, so now your users can figure out how it does what it does.
-✓ That is exists - it's published, so if people search for it on npm, they'll find it!
+✓ **How to use it** -- You've written documentation *and* examples too. That should do it!
+✓ **It does what it says it does** -- The examples should cover this, too.
+✓ **Whether it's going to be maintained and kept up-to-date** -- Having a changelog, and responding quickly and usefully to issues and PRs should reassure people.
+✓ **Whether it's reliable enough to use in production** -- You've told them how to compile and test it, so now your users can figure out how it does what it does.
+✓ **That is exists** -- it's published, so if people search for it on npm, they'll find it!
 
 I hope this has been helpful to some folks out there. If you have any more tips to share, leave them in the comments or drop me a line! :smile:
 
-**Thanks to:** Jon Kelly for his comprehensive and feedback about content and language, and Orlando for his feedback about layout and readability.
+**Thanks to:** Jon Kelly for his comprehensive and feedback about content and language, and [Orlando Kalossakas](https://twitter.com/orliesaurus) for his feedback about layout and readability.

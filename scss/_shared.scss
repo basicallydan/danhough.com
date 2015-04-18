@@ -96,6 +96,20 @@ hr {
 	border:0;
 }
 
+.checkmarks {
+	ul {
+		padding-left:$standard-margin;
+		list-style: none;
+		list-style-position:outside;
+
+		li:before {
+			content:'✔'; 
+			margin-left:-0.9rem;
+			// margin-right:$small-margin;
+		}
+	}
+}
+
 /**
  * For modern browsers
  * 1. The space content is one way to avoid an Opera bug when the
