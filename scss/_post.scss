@@ -27,6 +27,11 @@
 			margin:$large-margin auto $large-margin auto;
 			max-width:$max-break-out-page-width;
 
+			@media (max-width: 748px) {
+				margin-left: -$standard-margin;
+				margin-right: -$standard-margin;
+			}
+
 			img {
 				width:100%;
 				margin:0;

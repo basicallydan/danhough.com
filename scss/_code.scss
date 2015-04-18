@@ -1,3 +1,18 @@
+.article-content .highlight {
+  background-color:$lightest-grey;
+  padding: $small-margin 0;
+  // max-width:$max-break-out-page-width;
+  margin:0 auto;
+  margin-bottom:$standard-margin;
+
+  @media (max-width: 748px) {
+    margin-left: -$standard-margin;
+    margin-right: -$standard-margin;
+    padding-left: $standard-margin;
+    padding-right: $standard-margin;
+  }
+}
+
 code {
   word-wrap: break-word;
 }
