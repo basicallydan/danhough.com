@@ -5,7 +5,9 @@ title: A trip through Asia in 2015
 date_created: 12 May 2015
 location: London, UK
 comments: true
+description: From July 2015 until December 2015 I will be taking a nomadic journey through Asia.
 thumbnail: /img/asia-travel-card.png
+twitterCardType: summary_large_image
 ---
 
 Starting in July 2015, I will be taking a journey through Asia. My first stop is **Tokyo, Japan**, and my final destination before home, I expect, will be **Hanoi, Vietnam**. My travels will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train, bus, and tuk-tuk.

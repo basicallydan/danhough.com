@@ -4,6 +4,7 @@ title: Tokyo - Seoul - Hanoi, 2015
 description: From July 2015 until December 2015 I will be taking a nomadic journey through Asia.
 lastModified: Thu, 06 Apr 2015 01:50:00 GMT
 thumbnail: /img/asia-travel-card.png
+twitterCardType: summary_large_image
 ---
 
 # Tokyo -- Seoul -- Hanoi, 2015

@@ -4,7 +4,11 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="author" content="Daniel Hough" />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+		{% if page.twitterCardType %}
+		<meta name="twitter:card" content="{{ page.twitterCardType }}">
+		{% else %}
 		<meta name="twitter:card" content="summary">
+		{% endif %}
 		<meta name="twitter:creator" content="@basicallydan">
 		<meta name="twitter:site" content="@basicallydan">
 		{% if page.description %}
