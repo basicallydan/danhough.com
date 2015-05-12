@@ -6,7 +6,7 @@ date_created: 12 May 2015
 location: London, UK
 comments: true
 description: From July 2015 until December 2015 I will be taking a nomadic journey through Asia.
-thumbnail: /img/asia-travel-card.png
+thumbnail: "!SITE_URL!/img/asia-travel-card.png"
 twitterCardType: summary_large_image
 ---
 

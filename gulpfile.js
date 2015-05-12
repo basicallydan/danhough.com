@@ -6,10 +6,12 @@ var config = {
 		destination: './_site'
 	},
 	live: {
-		destination: '/home/dan/websites/danhough.com/www'
+		destination: '/home/dan/websites/danhough.com/www',
+		url: 'http://danhough.com'
 	},
 	dev: {
-		destination: '/home/dan/websites/danhough.com/dev'
+		destination: '/home/dan/websites/danhough.com/dev',
+		url: 'http://dev.danhough.com'
 	}
 };
 var environment = 'local';
@@ -39,7 +41,12 @@ gulp.task('build', ['styles'], function (done) {
 
 gulp.task('deploy', ['styles'], function (done) {
 	gutil.log('Deploying website to', config.destination);
-	require('child_process').spawn('jekyll', ['build', '--destination', config.destination], { stdio: 'inherit' })
+	var variables = ['build', '--destination', config.destination];
+	if (config.url) {
+		variables.push('--url');
+		variables.push(config.url);
+	}
+	require('child_process').spawn('jekyll', variables, { stdio: 'inherit' })
 	.on('exit', function () {
 		done();
 	});
