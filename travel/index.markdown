@@ -3,13 +3,14 @@ layout: page
 title: Tokyo - Seoul - Hanoi, 2015
 description: From July 2015 until December 2015 I will be taking a nomadic journey through Asia.
 lastModified: Thu, 06 Apr 2015 01:50:00 GMT
+thumbnail: /img/asia-travel-card.png
 ---
 
 # Tokyo -- Seoul -- Hanoi, 2015
 
-Starting in July 2015, I will be taking a nomadic journey through Asia. Starting in **Tokyo, Japan**, and culminating in **Hanoi, Vietnam**, the trip will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train and tuk-tuk.
+Starting in July 2015, I will be taking a journey through Asia. My first stop is **Tokyo, Japan**, and my final destination before home, I expect, will be **Hanoi, Vietnam**. My travels will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train, bus, and tuk-tuk.
 
-At least that's the rough plan. On this page I will keep a high-level intinerary of where I'll be (City, Country) and for how many days, and keep links to related blog posts and other pages.
+That's the rough plan, anyway. On this page I will keep a high-level intinerary of where I'll be (City, Country) and for how many days, and keep links to related blog posts and other pages.
 
 **What's the purpose of the trip?** I've always been a keen traveller, but since I visited South Korea for the first time in 2010, I fell in love with the place and decided that I _had_ to live there at some point. That's where this idea began. I soon realised I could extend the trip and see other parts of Asia I've always wanted to see, too. Over weeks of map-trawling, flight-searching and spreadsheet-tinkering, it started to look like a real itinerary.
 
@@ -31,11 +32,11 @@ This is a loose, high-level plan. The destination headings in black are confirme
 
 This part is more of a holiday with a couple of friends :smile: we won't be here long, sadly, but I will be in the next destination for ages...
 
-### 8 July 2015: Seoul, Korea
+### 14 July 2015: Seoul, Korea
 
 My friends will be joining me here for a week, before they head home. I'll be staying. I'm still looking for accommodation, so please get in touch if you have any ideas.
 
-This is where I'll be staying for the longest time: **89 days**, just a day short of what the Visa waiver allows for British Citizens. I'm quite keen to make some friends here and get to know fellow travellers, people in tech, and anybody else with whom I might get on well :smile:
+This is where I'll be staying for the longest time: **82 days**, just over a week short of what the Visa waiver allows for British Citizens. I'm quite keen to make some friends here and get to know fellow travellers, people in tech, and anybody else with whom I might get on well :smile:
 
 I'm planning to do a lot of rock climbing -- mainly bouldering -- while I'm in Korea, with the help of [Korea on the Rocks](http://www.koreaontherocks.com/). If you're into that stuff, I want to hear from you.
 

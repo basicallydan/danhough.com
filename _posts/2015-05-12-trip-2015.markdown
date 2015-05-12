@@ -2,14 +2,15 @@
 published: true
 layout: post
 title: A trip through Asia in 2015
-date_created: 01 May 2015
+date_created: 12 May 2015
 location: London, UK
 comments: true
+thumbnail: /img/asia-travel-card.png
 ---
 
-Starting in July 2015, I will be taking a nomadic journey through Asia. Starting in **Tokyo, Japan**, and culminating in **Hanoi, Vietnam**, the trip will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train and tuk-tuk.
+Starting in July 2015, I will be taking a journey through Asia. My first stop is **Tokyo, Japan**, and my final destination before home, I expect, will be **Hanoi, Vietnam**. My travels will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train, bus, and tuk-tuk.
 
-At least that's the rough plan. I've created [a page which I will update as my itinerary changes and the trip goes on](/nomad), as well as content relating to each destination. I'll use this as the main source of info for third parties about my trip.
+That's the rough plan, anyway. I've created [a page which I will update as my itinerary changes and the trip goes on](/travel), as well as content relating to each destination. I'll use this as the main source of info for third parties about my trip.
 
 **What's the purpose of the trip?** I've always been a keen traveller, but since I visited South Korea for the first time in 2010, I fell in love with the place and decided that I _had_ to live there at some point. That's where this idea began. I soon realised I could extend the trip and see other parts of Asia I've always wanted to see, too. Over weeks of map-trawling, flight-searching and spreadsheet-tinkering, it started to look like a real itinerary.
 
@@ -25,8 +26,8 @@ That's where you, the reader, come in. If you're in any of the places listed in 
 
 My trip starts on the 2nd of July 2015, and ends on the 20th of December 2015. As I said, I have a plan. Half of it is certain, the other half still may change. But as it stands at the time of writing this article, here it is:
 
-* Tokyo, Japan (5 days)
-* Seoul, South Korea (89 days)
+* Tokyo, Japan (12 days)
+* Seoul, South Korea (82 days)
 * Beijing, China (3 days)
 * Pyongyang, North Korea (4 days)
 * Qingdao, China (1 day)
@@ -43,7 +44,7 @@ My trip starts on the 2nd of July 2015, and ends on the 20th of December 2015. A
 * Luang Prabang, Laos (1-2 days)
 * Hanoi, Vietnam (2-4 days)
 
-Again, this will be kept up-to-date on my [travel page](/nomad), so keep an eye on that. I am hugely, hugely excited about this trip. :smile:
+Again, this will be kept up-to-date on my [travel page](/travel), so keep an eye on that. I am hugely, hugely excited about this trip. :smile:
 
 ## Travelling Light
 
@@ -61,4 +62,4 @@ And hopefully, people will come over to visit me :wink:
 
 ## See you there?
 
-As I mentioned before, I'd like to meet people while I'm out there. If you'd like to hang out, <a href="mailto:dan@danhough.com?subject=About+your+trip">send me an email</a>. And keep an eye on my [travel](/nomad) page, too, for updates - or subscribe using the form below. Thanks for reading, and happy travels!
+As I mentioned before, I'd like to meet people while I'm out there. If you'd like to hang out, <a href="mailto:dan@danhough.com?subject=About+your+trip">send me an email</a>. And keep an eye on my [travel](/travel) page, too, for updates - or subscribe using the form below. Thanks for reading, and happy travels!
