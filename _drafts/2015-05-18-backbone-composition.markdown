@@ -69,3 +69,14 @@ var AddableSortableListView = Backbone.View
 	.extend(AddableListView)
 	.extend(SortableListView);
 ```
+
+## Other ways to do this
+
+<!-- EXPAND THIS -->
+
+* Simply extend using reusable, globally-defined functions as part of your main view objects
+	* Not quite as obvious what is going on IMO since functions are less representative of a view's role
+* Use the prototypes of other objects from which you wish to compose
+	* Relies too much on the assumption that other objects know they are being used
+	* Far too coupled
+	* Does not properly explain what is going on
