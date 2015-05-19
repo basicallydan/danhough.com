@@ -35,7 +35,7 @@ var AddableSortableListView = BaseListView.extend({
 });
 ```
 
-In a larger application than this, this can become quite complex. At Marvel, for instance, there are multiple lists displaying the same data, but they perform different functions depending on their context. One of the lists allows selecting of individual items; two of them allow multi-select. One supports deleting them and another has a item-resizing feature.
+In a larger application than this, this can become quite complex. At [Marvel](http://marvelapp.com), for instance, there are multiple lists displaying the same data, but they perform different functions depending on their context. One of the lists allows selecting of individual items; two of them allow multi-select. One supports deleting them and another has a item-resizing feature.
 
 There are many different features here, with a few common overlapping themes, forming a complex venn diagram which isn't as simple as the layer-cake analogy you can apply to inheritance.
 
