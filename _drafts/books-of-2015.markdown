@@ -27,3 +27,11 @@ Ronson explains the confusing, vague world of psychiatric disorder classificatio
 ## On Her Majesty's Secret Service by Ian Fleming
 
 Finally Bond really shows his vulnerable side, exposes himself and gets beaten and bruised in the process, only for it to all fall apart. One of the saddest, so far.
+
+## You Only Live Twice by Ian Fleming
+
+I'm fairly sure this book is largely responsible for popularising many of the probable myths and stereotypes that most of the western world holds about Japan. Nevertheless, this is an entertaining novel which is lighter on the misogyny than previous stories. It's the Bond equivalent of a mid-life crisis, clearly written towards the end of Fleming's career as the author of 007 novels.
+
+## Batman: The Dark Knight Returns
+
+We all know the dark Batman stories of the silver screen, but this Frank Miller take on the Dark Knight takes it to a whole new level. In this story (which provides the basis Batman vs. Superman: Dawn of Justice) we follow an old, bored Bruce Wayne as he takes up the job he retired from years ago. Chilling stuff!
