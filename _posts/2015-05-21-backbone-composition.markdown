@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Composition - not inheritance - in Backbone
-date_created: 20 May 2015
+date_created: 21 May 2015
 location: London, UK
 comments: true
 description: The eternal struggle between composition and inheritance is coming to your browser.
@@ -16,7 +16,7 @@ Before get onto my point, let's look at a contrived example.
 
 Say there are a few types of views, all of which display a list of items.
 
-One view is static, and simply displays the list in whatever order the model currently specifies. The second is like the static one but is also sortable; the user can drag items to change their order. The third is one to which you can add items. Finally, there's one which you can both sort *and* add to. Here's an **inheritance**-based solution. They *all* do only one thing: render the list.
+One view is static, and simply displays the list in whatever order the model currently specifies. The second is like the static one but is also sortable; the user can drag items to change their order. The third is one to which you can add items. Finally, there's one which you can both sort *and* add to. Here's an **inheritance**-based solution. The only feature they *all* share is that they render a list.
 
 ```javascript
 var BaseListView = Backbone.View.extend({
@@ -31,13 +31,12 @@ var AddableListView = BaseListView.extend({
 	addToList: function () { /* add items */ }
 });
 
-var AddableSortableListView = BaseListView.extend({
-	addToList: function () { /* add items (same as above) */ },
+var AddableSortableListView = SortableListView.extend({
 	sortList: function () { /* sort items (same as above) */ }
 });
 ```
 
-You might ask, "Why not have `AddableSortableListView` extend `AddableListView`". That works fine until `AddableListView` starts getting more functionality which isn't shared with `SortableListView`. So, we have to re-write the functions, or come up with an ugly function-sharing solution (see [Other ways to do this](#other-ways-to-do-this)).
+This works fine until `AddableListView` starts getting more functionality which isn't shared with `AddableSortableListView`. So, we have to re-write the functions or change the inheritance chain with potentially unexpected consequences.
 
 As the application becomes more complex, inheritance becomes more restrictive. At [Marvel](http://marvelapp.com), for instance, there are multiple lists displaying the same data, but they perform different functions depending on their context. One of the lists allows selecting of individual items; two of them allow multi-select. One supports deleting them and another has a item-resizing feature.
 
@@ -45,11 +44,14 @@ There are many different features here, with a few common overlapping themes, fo
 
 ## How to compose Backbone objects
 
-An alternative, as you might have guessed, is to use *composition*. In composition, classes or objects declare which functions or features they have from an available set, rather than grabbing all the features of a superclass. 
+An alternative, as you might have guessed, is to use **composition**. In composition, classes or objects declare which functions or features they have from an available set, rather than grabbing all the features of a superclass.
 
-One way to compose classes in typed languages is often through the use of interfaces and dependency injection, but JavaScript has no interface feature. It does, however, allow us to be quite flexible about how objects are defined. An example should help to explain how this works in Backbone.
+One way to think of composition (I did not come up with this, but I like it) is that *Composition is a **"has-a"** relationship* for objects, where as *Inheritance is an **"is-a"** relationship*. For many situations, even in the front-end, composition is a much more intuitive way to build object types.
+
+A common way to compose classes in typed languages is through the use of interfaces and dependency injection, but JavaScript has no built-in interface feature. It does, however, allow us to be quite flexible about how objects are defined. An example should help to explain how this works in Backbone.
 
 ```javascript
+// Naming these objects <feature>Interface implies their purpose
 var RenderableListViewInterface = {
 	renderList: function () { /* do the thing */ }
 };
@@ -80,6 +82,18 @@ var AddableSortableListView = Backbone.View
 
 Now when `AddableListView` or `SortableListView` want new features, they simply are extended further. If any of those features overlap, we create a new "interface" object and extend it as part of the `.extend()` chains we already have.
 
+<blockquote class="large center"><span markdown="1">For many situations, even in the frontend, composition is a much more intuitive way to build object types.</span></blockquote>
+
+For example, maybe the list items should be editable in the `AddableListView`, but also in a special, new `EditableListView`. Simply make a new interface, and add `.extend(EditableListViewInterface)` to `AddableListView` and the new `EditableListView` object.
+
+## Drawbacks
+
+As usual, the method I'm promoting isn't without its own problems. It means potentially massive extension chains which go for lines, which some people find annoyingly abstract. However, I think that this improves upon the massive inheritance chains which quickly become difficult to debug.
+
+Composing objects in thsi way can also be dangerous when two interfaces implement methods of the same name, without this necessarily being known by the developer.
+
+The biggest drawback however is that when using composition, an interface's dependencies must be implemented fully, and are not necessarily given for free. For instance, a `sortItems` function may assume that there's a `swapItems` function available. It's up to you to make sure that functional dependencies are resolved properly. I find that in practice this is rarely a problem, especially when you use composition from the start.
+
 ## Other ways to do this
 
 You may be thinking that this problem can be solved by defining some common global functions and then using them as part of a single `.extend()` call on a view's definition. Well, you'd be right. But in my opinion, using the method outlined above is much more descriptive and better encapsulates the feature-driven approach which composition favours.
@@ -92,11 +106,7 @@ First, it relies far too heavily on the assumption that other objects know how t
 
 This also isn't as representative of the truth. The more software can explain itself to the reader, the easier it becomes to modify and maintain: if a function from one view is being used in another, don't you think a naïve reader would be confused?
 
-## Drawback
-
-As usual, the method I'm promoting isn't without its own problems. It means potentially massive extension chains which go for lines, which some people find annoyingly abstract. It can also be dangerous when two interfaces implement methods of the same name.
-
-The biggest drawback however is that when using composition, an interface's dependencies must be implemented fully, and are not necessarily given for free. For instance, a `sortItems` function may assume that there's a `swapItems` function available. It's up to you to make sure that functional dependencies are resolved properly. I find that in practice this is rarely a problem, especially when you use composition from the start.
-
 # Further Reading
 
+* [Object composition](https://en.wikipedia.org/wiki/Object_composition) on Wikipedia
+* [Inheritance vs. Composition](http://blog.vijaydaniel.com/2012/02/inheritance-vs-composition-and-software.html) by Vijay Daniel M
