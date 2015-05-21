@@ -86,11 +86,13 @@ Now when `AddableListView` or `SortableListView` want new features, they simply 
 
 For example, maybe the list items should be editable in the `AddableListView`, but also in a special, new `EditableListView`. Simply make a new interface, and add `.extend(EditableListViewInterface)` to `AddableListView` and the new `EditableListView` object.
 
+One of the less-JavaScript-specific benefit of composition, I find, is that trying to represent models of objects mentally is a lot easier. Rather than trying to think of the properties of each of the "ancestors" of a class, one need only think of the properties that the current class **directly** owns.
+
 ## Drawbacks
 
 As usual, the method I'm promoting isn't without its own problems. It means potentially massive extension chains which go for lines, which some people find annoyingly abstract. However, I think that this improves upon the massive inheritance chains which quickly become difficult to debug.
 
-Composing objects in thsi way can also be dangerous when two interfaces implement methods of the same name, without this necessarily being known by the developer.
+Composing objects in this way can also be dangerous when two interfaces implement methods of the same name, without this necessarily being known by the developer.
 
 The biggest drawback however is that when using composition, an interface's dependencies must be implemented fully, and are not necessarily given for free. For instance, a `sortItems` function may assume that there's a `swapItems` function available. It's up to you to make sure that functional dependencies are resolved properly. I find that in practice this is rarely a problem, especially when you use composition from the start.
 
@@ -106,7 +108,14 @@ First, it relies far too heavily on the assumption that other objects know how t
 
 This also isn't as representative of the truth. The more software can explain itself to the reader, the easier it becomes to modify and maintain: if a function from one view is being used in another, don't you think a naïve reader would be confused?
 
+# What to do next
+
+If this concept is new to you, I highly recommend trying it. As the [wisened old software guru says](https://en.wikipedia.org/wiki/Design_Patterns), "Favor 'object composition' over 'class inheritance". You may find yourself thinking more flexibly, and less mental strain.
+
+If you disagree, please feel free to tell me so, and why. And if you can think of a better way to do this in Backbone, I'm all ears. Thanks for reading!
+
 # Further Reading
 
 * [Object composition](https://en.wikipedia.org/wiki/Object_composition) on Wikipedia
+* [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance) on Wikipedia
 * [Inheritance vs. Composition](http://blog.vijaydaniel.com/2012/02/inheritance-vs-composition-and-software.html) by Vijay Daniel M
