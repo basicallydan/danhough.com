@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Composition - not inheritance - in Backbone
-date_created: 21 May 2015
+date_created: 23 May 2015
 location: London, UK
 comments: true
 description: The eternal struggle between composition and inheritance is coming to your browser.
@@ -10,11 +10,11 @@ description: The eternal struggle between composition and inheritance is coming 
 
 Inheritance is a concept that most software engineers are familiar with: Given a class or object, another object can "inherit" the properties of that class or object and extend them somehow. While this is usually associated with Object-Oriented Programming it's also a feature of JavaScript's prototype system.
 
-In [Backbone](https://backbonejs.org), we tend to follow an OOP-like pattern, and a common thing to see in Backbone projects is a Model or View which defines some functions and/or properties which are needed for all or most of the Model or Views in the project. This is all thanks to our good friend the [`extend()` function](http://backbonejs.org/#View-extend).
+In [Backbone](https://backbonejs.org), we tend to follow an OOP-like pattern. A common thing to see in Backbone projects is a View which defines some functions and/or properties which are needed for all or most of the Views in the project. This is all thanks to our good friend the [`extend()` function](http://backbonejs.org/#View-extend).
 
-Before get onto my point, let's look at a contrived example.
+Before I get onto my point, let's look at a contrived example.
 
-Say there are a few types of views, all of which display a list of items.
+Say there are four types of views, all of which display a list of items.
 
 One view is static, and simply displays the list in whatever order the model currently specifies. The second is like the static one but is also sortable; the user can drag items to change their order. The third is one to which you can add items. Finally, there's one which you can both sort *and* add to. Here's an **inheritance**-based solution. The only feature they *all* share is that they render a list.
 
@@ -46,7 +46,7 @@ There are many different features here, with a few common overlapping themes, fo
 
 An alternative, as you might have guessed, is to use **composition**. In composition, classes or objects declare which functions or features they have from an available set, rather than grabbing all the features of a superclass.
 
-One way to think of composition (I did not come up with this, but I like it) is that *Composition is a **"has-a"** relationship* for objects, where as *Inheritance is an **"is-a"** relationship*. For many situations, even in the front-end, composition is a much more intuitive way to build object types.
+One way to think of composition (I did not come up with this, but I like it) is that *Composition is a **"has-a"** relationship* for objects, where as *Inheritance is an **"is-a"** relationship*. For many situations, even in the front-end, composition is a clearer way of expressing what an object is used for.
 
 A common way to compose classes in typed languages is through the use of interfaces and dependency injection, but JavaScript has no built-in interface feature. It does, however, allow us to be quite flexible about how objects are defined. An example should help to explain how this works in Backbone.
 
@@ -110,7 +110,7 @@ This also isn't as representative of the truth. The more software can explain it
 
 # What to do next
 
-If this concept is new to you, I highly recommend trying it. As the [wisened old software guru says](https://en.wikipedia.org/wiki/Design_Patterns), "Favor 'object composition' over 'class inheritance". You may find yourself thinking more flexibly, and less mental strain.
+If this concept is new to you, I highly recommend trying it. As the [wisened old software guru says](https://en.wikipedia.org/wiki/Design_Patterns), "Favor 'object composition' over 'class inheritance". You may find yourself thinking more flexibly, and you may find constructing object types much easier than before.
 
 If you disagree, please feel free to tell me so, and why. And if you can think of a better way to do this in Backbone, I'm all ears. Thanks for reading!
 
