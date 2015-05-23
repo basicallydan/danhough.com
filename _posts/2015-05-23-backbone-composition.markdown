@@ -119,3 +119,5 @@ If you disagree, please feel free to tell me so, and why. And if you can think o
 * [Object composition](https://en.wikipedia.org/wiki/Object_composition) on Wikipedia
 * [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance) on Wikipedia
 * [Inheritance vs. Composition](http://blog.vijaydaniel.com/2012/02/inheritance-vs-composition-and-software.html) by Vijay Daniel M
+
+Thank you to [Alun](https://twitter.com/4lun), [Jon](https://twitter.com/jonfinerty) and [Brendan](https://twitter.com/oh_moore) for giving this a read and providing feedback.
