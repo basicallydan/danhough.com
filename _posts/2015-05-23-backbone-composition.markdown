@@ -8,6 +8,8 @@ comments: true
 description: The eternal struggle between composition and inheritance is coming to your browser.
 ---
 
+**EDIT:** Some friendly folks on Reddit pointed out that what I'm describing is a mixin pattern and **not** composition. Somewhere along the line, my understanding was messed up and I got composition confused with mixins - I apologise. Anyway, keep that in mind when you read this article. Thanks.
+
 Inheritance is a concept that most software engineers are familiar with: Given a class or object, another object can "inherit" the properties of that class or object and extend them somehow. While this is usually associated with Object-Oriented Programming it's also a feature of JavaScript's prototype system.
 
 In [Backbone](https://backbonejs.org), we tend to follow an OOP-like pattern. A common thing to see in Backbone projects is a View which defines some functions and/or properties which are needed for all or most of the Views in the project. This is all thanks to our good friend the [`extend()` function](http://backbonejs.org/#View-extend).
@@ -43,6 +45,8 @@ As the application becomes more complex, inheritance becomes more restrictive. A
 There are many different features here, with a few common overlapping themes, forming a complex venn diagram which isn't as simple as the layer-cake analogy you can apply to inheritance. If inheritance alone was used, many views would end up with features--and possible side-effects--that they don't need.
 
 ## How to compose Backbone objects
+
+**AKA:** How to create Backbone objects from mixins.
 
 An alternative, as you might have guessed, is to use **composition**. In composition, classes or objects declare which functions or features they have from an available set, rather than grabbing all the features of a superclass.
 
