@@ -32,7 +32,7 @@ var AddableListView = BaseListView.extend({
 });
 
 var AddableSortableListView = SortableListView.extend({
-	sortList: function () { /* sort items (same as above) */ }
+	addToList: function () { /* add items (same as above) */ }
 });
 ```
 
