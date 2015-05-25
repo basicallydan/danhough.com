@@ -1,14 +1,16 @@
 ---
 published: true
 layout: post
-title: Composition (actually mixins) - not inheritance - in Backbone
+title: Using mixins to create classes in Backbone
 date_created: 23 May 2015
 location: London, UK
 comments: true
-description: The eternal struggle between composition and inheritance is coming to your browser.
+description: Mixins - what are they, why are they useful, and how can we use them?
+redirect_from:
+  - /blog/backbone-composition/
 ---
 
-**EDIT:** Some friendly folks on Reddit pointed out that what I'm describing is a **mixin** pattern and **not** composition. Somewhere along the line, my understanding was messed up and I got composition confused with mixins - I apologise. Anyway, keep that in mind when you read this article. Thanks.
+**EDIT:** When this post was originally written it was called "Composition - not inheritance - in Backbone". Some friendly folks on Reddit pointed out that what I'm describing is a **mixin** pattern and **not** composition. Somewhere along the line, I got composition confused with mixins - I apologise - so I have rewritten parts of the article to use the correct term. The meaning has not changed, only the term being used. Thanks.
 
 Inheritance is a concept that most software engineers are familiar with: Given a class or object, another object can "inherit" the properties of that class or object and extend them somehow. While this is usually associated with Object-Oriented Programming it's also a feature of JavaScript's prototype system.
 
@@ -44,15 +46,13 @@ As the application becomes more complex, inheritance becomes more restrictive. A
 
 There are many different features here, with a few common overlapping themes, forming a complex venn diagram which isn't as simple as the layer-cake analogy you can apply to inheritance. If inheritance alone was used, many views would end up with features--and possible side-effects--that they don't need.
 
-## How to compose Backbone objects
+## How to create Backbone objects using mixins
 
-**AKA:** How to create Backbone objects from mixins.
+An alternative, as you might have guessed, is to use **mixins**. With mixins, classes or objects declare which functions or features they need from other classes or objects, rather than grabbing all the features of a superclass.
 
-An alternative, as you might have guessed, is to use **composition**. In composition, classes or objects declare which functions or features they have from an available set, rather than grabbing all the features of a superclass.
+What we're doing when we created mixed-in classes is in fact creating classes with "Do" some things, rather than classes which "Are" something. For many situations, even in the front-end, mixins are a clearer way of expressing what an object is used for.
 
-One way to think of composition (I did not come up with this, but I like it) is that *Composition is a **"has-a"** relationship* for objects, where as *Inheritance is an **"is-a"** relationship*. For many situations, even in the front-end, composition is a clearer way of expressing what an object is used for.
-
-A common way to compose classes in typed languages is through the use of interfaces and dependency injection, but JavaScript has no built-in interface feature. It does, however, allow us to be quite flexible about how objects are defined. An example should help to explain how this works in Backbone.
+You may notice that this shares some traits with the use of Interfaces in some typed languages, except that rather than just declaring functions, we're implementing them too. An example should help to explain how this works in Backbone.
 
 ```javascript
 // Naming these objects <feature>Interface implies their purpose
@@ -86,23 +86,23 @@ var AddableSortableListView = Backbone.View
 
 Now when `AddableListView` or `SortableListView` want new features, they simply are extended further. If any of those features overlap, we create a new "interface" object and extend it as part of the `.extend()` chains we already have.
 
-<blockquote class="large center"><span markdown="1">For many situations, even in the frontend, composition is a much more intuitive way to build object types.</span></blockquote>
+<blockquote class="large center"><span markdown="1">For many situations, even in the front-end, mixins are a clearer way of expressing what an object is used for.</span></blockquote>
 
 For example, maybe the list items should be editable in the `AddableListView`, but also in a special, new `EditableListView`. Simply make a new interface, and add `.extend(EditableListViewInterface)` to `AddableListView` and the new `EditableListView` object.
 
-One of the less-JavaScript-specific benefit of composition, I find, is that trying to represent models of objects mentally is a lot easier. Rather than trying to think of the properties of each of the "ancestors" of a class, one need only think of the properties that the current class **directly** owns.
+One of the less-JavaScript-specific benefit of mixins, I find, is that trying to represent models of objects mentally is a lot easier. Rather than trying to think of the properties of each of the "ancestors" of a class, one need only think of the properties that the current class **directly** owns.
 
 ## Drawbacks
 
 As usual, the method I'm promoting isn't without its own problems. It means potentially massive extension chains which go for lines, which some people find annoyingly abstract. However, I think that this improves upon the massive inheritance chains which quickly become difficult to debug.
 
-Composing objects in this way can also be dangerous when two interfaces implement methods of the same name, without this necessarily being known by the developer.
+Mixing in objects in this way can also be dangerous when two interfaces/objects implement methods of the same name, without this necessarily being known by the developer.
 
-The biggest drawback however is that when using composition, an interface's dependencies must be implemented fully, and are not necessarily given for free. For instance, a `sortItems` function may assume that there's a `swapItems` function available. It's up to you to make sure that functional dependencies are resolved properly. I find that in practice this is rarely a problem, especially when you use composition from the start.
+The biggest drawback however is that when using mixins, an interface's dependencies must be implemented fully, and are not necessarily given for free. For instance, a `sortItems` function may assume that there's a `swapItems` function available. It's up to you to make sure that functional dependencies are resolved properly. I find that in practice this is rarely a problem, especially when you use mixins from the start.
 
 ## Other ways to do this
 
-You may be thinking that this problem can be solved by defining some common global functions and then using them as part of a single `.extend()` call on a view's definition. Well, you'd be right. But in my opinion, using the method outlined above is much more descriptive and better encapsulates the feature-driven approach which composition favours.
+You may be thinking that this problem can be solved by defining some common global functions and then using them as part of a single `.extend()` call on a view's definition. Well, you'd be right. But in my opinion, using the method outlined above is much more descriptive and better encapsulates the feature-driven approach which using mixins favours.
 
 You can group functions together into these interfaces and say, "this view has this feature" rather than having to define a group of disjointed but ultimately interdependent functions and making sure you extend them all.
 
@@ -114,20 +114,20 @@ This also isn't as representative of the truth. The more software can explain it
 
 # What to do next
 
-If this concept is new to you, I highly recommend trying it. As the [wisened old software guru says](https://en.wikipedia.org/wiki/Design_Patterns), "Favor 'object composition' over 'class inheritance". You may find yourself thinking more flexibly, and you may find constructing object types much easier than before.
+If this concept is new to you, I highly recommend trying it. You may find yourself thinking more flexibly, and you may find constructing object types much easier than before.
 
 If you disagree, please feel free to tell me so, and why. And if you can think of a better way to do this in Backbone, I'm all ears. Thanks for reading!
 
 # Further Reading
 
-* [Object composition](https://en.wikipedia.org/wiki/Object_composition) on Wikipedia
-* [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance) on Wikipedia
-* [Inheritance vs. Composition](http://blog.vijaydaniel.com/2012/02/inheritance-vs-composition-and-software.html) by Vijay Daniel M
+* [Mixins](https://en.wikipedia.org/wiki/Mixin) on Wikipedia
 
-Thank you to [Alun](https://twitter.com/4lun), [Jon](https://twitter.com/jonfinerty) and [Brendan](https://twitter.com/oh_moore) for giving this a read and providing feedback.
+Thank you to [Alun](https://twitter.com/4lun), [Jon](https://twitter.com/jonfinerty) and [Brendan](https://twitter.com/oh_moore) for giving this a read and providing feedback. Thank you also to [crescentfresh and burglar_bill on Reddit](http://www.reddit.com/r/javascript/comments/376ld8/composition_not_inheritance_in_backbone/crkhe6s) for pointing out a rather large naming mistake.
 
 **EDIT 25/05/2015 @ 20:06BST:** Accidentally left out the `Interface` part of the objects in the composition example. Sorry!
 
 **EDIT 25/05/2015 @ 20:42BST:** Made a note at the top of my mistaken understanding of the difference between mixins and composition. D'oh!
+
+**EDIT 25/05/2015 @ 21:03BST:** Rewrote small sections to properly describe the pattern being used here.
 
 Discuss this on [Hacker News](https://news.ycombinator.com/item?id=9600586) if you like.
