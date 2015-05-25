@@ -126,4 +126,6 @@ If you disagree, please feel free to tell me so, and why. And if you can think o
 
 Thank you to [Alun](https://twitter.com/4lun), [Jon](https://twitter.com/jonfinerty) and [Brendan](https://twitter.com/oh_moore) for giving this a read and providing feedback.
 
+**EDIT 25/05/2015 @ 20:06BST:** Accidentally left out the `Interface` part of the objects in the composition example. Sorry!
+
 Discuss this on [Hacker News](https://news.ycombinator.com/item?id=9600586) if you like.
