@@ -68,16 +68,16 @@ var StaticListView = Backbone.View.extend(RenderableListViewInterface);
 
 var SortableListView = Backbone.View
 	.extend(RenderableListViewInterface)
-	.extend(SortableListView);
+	.extend(SortableListViewInterface);
 
 var AddableListView = Backbone.View
 	.extend(RenderableListViewInterface)
-	.extend(AddableListView);
+	.extend(AddableListViewInterface);
 
 var AddableSortableListView = Backbone.View
 	.extend(RenderableListViewInterface)
-	.extend(AddableListView)
-	.extend(SortableListView);
+	.extend(AddableListViewInterface)
+	.extend(SortableListViewInterface);
 ```
 
 Now when `AddableListView` or `SortableListView` want new features, they simply are extended further. If any of those features overlap, we create a new "interface" object and extend it as part of the `.extend()` chains we already have.
