@@ -32,7 +32,7 @@ var AddableListView = BaseListView.extend({
 });
 
 var AddableSortableListView = SortableListView.extend({
-	sortList: function () { /* sort items (same as above) */ }
+	addToList: function () { /* add items (same as above) */ }
 });
 ```
 
@@ -121,3 +121,5 @@ If you disagree, please feel free to tell me so, and why. And if you can think o
 * [Inheritance vs. Composition](http://blog.vijaydaniel.com/2012/02/inheritance-vs-composition-and-software.html) by Vijay Daniel M
 
 Thank you to [Alun](https://twitter.com/4lun), [Jon](https://twitter.com/jonfinerty) and [Brendan](https://twitter.com/oh_moore) for giving this a read and providing feedback.
+
+Discuss this on [Hacker News](https://news.ycombinator.com/item?id=9600586) if you like.
