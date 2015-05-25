@@ -10,7 +10,7 @@ redirect_from:
   - /blog/backbone-composition/
 ---
 
-**EDIT:** When this post was originally written it was called "Composition - not inheritance - in Backbone". Some friendly folks on Reddit pointed out that what I'm describing is a **mixin** pattern and **not** composition. Somewhere along the line, I got composition confused with mixins - I apologise - so I have rewritten parts of the article to use the correct term. The meaning has not changed, only the term being used. Thanks.
+**EDIT:** When this post was originally written it was mistakenly called "Composition - not inheritance - in Backbone". See the footer for more.
 
 Inheritance is a concept that most software engineers are familiar with: Given a class or object, another object can "inherit" the properties of that class or object and extend them somehow. While this is usually associated with Object-Oriented Programming it's also a feature of JavaScript's prototype system.
 
@@ -128,6 +128,6 @@ Thank you to [Alun](https://twitter.com/4lun), [Jon](https://twitter.com/jonfine
 
 **EDIT 25/05/2015 @ 20:42BST:** Made a note at the top of my mistaken understanding of the difference between mixins and composition. D'oh!
 
-**EDIT 25/05/2015 @ 21:03BST:** Rewrote small sections to properly describe the pattern being used here.
+**EDIT 25/05/2015 @ 21:03BST:** Rewrote small sections to properly describe the pattern being used here. Some friendly folks on Reddit pointed out that what I'm describing is a **mixin** pattern and **not** composition. Somewhere along the line, I got composition confused with mixins - I apologise - so I have rewritten parts of the article to use the correct term. The meaning has not changed, only the term being used. Thanks.
 
 Discuss this on [Hacker News](https://news.ycombinator.com/item?id=9600586) if you like.
