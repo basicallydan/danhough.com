@@ -106,4 +106,4 @@ It took a bit of reading to help me understand how to do the above, some of whic
 * [Direct, unsigned upload to Cloudinary from your browser](http://cloudinary.com/blog/direct_upload_made_easy_from_browser_or_mobile_app_to_the_cloud)
 * [Dropzone Documentation](http://www.dropzonejs.com/)
 
-Thanks for reading! I hope that this has been useful, but if you have any suggestions to improve it please get in touch.
+Thanks for reading! I hope that this has been useful, but if you have any suggestions to improve it please get in touch. Also, thanks to [Alun](https://twitter.com/4lun) for having a read before I published.
