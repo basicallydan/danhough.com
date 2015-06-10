@@ -30,7 +30,6 @@
 		{% if page.thumbnail %}
 		<meta property="og:image" content="{{ page.thumbnail | replace: '!SITE_URL!', site.url }}" />
 		<meta name="twitter:image" content="{{ page.thumbnail | replace: '!SITE_URL!', site.url }}">
-		<meta name="twitter:image:src" content="{{ page.thumbnail | replace: '!SITE_URL!', site.url }}">
 		{% endif %}
 		<meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
 		<link rel="alternate" type="application/atom+xml" title="ATOM Feed for danhough.com" href="/atom.xml" />
