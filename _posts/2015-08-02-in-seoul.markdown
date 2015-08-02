@@ -6,6 +6,7 @@ title: Tokyo and Seoul
 description: From awe and hunger to fatigue and satisfaction. My trip so far: Tokyo and Seoul.
 date_created: 2 August 2015
 thumbnail: "!SITE_URL!/img/tokyo-seoul/thumbnail.png"
+ogthumbnail: "!SITE_URL!/img/tokyo-seoul/og-thumbnail.jpg"
 twitterCardType: summary_large_image
 location: Seoul, South Korea
 comments: false
