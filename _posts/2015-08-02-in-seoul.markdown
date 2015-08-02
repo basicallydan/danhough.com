@@ -13,7 +13,7 @@ At the beginning of a long trip, one of the things I find hardest is figuring ou
 
 After all, one of the benefits of a holiday is that it reminds us of the comforts of day-to-day life. Since [my trip](/travel) started with a "holiday" and has now morphed into "my life in other countries" one obvious way to maintain my sanity is to seek the comfort I left behind in Britain.
 
-My routinised life has started to take shape here in Seoul, and it's only taken a month of mild chaos to get to this point.
+A routine has started to take shape here in Seoul, and it's only taken a month of mild chaos to get to this point.
 
 It began in **Tokyo**, where I landed with three friends, all of us jetlagged from a roughly 12-hour flight across 8 timezones.
 
@@ -21,7 +21,7 @@ It began in **Tokyo**, where I landed with three friends, all of us jetlagged fr
 
 When you first set foot in a strange land, *everything* is exciting. The different styles of interior decorating and the crazy writing on billboards throughout the terminal, the different shops they have and the public transport maps. It's all different!
 
-But our first real "Japanese" experience in Tokyo was a cliché, for a good reason. Desperate for food, we stepped into an automated restaurant. Although the screen was entirely in English, photos were was helped us out here, not knowing yet what we were looking for.
+But our first real "Japanese" experience in Tokyo was a cliché, for a good reason. Desperate for food, we stepped into an automated restaurant. Although we had the option to use the ordering machine entirely in English, the photos helped us out here, not knowing yet what we were looking for.
 
 {% include _figure.html src="/img/tokyo-seoul/automated-restaurant.jpg" caption="Head of the waiting staff" %}
 
@@ -102,3 +102,7 @@ Tomorrow I'm starting a one-month Korean language course at the [Ganada Korean L
 Despite this apparent comfort, I'm determined to keep things weird and do things I couldn't do back home. This is why I'm still looking for interesting meetup groups, going to common tourist sites and popping into random restaurants. This is why I'm often just saying yes to whatever suggestion a stranger will offer.
 
 Now that I'm really here there should be a good couple of months of adventuring to look forward to. I wonder what form it'll take.
+
+---
+
+Thanks for reading! I hope it's as interesting to read about as it is to experience. As I've said before, I'm interested in meeting people along my travels, so if you're in Seoul at the moment or any time before October, let me know and let's hang out. I am, of course, on Kakaotalk as *basicallydan*.
