@@ -1,0 +1,96 @@
+---
+published: true
+layout: post
+tags: [travel,travel-exclusive,trip-2015,tokyo,seoul]
+title: Tokyo and Seoul
+description: About the trip leading to Seoul, and what it's like being here.
+date_created: 2 August 2015
+location: Seoul, South Korea
+comments: false
+---
+
+At the beginning of a long trip, one of the things I find hardest is figuring out when to slow down and take it all in, instead of packing in more activities and looking at old things. When is it a good time to just stop, make no plans for a day and take a break? Furthermore, when is it a good time -- if you're the type of person who enjoys it -- to start getting into a routine?
+
+After all, one of the benefits of a holiday is that it reminds us of the comforts of day-to-day life. Since [my trip](/travel) started with a "holiday" and has now morphed into "my life in other countries" one obvious way to maintain my sanity is to seek the comfort I left behind in Britain.
+
+My routinised life has started to take shape here in Seoul, and it's only taken a month of mild chaos to get to this point.
+
+It began in **Tokyo**, where I landed with three friends, all of us jetlagged from a roughly 12-hour flight across 8 timezones.
+
+## A series of meals
+
+When you first set foot in a strange land, *everything* is exciting. The different styles of interior decorating and the crazy writing on billboards throughout the terminal, the different shops they have and the public transport maps. It's all different!
+
+But our first real "Japanese" experience in Tokyo was a cliché, for a good reason. Desperate for food, we stepped into an automated restaurant. Although the screen was entirely in English, photos were was helped us out here, not knowing yet what we were looking for.
+
+{% include _figure.html src="/img/tokyo-seoul/automated-restaurant.jpg" caption="Head of the waiting staff" %}
+
+Somehow, the food we ordered arrived immediately, and it was delicious. Then again, most food is delicious after a 12-hour flight.
+
+Thus began what I can only describe as a series of meals, padded by things Japanese and Korean activities. Usually, because of the heat, with a smattering of ice coffee at one of the ubiquitous air-conditioned cafés. So much ice coffee.
+
+## Not normal
+
+To me, Japan is somewhat absurd. There exists a stage show which in most other countries would be considered extremely naff, but in Japan it's a must-see. It appears to be low-budget, but is very ambitious and unexpected.
+
+{% include _figure.html src="/img/tokyo-seoul/robot-restaurant.jpg" caption="Me, waiting for the Robot Restaurant show to start. This isn't even the main event." %}
+
+I don't want to ruin it for anybody, so I'll just say that the Robot Restaurant in Shinjuku is really something else. Whatever your idea of what it might be, it's not as good as what you'll get. Just make sure you're alright with loud noises, flashing lights or confusing English translations. Oh, and it's not a restaurant: it's a show.
+
+That's one famous example of something typically unusual to Brits like me. There are so many more. Maid Cafes, automated conveyor belt sushi restaurants, robots *everywhere* and the super-techno toilets. It's enough of a shock to the system that when one stops to reflect on how different it all is, it can be a little overwhelming. One answer to this is to *keep doing things*.
+
+{% include _figure.html src="/img/tokyo-seoul/dmz.jpg" caption="A not-so-rare glimpse into the secretive North Korea; the DMZ's Joint Security Area at Panmunjom" %}
+
+Once we arrived in Korea, it was still weird, but in different ways. Strange live shows, chicken-obsessed restaurants, music and dancing everywhere you look and and overly-enthusiastic nightlife. Not to mention the Demilitarized Zone, where we were surprised at how much access we were given.
+
+Honestly, it's kinda exhausting, but it's fun and par for the course with any holiday. Food, thankfully, was always available for keeping us energised.
+
+## Out every morning, afternoon and night
+
+As anybody who likes to holiday will know, it's far easier to go out to eat than it is to try and cook, in most accommodation situations, anyway.
+
+Japan and Korea are both countries where eating out frequently is normal for travellers and locals alike. Not only are both countries set up well to deal with city workers staying out late, eating with colleagues, having a big night and stumbling into some last-minute accommodation somewhere, but restaurants are comparatively a lot cheaper and less busy than restaurants back home.
+
+It isn't uncommon here in Korea to walk into a restaurant at about 7 or 8pm and find the place near-empty, or staff just sitting around watching TV, waiting for someone to come in. There are restaurants *everywhere*, and both countries utilise every floor of every building for multiple purposes. Whereas in the UK, usually the bottom floor of a typical city building is for shops and restaurants and everything above is for office or residental use, here the case appears to be that a building is either for residental use or commercial use - simple as that. The options are seemingly endless.
+
+## Home cooking
+
+After a while, this can become extremely tiring. It seems like a waste of money, and sometimes it's nice to have a meal back in the comfort of your own home.
+
+Once I found a more permanent, private room to stay in here in Korea, I went shopping for groceries. Now instead of popping to the local convenience store for a Kimbap I have porridge or eggs in the morning. It's just like at home, but with a Korean twist.
+
+## Hobbies, old and new
+
+As I had intended originally, I've managed to find time and places for two existing hobbies - climbing and running. Korea is really, really into hiking, climbing, or really any mountain-centric outdoor activities. In fact, Seoul is surrounded by and contains several mountains. So far I've found both Astroman (in Hongdae, Seoul) and The Ja's Gym (in Gangnam, Seoul) to be really great gyms to go for some decent, challenging bouldering. As well as that, I've found the [Yongsan Kimchi branch of the Hash House Harriers](https://koreahash.wordpress.com/ykh3/) to be a fun and challenging trail running group to join up with.
+
+But apart from that, I've discovered some new hobbies. With all this indoor space both high and low, Korea usually has some kind of service available for whatever it is you wish to do. I decided to learn to drum, after a slightly embarassing but hugely entertaining night playing the drums at a Jazz Bar in Tokyo. Luckily, for only ~£2.50 for an hour, I can go into a sound-proofed room, stick on a YouTube tutorial and start playing the drums at my leisure, without being disturbed.
+
+{% include _figure.html src="/img/tokyo-seoul/drums.jpg" caption="My new creative outlet" %}
+
+Korea's obsession with hiking makes it a very easy activity to take part in, too. There are [great guides online](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_6.jsp?cid=1499394) and outdoor shops a-plenty if you don't have the gear, and everybody from teenagers to octagenarians can be spotted hiking up 850m of mountain, pretty much every day. This isn't something I do a lot in the UK, but I forsee myself doing it a lot here.
+
+{% include _figure.html src="/img/tokyo-seoul/hiking-bukhansan.jpg" caption="A satisfied, sweaty selfie after reaching the 836m peak of baegundae in Bukhansan park" %}
+
+Finally, cinemas in Seoul are everywhere, and show films in Korean and English, so it's not so hard to keep up with the latest blockbusters. So far I've seen both Inside Out (best film of 2015?!) and Mission Impossible: Rogue Nation (most inexplicable near-death experiences of 2015!). Maybe next time I'll go and see the new Korean  drama, [암살 (Assassination)](http://asianwiki.com/Assassination_(Korean_Movie)) and test my listening skills.
+
+## Meeting other foreigners
+
+One of the bigger fears I had about this trip, after the holiday was over was about whether or not I'd find people to hang out with and do stuff with who could speak my language. I've found the Internet to be an invaluable resource in this regard. I met some nice people through the national subreddit, /r/korea. Thankfully, they have a regular meetup group which uses the omnipresent Kakaotalk to communicate and organise events, and if you're just looking for someone to do something with, there's usually someone up for it.
+
+For rock climbing, I used a great website called [Korea on the Rocks](http://koreaontherocks.com) (KOTR) and posted in the forum.
+
+For board games, I found a meetup group on [meetup.com](https://meetup.com) and went along. Meetup.com is a *great* resource for finding people with similar interests to you.
+
+And quite simply, I've just met people out and about in the evenings, whether at bars or in the park. So far, other interlopers in Seoul have been very outgoing, friendly and open to hanging out.
+
+The key thing I've come to realise that most foreigners over here are probably only here temporarily, and many won't have well-established social groups yet. And even if they do, they probably remember what it was like to be new and confused. Because of these factors, I believe that relationships with other foreigners tend to be easier to establish, and by the simple fact that they too have left their home country to do something different, they already share something in common with you.
+
+## Settled, and keeping it weird
+
+I'm finally now starting to feel like I'm no longer on holiday. I feel far from bored, far from the quite restrictive and regimented routine I tend to get into with full-time work, but it's somewhere in between the two feelings. Korea still has an unlimited amount of wonder and surprise to offer me, but some things are starting to feel comfortable and familiar, conversations are starting to feel more realistic and casual acquaintances are becoming friends.
+
+Tomorrow I'm starting a one-month Korean language course at the [Ganada Korean Language Institute](http://www.ganadakorean.com/), with 12 hours a week of immersive Korean speaking, reading and writing in classroom environments. No doubt this will further solidify some routines, but I'm looking forward to that, and I'm looking forward to being able to have more meaningful conversations with Korean people.
+
+Despite this apparent comfort, I'm determined to keep things weird and do things I couldn't do back home. This is why I'm still looking for interesting meetup groups, going to common tourist sites and popping into random restaurants. This is why I'm often just saying yes to whatever suggestion a stranger will offer.
+
+Now that I'm really here there should be a good couple of months of adventuring to look forward to. I wonder what form it'll take.

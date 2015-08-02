@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Tokyo - Seoul - Hanoi, 2015
+title: Tokyo - Seoul - Singapore, 2015
 description: From July 2015 until December 2015 I will be on a nomadic journey through Asia - this is my itinerary.
-lastModified: Thu, 06 Apr 2015 01:50:00 GMT
+lastModified: Thu, 02 August 2015 13:30:00 KST
 thumbnail: "!SITE_URL!/img/asia-travel-card.png"
 twitterCardType: summary_large_image
 ---
 
-# Tokyo -- Seoul -- Hanoi, 2015
+# Tokyo -- Seoul -- Singapore, 2015
 
-Starting in July 2015, I will be taking a journey through Asia. My first stop is **Tokyo, Japan**, and my final destination before home, I expect, will be **Hanoi, Vietnam**. My travels will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train, bus, and tuk-tuk.
+Since July 2015, I've been taking journey through Asia. My first stop was **Tokyo, Japan**, and my final destination before home, I expect, will be **Singapore**. My travels will take me to 9 different countries using at least 5 different modes of transportation: aeroplane, boat, train, bus, and tuk-tuk.
 
 That's the rough plan, anyway. On this page I will keep a high-level intinerary of where I'll be (City, Country) and for how many days, and keep links to related blog posts and other pages.
 
@@ -25,13 +25,35 @@ That's where you, the reader, come in. If you're in any of the places listed in 
 
 <a href="mailto:dan@danhough.com?subject=Nomadic+Journey" class="cta--primary">Get in touch.</a>
 
+## Travel Log
+
+Since the trip is underway, I've been writing about it.
+
+<nav id="latest-travel-articles-navigation" class="nav-list">
+	<ul>
+	{% assign count = 0 %}
+	{% for post in site.posts %}
+		{% if post.tags contains 'travel' %}
+			{% if count < 5 %}
+			{% assign count = count|plus:1 %}
+			<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% else %}
+		{% endif %}
+	{% endfor %}
+	</ul>
+</nav>
+
 ## Itinerary
 
 This is a loose, high-level plan. The destination headings in black are confirmed, meaning I've booked stuff and decided to go for certain. Grey headings still may change, but it's part of my plan and probably likely to happen.
 
-### 2 July 2015: Tokyo, Japan
+<h3 class="completed">2 July 2015: Tokyo, Japan</h3>
 
-This part is more of a holiday with a couple of friends :smile: we won't be here long, sadly, but I will be in the next destination for ages...
+Tokyo, as many will attest, is a world apart from most cities in the Western hemisphere. While there are common elements -- subway systems, department stores, coffee shops, bars, and music -- there's something so *different* about it. 
+<p class="inline-destination-post-list">
+	This difference is a big part of what makes it so interesting at first, but once you dig a little deeper and gain a little understanding, it's even more interesting. Here's some blog posts which touch on Tokyo: {% for post in site.tags.tokyo %}<a class="inline-destination-post-list-item" href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a>{% endfor %}.
+</p>
 
 ### 14 July 2015: Seoul, Korea
 
@@ -43,7 +65,7 @@ I'm planning to do a lot of rock climbing -- mainly bouldering -- while I'm in K
 
 I've been before -- twice -- so I am aware of how much fun this place can be! If you're interested in meeting up, <a href="mailto:dan@danhough.com?subject=Meet+me+in+Seoul">drop me a line</a>.
 
-### 4 October 2015: Beijing, China
+### 6 October 2015: Beijing, China
 
 This is where the travel gets a bit more active. I'll be in Beijing only for 4 days before I head to the next destination, but I've been before. Nevertheless, I'd be keen to meet fellow travellers here, so please <a href="mailto:dan@danhough.com?subject=Meet+me+in+Beijing">email me if you're interested in meeting up</a>.
 
@@ -51,45 +73,37 @@ This is where the travel gets a bit more active. I'll be in Beijing only for 4 d
 
 I'm quite interested in North Korea because it seems more unlike my home country than any other place I've visited. Due to the nature of their Internet access I do not expect anybody reading to be from the DPRK, but anybody else who happens to be taking a trip there at the same time as me, it'd be great to meet! <a href="mailto:dan@danhough.com?subject=Meet+me+in+Pyongyang">Get in touch</a>.
 
-### 13 October 2015: Qingdao, China
+### 13 October 2015: Shanghai, China
 
-This is a convenient place to stop on the way to the next two destinations, and a nice opportunity to visit the [Tsingtao brewery](http://en.wikipedia.org/wiki/Tsingtao_Brewery). Fancy meeting up? <a href="mailto:dan@danhough.com?subject=Meet+me+in+Qingdao">Let's grab a drink</a>.
+The world's largest city proper. I know pretty much nothing about Shanghai, so if you do, I'd love to <a href="mailto:dan@danhough.com?subject=Meet+me+in+Shanghai">hear from you</a>.
 
-### 14 October 2015: Zhangjiajie, China
+### 17 October 2015: Quzhou, China
 
-This is the nature part of my trip! I'm going here to visit the fantastic-looking [Zhangjiajie National Forest Park](http://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park) with its unusual rock formations. Fellow ramblers and rock hunters: <a href="mailto:dan@danhough.com?subject=Meet+me+in+Zhangjiajie">Hit me up</a>.
+Quzhou is probably one of the more obscure destinations on my trip, and it was only by luck of knowing someone doing a photography project there that I turned my gaze there. I'm hanging around there for about 3 days, so if you're in the area, <a href="mailto:dan@danhough.com?subject=Meet+me+in+Quzhou">get in touch</a>.
 
-### 17 October 2015: Shanghai, China
+### 21 October 2015: Zhangjiajie, China
 
-From the scenic tranquility of a rock forest to the world's largest city proper, the two are like yin and yang and I'm sure I'll feel it. I know pretty much nothing about Shanghai, so if you do, I'd love to <a href="mailto:dan@danhough.com?subject=Meet+me+in+Shanghai">hear from you</a>.
+This is very much the nature part of my trip! I'm going here to visit the fantastic-looking [Zhangjiajie National Forest Park](http://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park) with its unusual rock formations. Fellow ramblers and rock hunters: <a href="mailto:dan@danhough.com?subject=Meet+me+in+Zhangjiajie">Hit me up</a>.
 
-### 19 October 2015: Hong Kong
+### 26 October 2015: Hong Kong
 
 This is one of the places that most people rave about when I tell them about my trip. I'm here for just under a week, and I understand there's quite a significant tech community in Hong Kong. If you're part of it, please <a href="mailto:dan@danhough.com?subject=Meet+me+in+Hong+Kong">get in touch</a> and I'll buy you a beer. :smile:
 
-<h3 title="This part of the journey is not yet confirmed" class="unconfirmed">25 October 2015: Bali, Indonesia</h3>
+### 31 November 2015 - 19 December 2015
 
-After 3 weeks of near-non-stop travel, Indonesia is my opportunity to relax a bit for about a month. I'll be here to climb, dive, and maybe do some surfing.
+The next few destinations aren't decided yet and are quite flexible. While I'm interested in meeting up with people in this time, it's going to be harder because travel will be harder to predict. I'll be taking boats, planes, trains, buses and tuk-tuks during this leg of the journey, and I expect it'll be a lot less sitting around with a lot more walking than before. It's going to be very exciting indeed :smile:
 
-At the moment my vague plan is to stay at the Nomad House, but that may change depending on availability.
-
-If you're there, (especially if you're interested in climbing or diving) and you'd like to hang out: <a href="mailto:dan@danhough.com?subject=Meet+me+in+Bali">Get in touch</a>.
-
-<h3 title="This part of the journey is not yet confirmed" class="unconfirmed">22 November 2015: Singapore</h3>
-
-The final destination in my journey before a slightly mad-looking three-week-long trip up to Hanoi. It would be a great place, I think, to meet up with some fellow nomads. <a href="mailto:dan@danhough.com?subject=Meet+me+in+Singapore">Drop me a line</a> if you'd like to meet up.
-
-<h3 title="These plans are not yet confirmed" class="unconfirmed">27 November 2015-19 December 2015</h3>
-
-The next few destinations will be far more manic and probably a little more flexible. While I'm interested in meeting up with people in this time, it's going to be harder because travel will be harder to predict. I'll be taking boats, planes, trains, buses and tuk-tuks during this leg of the journey, and I expect it'll be a lot less sitting around with a lot more walking than before. It's going to be very exciting indeed :smile:
-
-* Ho Chi Minh City, Vietnam
-* Phnom Penh, Cambodia
-* Siem Reap, Cambodia
-* Bangkok, Thailand
+* Hoi An, Vietnam
+* Hanoi, Vietnam
 * Vientiane, Laos
 * Luang Prabang, Laos
-* Hanoi, Vietnam
+* Chiang Mai, Thailand
+* Bangkok, Thailand
+* Ko Chang, Thailand
+* Phnom Penh, Cambodia
+* Siem Reap, Cambodia
+* Ho Chi Minh City, Vietnam
+* Singapore
 
 ## What's next?
 

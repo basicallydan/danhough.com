@@ -5,6 +5,7 @@ title: A trip through Asia in 2015
 date_created: 12 May 2015
 location: London, UK
 comments: false
+tags: [travel,trip-2015]
 description: From July 2015 until December 2015 I will be on a nomadic journey through Asia - read all about my plans here.
 thumbnail: "!SITE_URL!/img/asia-travel-card.png"
 twitterCardType: summary_large_image

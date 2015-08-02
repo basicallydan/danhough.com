@@ -28,19 +28,37 @@ layout: default
 		<nav id="latest-articles-navigation" class="nav-list">
 			<h2>Latest Articles</h2>
 			<ul>
-				<!-- Need to figure out how to limit this -->
-				<li class="post-list-item"><a href="{{ site.posts[0].url }}" title="Published {{ site.posts[0].date | date: "%d %B %Y" }}">{{ site.posts[0].title }}</a></li>
-				<li class="post-list-item"><a href="{{ site.posts[1].url }}" title="Published {{ site.posts[1].date | date: "%d %B %Y" }}">{{ site.posts[1].title }}</a></li>
-				<li class="post-list-item"><a href="{{ site.posts[2].url }}" title="Published {{ site.posts[2].date | date: "%d %B %Y" }}">{{ site.posts[2].title }}</a></li>
-				<li class="post-list-item"><a href="{{ site.posts[3].url }}" title="Published {{ site.posts[3].date | date: "%d %B %Y" }}">{{ site.posts[3].title }}</a></li>
-				<li class="post-list-item"><a href="{{ site.posts[4].url }}" title="Published {{ site.posts[4].date | date: "%d %B %Y" }}">{{ site.posts[4].title }}</a></li>
-				<li class="post-list-item nav-item--all"><a href="/blog" title="The entire archive of blog posts">See them all&hellip;</a></li>
+			{% assign count = 0 %}
+			{% for post in site.posts %}
+				{% if post.tags contains 'travel-exclusive' %}
+				{% else %}
+					{% if count < 5 %}
+					{% assign count = count|plus:1 %}
+					<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
 			</ul>
 		</nav>
 		<form action="//danhough.us8.list-manage.com/subscribe/post?u=fb767a2592dd6490ca38c324b&amp;id=2e88f8cc04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate one-line-form small" target="_blank" novalidate>
 			<input placeholder="you@domain.com" type="email" value="" name="EMAIL" class="required email" data-segment='{ "name" : "Subscribe Input Clicked", "location" : "Post: {{ page.title }}" }' id="mce-EMAIL">
 			<input class="submit-email fa-button cta--secondary square-padding" type="submit" value="Subscribe." data-segment='{ "name" : "Subscribe CTA Clicked", "location" : "Post: {{ page.title }}" }'>
 		</form>
+		<nav id="latest-travel-articles-navigation" class="nav-list">
+			<h2>Latest Travel Articles</h2>
+			<ul>
+			{% assign count = 0 %}
+			{% for post in site.posts %}
+				{% if post.tags contains 'travel' %}
+					{% if count < 5 %}
+					{% assign count = count|plus:1 %}
+					<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% else %}
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</nav>
 		<nav id="speaking-navigation" class="nav-list">
 			<h2>Talks</h2>
 			<ul>
