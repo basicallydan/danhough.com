@@ -5,6 +5,8 @@ tags: [travel,travel-exclusive,trip-2015,tokyo,seoul]
 title: Tokyo and Seoul
 description: About the trip leading to Seoul, and what it's like being here.
 date_created: 2 August 2015
+thumbnail: "!SITE_URL!/img/tokyo-seoul/thumbnail.png"
+twitterCardType: summary_large_image
 location: Seoul, South Korea
 comments: false
 ---
