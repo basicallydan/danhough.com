@@ -31,7 +31,7 @@ Thus began what I can only describe as a series of meals, padded by things Japan
 
 ## Not normal
 
-To me, Japan is somewhat absurd. There exists a stage show which in most other countries would be considered extremely naff, but in Japan it's a must-see. It appears to be low-budget, but is very ambitious and unexpected.
+To me, Japan is somewhat absurd. There exists a stage show which in most other countries would be considered extremely naff, but in Japan it's a must-see. At times it seems low-budget, but is actually very ambitious and unexpected.
 
 {% include _figure.html src="/img/tokyo-seoul/robot-restaurant.jpg" caption="Me, waiting for the Robot Restaurant show to start. This isn't even the main event." %}
 
@@ -53,9 +53,17 @@ Japan and Korea are both countries where eating out frequently is normal for tra
 
 It isn't uncommon here in Korea to walk into a restaurant at about 7 or 8pm and find the place near-empty, or staff just sitting around watching TV, waiting for someone to come in. There are restaurants *everywhere*, and both countries utilise every floor of every building for multiple purposes. Whereas in the UK, usually the bottom floor of a typical city building is for shops and restaurants and everything above is for office or residental use, here the case appears to be that a building is either for residental use or commercial use - simple as that. The options are seemingly endless.
 
+## Holiday fatigue
+
+All of this eventually comes to a head when you realise that your feet are permanently sore, your diet is affecting your mood and all the temples and palaces start to blur into a single, amorphous blob of stone, peaked roofs and Buddha statues.
+
+{% include _figure.html src="/img/tokyo-seoul/cooking-bbq.jpg" caption="Possibly the last moment before holiday fatigue set in with (from left to right) Jon, Rich and Alun" %}
+
+There's no shame to this feeling after a while, and I think it's a natural progression from zealous sightseeing and over-eating to sitting in a coffee shop for 50% of your day to check up on what's going on back home. However, for those of us staying on the trail, there are better solutions. It starts with finding less-temporary accommodation.
+
 ## Home cooking
 
-After a while, this can become extremely tiring. It seems like a waste of money, and sometimes it's nice to have a meal back in the comfort of your own home.
+Eating out starts to seem like a waste of money, and sometimes it's nice to have a meal back in the comfort of your own home.
 
 Once I found a more permanent, private room to stay in here in Korea, I went shopping for groceries. Now instead of popping to the local convenience store for a Kimbap I have porridge or eggs in the morning. It's just like at home, but with a Korean twist.
 
@@ -69,7 +77,7 @@ But apart from that, I've discovered some new hobbies. With all this indoor spac
 
 Korea's obsession with hiking makes it a very easy activity to take part in, too. There are [great guides online](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_6.jsp?cid=1499394) and outdoor shops a-plenty if you don't have the gear, and everybody from teenagers to octagenarians can be spotted hiking up 850m of mountain, pretty much every day. This isn't something I do a lot in the UK, but I forsee myself doing it a lot here.
 
-{% include _figure.html src="/img/tokyo-seoul/hiking-bukhansan.jpg" caption="A satisfied, sweaty selfie after reaching the 836m peak of baegundae in Bukhansan park" %}
+{% include _figure.html src="/img/tokyo-seoul/hiking-bukhansan.jpg" caption="A satisfied, sweaty selfie after reaching the 836m peak of baegundae in Bukhansan park. (My friend Rich in the background)" %}
 
 Finally, cinemas in Seoul are everywhere, and show films in Korean and English, so it's not so hard to keep up with the latest blockbusters. So far I've seen both Inside Out (best film of 2015?!) and Mission Impossible: Rogue Nation (most inexplicable near-death experiences of 2015!). Maybe next time I'll go and see the new Korean  drama, [암살 (Assassination)](http://asianwiki.com/Assassination_(Korean_Movie)) and test my listening skills.
 
