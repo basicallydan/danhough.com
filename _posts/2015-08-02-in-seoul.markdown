@@ -3,7 +3,7 @@ published: true
 layout: post
 tags: [travel,travel-exclusive,trip-2015,tokyo,seoul]
 title: Tokyo and Seoul
-description: About the trip leading to Seoul, and what it's like being here.
+description: From awe and hunger to fatigue and satisfaction. My trip so far: Tokyo and Seoul.
 date_created: 2 August 2015
 thumbnail: "!SITE_URL!/img/tokyo-seoul/thumbnail.png"
 twitterCardType: summary_large_image
