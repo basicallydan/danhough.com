@@ -50,24 +50,26 @@ This is a loose, high-level plan. The destination headings in black are confirme
 
 <h3 class="completed">2 July 2015: Tokyo, Japan</h3>
 
-Tokyo, as many will attest, is a world apart from most cities in the Western hemisphere. While there are common elements -- subway systems, department stores, coffee shops, bars, and music -- there's something so *different* about it. 
+Tokyo, as many will attest, is a world apart from most cities in the Western hemisphere. While there are common elements -- subway systems, department stores, coffee shops, bars, and music -- there's something so *different* about it.
 <p class="inline-destination-post-list">
 	This difference is a big part of what makes it so interesting at first, but once you dig a little deeper and gain a little understanding, it's even more interesting. Here's some blog posts which touch on Tokyo: {% for post in site.tags.tokyo %}<a class="inline-destination-post-list-item" href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a>{% endfor %}.
 </p>
 
 ### 14 July 2015: Seoul, Korea
 
-My friends will be joining me here for a week, before they head home. I'll be staying. I'm still looking for accommodation, so please get in touch if you have any ideas.
+This is where I'm be staying for the longest time: **82 days**, just over a week short of what the Visa waiver allows for British Citizens. I'm quite keen to make some friends here and get to know fellow travellers, people in tech, and anybody else with whom I might get on well :smile:
 
-This is where I'll be staying for the longest time: **82 days**, just over a week short of what the Visa waiver allows for British Citizens. I'm quite keen to make some friends here and get to know fellow travellers, people in tech, and anybody else with whom I might get on well :smile:
+I'm doing a lot of rock climbing here -- mainly bouldering -- while I'm in Korea, with the help of [Korea on the Rocks](http://www.koreaontherocks.com/). If you're into that stuff, I want to hear from you.
 
-I'm planning to do a lot of rock climbing -- mainly bouldering -- while I'm in Korea, with the help of [Korea on the Rocks](http://www.koreaontherocks.com/). If you're into that stuff, I want to hear from you.
+<p class="inline-destination-post-list">
+	Like Japan, this is a far cry from the UK, culturally -- in a different way though.. Here's some blog posts which touch on Seoul: {% for post in site.tags.seoul %}<a class="inline-destination-post-list-item" href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a>{% endfor %}.
+</p>
 
-I've been before -- twice -- so I am aware of how much fun this place can be! If you're interested in meeting up, <a href="mailto:dan@danhough.com?subject=Meet+me+in+Seoul">drop me a line</a>.
+I've been before -- twice -- so I came with complete awareness of how much fun it can be! If you're interested in meeting up, <a href="mailto:dan@danhough.com?subject=Meet+me+in+Seoul">drop me a line</a>.
 
 ### 6 October 2015: Beijing, China
 
-This is where the travel gets a bit more active. I'll be in Beijing only for 4 days before I head to the next destination, but I've been before. Nevertheless, I'd be keen to meet fellow travellers here, so please <a href="mailto:dan@danhough.com?subject=Meet+me+in+Beijing">email me if you're interested in meeting up</a>.
+This is where the travel gets a bit more active. I'll be in Beijing only for 2 days before I head to the next destination, but I've been before. Nevertheless, I'd be keen to meet fellow travellers here, so please <a href="mailto:dan@danhough.com?subject=Meet+me+in+Beijing">email me if you're interested in meeting up</a>.
 
 ### 8 October 2015: Pyongyang, DPRK (North Korea)
 
