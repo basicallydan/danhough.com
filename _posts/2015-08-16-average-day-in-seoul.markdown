@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags: [travel,travel-exclusive,trip-2015,tokyo,seoul]
+tags: [travel,travel-exclusive,trip-2015,seoul]
 title: A day in the life of an interloper in Seoul
 description: It's not the amazing and wonderful experience I expected. It's a totally different, much better, amazing and wonderful experience of which I couldn't even conceive.
 date_created: 16 August 2015
