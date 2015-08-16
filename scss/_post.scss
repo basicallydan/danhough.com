@@ -1,5 +1,6 @@
 .article {
 	&-content p,
+	&-content section,
 	&-content header,
 	&-content ul,
 	&-content h1,
@@ -40,6 +41,34 @@
 			figcaption {
 				text-align: center;
 				font-size:$small-font-size;
+			}
+		}
+
+		.pull-right {
+			float:right;
+			margin:$standard-margin -15% $standard-margin $standard-margin;
+			@media (max-width: 960px) {
+				margin:$standard-margin 0 $standard-margin $standard-margin;
+			}
+		}
+
+		.pull-left {
+			float:left;
+			margin:$standard-margin $standard-margin $standard-margin 15%;
+			@media (max-width: 960px) {
+				margin:$standard-margin $standard-margin $standard-margin 0;
+			}
+		}
+
+		.pull-right,.pull-left {
+			max-width:$max-pull-out-width;
+			font-size:$small-font-size;
+			color:$grey;
+
+			h3 {
+				border-bottom:1px solid $grey;
+				margin-bottom:$small-margin;
+				padding-bottom:$small-margin;
 			}
 		}
 
