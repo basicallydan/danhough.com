@@ -32,7 +32,7 @@ Korea seems to have a curious obsession with France. Many of the most ubiqutious
 
 ## Roll With It
 
-Another important part of my daily routine is the daily *Oasis* listening session, which normally happens after I've finished my homework.
+Another important part of my routine is the daily *Oasis* listening session, which normally happens after I've finished my homework.
 
 Your average Korean shop, café, restaurant or bouldering gym will play three songs from *(What's the Story) Morning Glory?* in immediate succession. 100% of the time this mini-playlist will include *Wonderwall*, and then usually *Don't Look Back in Anger* and *She's Electric*. Sometimes, to mix it up, *Roll With It* makes an appearance. Sometimes twice.
 
@@ -50,15 +50,15 @@ My favourite lunchtime food, which I do genuinely eat almost every day, is Kimba
 
 {% include _figure.html src="/img/interloper/kimbap.jpg" caption="Kimbap: The Korean Sandwich" %}
 
-It's also very affordable. The cheapest kimbap I've eaten cost me 1,500 won -- about 80p -- and it was freshly made. The most expensive one was 4,000 won, about £2.20. Plus, at a kimbap restaurant you'll normally get side dishes for free, such as kimchi, pickled radish and soup. When I get kimbap, I never leave hungry and I never leave poor.
+It's also very affordable. The cheapest kimbap I've eaten cost me 1,500 won -- about 80p -- and it was freshly made. The most expensive one was 4,000 won, about £2.40. Plus, at a kimbap restaurant you'll normally get side dishes for free, such as kimchi, pickled radish and soup. When I get kimbap, I never leave hungry and I never leave poor.
 
 ---
 
 Next, I either spend my afternoon recording a new video about Korea for YouTube, blogging, doing a little bit of sightseeing, or -- my new favourite activity -- drumming.
 
-{% include _pull-right.html title="Look up" paragraph="Seoul is full of music practice rooms, usually in basements or on upper floors of buildings. Especially in Hongdae, live music is a really big deal both on the streets (buskers are common, unlicenced, legal and generally high-quality) and in live music clubs." text="One of the most striking features newcomers  entire buildings in Korea are used by shops and restaurants rather than just the bottom floors. Mixed-use in Korean means <em>really</em> mixed-use." %}
+{% include _pull-right.html title="Look up" paragraph="Seoul is full of music practice rooms, usually in basements or on upper floors of buildings. Especially in Hongdae, live music is a really big deal both on the streets (buskers are common, unlicenced, legal and generally high-quality) and in live music clubs." text="One of the most striking features to newcomers is that entire buildings in Korea are used by shops and restaurants rather than just the bottom floors. Mixed-use in Korea means <em>really</em> mixed-use." %}
 
-They're pretty simple to use: walk in, tell them what you wanna play and for how long ("1 hour of drumming please") and they'll charge you a reasonable-sounding price. I spend about 5,000 won each time to play the drums for an hour: enough time to follow a few YouTube tutorials or play along to *Don't Look Back in Anger*. I'm holding out for a local band to hear me through the door one day and invite me to busk with them.
+They're pretty simple to use: walk in, tell them what you wanna play and for how long ("1 hour of drumming please") and they'll charge you a reasonable price. I spend about 5,000 won (£2.70) each time to play the drums for an hour: enough time to follow a few YouTube tutorials or play along to *Don't Look Back in Anger*. I'm holding out for a local band to hear me through the door one day and invite me to busk with them.
 
 ## Still hungry?
 
@@ -80,5 +80,5 @@ Sometimes that "hunkering down" turns into something sociable. Remember: if you 
 
 Friends and family back home often ask me, "Dan, what's an average day for you in Korea?" It may sound a little far-fetched that I pack all this stuff into a single day when back home an average day consisted only of work, food and exercise.
 
-It's no lie, though. When you're unemployed, on the road, without many responsibilities and without much direction, more things just seem to happen. The scope of daily activities widens, and just like so much in life, it's not the amazing and wonderful experience that you expected: it's a totally different, much better, amazing and wonderful experience of which you couldn't even conceive.
+It's no lie, though. When you're unemployed, on the road, without many responsibilities and without much direction, more things just seem to happen. The scope of daily activities widens. Just like so much in life, it's not the amazing and wonderful experience that you expected: it's a totally different, much better, amazing and wonderful experience of which you couldn't even conceive.
 
