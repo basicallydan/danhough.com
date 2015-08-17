@@ -4,7 +4,7 @@ layout: post
 tags: [travel,travel-exclusive,trip-2015,seoul]
 title: A day in the life of an interloper in Seoul
 description: It's not the amazing and wonderful experience I expected. It's a totally different, much better, amazing and wonderful experience of which I couldn't even conceive.
-date_created: 16 August 2015
+date_created: 17 August 2015
 thumbnail: "!SITE_URL!/img/interloper/average-day-seoul-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/interloper/average-day-seoul-thumbnail-og.png"
 twitterCardType: summary_large_image
@@ -18,17 +18,17 @@ Service accurately represents the general attitude I've received from Koreans si
 
 This sort of thing happens to me every other day in Seoul. The service thing, I mean. Not the handsome thing. Wear a smile on your face, look people in the eye when you speak to them and try your darndest to speak their language and they'll move mountains to make you feel comfortable.
 
-## Coffee Shop Lifestyle
+## Wake up and smell the coffee
 
 You don't normally go to cafés to get free wine, though. The reason I go is usually pretty straightforward: air conditioning. Late July to mid August turns Korea into a sauna, so café trips are inevitable and frequent.
 
+My first activity each morning is Korean class (it's going well, by the way) at the Ganada (가나다) Korean Academy. After three hours there, I head to the nearest café, Café Moin (also in Hongdae). By now, they've gotten to know me a little bit and have decided that I need to learn how to say "big size" when referring to the amount of Ice Coffee I'd like to drink. I still forget, every single time, so I just say, "big-uh sy-juh" (say it out loud and you'll see what it means ;)
+
 {% include _figure.html src="/img/interloper/coffee-shop.jpg" caption="A typical Korean coffee shop" %}
 
-Every morning, after Korean class (it's going well, by the way) at the Ganada (가나다) Korean Academy, I head to the nearest café, Café Moin (also in Hongdae). By now, they've gotten to know me a little bit and have decided that I need to learn how to say "large" when referring to the amount of Ice Coffee I'd like to drink. I still forget, every single time, so I just say, "big-eu si-ju".
+Anyway, I sit down to do my homework, sometimes surrounded by other language students. Often they're Koreans learning how to speak French, aided by a French-speaking expat.
 
-Anyway, I then sit down to do my homework, sometimes surrounded by other language students. Often they're Koreans learning how to speak French, aided by a French-speaking expat.
-
-Korea seems to have a curious obsession with France. Many of the most ubiqutious café chains have French names, and serve snacks based on French pastries (usually with a Korean twist, such as red bean paste filling). Paris Baguette and France Baguette are the two most French-sounding ones, but you'll see French words all over the place.
+Korea seems to have a curious obsession with France. Many of the most ubiquitous café chains have French names, and serve snacks based on French pastries (usually with a Korean twist, such as red bean paste filling). *Paris Baguette*, *Tous Les Jours* and *France Baguette* are the two most French-sounding ones, but you'll see French words all over the place.
 
 ## Roll With It
 
@@ -70,9 +70,11 @@ One dinnertime meal I've really enjoyed is Donkatsu, an adaptation of the Japane
 
 ## The night is young. More coffee?
 
-To end my day, either I'll find something sociable to do or hunker down--as I did to start the writing of this blog post--in a convenient, late-night coffee shop with reliable wifi. I order an tasty-sounding drink such as *Mango Yoghurt Blend* and get to work on one of my side projects, such as [Interfake](https://github.com/basicallydan/interfake), [Forkability](https://github.com/basicallydan/forkability), [Pub Crawl: London](http://www.pubcrawlapp.co.uk) or this very blog.
+To end my day, either I'll find something sociable to do or hunker down--as I did to start the writing of this blog post--in a convenient, late-night coffee shop with reliable wifi. I order a tasty-sounding drink such as *Mango Yoghurt Blend* and get to work on one of my side projects, such as [Interfake](https://github.com/basicallydan/interfake), [Forkability](https://github.com/basicallydan/forkability), [Pub Crawl: London](http://www.pubcrawlapp.co.uk) or this very blog.
 
-Sometimes that "hunkering down" turns into something sociable. Remember: if you wear a smile on your face, look people in the eye and try to speak their language they'll move mountains to make you feel comfortable. That's exactly what happened last night at Object Café. What began as a quiet evening of writing turned into an evening of laughter, music and cultural exchange.
+Despite my best efforts to be as boring as possible, that "hunkering down" sometimes turns into something sociable. Remember: if you wear a smile on your face, look people in the eye and try to speak their language they'll move mountains to make you feel comfortable. That's exactly what happened that evening at Object Café. You see, I had to pause the writing of this article in order to pay more attention to the conversations happening around me.
+
+What began as a quiet evening of writing turned into an evening of laughter, music and cultural exchange. Fun, memorable and unexpected. Routine be damned!
 
 {% include _figure.html src="/img/interloper/object-cafe.jpg" caption="The crowd at Object Cafe" %}
 
@@ -80,5 +82,5 @@ Sometimes that "hunkering down" turns into something sociable. Remember: if you 
 
 Friends and family back home often ask me, "Dan, what's an average day for you in Korea?" It may sound a little far-fetched that I pack all this stuff into a single day when back home an average day consisted only of work, food and exercise.
 
-It's no lie, though. When you're unemployed, on the road, without many responsibilities and without much direction, more things just seem to happen. The scope of daily activities widens. Just like so much in life, it's not the amazing and wonderful experience that you expected: it's a totally different, much better, amazing and wonderful experience of which you couldn't even conceive.
+It's no lie, though. When you're unemployed, on the road, without many responsibilities and without much direction, more things just seem to happen whether you plan for them or not. The scope of daily activities widens. Just like so much in life, it's not the amazing and wonderful experience that you expected: it's a totally different, much better, amazing and wonderful experience of which you couldn't even conceive.
 
