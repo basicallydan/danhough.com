@@ -84,3 +84,6 @@ Friends and family back home often ask me, "Dan, what's an average day for you i
 
 It's no lie, though. When you're unemployed, on the road, without many responsibilities and without much direction, more things just seem to happen whether you plan for them or not. The scope of daily activities widens. Just like so much in life, it's not the amazing and wonderful experience that you expected: it's a totally different, much better, amazing and wonderful experience of which you couldn't even conceive.
 
+---
+
+This article was read & critiqued by Tom and [Karen](https://karensdestinationunknown.wordpress.com). I thank you both for your time and patience!
