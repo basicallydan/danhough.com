@@ -3,7 +3,7 @@ published: true
 layout: post
 tags: [travel,travel-exclusive,trip-2015,seoul]
 title: A day in the life of an interloper in Seoul
-description: It's not the amazing and wonderful experience I expected. It's a totally different, much better, amazing and wonderful experience of which I couldn't even conceive.
+description: It's not the amazing and wonderful experience I expected. It's a totally different, more amazing and wonderful experience the likes of which I couldn't even conceive.
 date_created: 17 August 2015
 thumbnail: "!SITE_URL!/img/interloper/average-day-seoul-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/interloper/average-day-seoul-thumbnail-og.png"
@@ -22,7 +22,7 @@ This sort of thing happens to me every other day in Seoul. The service thing, I 
 
 You don't normally go to cafés to get free wine, though. The reason I go is usually pretty straightforward: air conditioning. Late July to mid August turns Korea into a sauna, so café trips are inevitable and frequent.
 
-My first activity each morning is Korean class (it's going well, by the way) at the Ganada (가나다) Korean Academy. After three hours there, I head to the nearest café, Café Moin (also in Hongdae). By now, they've gotten to know me a little bit and have decided that I need to learn how to say "big size" when referring to the amount of Ice Coffee I'd like to drink. I still forget, every single time, so I just say, "big-uh sy-juh" (say it out loud and you'll see what it means).
+My first activity each morning is Korean class (it's going well, by the way) at the Ganada (가나다) Korean Academy. After three hours there, I head to the nearest café, Café Moin (also in Hongdae). By now, they've gotten to know me a little bit and have decided that I need to learn how to say "big size" when referring to the amount of ice coffee I'd like to drink. I still forget, every single time, so I just say, "big-uh sy-juh" (say it out loud and you'll see what it means).
 
 {% include _figure.html src="/img/interloper/coffee-shop.jpg" caption="A typical Korean coffee shop" %}
 
@@ -40,11 +40,11 @@ This normally takes place after homework because that's when I visit my nearest 
 
 {% include _figure.html src="/img/interloper/astroman.png" caption="That football-shaped handhold at Astroman is pretty tricky." %}
 
-There aren't many other westerners who visit Astroman, but this means if I want any kind of interaction while I'm there I'm forced to step outside of my comfort zone and speak to a Korean person in their own language, which can be pretty terrifying. I know a little bit of Korean, so I think speaking is scarier in case I give the inaccurate impression that I can speak it quite well. I have to try though: why else would I learn except in order to speak to Koreans?
+There aren't many other westerners who visit Astroman, but this means if I want any kind of interaction while I'm there I'm forced to step outside of my comfort zone and speak to a Korean person in their own language, which can be pretty terrifying. I know a little bit of Korean, so it's scary because I might give the inaccurate impression that I can speak it quite well. I have to try though: why else would I learn except in order to speak to Koreans?
 
 ## Have you eaten?
 
-I should mention lunch. Something you learn pretty quickly after landing in Korea is that food is very important to people here. I'm not talking the normal, "I need it to survive" kind of important, this is a whole other level. Not only do Koreans eat way more food in a single meal than most British people, there's an actual greeting in Korea which translates to "Have you eaten?"
+I should mention lunch. Something you learn pretty quickly after landing in Korea is that food is very important to people here. I'm not talking the normal, "I need it to survive" kind of important; this is a whole other level. Not only do Koreans eat way more food in a single meal than most British people, there's an actual greeting in Korea which translates to "Have you eaten?"
 
 My favourite lunchtime food, which I do genuinely eat almost every day, is Kimbap. The word "Kimbap" is a combination of the word for "seaweed" (kim) and "rice" (bap). If that sounds like a sushi roll to you, then you're not far off - but it's not a sushi roll. First off, kimbap is usually bigger; about 5x larger than a sushi roll. Secondly, the non-rice kimbap fillings vary wildly. Ham, vegetables, pork, spam, egg... anything goes, really. This is why it's often called the "Korean sandwich".
 
@@ -82,8 +82,8 @@ What began as a quiet evening of writing turned into an evening of laughter, mus
 
 Friends and family back home often ask me, "Dan, what's an average day for you in Korea?" It may sound a little far-fetched that I pack all this stuff into a single day when back home an average day consisted only of work, food and exercise.
 
-It's no lie, though. When you're unemployed, on the road, without many responsibilities and without much direction, more things just seem to happen whether you plan for them or not. The scope of daily activities widens. Just like so much in life, it's not the amazing and wonderful experience that you expected: it's a totally different, much better, amazing and wonderful experience of which you couldn't even conceive.
+It's no lie, though. When you're unemployed, on the road, without many responsibilities and without much direction, more things just seem to happen whether you plan for them or not. The scope of daily activities widens. Just like so much in life, it's not the amazing and wonderful experience that you expected: it's a totally different, more amazing and wonderful experience the likes of which you couldn't even conceive.
 
 ---
 
-This article was read & critiqued by [Danny](https://twitter.com/da5nsy), Tom, [Karen](https://karensdestinationunknown.wordpress.com) and my dear ma. I thank you all for your time, patience and suggestions!
+This article was read & critiqued by [Elli](https://twitter.com/elli_thomas), [Danny](https://twitter.com/da5nsy), Tom, [Karen](https://karensdestinationunknown.wordpress.com) and my dear ma. I thank you all for your time, patience and suggestions!
