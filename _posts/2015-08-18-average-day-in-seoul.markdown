@@ -4,7 +4,7 @@ layout: post
 tags: [travel,travel-exclusive,trip-2015,seoul]
 title: A day in the life of an interloper in Seoul
 description: It's not the amazing and wonderful experience I expected. It's a totally different, more amazing and wonderful experience the likes of which I couldn't even conceive.
-date_created: 17 August 2015
+date_created: 18 August 2015
 thumbnail: "!SITE_URL!/img/interloper/average-day-seoul-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/interloper/average-day-seoul-thumbnail-og.png"
 twitterCardType: summary_large_image
