@@ -93,6 +93,11 @@
 		font-size:$small-font-size;
 		margin-top:0;
 		margin-bottom:$standard-margin;
+
+		&-reading-time {
+			color:$lighter-grey;
+			font-size:$smaller-font-size;
+		}
 	}
 
 	h1 + .meta, h2 + .meta {

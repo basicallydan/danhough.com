@@ -10,6 +10,7 @@ ogthumbnail: "!SITE_URL!/img/interloper/average-day-seoul-thumbnail-og.png"
 twitterCardType: summary_large_image
 location: Seoul, South Korea
 comments: false
+time_to_read_estimate: 6
 ---
 
 Every now and then, in a cafe, bar or shop, a friendly-looking worker will bring you something you didn't order, and mention something about "soh-biss-eu". What they're actually saying is "service", which is Korean for "It's free. Just for you. Nobody else. No, this isn't a promotion."
