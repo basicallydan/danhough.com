@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: How Forkable is your repository?
+title: How forkable is your repository?
 date_created: 1 September 2015
 location: Jeju-do, South Korea
 comments: false
@@ -41,7 +41,7 @@ Forkability has language-specific feature rules and it's pretty easy to extend i
 
 As another example, C# projects normally have a `.proj` file, or some other project file. Forkability will point out if you've forgotten to commit it.
 
-There are more rules in place for both of these languages, but Python and Perl are also supported at the moment. More languages or platforms can be supported with your help!
+There are more rules in place for both of these languages, but Python and Perl are also supported at the moment. More languages or platforms can be supported with your help.
 
 ### Goals of the project
 
@@ -54,10 +54,10 @@ One of the things I like in a open-source repository is a description of the lon
 
 ### How to get involved
 
-Forkability is extremely open to suggestions. It's still a fairly new project, and only four language-specific rulesets are currently in place. If you're quite familiar with a language or platform, you might want to either [open an issue](https://github.com/basicallydan/forkability/issues) or fork the repository to add advanced support for your chosen platform.
+Forkability is extremely open to suggestions, and already has a few contributors. In fact, one enthusiastic contributor, [@m-zuber](https://github.com/m-zuber), recently became an official project contributor.
 
-Also, it'd be helpful to the project if you could spread the word by putting a pass badge on your repo (only after you've earned it, of course!) or telling your friends about it, on Twitter for example. The more people get involved the better chance we'll have of making it an even more useful tool.
+However, it's still a fairly new project, and only four language-specific rulesets are currently in place. If you're quite familiar with a language or platform, you might want to either [open an issue](https://github.com/basicallydan/forkability/issues) or fork the repository to add advanced support for your chosen platform.
 
-<a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&amp;ref_src=twsrc%5Etfw&amp;text=Think%20your%20repo%20is%20inviting%20to%20potential%20contributors%3F%20Find%20out%20with%20%40forkability%3A&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fbasicallydan.github.io%2Fforkability&amp;via=basicallydan" class="cta--tweet">Tweet about Forkability</a>
+Also, it'd be helpful to the project if you could spread the word by putting a "pass" badge on your repo (only after you've earned it, of course!) or telling your friends and colleagues about it, [on Twitter for example](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&ref_src=twsrc%5Etfw&text=Think%20your%20repo%20is%20inviting%20to%20potential%20contributors%3F%20Find%20out%20with%20%40forkability%3A&tw_p=tweetbutton&url=https%3A%2F%2Fbasicallydan.github.io%2Fforkability&via=basicallydan). The more people get involved the better chance we'll have of making it an even more useful tool.
 
 At any rate, <a href="https://basicallydan.github.com/forkability">give it a go on your own repository</a> and get in touch with <a href="https://twitter.com/basicallydan">me on Twitter</a>, or <a href="https://twitter.com/forkability">@forkability</a>.
