@@ -27,6 +27,8 @@ There are 50 unanswered issues. Some of them are about your bug or feature from 
 
 **Forkability is a JavaScript library, command line application and web application which will read your repository details and make suggestions for ways to make it more "forkable"**. In other words, it indicates how easily newcomers can contribute to the repo. The best way to try it right now is to **visit the [web application](https://basicallydan.github.io/forkability/) and enter your repository details**.
 
+<a href="https://basicallydan.github.io/forkability/" class="cta--primary" data-segment='{ "name" : "Forkability CTA Clicked", "location" : "Post: {{ page.title }}" }'>Already convinced? Try Forkability now.</a>
+
 It'll suggest to you files that you should or shouldn't have in the repository, it'll point out when there are a few issues or pull requests which haven't yet been addressed, and whether the repo is making use of git tags or not (a very useful way to mark versions).
 
 It's also installable as a command-line app if you have NodeJS installed, using `npm install forkability -g` so that you can use the `forkability` command-line application. Or type `npm install forkability --save` to use it in your JavaScript package/application. It works just fine both in NodeJS or in a browser.
