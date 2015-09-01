@@ -216,6 +216,13 @@ a:link.cta, a:visited.cta, .cta {
 		border:1px solid $lighter-grey;
 	}
 
+	&--tweet {
+		@extend .cta;
+		color:$white;
+		background:$twitter-blue;
+		border:none;
+	}
+
 	&.square-padding {
 		padding:$standard-margin $standard-margin;
 	}
