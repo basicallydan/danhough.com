@@ -35,3 +35,15 @@ I'm fairly sure this book is largely responsible for popularising many of the pr
 ## Batman: The Dark Knight Returns
 
 We all know the dark Batman stories of the silver screen, but this Frank Miller take on the Dark Knight takes it to a whole new level. In this story (which provides the basis Batman vs. Superman: Dawn of Justice) we follow an old, bored Bruce Wayne as he takes up the job he retired from years ago. Chilling stuff!
+
+## The Man with the Golden Gun by Ian Fleming
+
+## Octopussy and the Living Daylights by Ian Fleming
+
+## Gulliver's Travels by Jonathan Swift
+
+## A Kim Jong-Il Production by Paul Fischer
+
+## Dear Leader by Jang Jin-Sung
+
+## Good Omens by Terry Pratchett & Neil Gaiman
