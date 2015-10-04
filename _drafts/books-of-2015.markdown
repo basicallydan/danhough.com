@@ -1,3 +1,12 @@
+---
+layout: post
+title: The Books I Read in 2015
+date_created: 31 December 2015
+location: ??
+description: The books I read in 2015 with short reviews/synopses.
+thumbnail: THUMBNAIL FROM AMAZON HERE
+---
+
 ## Kingsman
 
 ## Choose Yourself by James Altucher
