@@ -1,3 +1,13 @@
 .unconfirmed {
 	color:$lighter-grey;
 }
+
+.inline-destination-post-list-item {
+	&:after {
+		content:", ";
+
+		&:last-of-type {
+			content:"";
+		}
+	}
+}

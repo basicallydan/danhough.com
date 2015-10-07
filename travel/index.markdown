@@ -51,51 +51,57 @@ This is a loose, high-level plan. The destination headings in black are confirme
 <h3 class="completed">2 July 2015: Tokyo, Japan</h3>
 
 Tokyo, as many will attest, is a world apart from most cities in the Western hemisphere. While there are common elements -- subway systems, department stores, coffee shops, bars, and music -- there's something so *different* about it.
+
 <p class="inline-destination-post-list">
-	This difference is a big part of what makes it so interesting at first, but once you dig a little deeper and gain a little understanding, it's even more interesting. Here's some blog posts which touch on Tokyo: {% for post in site.tags.tokyo %}<a class="inline-destination-post-list-item" href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a>{% endfor %}.
+	This difference is a big part of what makes it so interesting at first, but once you dig a little deeper and gain a little understanding, it's even more interesting. Here's some blog posts which touch on Tokyo:
+	<nav id="latest-travel-articles-navigation" class="nav-list">
+		<ul>
+		{% for post in site.tags.tokyo %}
+			<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</nav>
 </p>
 
 ### 14 July 2015: Seoul, Korea
 
-This is where I'm be staying for the longest time: **82 days**, just over a week short of what the Visa waiver allows for British Citizens. I'm quite keen to make some friends here and get to know fellow travellers, people in tech, and anybody else with whom I might get on well :smile:
-
-I'm doing a lot of rock climbing here -- mainly bouldering -- while I'm in Korea, with the help of [Korea on the Rocks](http://www.koreaontherocks.com/). If you're into that stuff, I want to hear from you.
+This is where I stayed for the longest time, almost 3 months. It was great fun and I've written a fair amount about it.
 
 <p class="inline-destination-post-list">
-	Like Japan, this is a far cry from the UK, culturally -- in a different way though.. Here's some blog posts which touch on Seoul: {% for post in site.tags.seoul %}<a class="inline-destination-post-list-item" href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a>{% endfor %}.
+	Like Japan, this is a far cry from the UK, culturally -- in a different way though. Here's some blog posts which touch on Seoul:
+	<nav id="latest-travel-articles-navigation" class="nav-list">
+		<ul>
+		{% for post in site.tags.seoul %}
+			<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</nav>
 </p>
-
-I've been before -- twice -- so I came with complete awareness of how much fun it can be! If you're interested in meeting up, <a href="mailto:dan@danhough.com?subject=Meet+me+in+Seoul">drop me a line</a>.
 
 ### 6 October 2015: Beijing, China
 
-This is where the travel gets a bit more active. I'll be in Beijing only for 2 days before I head to the next destination, but I've been before. Nevertheless, I'd be keen to meet fellow travellers here, so please <a href="mailto:dan@danhough.com?subject=Meet+me+in+Beijing">email me if you're interested in meeting up</a>.
+More of a pitstop on the way to North Korea, but an interesting city to be sure. I've been before, I didn't do much sightseeing, but I did have some great food!
 
 ### 8 October 2015: Pyongyang, DPRK (North Korea)
 
 I'm quite interested in North Korea because it seems more unlike my home country than any other place I've visited. Due to the nature of their Internet access I do not expect anybody reading to be from the DPRK, but anybody else who happens to be taking a trip there at the same time as me, it'd be great to meet! <a href="mailto:dan@danhough.com?subject=Meet+me+in+Pyongyang">Get in touch</a>.
 
-### 13 October 2015: Shanghai, China
+### 12 October 2015: Taipei, Taiwan (Republic of China)
 
-The world's largest city proper. I know pretty much nothing about Shanghai, so if you do, I'd love to <a href="mailto:dan@danhough.com?subject=Meet+me+in+Shanghai">hear from you</a>.
+The capital of the *other* China. I don't know much about Taipei or Taiwan for the matter, so if you do, I'd love to <a href="mailto:dan@danhough.com?subject=Meet+me+in+Taipei">hear from you</a>. I am doing a sport climbing course while I'm there, though. Especially if you're into rock climbing, please get in <a href="mailto:dan@danhough.com?subject=Climbing+in+Taipei">touch</a>.
 
-### 17 October 2015: Quzhou, China
-
-Quzhou is probably one of the more obscure destinations on my trip, and it was only by luck of knowing someone doing a photography project there that I turned my gaze there. I'm hanging around there for about 3 days, so if you're in the area, <a href="mailto:dan@danhough.com?subject=Meet+me+in+Quzhou">get in touch</a>.
-
-### 21 October 2015: Zhangjiajie, China
-
-This is very much the nature part of my trip! I'm going here to visit the fantastic-looking [Zhangjiajie National Forest Park](http://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park) with its unusual rock formations. Fellow ramblers and rock hunters: <a href="mailto:dan@danhough.com?subject=Meet+me+in+Zhangjiajie">Hit me up</a>.
-
-### 26 October 2015: Hong Kong
+### 22 October 2015: Hong Kong
 
 This is one of the places that most people rave about when I tell them about my trip. I'm here for just under a week, and I understand there's quite a significant tech community in Hong Kong. If you're part of it, please <a href="mailto:dan@danhough.com?subject=Meet+me+in+Hong+Kong">get in touch</a> and I'll buy you a beer. :smile:
 
-### 31 November 2015 - 19 December 2015
+### 1st November 2015: Hoi An, Vietnam
+
+A convenient first stop in south-east Asia, from here I can take a train up to Hanoi (I like train trips). Once again, my knowledge of this place is very limited, so if you can help me in that regard, please <a href="mailto:dan@danhough.com?subject=Meet+me+in+Hoi+An">get in touch</a>.
+
+### 3rd November 2015 - 19 December 2015
 
 The next few destinations aren't decided yet and are quite flexible. While I'm interested in meeting up with people in this time, it's going to be harder because travel will be harder to predict. I'll be taking boats, planes, trains, buses and tuk-tuks during this leg of the journey, and I expect it'll be a lot less sitting around with a lot more walking than before. It's going to be very exciting indeed :smile:
 
-* Hoi An, Vietnam
 * Hanoi, Vietnam
 * Vientiane, Laos
 * Luang Prabang, Laos
@@ -107,9 +113,13 @@ The next few destinations aren't decided yet and are quite flexible. While I'm i
 * Ho Chi Minh City, Vietnam
 * Singapore
 
+### 21st December 2015: London
+
+I'll finally be flying back home from Singapore to London on the 20th to arrive on the 21st. It's only days before a national holiday which I like to spend with my family: Christmas. I expect it'll be a harsh change from Singapore's warm (~30°C) climate in December to South England's cold (~6°C) but I also expect I'll be quite pleased with that by then. Bring it on!
+
 ## What's next?
 
-Well, I'm back in the UK in time to spend Christmas with my loved ones. But after that, who knows? I might move back to London, I may continue travelling for a while. I already have some destinations in mind if I do, but I may be travelled out by then. We'll see. That's Future Dan in 2016's problem. :wink:
+After that, who knows? I might move back to London, I may continue travelling for a while. I already have some destinations in mind if I do, but I will probably be travelled out by then at least for a few months. We'll see. That's Future Dan in 2016's problem. :wink:
 
 If you're going to be in any of the places I have mentioned above at the same times as me (maybe you're a local, or a fellow traveller) or if you have any advice or ideas of things for me to do, I'd really like to hear from you. Thanks for reading, and happy travels.
 
