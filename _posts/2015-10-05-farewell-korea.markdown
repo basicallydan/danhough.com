@@ -7,6 +7,7 @@ description: A brief account of the busiest month of my trip so far, Korean lang
 date_created: 7 October 2015
 location: Beijing, China
 comments: false
+time_to_read_estimate: 10
 ---
 
 "He speaks Korean," says the middle-aged Korean lady to her travel companion. "I'll put your bag up in the locker?" she offers politely, since I'd already stupidly sat down in my window seat with my enormous, heavy bag.
@@ -55,9 +56,17 @@ In a few days, I'll be approaching the DMZ for the third time: from the North. A
 
 After my friends left, I was treated to yet another exciting visit: my girlfriend, Elli, arrived in Seoul where we saw yet more things I'd never seen before. The "smart city" of Songdo was a little disappointing but still very nice, and surprisingly, Seoul's palace scene is not completely dead in the late evening, as Deoksugung is open until 9pm, giving it a calm, serene atmosphere rarely possible in the other dusty, hot palaces swarming with daytime tourists.
 
-We visited Busan in the South to take a dip in the very cold Sea of Japan. It was a classic British seaside experience: stepping cautiously into the cold water, followed by an agonising dip up to the lower torso, finally culminating in a brave and determined plunge headfirst into the oncoming waves and reluctantly acclimatising to the chilly waters.
+<!-- BUSAN BIBIMBAP PIC 20150925_132623.jpg -->
+
+<!-- BUSAN TEMPLE PIC 20150924_172054.jpg -->
+
+We visited Busan in the South to visit a beautiful Buddhist temple on the rocks, and to take a dip in the very cold Sea of Japan. It was a classic British seaside experience: stepping cautiously into the cold water, followed by an agonising dip up to the lower torso, finally culminating in a brave and determined plunge headfirst into the oncoming waves and reluctantly acclimatising to the chilly waters.
 
 Soon, we made our way over the sea on a hydrofoil (the wonderfully-named "Beetle" ferry) to Fukuouka, to be embraced by the polite, helpful and otherworldly Japan. Elli's first real foray into Asian countries was interesting and strange so far but not completely unexpected due to my constantly rambling on about Korea. Japan was something else entirely, and she loved it. We took four bullet trains in a week, all very comfortable, and stayed in 6 different hostels, ryokans, hotels and Airbnbs, for an interesting and varied view of Japanese hospitality.
+
+<!-- HIROSHIMA PIC 20150926_115114.jpg -->
+
+<!-- PASSPORT PIC 20150925_143823.jpg -->
 
 Hiroshima was uplifting, depressing and moving all at once; Osaka's Universal Studio was surprising and enchanting. Kyoto was enlightening and charming, and Nara was beautiful but tiring. Tokyo, as I expected due to my last visit, was a whirlwind of excitement and non-stop action.
 
@@ -65,7 +74,7 @@ In both Kyoto and Tokyo we revisited some sights from July, and for me they were
 
 But we had other things in mind too, and found new activities. I was surprised at how little I was offended by the Calico Cat Café, where the felines seemed quite well looked after and happy, and the Japanese customers were extremely respectful. We also found the mythical place where wax food is born, and took in, as I said earlier, another cooking lesson. Elli and I also found ourselves extremely taken by a Japanese arcade game which seems to be everwhere, called Taiko Drum Master.
 
-Our holiday in Korea and Japan was a resounding success: I got to enjoy being tour guide in one or two places, but we had a lot of new experiences, too.
+Our holiday in Korea and Japan was a resounding success: I got to enjoy being tour guide in one or two places, but we had a lot of new experiences, too; too many to fit in this post without it becoming far too long.
 
 Apart from all the new tourist stuff, though, the best thing about being in Korea and Japan with my friends and my girlfriend was simply being with them again. I'd missed them more than I'd known, and in many ways it was just like any other holiday we'd been on before: great meals, great nights out and great company. We could've been anywhere in the world, except that in my opinion, in Korea the food is better than anywhere in the world.
 
