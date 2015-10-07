@@ -1,7 +1,9 @@
 ---
 published: true
 layout: post
+tags: [travel,travel-exclusive,trip-2015,seoul,tokyo]
 title: Farewell, Korea
+description: A brief account of the busiest month of my trip so far, Korean language schhol explained, plus Tokyo revisited.
 date_created: 7 October 2015
 location: Beijing, China
 comments: false
