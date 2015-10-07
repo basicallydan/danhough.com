@@ -46,31 +46,35 @@ I was pleasantly surprised, however, at how much of Seoul I hadn't really seen o
 
 One highlight was the world's largest indoor theme park, Lotte World. Lotte World is home to two proper rollercoasters: Atlantic Adventure and French Revolution. Neither was obviously themed to reflect the name, but both were most certainly thrilling, largely owing to the necessarily cramped, largely-underground nature of the rides.
 
+{% include _figure.html src="/img/farewell-korea/seoul-lotte-palace.jpg" caption="The Lotte World Palace, quite clearly inspired by Disneyland" %}
+
 Lotte World also featured an excellent example of Korean "Seo-bi-seu" or "Service", which I mentioned in a previous entry: an important-looking manager-type in a suit approached us in a queue at one point, had a chat with the ride attendant and insisted that we each take a free queue jump on our next ride. We did so gladly and saved a good 30 minutes of queuing.
 
 Another fun day came in the form of a cooking class we took with the [Food and Culture Academy](http://www.koreanrecipe.co.kr/), where our wonderful teacher Ellie patiently took us through the process of making Bulgogi (불고기) and a few Korean side dishes, known in Korea as *banchan* (반찬). It may seem a little strange as a tourist activity but it's a lot of fun, and a good opportunity to meet locals. In fact, less than a month later when Elli and I visited Tokyo, we tracked down a cooking class run in a nice Japanese lady's home, giving us not only a good opportunity to get to know a local but also to understand what a Japanese home is really like.
 
+{% include _figure.html src="/img/farewell-korea/seoul-cooking.jpg" caption="Budding cooks, or Yorisa (요리사) with mentor Ellie" %}
+
 What surprised me the most, however, was how much I enjoyed visiting the DMZ (De-militarised Zone) for the second time in such a short period. We went with the same tour company ([Koridoor](https://www.facebook.com/usotoursbykoridoor)) but our tour guide was different, and because of other tours' delays, the tour was slightly different too. It was largely the same, but I approached it with more experience, this time focusing on the parts of the DMZ I wish I'd spent more time with (more time looking across the border through binoculars, basically) and learning things I'd missed the first time around.
+
+{% include _figure.html src="/img/farewell-korea/panmunjeom-north-korean-flag.jpg" caption="Gijeongdong, a DPRK village in the Northern half of the DMZ, is home to the fourth-largest flags in the world atop a 160m-tall flagpole" %}
 
 In a few days, I'll be approaching the DMZ for the third time: from the North. As you might expect, the approach from the South has its own explanations about the 20th-century history of the Korean peninsula and, naturally, its own propaganda. I'm looking forward to seeing how the DPRK version of the DMZ tour differs in these ways, and I'll be sure to post a proper write-up on the difference between the two.
 
 After my friends left, I was treated to yet another exciting visit: my girlfriend, Elli, arrived in Seoul where we saw yet more things I'd never seen before. The "smart city" of Songdo was a little disappointing but still very nice, and surprisingly, Seoul's palace scene is not completely dead in the late evening, as Deoksugung is open until 9pm, giving it a calm, serene atmosphere rarely possible in the other dusty, hot palaces swarming with daytime tourists.
 
-<!-- BUSAN BIBIMBAP PIC 20150925_132623.jpg -->
-
-<!-- BUSAN TEMPLE PIC 20150924_172054.jpg -->
-
 We visited Busan in the South to visit a beautiful Buddhist temple on the rocks, and to take a dip in the very cold Sea of Japan. It was a classic British seaside experience: stepping cautiously into the cold water, followed by an agonising dip up to the lower torso, finally culminating in a brave and determined plunge headfirst into the oncoming waves and reluctantly acclimatising to the chilly waters.
+
+{% include _figure.html src="/img/farewell-korea/busan-haedong-yonggungsa.jpg" caption="Haedong Yonggungsa Temple, beautifully situated on Korea's southern coast" %}
 
 Soon, we made our way over the sea on a hydrofoil (the wonderfully-named "Beetle" ferry) to Fukuouka, to be embraced by the polite, helpful and otherworldly Japan. Elli's first real foray into Asian countries was interesting and strange so far but not completely unexpected due to my constantly rambling on about Korea. Japan was something else entirely, and she loved it. We took four bullet trains in a week, all very comfortable, and stayed in 6 different hostels, ryokans, hotels and Airbnbs, for an interesting and varied view of Japanese hospitality.
 
-<!-- HIROSHIMA PIC 20150926_115114.jpg -->
-
-<!-- PASSPORT PIC 20150925_143823.jpg -->
+{% include _figure.html src="/img/farewell-korea/passport-busan-ferry.jpg" caption="My passport: Compare the bottom-right stamp to the others. If you leave or enter Korea by plane, your stamp has a little plane icon. If you leave or enter by boat, you get a boat. It's the little details..." %}
 
 Hiroshima was uplifting, depressing and moving all at once; Osaka's Universal Studio was surprising and enchanting. Kyoto was enlightening and charming, and Nara was beautiful but tiring. Tokyo, as I expected due to my last visit, was a whirlwind of excitement and non-stop action.
 
 In both Kyoto and Tokyo we revisited some sights from July, and for me they weren't better or worse; just different this time. The weather was different, our fellow tourists were different and the company was different.
+
+{% include _figure.html src="/img/farewell-korea/hiroshima-atomic-dome.jpg" caption="One of the few remaining structures in Hiroshima from before the a-bomb dropped, the so-called 'Atomic Dome' is a stark reminder of the traumatising event" %}
 
 But we had other things in mind too, and found new activities. I was surprised at how little I was offended by the Calico Cat Café, where the felines seemed quite well looked after and happy, and the Japanese customers were extremely respectful. We also found the mythical place where wax food is born, and took in, as I said earlier, another cooking lesson. Elli and I also found ourselves extremely taken by a Japanese arcade game which seems to be everwhere, called Taiko Drum Master.
 
