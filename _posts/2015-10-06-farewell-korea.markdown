@@ -4,6 +4,9 @@ layout: post
 tags: [travel,travel-exclusive,trip-2015,seoul,tokyo]
 title: Farewell, Korea
 description: A brief account of the busiest month of my trip so far, Korean language schhol explained, plus Tokyo revisited.
+thumbnail: "!SITE_URL!/img/interloper/farewell-korea-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/interloper/farewell-korea-thumbnail-og.png"
+twitterCardType: summary_large_image
 date_created: 7 October 2015
 location: Beijing, China
 comments: false
