@@ -21,6 +21,8 @@ You will have been subject to a very strict tour through military checkpoints on
 
 In fact, the North Korean trip to the Demilitarised Zone is the same in all these ways, but that is were the similarities end. After you enter the JSA, the South Tour will insist that you strictly *do not move* from the two single lines facing the North, and that you do not take photos of certain buildings; no explanation is given for why.
 
+{% include _figure.html src="/img/dprk-part-1/dmz-tour-guide.jpg" caption="I won't tell you this man's name, but at some point in his career with the DPRK Military he has been referred to as 'Bob' by the US Army tour guides in the South, because you only ever see one soldier and they always call them 'Bob'. That day, we didn't see a soul on the South side." %}
+
 In the Democratic People's Republic of Korea (DPRK), they practically insist that you take selfies in front of the South Korean Peace House and the blue UN conference huts. As a tourist, you'll scutter around on the steps leading down to the famous Military Demarkation Line (MDL), then wave and chat to restless-looking soldiers of the Korean People's Army.
 
 As we wander quite freely around the JSA and Panmunjom (the area around the JSA), we're told all about the different incidents which have occurred at the famous, heavily-guarded border. The axe "accident" which occurred after a South Korean soldier allegedly threw an axe at a North Korean soldier during a tree-felling operation is a good example. This is a popular tale for the tour guides on the South to tell, but to them it's an axe *murder*, committed by a North Korean soldier who got a bit more emotionally invested in a tree's life than he should've.
@@ -35,9 +37,13 @@ North Korea is famous for this sort of thing, and while the official position is
 
 It's 4pm on the 7th of October, and dozens of eager tourists from all over the world are gathering for a pre-tour briefing in the offices of Koryo Tours, the mostly-British-run, Beijing-based travel company specialising in tours of North Korea.
 
+{% include _figure.html src="/img/dprk-part-1/ticket.jpg" caption="Yes! Window seat!!" %}
+
 They have a healthy relationship with the state-run Korean International Tourism Company (KITC) of the DPRK, a 200+ strong army of English-speaking, well-dressed, well-mannered and welcoming Korean hosts whose main job for the Workers Party of Korea (WPK) is to show foreigners a side of North Korea that they don't get to see in the press, up close and personal.
 
 When we've sat down in Koryo's presentation room, we're all given blue pouches full of all the forms and some useful information we'll need for our time in North Korea. I quickly flip to the Korean phrases section, eager to see how my favourite foreign language differs north of the DMZ. Realising that the words written down are one level more polite than the typical Korean words I use when speaking to people in Seoul, I ask the person in charge of this briefing, Vicky (also my group's British guide) whether this is an example of how every day North Koreans speak to one another. Yes, she says, it is. Finally, all that polite-speaking training I had at Korean school in Seoul was going to pay off.
+
+{% include _figure.html src="/img/dprk-part-1/plane-koryo.jpg" caption="This is the state-run Air Koryo's Tupolev Tu-204. The airline has 19 planes in its fleet and in my opinion, very welcoming staff. The in-flight entertainment is the Moranbong Band, though, leaving much to be desired." %}
 
 The differences don't end there, though. Where's all the Konglish I've become accustomed to in South Korea? Where's "Pa-ee-ting" (fighting!) to offer someone good luck? Where's "na-ee-su" (nice) to express your respect at someone's super cool behaviour? Thankfully, one piece of Konglish at least endures, the most important one: "Coffee" is still "Koh-pee".
 
@@ -53,7 +59,7 @@ The people of North Korea don't see anywhere near as many tourists as their coun
 
 After being introduced to our tour cameraman and our tour bus driver, we set off for our first stop: The Kim Il-sung football stadium.
 
----
+{% include _figure.html src="/img/dprk-part-1/kimilsungstadium-1.jpg" caption="The glorious 70,000 seat Kim Il-sung stadium, featuring both the founder himself and his son, Kim Jong-il, in huge portraits. This is a feature shared by many important buildings, though the trend is fading." %}
 
 We were fortunate enough to be arriving in Pyongyang just as the national football team was starting its round of World Cup qualifying matches for the 2018 FIFA World Cup in Russia. Today's match: DPRK vs the Phillipines.
 
@@ -69,11 +75,15 @@ A small walk through the tunnels of the stadium innards led us to one of the gat
 
 The stadium was completely packed, all 70,000 seats were occupied and many more people stood on the steps around the seats. This is Pyongyang's second largest stadium, after the May Day Stadium, which currently holds the title of worlds largest football stadium.
 
+{% include _figure.html src="/img/dprk-part-1/kimilsungstadium-2.jpg" caption="Half of the stadium was packed with cheerleaders, the other half regular spectators. And yes, there were military guards everywhere." %}
+
 Half of the seats on the side of the stadium opposite to ours were occupied by a crowd of people clothed to create the red, white and blue stripes of the DPRK flag, with a large group of school children in the middle leading the cheers. Photos and videos can't properly capture the awe that we felt when we saw this incredible organised effort. Not a moment of joy or sadness in this match was missed by this enormous group of cheerleaders.
 
 But the enthusiasm felt through the rest of the stadium was not felt in our section. The Koreans we were joining weren't quite expecting our arrival, and some of them had taken what I can only assume were meant to be our seats. But it'd be pointless to argue that I was happy for them to take them, so we just sat down and enjoyed.
 
 It was an eventful match, with many near-goals by the DPRK team in their bright red kits, and a few good attempts to gain control by the Phillipines, many close-call injuries and a couple of little arguments with the referee on the side of the Phillipines.
+
+{% include _figure.html src="/img/dprk-part-1/rishi-football.jpg" caption="Behind Rishi here you can see crowds of people dressed in regular clothes sitting and watching the match." %}
 
 When we first sat down, our section of the crowd felt uneasy, but after the second half some Koreans started smiling and interacting with us when we cheered. At about the 60-minute mark, the cheerleaders opposite our stand started a series of Mexican waves, and when the wave swept through our section, we lifted ourselves out of our seats and threw off all the tension. From then on, the crowd was cheering enthusiastically again all at once, and I witnessed what I'd come to know as a "single heart of unity," a phrase favoured by our guide whenever we needed to stick together and work together for the good of the tour.
 
@@ -83,14 +93,20 @@ According to our British guide, Pyongyang isn't a quiet place most of the time. 
 
 The streets are packed with buses, cars, minivans, the occasional lorry and the occasional military jeep or truck. People everywhere are heading to some important practice or another, heading back from the football match or just making their daily commute home after a long day at work.
 
+{% include _figure.html src="/img/dprk-part-1/pyongyang-street.jpg" caption="Not exactly crazy, but not exactly quiet either. Cars may be more common than expected, but they're all government-owned." %}
+
 A tram system which began operation in 1991 carries hundreds around in Czechoslovakian-made carriages as electrically-powered trolleybuses pick up commuters on other routes, and the 16 metro stations' entrances pulse with life as passengers travel along the two lines, Cheollima (천리마선) and Hyeoksinseon (혁신선). Pyongyang, at least during our trip, is a bustling mini-metropolis.
 
 It's hard to see much for a few parts of our bus ride to the hotel, for although most of the city is quite well-lit, there are still many sections where streetlamps are absent. Lighting our way is the fairly modern Pyongyang skyline and the occasional duel-portraits of Kim Il-sung and his son, Kim Jong-il, captioned by the ubiquitous eulogy of the Kim dynasty's first two dictators, "Leaders Kim Il-sung and Kim Jong-il will be with us always".
 
 Once reach the Yanggakdo hotel we check in in the busy lobby, have our first dinner (Western food, sadly) and get to know our fellow tourists a little. Everybody is tired, but some of us are determined to burn the candle at both ends despite a very early start the next day. After all, we're only here for four days.
 
+{% include _figure.html src="/img/dprk-part-1/yanggakdo-dining.jpg" caption="The yanggakdo hotel dining room. These incredible paintings of mountains are about as common as paintings of Kim Il-sung but way more impressive. I can only assume that it is Paekdusan/Mt. Paekdu, a site considered holy (in a purely secular sense) by Koreans." %}
+
 The hotel basement features karaoke, billiards, bowling, ping-pong and a pool, so Rishi and I head down to sample most of them. This is my first chance to talk with Koreans willing to chat with me. I make the most of it with the staff working in all these places and find it's surprisingly easy to adapt my language to the DPRK.
 
 We enjoy a couple of drinks of North Korean's own lager accompanying a best-of-three billiards match, sing a few songs in the huge communal Karaoke room, then bowl a few rounds with the lady working in the small three-lane bowling alley. Suitably sedated against the bizarreness of it all, we head to our twin room with its key-card lock system and five-channel TV. Flipping past Al-Jazeera and CCTV to the Korean channels, we see the news of the day (local people prepare for 70th anniversary celebrations and pay respects to the dead leaders then Kim Jong-un looks at things) and the the other a documentary about the Korean War.
+
+{% include _figure.html src="/img/dprk-part-1/pyongyang-skyline.jpg" caption="The Pyongyang skyline at night from the Yanggakdo Hotel. This is about as good as the skyline gets. Not always as bright as this." %}
 
 As we stare out of our window at the quiet, darkening city of Pyongyang (the lights go out wherever they aren't needed most of the time after people go to bed), we reflect on how far we've come in such a short time. A few hours ago, Rishi was dipping in the Persian Gulf surrounded by Dubai: luxury hotels in skyscrapers, fast cars and beautiful beaches. And me? Only 2 days before, less than merely 200km away, I was in a hotel in Incheon, South Korea, trying to mentally prepare for the culture shock.
