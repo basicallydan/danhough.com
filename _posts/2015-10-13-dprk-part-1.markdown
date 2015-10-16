@@ -73,7 +73,7 @@ Soon, an older gentleman emerged from the stadium for a moment to deliver a mess
 
 A small walk through the tunnels of the stadium innards led us to one of the gates into the stadium proper, where about a dozen soldiers stood in a huddle watching the match. The cheers increased quickly in volume as we approached the gate and when one of the soldiers noticed us, they began to make an opening in their huddle. The darkness of the tunnel subsided and made way to our first truly awe-inspiring North Korean sight: a crowd of football supporters.
 
-The stadium was completely packed, all 70,000 seats were occupied and many more people stood on the steps around the seats. This is Pyongyang's second largest stadium, after the May Day Stadium, which currently holds the title of worlds largest football stadium.
+The stadium was completely packed, all 70,000 seats were occupied and many more people stood on the steps around the seats. This is Pyongyang's second largest stadium, after the May Day Stadium, which currently holds the title of worlds largest football stadium. (There's a video of parts of the match [here](https://www.youtube.com/watch?v=00GOJeYn5HQ))
 
 {% include _figure.html src="/img/dprk-part-1/kimilsungstadium-2.jpg" caption="Half of the stadium was packed with cheerleaders, the other half regular spectators. And yes, there were military guards everywhere." %}
 
@@ -110,3 +110,7 @@ We enjoy a couple of drinks of North Korean's own lager accompanying a best-of-t
 {% include _figure.html src="/img/dprk-part-1/pyongyang-skyline.jpg" caption="The Pyongyang skyline at night from the Yanggakdo Hotel. This is about as good as the skyline gets. Not always as bright as this." %}
 
 As we stare out of our window at the quiet, darkening city of Pyongyang (the lights go out wherever they aren't needed most of the time after people go to bed), we reflect on how far we've come in such a short time. A few hours ago, Rishi was dipping in the Persian Gulf surrounded by Dubai: luxury hotels in skyscrapers, fast cars and beautiful beaches. And me? Only 2 days before, less than merely 200km away, I was in a hotel in Incheon, South Korea, trying to mentally prepare for the culture shock.
+
+---
+
+If you want to see some moving footage of the DPRK, I've been posting videos on [my YouTube Channel](https://youtube.com/basicallydan). Check it out.
