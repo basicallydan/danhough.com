@@ -1,13 +1,13 @@
 ---
 published: true
 layout: post
-tags: [travel,travel-exclusive,trip-2015,seoul,tokyo]
+tags: [travel,travel-exclusive,trip-2015,pyongyang]
 title: DPRK Part 1&#58; Hello North Korea
 description: The first in a series of 
-thumbnail: "!SITE_URL!/img/farewell-korea/farewell-korea-thumbnail-tw.png"
-ogthumbnail: "!SITE_URL!/img/farewell-korea/farewell-korea-thumbnail-og.png"
+thumbnail: "!SITE_URL!/img/dprk-part-1/dprk-part-1-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/dprk-part-1/dprk-part-1-thumbnail-og.png"
 twitterCardType: summary_large_image
-date_created: 13 October 2015
+date_created: 16 October 2015
 location: Taipei, Taiwan
 comments: false
 time_to_read_estimate: 15
