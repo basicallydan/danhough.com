@@ -3,7 +3,7 @@ published: true
 layout: post
 tags: [travel,travel-exclusive,trip-2015,pyongyang]
 title: DPRK Part 1&#58; Hello North Korea
-description: The first in a series of 
+description: The first in a series of posts about the world's most secretive country, North Korea. The contents may surprise you.
 thumbnail: "!SITE_URL!/img/dprk-part-1/dprk-part-1-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/dprk-part-1/dprk-part-1-thumbnail-og.png"
 twitterCardType: summary_large_image
