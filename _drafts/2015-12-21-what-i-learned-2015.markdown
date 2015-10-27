@@ -1,0 +1,18 @@
+---
+layout: post
+title: What I learned from travelling in 2015
+date_created: 21 December 2015
+location: London, UK
+description: The big trip is over, I'm back in the UK. What did I learn? What next?
+thumbnail: THUMBNAIL HERE
+---
+
+## Notes
+
+* Can't always be sightseeing
+* Gotta work - it just has to be done. Some kind of productivity
+* Not as good at being on my own as I thought
+* Not as good at sleeping in strange places as I thought
+* Not as good at planes as I thought
+* Language is hard - pick and choose, you can't learn them all
+* Trust is important, but have a backup plan
