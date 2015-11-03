@@ -1,0 +1,152 @@
+---
+published: true
+layout: post
+tags: [travel,travel-exclusive,trip-2015,pyongyang]
+title: DPRK Part 2&#58; History is written by the "victors"
+description: The second in a series of posts about the world's most secretive country, North Korea. The contents may surprise you.
+thumbnail: "!SITE_URL!/img/dprk-part-2/dprk-part-2-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/dprk-part-2/dprk-part-2-thumbnail-og.png"
+twitterCardType: summary_large_image
+date_created: 4 November 2015
+location: Hanoi, Vietnam
+comments: false
+time_to_read_estimate: 15
+---
+
+KITC guides (that's Korea Internation Tourism Company, in case you didn't read [Part 1](/blog/dprk-part-1) in this series) do not mess around. Breakfast at the Yanggakdo hotel starts at 7, and our bus was due to leave at 7:30. After all, this was one of the busiest periods of the year in Pyongyang, North Korea (officially DPRK), what with the 70th Anniversary of the Worker's Party celebrations going on. We had other tourists to compete with from China, Russia, and in a few cases, other parts of the world.
+
+{% include _figure.html src="/img/dprk-part-2/daytime-view-yanggakdo.jpg" caption="The view from our hotel in the morning." %}
+
+I scoffed my freshly-cooked eggs, bought a freshly-brewed coffee (in Korean, much to the surprise and delight of the barista) and jumped on our freshly-polished bus.
+
+The itinerary for the day was well-planned thanks to our guides from KITC, the smartly dressed but good-humoured Ms. Li and her trainee-assistant, the on-trend and generous Mr. Baek.
+
+First we'd drive down to Kaesong (개성, also Kaeseong), the famous city used by North and South Korea for talks and as a a industrial complex. We'll drive right through it, head to the DMZ (Demilitarised Zone) at Panmunjom and then go back to Kaesong and check out some historical sights.
+
+I was particularly excited about this day because it reminded me so much of a typical two-day tour in South Korea, which may well be a day visiting the DMZ from their side and then a day visiting palaces, temples and museums. So this was my chance to see the North Korean version of a tour I'd experienced almost three times in South Korea.
+
+As we drove out of the busy city into the countryside, it felt almost like we could've even been on the southern half of the Korean peninsula.
+
+{% include _figure.html src="/img/dprk-part-2/road-to-dmz.jpg" caption="You may recognise this view from a famous VICE Magazine documentary whose crew stopped at a Tea House on the way to the DMZ. This is the view from that tea house. North Korean highways are extremely straight, cutting through mountains and hills as much as possible." %}
+
+---
+
+## "No Photos" on the road
+
+A common rumour you hear about the rules on the road between sites in North Korea is that they close the curtains so you can't take photos. I don't know what it was like in the past or in other areas, but I can tell you with total confidence that for us, this was not the case.
+
+{% include _figure.html src="/img/dprk-part-2/road-to-dmz-4.jpg" caption="A view from the road to the DMZ." %}
+
+The trouble is, the roads are *so bumpy* that you don't *want* to take photos. Add a reflective window to the equation and you might as well just put your camera away and enjoy the scenery. And there is plenty of scenery to enjoy.
+
+Mountains ranges, hills, forests, rivers, streams: the road from Pyongyang to Kaesong was full of great stuff to see. There's also plenty of farmland. We drove past loads of rice paddies, some of which were actively being tended.
+
+{% include _figure.html src="/img/dprk-part-2/road-to-dmz-5.jpg" caption="Not all moments on the drive to the DMZ have such lush and populous views." %}
+
+## No job too small
+
+Ms. Li explained to us a little about how rice farming works in the DPRK. She told us that transplantation of rice plants is quite common all over the world, but in North Korea they do a "double transplant" - twice as often as other places - because the country struggles so much with irrigation. She told us that the drought this year was aleviated by this technique, and they expected a very good harvest this year.
+
+What struck me as interesting however was that during the transplant periods, everybody gets involved because it's a lot of work. "Blue collar workers, white collar workers... even tour guides will do transplanting work!" She was understandably very proud of this fact.
+
+It reminded me of scene I witnessed at at Pyongyang International Airport. I remember looking out of the window of the plane and noticed a group of men standing by a side door of the terminal building, messing around and roughhousing. A supervisor-type man walks up to them and they straighten up and stand to attention. Break time is over, so they form into two lines and begin marching in perfect unison to the plane with their supervisor.
+
+The hold doors open as a little conveyor belt rolls up on a trailer and parks underneath the aeroplane. The baggage handlers do their thing, but then another guy turns up: the pilot. He and the supervisor start helping out with the bags. Not just standing and giving orders, either: getting on top of the machinery, lifting bags and placing them carefully onto the trailer. There was no ego on display here.
+
+After this, I noticed little things which suggested to me the kind of attitude to status which North Korea has encouraged its citizens to take. For example, when an older man and a younger woman spoke, they appeared to speak with respect and friendliness to one another: it went bot hways.
+
+Respect and friendliness is something which North Koreans aren't taught to feel towards the USA, though, as we learned on our way to the DMZ.
+
+{% include _figure.html src="/img/dprk-part-2/kids-climbing.jpg" caption="One of my favourite photos: Two kids climbing rocks, possibly on their way to school: or maybe just bunking off?" %}
+
+## Who *really* started the Korean war?
+
+Our guides were keen to explain to us the history of the Korean war on the way to its most famous historical (and present) site: the 250km-long DMZ which separates North and South Korea.
+
+Most of the world understands and recognises that the Korean war was started by the North Korean forces -- backed by China and the Soviet Union by led by Kim Il-sung -- in order to take the area below the 38th Parallel from the South Korean forces -- backed by the United States and led by I Seungman/Syngman Rhee -- on the 25th of June 1950. At the time, both governments were very new (2-3 years old) and both claimed to be Korea's legitimate government. A bloody war ensued, twenty-one countries were involved and the front line moved many times up and down the peninsula.
+
+The general gist of the war is more-or-less the same to the North Koreans, but important facts are different or ignored. The DPRK claims that the United States initiated the war. According to North Korea, America *controlled* the South Korean government and forced the army to invade the North, and polite requests to stop from the North were ignored.
+
+We were advised by our British guides not to argue: it's not worth it, because it's an argument we won't win. So, throughout the tour the USA and its government are referred to as "US Imperialists".
+
+On our way to the DMZ we stopped at the "Peace house", where UN officials and the DPRK officials sat together to sign the armistice agreement. The chairs, tables, documents and flags are, allegedly, all the originals, and the walls of this building are covered in photographs of the three leaders: most of them are Kim Il-sung.
+
+{% include _figure.html src="/img/dprk-part-2/axe-murder.jpg" caption="The axe used to murder a South Korean soldier." %}
+
+We were also told about the axe "accident", an event referred to by the South Koreans as the axe "murder incident", in which a North Korean soldier killed a South Korean soldier who was trying to chop down a tree. The North still has the axe as a museum piece.
+
+The photos of his grandson, Kim Jong-un, give the impression that he is a doppelgänger of his grandfather. They really do bear a striking resemblance to one another, and in some of the higher-quality photos of Kim Il-sung you'd swear you were looking at a photo taken just the other day of the current leader.
+
+{% include _figure.html src="/img/dprk-part-2/kim-il-sung-2.jpg" caption="Il-sung or Jong-un? Only by reading the caption can we know for sure." %}
+
+According to the Korean guides, after the USA crossed the 38th Parallel with their "puppet" South Korean army (much to the dismay of the Korean people in the North), after an initial struggle the North Korean army led by Kim Il-sung successfully pushed them back down to what is now the military demarkation line.
+
+The guides then talk of "surrender" by the Americans and "victory" for the North, at the same time as describing the "armistice agreement", so for me it was hard to figure out whether the understanding the North Koreans have is that they won the war, or that the war never ended. However, we did learn more about what the North Koreans are taught later on in the tour.
+
+{% include _figure.html src="/img/dprk-part-2/north-korean-dmz-pavilion.jpg" caption="The famous 'Bob' (as he's known to the USO soldiers) stands guard as we explore the JSA" %}
+
+Once we arrive at the DMZ we're shuffled around the place, shown some maps about the locations of various things in the area and are given an opportunity to take some photographs with a very bored-looking North Korean soldier whose job it is to take us around, part of which I explained [last time](/blog/dprk-part-1).
+
+Not only did we see the actual Joint Security Area (JSA) itself, but we also saw an enormous plaque displaying Kim Il-sung's signature embossed in gold.
+
+The plaque's size is significant: Kim Il-sung passed away (they would never use the word "died", I suppose it was disrespectful) on the 7th of July 1994 - or 7/7/1994. The plaque is made of two pieces of marble: the inner part is **7m** wide and **1.9m** tall, and the outer part is **9.4m** wide. Details are everything for respecting the leaders.
+
+{% include _figure.html src="/img/dprk-part-2/kim-il-sung-signature.jpg" caption="A day which weighs heavy on the North Korean heart; the day Kim Il-sung signed his last important document." %}
+
+Apparently, this copy of his signature was taken from an important document he signed just before his death on the subject of reunification: a subject still evidently on the minds of our guides.
+
+## Reunification
+
+According to Ms. Li, Kim-the-first's plan to reunify the North and South was quite simple, and took the form of a document called the *Ten Point Programme for Reunification of the Country*. You can see this [on Wikipedia](https://en.wikipedia.org/wiki/Ten_Point_Programme_for_Reunification_of_the_Country). The basic idea is to unify the two countries as a federation of two different nations, rather than one. I'll highlight one part of the plan which I found quite interesting:
+
+> **5. They should dispel fears of invasion from the south and from the north, prevail-over-communism and communization altogether and believe in and unite with each other.**
+
+Ms. Li explained that this means that both countries will keep their own systems of government, and should not try to force each others' system on one another. This document was allegedly written in 1993, less than a year before Kim's death.
+
+{% include _figure.html src="/img/dprk-part-2/propaganda.jpg" caption="Propaganda near the DMZ is mostly centered around the theme of reunification. This wonderful poster reads <em>Joseon-eun Hanada!</em>, which translates to <em>One Korea!</em>. <em>Joseon</em> or <em>Choson</em> is how the North Koreans refer to their country." %}
+
+The document also includes points about respecting government ownership as well as private ownership, removing travel bans, recognising heroic feats by individuals in both countries and, crucially, being independent and non-aligned. It's interesting, and in many ways sounds quite nice in theory. The trouble, as the North Koreans see it, is that the South is still "occupied" by the USA.
+
+When this federation is created, Kim Il-sung suggested, it should be known as Koryo (고려). This is the name which our travel agency uses for its own name, and is also the name of the national airline, but it has more significance than this.
+
+## Medieval History
+
+Day two also featured a sight I was very surprised to see: a bit of pre-war history.
+
+{% include _figure.html src="/img/dprk-part-2/kaesong-museum.jpg" caption="The Kaesong Museum" %}
+
+In South Korea you hear a lot in museums and from local historical sights about the *Joseon Dynasty*, a dynastic line of rulers which started in 1392 and ended with 1897 with the establishment of the short-lived *Korean Empire*.
+
+{% include _pull-right.html title="Dynastic rule" paragraph="However, before the Joseon Dynasty came the <em>Goryeo Dynasty</em>. Sounds familiar? \"Goryeo\" is another way of romanising \"고려\", a.k.a. <em>Koryo</em>. And the Goryeo dynasty is what we learned most about, apart from modern history. Surprisingly, our guides took us to an actual pre-war building -- which so far we'd seen none of -- an old Confucian academy which is now the Kaesong Koryo Museum." text="In a way, post-war North Korea returned to the same system used by pre-Japanese occupation Korea: dynastic rule with varying degrees of leader worship. The Goryeo Dynasty, the Joseon Dynasty, then the Kim Dynasty, with a little blip, 35 years of Japanese rule, in between." %}
+
+It featured old paintings of King Taejong, the first ruler in the Koryo dynasty (who unified the then-feudal Korean peninsula), some historical artefacts, and a UNESCO World Heritage Site, the Mausoleum of King Kongmin, which we were lucky enough to see up close. No propaganda here, just history. It was a nice break.
+
+{% include _figure.html src="/img/dprk-part-2/tomb-walk.jpg" caption="The walk up to King Taejong's Tomb, which he shares with his wife. Our guides proudly explained that the tomb was so well-sealed that during Japanese occupation, when the Imperial forces tried to loot it they ended up blowing a hole in it to get at the goodies inside, but missed the best stuff." %}
+
+---
+
+{% include _figure.html src="/img/dprk-part-2/reunification-gate.jpg" caption="A quick stop on our way back into Pyongyang featured this gate representing the two halves of the country coming together in reunification." %}
+
+{% include _figure.html src="/img/dprk-part-2/scientist-apartments.jpg" caption="Driving through the newly built 'Scientist Street' are a half-dozen modern-looking highrise apartment buildings designed for the country's greatest scientists, near to the also newly-constructed research centre. Our guides were keen to highlight how dedicated the regime is to scientific advancement." %}
+
+After a whistle-stop tour of Korean history - exaggerated or not - we drove back to Pyongyang and were given what many feel is a highlight of the tour: The Mansudae Grand Hill Monument. Enormous bronze statues of Kim Il-sung and Kim Jong-il stand flanked by anti-Japanese fighters, and revoluionary Korean workers leading huge DPRK flags.
+
+For this, we bought flowers (although this wasn't mandatory; some members of the tour chose not to) and laid them at the feet of the leaders.
+
+{% include _figure.html src="/img/dprk-part-2/revolutionary-struggle-statue.jpg" caption="Believe it or not, North Korea isn't all about the Kim Personality Cult. Large monuments have been erected in memory of the Korean worker or revolutionary, or in honour of the struggle against Imperial Japan." %}
+
+The story I heard about these statues before I entered North Korea goes like this: it was originally built as a statue of *just* Kim Il-sung in 1972 to celebrate his 60th birthday and was covered in gold leaf. However, the money to build the statue allegedly came from aid given by China. Upon hearing the news, the Chinese government was deeply offended that the North Koreans would be spending this money on such frivoloities as gold, and the statue promptly became just bronze. I hope they managed to get a refund on the gold leaf.
+
+We weren't told this, of course. What we were told, however, was these statues are 2095m away from a monument across the river, which was opened on the 10th of October 1995 for the 50th anniversary of the foundation of the Workers Party. More significance, apparently, as 10 + 10 equals 20, with a 95 tacked on the end to make 2095. As I said, details are everything for respecting the leaders.
+
+{% include _figure.html src="/img/dprk-part-2/dan-mansudae-monument.jpg" caption="The Great Leader Kim Il-sung and Dear Leader Kim Jong-il, smiling benevolently upon the people of Pyongyang against a backdrop of the holy mountain of Baekdu, the imagery of the Kim Personality cult used here echoes the imagery used for centuries during the reigns of hereditary kings in Koryeo and Joseon dynasties of Korea." %}
+
+However, more important was that *everybody* is expected to show respect to the leaders with a deep bow to these two statues. Nobody argued, and as we performed our first bows of the tour it didn't occur to us that they were merely warmup for much more serious bowing to follow another day.
+
+### Before you go...
+
+If you want to see some footage of the DPRK which I recorded, I've been posting videos on [my YouTube Channel](https://youtube.com/basicallydan). Check it out.
+
+Also, Koryo Tours have plenty more DPRK information and photos if you want further glimpses into North Korean life, largely on social media: [Instagram of Vicky, my tour guide](http://instagram.com/vickyinam), [Koryo on Facebook](https://www.facebook.com/koryotours), [Koryo on Twitter](https://twitter.com/koryotours), [Koryo on Tumblr](http://koryotours.tumblr.com/). They also have a website where you can find out about their tours and humanitarian projects, [koryogroup.com](http://koryogroup.com).
+
+Finally, if you're interested in the divisive issue of the ethics of touring in North Korea, [the Guardian recently wrote an interesting piece](www.theguardian.com/travel/2015/oct/08/north-korean-tourism-ethics). Give it a read.
