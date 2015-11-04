@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags: [travel,travel-exclusive,trip-2015,pyongyang]
-title: DPRK Part 2&#58; History is written by the "victors"
+title: DPRK Part 2&#58; History is written by the “victors”
 description: The second in a series of posts about the world's most secretive country, North Korea. The contents may surprise you.
 thumbnail: "!SITE_URL!/img/dprk-part-2/dprk-part-2-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/dprk-part-2/dprk-part-2-thumbnail-og.png"
