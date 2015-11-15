@@ -77,8 +77,12 @@ We all know the dark Batman stories of the silver screen, but this Frank Miller 
 
 ## Outposts by Simon Winchester
 
-Slightly outdated now, this travel journey written in the 1980s takes Winchester on a trip around the "surviving relics of the British empire". I felt a mixture of nostalgia for a time I never experienced and relief that we live in a fairer age, and learned about a number of interesting places I'd love to learn more about. Witty, entertaining and informative.
+Slightly outdated now, this travel journal written in the 1980s takes Winchester on a trip around the "surviving relics of the British empire". I felt a mixture of nostalgia for a time I never experienced and relief that we live in a fairer age, and learned about a number of interesting places I'd love to learn more about. Witty, entertaining and informative.
 
 ## Off to be the Wizard by Scott Meyer
 
 An immensely poppy novel, but really good fun. This is a *Matrix*-esque story with a lot more humour, pop culture references and which appeal very much to my slightly childish side. Easy and exciting read, good for a longish plane journey.
+
+## A History of Modern Britain by Andrew Marr
+
+One Amazon Reviewer slammed it for having the same content as an "A-level in history", which was great for me because I never took an A-level in History. This much-needed account of post-WW2 Britain really helped me to understand how my country is the way it is, and now I have lots of interesting follow-up subjects to look into.
