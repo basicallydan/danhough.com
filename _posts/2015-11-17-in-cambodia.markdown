@@ -18,7 +18,7 @@ I’m heading to Kampot, a small town in southern Cambodia, near to the up-and-c
 
 I’ve gone on two climbing excursions since I started travelling. Of course in Korea I was bouldering indoors quite a lot, but once I got to Taiwan I took a one day course in top rope and belaying, then another day dedicated to a guided climb in the same area, Long Dong. That was great. I was a little nervous, since I hadn’t climbed with ropes since I lived in Chamonix (and there I didn’t go very high), but these two days really helped me to deal with the nerves and understand the important trust-based relationship between climber and belayer.
 
-The next time I climbed was in Vietnam, in a bay called Lon Ha just off of Cat Ba island (which is itself part of Ha Long Bay). There I joined a group climb on the beautiful and well-hidden “Moody’s Beach”. This was nice, the climbs weren’t as difficult as in Taiwan but the views were far more spectacular at the top, and I climbed much more confidently.
+The next time I climbed was in Vietnam, in a bay called Lon Ha just off of Cat Ba island (which is itself part of Ha Long Bay). There I joined a group climb on the beautiful and well-hidden “Moody’s Beach”. This was nice, the routes weren’t as difficult as in Taiwan but the views were far more spectacular at the top, and I climbed much more confidently.
 
 Two days later, with the same company (Asia Outdoors), I did some deep-water soloing. It’s like bouldering—no ropes—but you do it higher up and above areas of deep water into which you fall when you’re done. It sounds harder and scarier than it is. I got used to the idea of falling very quickly, and I got used to the idea of my shoes getting wet very quickly too.
 
