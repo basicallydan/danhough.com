@@ -1,3 +1,12 @@
+---
+layout: post
+title: StreetScout 2.0
+date_created: 27 November 2015
+location: Thailand
+description: I destroyed it, and created it all over again.
+thumbnail: THUMBNAIL HERE
+---
+
 StreetScout hasn't had a major update in almost 2 years. It's been ignored through iOS7, iOS8 and now, we're in iOS9. It's started to look and feel pretty outdated, and I got a little tired of that.
 
 So, I started from scratch. It's a good excuse to learn Swift, and try out some interaction ideas that I wanted to try.
