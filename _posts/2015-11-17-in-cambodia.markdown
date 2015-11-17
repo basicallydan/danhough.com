@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags: [travel,travel-exclusive,trip-2015,tokyo,seoul]
-title: Tokyo and Seoul
+title: In Cambodia with a month to go
 description: From awe and hunger to fatigue and satisfaction. My trip so far&#58; Tokyo and Seoul.
 date_created: 17 November 2015
 location: Between Phnom Penh and Kampot, Cambodia
@@ -26,6 +26,10 @@ Cat Ba was a wonderful place to stay and a wonderful place to do these activitie
 
 ---
 
-So now I’m in Cambodia. After a whistle-stop tour through Siem Reap (the home of Angkor Wat) and Phnom Penh (the country’s capital) it’s time to go somewhere quieter and more serene. I wasn’t planning to spend so long in Cambodia, but when a country lets you without requiring a flight out, it’s alarmingly easy to forget about plans and just enjoy the places that you end up.
+So now I’m in Cambodia. After a whistle-stop tour through Siem Reap (the home of Angkor Wat) and Phnom Penh (the country’s capital) it’s time to go somewhere quieter and more serene. I wasn’t planning to spend so long in Cambodia, but when a country lets you in without requiring a flight out, it’s alarmingly easy to forget about plans and just enjoy the places that you end up.
+
+In fact, I didn't even intend to come to Cambodia this early in the trip. It was going to be my penultimate stop, and I'd fly from Phnom Penh to Singapore then home. I realised that if I skipped Laos (I'll pop by next time) I could go straight to Cambodia, then fly to Chiang Mai in Northern Thailand then take trains and buses all the way down to Singapore with relative comfort and ease. This is important, because I'm getting a little tired of planes.
+
+So I have a plan for my route but I'm not stuck to it and the timings are flexible.
 
 Nevertheless, I also have to face the reality that I have a flight booked for one month and 4 days from now, from Singapore to London. I most certainly want to go diving off some Thai island, and I’d like to do at least one more climbing trip after the one in Kampot, but apart from that I remain feeling fairly open-minded about what comes next. If Kampot traps me for a few days, so be it. I have over a month to get to Singapore and do all those things!
