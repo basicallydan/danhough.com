@@ -90,3 +90,7 @@ One Amazon Reviewer slammed it for having the same content as an "A-level in his
 ## A Short Introduction to Buddhism
 
 Following a few months of seeing Buddhist temple after Buddhist temple, trying to wade my way through Wikipedia articles and variously-spelled translations in museums throughout Asia, I found this book to be highly recommended on Amazon as an "academic" look at the religion. While that is certainly true, it does have soul and explains in a little detail the two main sects of Buddhism, touching on others along the way. It includes a brief history, explanation of rules, comparison (there's little in common) to other religions and discussion of Buddhism in the modern Western world. Really, really helps if you know very little and dispels a few common myths. I'd recommend reading this at the beginning of a long trip around Asia.
+
+## Man in the High Castle by Philip K. Dick
+
+In an alternative reality where the Allies were defeated in WW2, Germany & Japan own the world. This is a thrilling and fascinating novel. Trying to understand the potential cultural effects of a different outcome to the second world war makes this such a compelling story. But the conclusion is confusing. I'm left wondering what I'm supposed to take from it. Then, that in itself is a theme of the book. Read it.
