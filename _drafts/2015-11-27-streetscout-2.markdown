@@ -1,13 +1,17 @@
 ---
 layout: post
 title: StreetScout 2.0
-date_created: 27 November 2015
-location: Thailand
+date_created: 30 November 2015
 description: I destroyed it, and created it all over again.
-thumbnail: THUMBNAIL HERE
+thumbnail: "!SITE_URL!/img/streetscout-2/streetscout-2-tw.png"
+ogthumbnail: "!SITE_URL!/img/streetscout-2/streetscout-2-og.png"
+twitterCardType: summary_large_image
+location: Chiang Mai, Thailand
+comments: false
+time_to_read_estimate: 5
 ---
 
-StreetScout hasn't had a major update in almost 2 years. It's been ignored through iOS7, iOS8 and now, we're in iOS9. It's started to look and feel pretty outdated, and I got a little tired of that.
+StreetScout for iPhone hasn't had a major update in almost 2 years. It's been ignored through iOS7, iOS8 and now, we're in iOS9. It's started to look and feel pretty outdated, and I got a little tired of that.
 
 So, I started from scratch. It's a good excuse to learn Swift, and try out some interaction ideas that I wanted to try.
 
@@ -39,6 +43,12 @@ Finally, StreetScout currently assumes that you're walking somewhere. That's the
 
 In general I feel it's a nicer tool to use. There are also fewer custom theme bits, so it feels far more like an iOS app than before, and it'll hopefully age a little more gracefully this time (although, I'll hopefully keep it up to date a little more diligently too).
 
-If you don't have StreetScout installed, I urge you to [give it a look now on the App Store](http://streetscoutapp.com).
+If you don't have StreetScout installed, I urge you to [give it a look now on the App Store](https://itunes.apple.com/us/app/streetscout/id627693043?ls=1&mt=8).
 
 As always thanks for reading. Please lemme know if you have any feedback.
+
+{% include _figure.html src="/img/streetscout-2/streetscout-map.png" caption="Clean and shiny." %}
+
+### Next?
+
+Well, the StreetScout landing page needs updating, and the web app could do with a bit of modernisation - but it still works quite well. For now, I'm glad that at least this is done.
