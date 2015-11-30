@@ -31,7 +31,7 @@ StreetScout 1.x also featured home and work shortcuts, to help speed things up f
 
 ### So what has changed in StreetScout 2.0?
 
-StreetScout 2.0 doesn't feature the "alert me when I get there" function, nor does it have shortcuts for home, work, cafés, supermarkets, restaurants or ATMs.
+{% include _pull-right-image.html paragraph="StreetScout 2.0 doesn't feature the \"alert me when I get there\" function, nor does it have shortcuts for home, work, cafés, supermarkets, restaurants or ATMs." src="/img/streetscout-2/streetscout-map.png" %}
 
 What it *does* have is speed and simplicity. At the moment there's really only two screens: the map view and the list view. Map view is where you enter the destination ("Going to") and query ("Looking for"), and when the search has completed your route is shown with markers to represent the places. Tap one and it'll show you the distance off-route and whether it's open now or not. Although, you can also tell if it's open now by looking at the colour of the marker.
 
@@ -46,8 +46,6 @@ In general I feel it's a nicer tool to use. There are also fewer custom theme bi
 If you don't have StreetScout installed, I urge you to [give it a look now on the App Store](https://itunes.apple.com/us/app/streetscout/id627693043?ls=1&mt=8).
 
 As always thanks for reading. Please lemme know if you have any feedback.
-
-{% include _figure.html src="/img/streetscout-2/streetscout-map.png" caption="Clean and shiny." %}
 
 ### Next?
 

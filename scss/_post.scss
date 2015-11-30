@@ -50,6 +50,10 @@
 			@media (max-width: 960px) {
 				margin:$standard-margin 0 $standard-margin $standard-margin;
 			}
+
+			@media (max-width: 748px) {
+				float:none;
+			}
 		}
 
 		.pull-left {
@@ -69,6 +73,10 @@
 				border-bottom:1px solid $grey;
 				margin-bottom:$small-margin;
 				padding-bottom:$small-margin;
+			}
+
+			img {
+				width:100%;
 			}
 		}
 
