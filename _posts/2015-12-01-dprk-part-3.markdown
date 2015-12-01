@@ -20,6 +20,8 @@ The capital, Pyongyang, is filled with tourists and delegations. Over the past c
 
 In North Korea there are two famous flowers: Kimilsungia and Kimjongilia.  They're both flowered developed by botanists in Indonesia, apparently as a gift from the Indonesian president to the two Kims - they feature quite frequently in paintings, videos, and generally in fancy buildings which are liable to have flowers.
 
+{% include _figure.html src="/img/dprk-part-3/flowers-li.jpg" caption="Our main tour guide, Ms. Li, standing in front of a huge display of 김일성화/Kimilsungia (pink) and 김정일화/Kimjongilia (red)." %}
+
 This morning while we waited for the parade to happen (and to find out if we'd see it or not) we were to see a flower exhibit. Throughout the country, various groups such as governmental departments, regional governments, trade organisations, and even the tour company taking us around (Korea International Tourism Company or KITC) had made huge arrangements of these two flowers in honour of the leaders.
 
 To be honest, there's not a whole lot to be said about this exhibit. It was impressive, to be sure, but most of what I can say about it is best told through photographs.
@@ -30,13 +32,15 @@ After signing the guest book and thanking the staff for showing us the flowers a
 
 ## Hard work, with a dash of artistry
 
-Most people are familiar with the hammer and sickle which appears in so much communist iconography. The Soviets used it, the Chinese Communists used it, as did those in Vietnam, Cambodia, Cuba. All over the place. Often it represents the *party*, rather than the *country*, in a communist state. In Korea, this is true. But in Korea, the party logo includes not only the hammer and sickle, but a a brush, in between the two aggressive symbols of industry and agriculture. The brush symbolises art and culture, thought to be very important by the Workers Party of Korea. In fact, art in the form of cinema was a huge part of Kim Jong-il's plans to make North Korea a respected force on the world stage (at this, he failed).
+Most people are familiar with the hammer and sickle which appears in so much communist iconography. The Soviets used it, the Chinese Communists used it, as did those in Vietnam, Cambodia, Cuba. All over the place. Often it represents the *party*, rather than the *country*, in a communist state. In Korea, this is true. But in Korea, the party logo includes not only the hammer and sickle, but a calligraphy brush; a symbol of art and intellectualism in between the two aggressive symbols of industry and agriculture. Intellectuals are considered to be very important by the Workers Party of Korea.
 
 This iconography, being of three parts, is easily adapted to suit a three-dimensional model. That is quickly apparent in the Workers Party Monument, recently refurbished, sitting on the other side of the river from but facing the Mansudae statues.
 
-We were shown this impressive structure by a middle-aged lady in a Choson-ot. In South Korea, she probably would've been an ajumma - but here she was a kindly lady with a very, very polite accent who had a deep respect for this monument and the huge amount of work put into it.
+{% include _figure.html src="/img/dprk-part-3/workers-monument.jpg" caption="The towering workers party monument, respresenting workers, farmers and intellectuals." %}
 
-But our stop here did not last long. We were taken towards a building which we were told contains a photo gallery and bookshop. But on the way we stopped in a small statue shop where, in an attached sitting room, an old Korean man was explaining, in English, something about the war. I became quite captivated by his lecture and after about 5 minutes realised my entire tour group had gone. I was now hanging out with a different group. All people I'd never met.
+We were shown this impressive structure by a middle-aged lady in a *Choson-ot*. In South Korea, she probably would've been an ajumma - but here she was a kindly lady with a very, very polite accent who had a deep respect for this monument and the huge amount of work put into it.
+
+But our stop here did not last long. We were taken towards a building which we were told contained a photo gallery and bookshop. But on the way we stopped in a small souvenir shop where, in an attached sitting room, an old Korean man was explaining, in English, something about the war. I became quite captivated by his lecture and after about 5 minutes realised my entire tour group had gone. I was now hanging out with a different group. All people I'd never met.
 
 After panicking for a few seconds I realised that I was unsupervised for the first time. So, I was excited. I wandered around for a minute, looked at the monument again on my own and went behind an open door that probably wasn't meant for me (it was a supply closet, sorry). Soon, though, boredom overtook curiosity and I went to what looked like it was probably the entrance to the aforementioned gallery and bookshop. Luckily, it was. There was plenty of good art - not all party-related. But the most fascinating thing was the literature and DVDs available.
 
