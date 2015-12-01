@@ -106,9 +106,11 @@ Sooner or later, the sound of music and cheering began to float its way across t
 
 And we were missing out!
 
----
+{% include _figure.html src="/img/dprk-part-3/red-scarves.jpg" caption="These girls wore scarves rather than hats. I did see some boys with scarves, though, and some girls with hats. From what Ms. Li told me, there are two levels of Young Pioneer, and the scarves are for the older kids." %}
 
 By this point some of the tourists were getting a little impatient. We'd been waiting around a fair bit and didn't get to see the parade. However, what we did get was something which, in my opinion, is far more valuable: more freedom than ever before. All around us, the Koreans who *weren't* attending the parade were just wandering around in the square near the waterfront, often watching the red-capped children go by, having a picnic or just hanging out like us, trying to get a glimpse of the action happening across the river. It was a day off, after all. We were able to observe this all happening, wander around and even exchange pleasantries with a couple of people.
+
+{% include _figure.html src="/img/dprk-part-3/workers-monument-square.jpg" caption="A beautiful day for a stroll in the park in front of the Workers Party Monument" %}
 
 As the sun began to set and the air cooled, we were asked to start walking along the road going south, *Juche Tower Street*, past the monument known as "Tower of Juche Idea" (*Juche*, pronounced "Joo-chay", being the official ideology behind the North Korean Regime, perfected by Kim Il-sung and his successors). We saw the red-capped-and-scarved children, and even spotted a couple of precocious-looking youngsters with their caps worn backwards in an act of petty teenage defiance, who looked at us intimidatingly. Not even the uniforms of the Young Pioneers can suppress such natural rebelliousness.
 
@@ -120,7 +122,7 @@ I met a tour guide here, a North American man who ran a different tour company c
 
 But sooner or later, I got a little bored of waiting. It was at this point that I started wandering around and speaking to the locals.
 
----
+{% include _figure.html src="/img/dprk-part-3/kids-waving.jpg" caption="Excited for the parade, but a little bit shy." %}
 
 My first chat was with a group of boys (aged at most 8 years old) sitting and waiting for the parade on a raised part of the pavement, speaking to some women from Singapore. I told the boys my name was Daniel, and asked them their names. After a moment of surprise, one of them piped up and told me. I asked the other, and he looked shyly down at the ground. His friend egged him on, and he mumbled it under his breath. Soon, though, our little chat was over, as a police officer gave us a very understandable look of, "That's enough". So, I walked away.
 
@@ -129,6 +131,8 @@ Next, I stood for a while waiting for something to happen on the road. The crowd
 I eventually found myself on the other side of the road where the crowd was a little thinner. By now the vehicles were getting more interesting. Trucks with guns and soldiers driving by, and little minibuses spouting propaganda very loudly from speakers.
 
 I had my camera out, trying to get photos, but in the darkness it was difficult to make anything out and we were asked not to use any flashes.
+
+{% include _figure.html src="/img/dprk-part-3/flag-dusk.jpg" caption="This is one of the last photos I could take that night before it got too dark. Many people were carrying large flags like this on flagpoles, and waving them around." %}
 
 I was standing near a group of teenage boys, so I said hello. One said hello back, and asked where I was from. I told him from *Yeongguk* - England. A few moments of silence followed before he looked at my camera and asked how much it cost. I was a little shocked at this question, and had to take a moment to come up with an answer which made sense. I wasn't sure exactly how much £1 was in North Korean Won, so I gave him an answer in Euro, which most people I'd met so far understood. I told him, *I-baek-won yu-ro". 200 Euros. That was an understatement, but even at this he seemed very surprised. We didn't exchange many words after that, just a "nice to meet you" and "goodbye". But it was nice to be asked a question.
 
@@ -154,10 +158,14 @@ Outside of the bookshop earlier, there was a Karaoke machine for staff to pass t
 
 On the coaches, more Karaoke machines. Our guides were more than happy to give us acapella performances of "My Heart Will Go On" and the extremely apt "When Will My Life Begin" from Disney's *Tangled*.
 
-Our first dinner in a *proper* Korean food restaurant also featured a Karaoke machine.
+Our first dinner in a <em>proper</em> Korean food restaurant also featured a Karaoke machine.
+
+{% include _figure.html src="/img/dprk-part-3/bibimbap.jpg" caption="A small but very nice <em>Dolsot Bibimbap</em>, North Korea style." %}
 
 This was the best food we ate while in North Korea. Not only were we given a small bibimbap (one of my favourite Korean dishes) but we were also served something I'd enver encountered in South Korea: deep fried, medium-firm tofu covered in gochujang, the spicy Korean sauce. It was absolutely fantastic. In fact, thanks to the unwillingness of some of my fellow tourists, I had seconds.
 
 Towards the end of the meal is when the Karaoke began. Our hosts, dressed immaculately in *Choson-ot*, took turns singing some revolutionary tunes. At the end, at the suggestion of our guides, one of the other tourists bought her a bouquet of flowers; a small gesture to show our appreciation for having to sing that song, over and over again, in what appeared to be extremely uncomfortable clothing.
+
+{% include _figure.html src="/img/dprk-part-3/tofu.jpg" caption="Delicious deep fried tofu with gochujang." %}
 
 By the time it was all over, we were back on the coach. Exhausted, full, slightly overwhelmed. Time to rest - well, maybe just a little bit of Karaoke and billiards before bed. Not too late though. In the morning, we'd be stopping off on one very important part of what I call the "Pickled Leaders Tour".
