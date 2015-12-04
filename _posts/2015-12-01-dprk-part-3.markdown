@@ -2,12 +2,12 @@
 layout: post
 title: DPRK Part 3&#58; Larger than life
 tags: [travel,travel-exclusive,trip-2015,pyongyang]
-date_created: 01 December 2015
+date_created: 04 December 2015
 description: I destroyed it, and created it all over again.
 thumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-og.png"
 twitterCardType: summary_large_image
-location: Chiang Mai, Thailand
+location: Bangkok, Thailand
 comments: false
 time_to_read_estimate: 20
 ---

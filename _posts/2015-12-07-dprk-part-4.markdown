@@ -1,0 +1,96 @@
+---
+layout: post
+title: DPRK Part 3&#58; Pickled Leaders Tour
+tags: [travel,travel-exclusive,trip-2015,pyongyang]
+date_created: 07 December 2015
+description: A moat, a mausoleum, and a MacBook Pro.
+thumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-og.png"
+twitterCardType: summary_large_image
+location: Krabi, Thailand
+comments: false
+time_to_read_estimate: 20
+---
+
+October 11th was a day of mourning. On any such day, it's appropriate to dress respectfully, so that's what I did.
+
+## "Pickled Leaders Tour"
+
+Kim Il-sung, founder of the WPK and former president of the DPRK, died in 1994. His body was promptly preserved by Soviet embalming experts, the same people who embalmed Stalin and Lenin.
+
+Kim was put into the Kumgungsan Palace of the Sun, in a room maintaining the exact temperature needed to keep his body in perfect condition.
+
+{% include _figure.html src="/img/dprk-part-4/mausoleum-moat.jpg" caption="Not a bad place to be laid to rest. It's surrounded on the north and east (from where we entered) by - seriously - a very wide moat." %}
+
+Seventeen years later, Kim Jong-il, his son, also died. He, too, was embalmed. The palace was redesigned slightly, and a room equal in size to Kim the Elder's was made for Kim the Younger.
+
+Happily, we were all to be treated to a view of both of these men in their lying state. This, we soon learned, would take a very, very long time.
+
+{% include _figure.html src="/img/dprk-part-4/queue.jpg" caption="The never-ending funeral procession of Kim Il-sung continues as foreigners queue up, some for the second or third time." %}
+
+When we arrived we were put into a huge queue. Black limousines with black windows drove by with Russian flags, then more with Indonesian flags. We decided that the Russian and Indonesian delegations had just had their communion with The Kims.
+
+Now it was our turn. Into the cloakroom first - nothing can be taken in. Nothing. No phones, no wallets, no coins. They'd set off the metal detector. I wish I had photos of this part of the tour but sadly, I don't. Cameras weren't allowed. I did find some photos that others have taken online, but I don't know how they managed it.
+
+Next, along a moving walkway to view the "lake" (more moat) which flows around the palace.
+
+Continue: up some stairs, to another moving walkway. This one is thankfully lined not by a moat but by hundreds of photographs of the two leaders. Interesting photographs too. Despite instructions to remain quiet and contemplative, most can't help but make the odd comment.
+
+This walkway was like being part of a real-world Kim Jong-il Looking At Things. Exclusively, it also included a Kim Il-sung Looking At Things, which I don't believe exists on the web. It's much better than KJILAT.
+
+Kim the Elder, in these photos at least, has an air of charisma, authority and relaxedness around him. His son, however, exudes a feeling of boredom, reuctance and spite.
+
+Soon, we're done with the walkway. After a little more queueing, we're finally taken through a small hallway which puffs air at you. The idea is to blow dust off. Then we go into what felt like some kind of an airlock, and finally, into a large, high-ceilinged, darkened room with pillars, very little decoration, and a rectangular-shaped centrepiece surrounded by red velvet ropes.
+
+That centrepiece, as you probably guessed, was Kim Il-sung's body. There he lay, barely touched for 21 years, looking alive-yet-dead. Puffed up cheeks, immaculately-styled hair, covered partially by a blanket. I can't even remember what colour it was - and I can't tell you because naturally we weren't allowed to take photos.
+
+Before we were taken in they explained to us the procedure in this hall: bow once to his right, then again to his left, and then finally, before leaving, to his front. And when I say bow, I mean *bow*. Like, 90° if possible.
+
+What I do remember is how much he looked (and I've said this before) like his grandson. In person, that is. I haven't seen a lot of footage of Kim Il-sung movign around, really just photographs. But to be able to compare his face in 3D to that of his grandson's in moving picture furthers my theory that Kim Jong-un is in fact simply a clone of the original leader. \[sic\]
+
+Next, we were to move onto the next room. This involved walking through a vast hall with many large and mysterious doors. We skipped past them, and headed through yet another dust-blower-cum-airlock, into yet another darkened room.
+
+Let me rewind a little: When we were looking at Kim Il-sung, I felt very little in the way of "you were a terrible person". For sure, the first leader was a terrible person and did terrible things, but the crossover between his life and mine wasn't enough for me to take any notice in him. I never heard of him on the news, and rarely do refugees from North Korea talk about his rule. It feels like a long time ago, and it has been over 20 years.
+
+Seeing Kim Jong-il in the flesh, however, was eerie. It roused in me a strange feeling of contempt which I suppose comes from years of negative portrayal in the media, books that I've read and accounts from refugees. Here lay a man whose decisions had led to the suffering of millions, in as recent times as the 21st century. How could the body of such a tyrant be treated with so much reverence? It's a tragedy that the people here either don't know the extent of his cruelty, or can't express it out loud. Nevertheless, it was an interesting sight. I'm glad we got to do this.
+
+<blockquote class="large center"><span markdown="1">Kim Jong-il's carriage sported a very fetching Macbook Pro.</span></blockquote>
+
+After the bodies had both been bowed before, we were taken to see their respective vehicles. They both had different versions of the same Mercedes-Benz, and each had a personal train carriage. Kim Jong-il's carriage sported a very fetching Macbook Pro (you heard it here first, folks: Kim Jong-il was an Apple fan!), but his father's train was much more modest, while still managing to feature nice wooden armchairs with flush leather seats and a large wooden desk.
+
+Allegedly, Kim Jong-il's death occurred while riding in his carriage. Perhaps even while typing out an email on his Macbook. I suppose we'll probably never know.
+
+After our tedious 3-hour Pickled Leaders Tour we were finally released, and driven back into town.
+
+{% include _figure.html src="/img/dprk-part-4/kimilsung-palace.jpg" caption="Kim Il-sung Square, the day after the enormous parades. You can see the lines and marks on the ground which had been used to coordinate different groups in their movements. Oh, and that's our camera team on the right." %}
+
+We were finally able to visit Kim Il-sung square, and it was an interesting sight in the aftermath of yesterday's celebrations. Lines all over the streets and road for coordinating movements. It felt a bit like what a festival feels like when it's finished, but there was no litter, somehow.
+
+While here, we visited a shop, and walked by a couple of small food stores with a few customers buying ingredients and snacks - they didn't have much, but they did have a few customers.
+
+{% include _figure.html src="/img/dprk-part-4/kimchi.jpg" caption="Kimchi is loved by North and South Koreans alike, though sadly I suspect in much less supply here in the North." %}
+
+We also visited the foreign-language bookstore, which featured many of the same books available in the previous day's bookstore and gallery, but also some prints and hand-painted art, badges, folk art, and general tourist souvenir fare.
+
+{% include _figure.html src="/img/dprk-part-4/roadside-propaganda.jpg" caption="Some roadside propaganda. I tried to translate the captions of each, but it's pretty hard: On the left, 'Succeed unconditionally until the end.' and on the right 'Advance the banner of the three revolutions' or possibly 'three revolutionary ideas'?" %}
+
+Next, we stopped for a BBQ lunch. Not quite the same as the equivalent in the South but still nice.
+
+Next, it was time for a history lesson! We were taken to the war museum, recently extended in size (by about 100%!) full of modern facilities and sitting next to the famous USS Pueblo.
+
+The Pueblo is a small US "Spy" Ship captured by the North Korean Navy in the 1990s, a fact with they're very keen to make clear to us during the tour of the ship. Bullet holes are outlined and key areas are turned into displays of captured weapons and gear.
+
+Photographs of US Naval Officers writing confessions about their alleged spying activities, as well as the original confession papers themselves, are on display for all to see.
+
+But the propaganda doesn't end there. Next, we're taken into the building of the museum. Again, no photos here - sorry.
+
+## Dancing
+
+## NEXT DAY
+
+## Airport
+
+* Actually quite modern
+* Even uses Konglish (Ko-pi)
+* Managed to call my mum from a payphone - first contact with outside world
+* Korean trading books
