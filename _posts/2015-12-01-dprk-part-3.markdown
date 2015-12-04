@@ -20,21 +20,23 @@ The capital, Pyongyang, is filled with tourists and delegations. Over the past c
 
 ## Flowers
 
-In North Korea there are two famous flowers: Kimilsungia and Kimjongilia.  They're both flowered developed by botanists in Indonesia, apparently as a gift from the Indonesian president to the two Kims - they feature quite frequently in paintings, videos, and generally in fancy buildings which are liable to have flowers.
+In North Korea there are two famous flowers: Kimilsungia and Kimjongilia. Both developed by botanists in Indonesia--apparently as a gift from the Indonesian president to the first two Kims--they feature quite frequently in paintings, videos, and basically wherever one might find flowers.
 
 {% include _figure.html src="/img/dprk-part-3/flowers-li.jpg" caption="Our main tour guide, Ms. Li, standing in front of a huge display of 김일성화/Kimilsungia (pink) and 김정일화/Kimjongilia (red)." %}
 
-This morning while we waited for the parade to happen (and to find out if we'd see it or not) we were to see a flower exhibit. Throughout the country, various groups such as governmental departments, regional governments, trade organisations, and even the tour company taking us around (Korea International Tourism Company or KITC) had made huge arrangements of these two flowers in honour of the leaders.
+As part fo the 70th Anniversary celebrations we attended a Kimjongilia and Kimilsungia exhibit. Throughout the country, various governmental departments, regional governments, trade organisations, and even the tour company taking us around (Korea International Tourism Company or KITC) had made huge arrangements of these two flowers in honour of the leaders, and they were all on display here.
 
-To be honest, there's not a whole lot to be said about this exhibit. It was impressive, to be sure, but most of what I can say about it is best told through photographs.
+{% include _figure.html src="/img/dprk-part-3/flowers-syria.jpg" caption="One exhibit featured flags from various countries and international organisations such as this one from the Syrian President's Office, placed weirdly close to the Cuban flag and the EU food security office's EU flag. The mind boggles." %}
 
 One interesting thing which happened at the exhibit was when I asked one of my tour guides what the name of the traditional Korean dress is. In South Korea, it's called Hanok. Most traditional things in South Korea start with Han. Unsurprisingly, the North Korean dialect calls traditional clothes Choson-ot. There we see the familiar prefix "Choson" which I mentioned in a previous post about the name of the country and of the alphabet.
 
-After signing the guest book and thanking the staff for showing us the flowers and explaining their meaning, we headed off. Still plenty to do to fill the time before the parade. We were going to see one of Pyongyang's greatest monuments!
+{% include _figure.html src="/img/dprk-part-3/flowers-leaders.jpg" caption="As you enter the exhibit you're greeted by this enormous father-and-son portrait, which I promise you, an image seen time and time again in throughout Pyongyang." %}
+
+The flower exhibit, while impressive, was quite repetitive. The same two flowers can only be arranged in so many ways. We signed the guest book and headed off. There was still plenty to do to fill the time before the parade. We were going to see one of Pyongyang's greatest monuments.
 
 ## Hard work, with a dash of artistry
 
-Most people are familiar with the hammer and sickle which appears in so much communist iconography. The Soviets used it, the Chinese Communists used it, as did those in Vietnam, Cambodia, Cuba. All over the place. Often it represents the *party*, rather than the *country*, in a communist state. In Korea, this is true. But in Korea, the party logo includes not only the hammer and sickle, but a calligraphy brush; a symbol of art and intellectualism in between the two aggressive symbols of industry and agriculture. Intellectuals are considered to be very important by the Workers Party of Korea.
+Most people are familiar with the hammer and sickle which appears in so much communist iconography. The Soviets used it, the Chinese Communists used it, as did those in Vietnam, Cambodia, Cuba. All over the place. Often it represents the *party*, rather than the *country*, in a communist state, which is true for North Korea. But in North Korea, the party logo includes not only the hammer and sickle, but a calligraphy brush; a symbol of art and intellectualism in between the two aggressive symbols of industry and agriculture. Intellectuals are considered to be very important by the Workers Party of Korea.
 
 This iconography, being of three parts, is easily adapted to suit a three-dimensional model. That is quickly apparent in the Workers Party Monument, recently refurbished, sitting on the other side of the river from but facing the Mansudae statues.
 
@@ -42,17 +44,17 @@ This iconography, being of three parts, is easily adapted to suit a three-dimens
 
 We were shown this impressive structure by a middle-aged lady in a *Choson-ot*. In South Korea, she probably would've been an ajumma - but here she was a kindly lady with a very, very polite accent who had a deep respect for this monument and the huge amount of work put into it.
 
-But our stop here did not last long. We were taken towards a building which we were told contained a photo gallery and bookshop. But on the way we stopped in a small souvenir shop where, in an attached sitting room, an old Korean man was explaining, in English, something about the war. I became quite captivated by his lecture and after about 5 minutes realised my entire tour group had gone. I was now hanging out with a different group. All people I'd never met.
+Our stop here did not last long. We were taken towards a building which we were told contained a photo gallery and bookshop. But on the way we stopped in a small souvenir shop where, in an attached sitting room, an old Korean man was explaining, in English, something about the war. I became quite captivated by his lecture and after about 5 minutes realised my entire tour group had gone. I was now hanging out with a different group. All people I'd never met.
 
 {% include _figure.html src="/img/dprk-part-3/dvds.jpg" caption="Clean water is a genuine problem in many parts of North Korea, which is what I suspect prompted the creation of this kids' film." %}
 
 {% include _pull-right-image.html paragraph="After panicking for a few seconds I realised that I was unsupervised for the first time. So, I was excited. I wandered around for a minute, looked at the monument again on my own and went behind an open door that probably wasn't meant for me (it was a supply closet, sorry)." src="/img/dprk-part-3/kim-jong-il-book.jpg" %}
 
-Soon, though, boredom overtook curiosity and I went to what looked like it was probably the entrance to the aforementioned gallery and bookshop. Luckily, it was. There was plenty of good art - not all party-related. But the most fascinating thing was the literature and DVDs available.
+Soon, though, boredom overtook curiosity and I went to what looked like it was probably the entrance to the aforementioned gallery and bookshop. Luckily, it was. There was plenty of good art - not all party- or leader-related. But the most fascinating thing was the literature and DVDs available.
 
 Best-sellers such as *On Enhancing the Party's Role* by Kim Jong-il, *Let us learn Korean* by Anonymous and, my favourite, *Let us give a strong impetus to the three revolutions and effect a fresh advance in production*, also by Kim Jong-il, were available at this store. Also available here on DVD were hit children's made-for-TV movies *The Youngest Bear* and *Two Friends Drink Mineral Water*.
 
-Of course, most of these books weren't books, but transcripts of the leaders' speeches: they were tiny little books to carry around and remind you of the current or past objective of the party. There were plenty by Kim Il-sung and Kim Jong-un, too.
+Of course, most of these books weren't works of literature, but transcripts of the leaders' speeches: they were small enough to carry around and remind you of the current or past objective of the party. There were plenty by Kim Il-sung and Kim Jong-un, too.
 
 {% include _figure.html caption="Yes, let's." src="/img/dprk-part-3/learn-korean.jpg" %}
 
@@ -80,7 +82,7 @@ Instead, we were served our lunch. This was hugely exciting for me because our l
 
 Rishi and I managed to order some draught beer too. This was neither the first nor the last time that speaking Korean would get us something a little bit extra on top of what we were already getting. Until now, we'd really only been drinking bottles. And boy, was the draught good.
 
-We enjoyed our lunch, and enjoyed watching Koreans splash about in the pool and speed down the slide. Some went for coffee, others played billiards, and others explored the pool areas, inside and out.
+We enjoyed our lunch, and enjoyed watching people splash about in the pool and speed down the slide. Some went for coffee, others played billiards, and others explored the pool areas, inside and out.
 
 As we waited, our situation was explained to us in disjointed parts and the picture soon became clear. The tourists, for some reason, were being kept away from the parade preparation. The general feeling was that because the roads were so busy, it would be disruptive for us to be taken around in our big tour coaches.
 
