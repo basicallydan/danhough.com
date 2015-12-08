@@ -92,7 +92,35 @@ The film came next. I saw some slightly questionable videos about Korean history
 
 <!-- TRY TO REMEMBER THE FILM -->
 
-<!-- TRAM -->
+## Tram
+
+Pyongyang has three forms of public transportation: an underground railroad (the Metro!), a trolleybus system and a tram system. We were told we'd get to use two of them--the metro and the tram--and the tram came first.
+
+In what seemed like an exercise in futility, we drove from the center of the city to the outskirts, at a depot where one of the trams was waiting to take us back into the center of the city. They'd taken it out of service for the day just for us (sorry Pyongyang!!) - apparently it's not so common for tourists to use the tram, and the metro is far more popular. It was nice though. It felt pretty much like any tram system I've ever used that wasn't constructed after the 1990s - kinda clunky, largely made of metal and wood, but quick and smooth enough.
+
+{% include _figure.html src="/img/dprk-part-4/nick-tram.jpg" caption="Sadly, I failed to get a photo of Nick reading the local newspaper the <em>Rodong Sinmun</em> on the tram, since I'd left my copy in the hotel. But here he is on his way to the office on the daily commute anyway." %}
+
+As we made our way through town, it was a rare opportunity to watch the city go by from a relatively low vantage point and much smoother than on the coach. Along the way, we saw our first drunk-and-slightly-disorderly North Korean man walking along the streets. It's a sight which one expects to find in almost any city in the world at least a couple of times, and it was in a strange way quite refreshing to see in Pyongyang. Clearly someone had had a little too much soju to celebrate Party Foundation Day.
+
+Our destination on the tram was a supermarket.
+
+## You never give me your money
+
+
+
+I'd already obtained some, which I found lying around (seriously) near the tram depot, but it wasn't a lot. I was keen to get my hands on some real money, and to take it out of the country which again, strictly speaking, is not allowed. Why? Two reasons: first, it's a good souvenir. Secondly, I'm bullish on North Korean Won. It's the currency of the future, so I'm making investments now while it's cheap. \[sic\].
+
+{% include _pull-right.html title="Funny paper" paragraph="Strictly speaking, foreigners aren't allowed to get their hands on the local currency, North Korean Won. The supermarket is one of the few places--the only place on our tour, in fact--where it's possible to exchange US Dollars, Euros, or Chinese Yuan Remnimbi for North Korean Won." text="Won, by the way, is a word used to mark amounts of money. So in Korea when you're being quoted an amount of money, e.g. 300 won, they'll say Sam-baek-won, where Sam-baek is 300 and won is the money. Naturally. What's interesting is when North Korean vendors or cashiers quote prices in Euro or Remnimbi. For 10 Euros, rather than saying Sip-eu-ro, where Sip is 10, they'll say Sip-won-eu-ro. 10won Euro. So it seems that the particle for counting money (won) is used regardless of the currency, but also in place of using the name of the local currency." %}
+
+This supermarket was more like a department store than a supermarket, though, kind of like a Tesco Extra back in the UK. Downstairs were the groceries and a few electronic goods, and upstairs were the clothes.
+
+I grabbed some money, went in and started shopping. I found a mixture of mainly Chinese-produced goods and Korean-produced goods, and even a few of things from Indonesia and Thailand. My objective was to buy some Gochujang (I succeeded!), some Kimchi (I failed) and some kind of North Korean Snack (I bought popcorn). I did also get some North Korean Cola, but sadly it didn't fit my tastebuds quite as well as Coke does.
+
+It was seriously busy at the supermarket today. This was an instance where I suspected that this isn't a usual occurrence, and that perhaps for Foundation Day they'd brought in loads of extra stuff for sale and people were clamouring to stock up on good food. It was really, really busy. But I'm happy to report that North Korean queueing culture is very organised, which pleased me greatly.
+
+Curiously, while I waited in the queue, two young women stood nearby, looking at me. One of them stared *non-stop* for the ten minutes we were waiting in line, with an odd grin on her face, while her friend embarassingly looked away. In this crowd, we tourists were hugely outnumbered by locals, and we stood out like a sore thumb. Most of them obviously were not expecting us, and the novelty was either hilarious or confusing to many of them.
+
+Nevertheless, I found people in the supermarket to be generally helpful and patient. I managed to find the toilet with the help of an old man (the nicest old man I'd come across so far - most of them looked at me scornfully) and the cashier, although looking a little bit tired and fed up, allowed me to fumble with the money for a bit longer than I would've liked.
 
 <!-- DANCING -->
 
