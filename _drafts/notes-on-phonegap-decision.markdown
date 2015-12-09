@@ -1,2 +1,0 @@
-* Getting an app started in phonegap is very easy, and you will quickly have a basic app running on iOS and android
-* The difficulty comes when you are trying to do more complex and useful things, such as sending push notifications. Since there is no one-size-fits-all solution to make the behaviour the same on each device, some individual tinkering must be done.
