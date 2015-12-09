@@ -1,0 +1,35 @@
+It's no secret that packing it all up and travelling around cheaper parts of the world is fairly straightforward for many people living in the developed countries as long as they have few or no dependents. With that in mind there's no need for me to convince you to do it. Instead this is a post for:
+
+a) People who have already decided they're gonna travel and wanna get some tips/ideas
+b) Trip planning nerds
+
+I'm a trip planning nerd. I'm also someone who has decided to take more medium-to-long-term trips. Before this one, I read a bunch of posts about how people planned their trip, packed their bags (I mean literal descriptions of how they packed their bags and what they took) and what did or didn't go "to plan". I enjoyed them.
+
+**To give you some background**, I've just arrived home from a 5½ trip around Asia which started in Japan and concluded, after several stops, in Singapore. I travelled quite light, but chose not to go "full minimal" for reasons I'll outline in this post. This is the technical, behind-the-scenes story behind this trip: no beaches,  or spectacular sunsets. Just bookings, 
+
+## Why plan?
+
+A lot of people told me "it sounds like you're planning this a lot" in a concerned or judgemental tone of voice. I told them it was really just a rough guideline. I knew from the beginning that many of my plans would either change dramatically or be abandoned completely, but I still enjoy the process of making plans and for the few things which I really, *really* wanted to do, having my plans execute properly is very satisfying.
+
+I also had limited funds (though I wasn't sure *how* limited at the start of the planning phase) and a self-imposed limited timeframe: from the end of my lease (July 4th 2015) to a few days before Christmas (December 21st 2015). In any project with limited resources, it's useful to project how those resources are going to be used so that one can stick to a budget in the short-term.
+
+However, given that I expected things to take different paths, I knew I needed to come up with a planning method which could easily adapt to the changing projects. The first thing I did, back in December 2014 when I hadn't even decided it was going to happen, was create a spreadsheet.
+
+## Of course you made a spreadsheet...
+
+If I look at the first revision in December 2014, it was an ambitious plan. I hadn't really thought through the come-back-at-Christmas plan yet, and I was aiming to spend 7½ months on the road, first going to the USA then to Asia. This was a terrible idea for reasons I won't go into, and after leaving the spreadsheet alone for a month I came back to it again and abandoned that idea, instead breaking the trip into two parts: 2015 and 2016. In 2015, I'd go to Asia, and *maybe* I'd do the USA in 2016.
+
+The important thing is the spreadsheet, though. Each row represents a journey from one city or town to another, and the sheet had 12 columns. To be clear, when I say **trip** I mean the whole trip, and when I say **journey** I mean the journey between one place and another.
+
+* **Origin**: Where the journey starts. The first one would be *London*.
+* **Destination**: Where the journey ends. In other words, one of the places I was planning to spend more than an hour or so at. The criteria for counting something as a destination isn't scientific, it's just whether it feels useful to put into the spreadsheet or not.
+* **Method of Travel**: How will I do this? Plane? Train? Bus? Boat? This was important, because I wanted to get a good spread of different transportation methods, and in general try not to spend too much time on planes if possible. I like going around by train and boat, particularly.
+* **Price**: How much will this journey cost? This was for tallying up at the end.
+* **Date**: When will the journey happen?
+* **Duration of travel (hours)**: How long will this journey take?
+* **Duration of stay (days)**: A calculated value which is determined by the date of this journey, the duration of the journey, and the date of the *next* journey. This was the key feature of the spreadsheet whcih made it useful to me.
+* **Visa Info**: A useful way to keep track of what the visa requirements were for me. I eventually got rid of this column.
+* **Miles**: So I can tally up how far I travelled in miles
+* **Kilometres**: Calculated from miles.
+* **Carrier**: Who will take me on this journey? Which airline or bus company?
+* **Link**: URL of a travel site search page or blog post about how to get somewhere by coach or train.
