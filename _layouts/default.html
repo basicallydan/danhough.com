@@ -35,12 +35,10 @@
 		{% endif %}
 		<meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
 		<link rel="alternate" type="application/atom+xml" title="ATOM Feed for danhough.com" href="/atom.xml" />
-		<link href="http://fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
 		{% include meta-images.html %}
 
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<script type="text/javascript" src="/js/jquery-2.0.3.min.js"></script>
-		<script type="text/javascript" src="/js/html5shiv.min.js"></script>
 	</head>
 
 	<body class="cf">
@@ -63,6 +61,8 @@
 
 		{{ content }}
 
+		<script type="text/javascript" src="/js/jquery-2.0.3.min.js"></script>
+		<script type="text/javascript" src="/js/html5shiv.min.js"></script>
 		<script type="text/javascript" src="/js/main.js"></script>
 	</body>
 </html>
