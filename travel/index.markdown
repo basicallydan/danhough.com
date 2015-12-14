@@ -2,7 +2,7 @@
 layout: page
 title: Tokyo - Seoul - Singapore, 2015
 description: From July 2015 until December 2015 I will be on a nomadic journey through Asia - this is my itinerary.
-lastModified: Thu, 02 August 2015 13:30:00 KST
+lastModified: Thu, 14 Dec 2015 19:30:00 KST
 thumbnail: "!SITE_URL!/img/asia-travel-card.png"
 twitterCardType: summary_large_image
 ---
@@ -98,22 +98,41 @@ This is one of the places that most people rave about when I tell them about my 
 
 A convenient first stop in south-east Asia, from here I can take a train up to Hanoi (I like train trips). Once again, my knowledge of this place is very limited, so if you can help me in that regard, please <a href="mailto:dan@danhough.com?subject=Meet+me+in+Hoi+An">get in touch</a>.
 
-### 3rd November 2015 - 19 December 2015
+### 3rd November 2015: Hanoi, Vietnam
 
-The next few destinations aren't decided yet and are quite flexible. While I'm interested in meeting up with people in this time, it's going to be harder because travel will be harder to predict. I'll be taking boats, planes, trains, buses and tuk-tuks during this leg of the journey, and I expect it'll be a lot less sitting around with a lot more walking than before. It's going to be very exciting indeed :smile:
+### 6th November 2015: Cat Ba Island, Vietnam
 
-* Hanoi, Vietnam
-* Vientiane, Laos
-* Luang Prabang, Laos
-* Chiang Mai, Thailand
-* Bangkok, Thailand
-* Ko Chang, Thailand
-* Phnom Penh, Cambodia
-* Siem Reap, Cambodia
-* Ho Chi Minh City, Vietnam
-* Singapore
+### 11th November 2015: Siem Reap, Cambodia
 
-### 21st December 2015: London
+### 15th November 2015: Phnom Penh, Cambodia
+
+### 17th November 2015: Kampot, Cambodia
+
+### 22nd November 2015: Bangkok, Thailand
+
+### 23rd November 2015: Phitsanluok, Thailand
+
+### 24th November 2015: Chiang Mai, Thailand
+
+### 27th November 2015: Pai, Thailand
+
+### 30th November 2015: Chiang Mai, Thailand
+
+### 3rd-4th December 2015: Bangkok, Thailand
+
+### 4th-5th December 2015: Ao Nang, Thailand
+
+### 8th December 2015: Koh Lanta, Thailand
+
+### 14th December 2015: Koh Lipe, Thailand
+
+### 16th December 2015: Penang, Malaysia
+
+### 17th December 2015: Kuala Lumpur, Malaysia
+
+### 19th December 2015: Singapore
+
+### 20th-21st December 2015: London, United Kingdom
 
 I'll finally be flying back home from Singapore to London on the 20th to arrive on the 21st. It's only days before a national holiday which I like to spend with my family: Christmas. I expect it'll be a harsh change from Singapore's warm (~30°C) climate in December to South England's cold (~6°C) but I also expect I'll be quite pleased with that by then. Bring it on!
 
