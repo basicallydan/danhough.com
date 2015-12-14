@@ -1,11 +1,11 @@
 ---
 layout: post
-title: DPRK Part 4&#58; These are the ways of my people
+title: DPRK Part 4&#58; The ways of my people
 tags: [travel,travel-exclusive,trip-2015,pyongyang]
 date_created: 14 December 2015
 description: The fourth in a series of posts about the world's most secretive country, North Korea. The contents may surprise you.
-thumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-tw.png"
-ogthumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-og.png"
+thumbnail: "!SITE_URL!/img/dprk-part-4/dprk-part-4-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/dprk-part-4/dprk-part-4-thumbnail-og.png"
 twitterCardType: summary_large_image
 location: Koh Lipe, Thailand
 comments: false
