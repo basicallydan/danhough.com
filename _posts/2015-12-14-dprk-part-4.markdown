@@ -72,13 +72,13 @@ While here, we visited a shop, and walked by a couple of small food stores with 
 
 We also visited the foreign-language bookstore, which featured many of the same books available in the previous day's bookstore and gallery, but also some prints and hand-painted art, badges, folk art, and general tourist souvenir fare.
 
-{% include _figure.html src="/img/dprk-part-4/roadside-propaganda.jpg" caption="Some roadside propaganda. I tried to translate the captions of each, but it's pretty hard: On the left, 'Succeed unconditionally until the end.' and on the right 'Advance the banner of the three revolutions' or possibly 'three revolutionary ideas'?" %}
-
 Next, it was time for a history lesson! We were taken to the war museum, recently extended in size (by about 100%!) full of modern facilities and sitting next to the famous USS Pueblo.
 
 The Pueblo is a small US "Spy" Ship captured by the North Korean Navy in the 1990s, a fact with they're very keen to make clear to us during the tour of the ship. Bullet holes are outlined and key areas are turned into displays of captured weapons and gear.
 
 Photographs of US Naval Officers writing confessions about their alleged spying activities, as well as the original confession papers themselves, are on display for all to see.
+
+{% include _figure.html src="/img/dprk-part-4/war-museum-outside.jpg" caption="The war museum in Pyongyang, depicting a revolutionary soldier raising the flag of the DPRK. Our cameraman captures the moment we arrive, just as he captures all moments." %}
 
 {% include _pull-right.html title="My museum's bigger than yours" paragraph="But the propaganda doesn't end there. Next, we're taken into the building of the war museum. Again, no photos here - sorry." text="One of the most interesting things about visiting North Korea so soon after South Korea is in drawing parallels between the two. Seeing how each side depicts the conflict is especially interesting, and Seoul's War-related Exhibits also has some moments of dramatised anti-communist vitriol. Nevertheless, South Korea is a much, <em>much</em> more balanced country when it comes to this subject." %}
 
@@ -92,15 +92,21 @@ Still, we all knew this would happen, so we moved on. We were shown a few relics
 
 Also, the museum coffee was the best I had in North Korea.
 
-## Tram
+{% include _figure.html src="/img/dprk-part-4/war-museum-guide.jpg" caption="'Ten dollars per photo!' she joked before posing. This is our war museum guide, who took us around the <em>Pueblo</em> and the museum itself." %}
+
+## The Tram
 
 Pyongyang has three forms of public transportation: an underground railroad (the Metro!), a trolleybus system and a tram system. We were told we'd get to use two of them--the metro and the tram--and the tram came first.
 
+{% include _figure.html src="/img/dprk-part-4/tram-on-tracks.jpg" caption="Our tram awaiting its driver at the depot. They'd put this one aside,just for us, today." %}
+
 In what seemed like an exercise in futility, we drove from the center of the city to the outskirts, at a depot where one of the trams was waiting to take us back into the center of the city. They'd taken it out of service for the day just for us (sorry Pyongyang!!) - apparently it's not so common for tourists to use the tram, and the metro is far more popular. It was nice though. It felt pretty much like any tram system I've ever used that wasn't constructed after the 1990s - kinda clunky, largely made of metal and wood, but quick and smooth enough.
 
-{% include _figure.html src="/img/dprk-part-4/nick-tram.jpg" caption="Sadly, I failed to get a photo of Nick reading the local newspaper the <em>Rodong Sinmun</em> on the tram, since I'd left my copy in the hotel. But here he is on his way to the office on the daily commute anyway." %}
+{% include _figure.html src="/img/dprk-part-4/tram-nick.jpg" caption="Sadly, I failed to get a photo of Nick reading the local newspaper the <em>Rodong Sinmun</em> on the tram, since I'd left my copy in the hotel. But here he is on his way to the office on the daily commute anyway." %}
 
 As we made our way through town, it was a rare opportunity to watch the city go by from a relatively low vantage point and much smoother than on the coach. Along the way, we saw our first drunk-and-slightly-disorderly North Korean man walking along the streets. It's a sight which one expects to find in almost any city in the world at least a couple of times, and it was in a strange way quite refreshing to see in Pyongyang. Clearly someone had had a little too much soju to celebrate Party Foundation Day.
+
+{% include _figure.html src="/img/dprk-part-4/drunk-man.jpg" caption="A rare sight: a drunk man lays on the streets in Pyongyang. Other pedestrians stare. Someone's had a little too much soju." %}
 
 Our destination on the tram was a supermarket.
 
@@ -110,9 +116,11 @@ Our destination on the tram was a supermarket.
 
 I'd already obtained some, which I found lying around (seriously) near the tram depot, but it wasn't a lot. I was keen to get my hands on some real money, and to take it out of the country which again, strictly speaking, is not allowed. Why? Two reasons: first, it's a good souvenir. Secondly, I'm bullish on North Korean Won. It's the currency of the future, so I'm making investments now while it's cheap. \[sic\].
 
-This supermarket was more like a department store than a supermarket, though, kind of like a Tesco Extra back in the UK. Downstairs were the groceries and a few electronic goods, and upstairs were the clothes.
+This supermarket was more like a department store than a supermarket, though, kind of like a Tesco Extra back in the UK. Downstairs were the groceries and a few electronic goods, and upstairs were the clothes. I'm sorry to say that here, too, we were asked not to take photos. Some other tourists broke this rule and weren't even told off, so I suspect this was more of a courtesy request. Imagine if someone who didn't even speak your language came into your supermarket and started taking photos of you doing your weekly shop - most were happy not to take photos.
 
-I grabbed some money, went in and started shopping. I found a mixture of mainly Chinese-produced goods and Korean-produced goods, and even a few of things from Indonesia and Thailand. My objective was to buy some Gochujang (I succeeded!), some Kimchi (I failed) and some kind of North Korean Snack (I bought popcorn). I did also get some North Korean Cola, but sadly it didn't fit my tastebuds quite as well as Coke does.
+{% include _figure.html src="/img/dprk-part-4/money-korea-china.jpg" caption="Old friends together again: Kim's jolly Santa-like grin contrasts with Mao's wry, knowing smile, but both men headed personality cults." %}
+
+I traded some Euros for some Won, went in and started shopping. I found a mixture of mainly Chinese-produced goods and Korean-produced goods, and even a few of things from Indonesia and Thailand. My objective was to buy some Gochujang (I succeeded!), some Kimchi (I failed) and some kind of North Korean Snack (I bought popcorn). I did also get some North Korean Cola, but sadly it didn't fit my tastebuds quite as well as Coke does.
 
 It was seriously busy at the supermarket today. This was an instance where I suspected that this isn't a usual occurrence, and that perhaps for Foundation Day they'd brought in loads of extra stuff for sale and people were clamouring to stock up on good food. It was really, really busy. But I'm happy to report that North Korean queueing culture is very organised, which pleased me greatly.
 
@@ -160,6 +168,8 @@ I stood next to Koryo Tour guide Simon on the train, and next to us were two ver
 
 Finally we reached our destination: Kaeseon station.
 
+{% include _figure.html src="/img/dprk-part-4/metro-kim-il-sung.jpg" caption="Hey look, it's Kim Jong-un's statue! Wait, no - that's his grandfather. Uncanny." %}
+
 {% include _pull-right.html title="Trainspotting" paragraph="At the back of the enormous platform hall stood a huge gold statue of Kim Il-sung, gesturing to his hard-working commuter comrades as they wait for their trains." text="Information about the Pyongyang Metro is quite <a href=\"https://en.wikipedia.org/wiki/Pyongyang_Metro\">readily available on Wikipedia</a> if you'd like to find out more." %}
 
 I now had the opportunity to chat with our newer, cynical guide from KITC. She asked me about where I'm from and what I do so I told her. She also asked where I learned to speak Korean.
@@ -167,6 +177,8 @@ I now had the opportunity to chat with our newer, cynical guide from KITC. She a
 Until then I'd been telling people, "in England". But I decided to tell her the truth here, that I learned in Seoul, and that I had visited last month. "Why did you want to go there?" she asked me. "I was curious," I told her.
 
 I moved the conversation on, and asked her how long she'd been a guide. Five years, she told me. Did she enjoy it? Not really, she said. It can be quite boring. At least you get to meet lots of people from other countries, I said. She acknowledged this benefit but it didn't seem to matter that much to her. I asked her what she'd rather do. "I don't know..." she said. I wanted to find out more, but we reached the end of the escalator. "You have ten minutes until we go!" she told us.
+
+{% include _figure.html src="/img/dprk-part-4/traffic-woman.jpg" caption="One of Pyongyang's famous 'traffic girls'. Cars are becoming more and more common in the capital and some predict that these women will eventually need to be replaced by automated lights to deal with the increase in traffic." %}
 
 Back at street level, the area I now knew was known as Kaeseon was buzzing. Loads of people hanging around, just loitering after work with their friends. Bizarrely, there was a shooting range where kids and adults shot plastic pellets. By attention was stolen quickly, though, by something I'd been eager to try but didn't see any opportunities for until now. A food stall.
 
@@ -248,17 +260,25 @@ However, she did tell me that they were unmoved by the performance by the Chongb
 
 Most of us in the regular ol' tourist group enjoyed the concert though, to varying degrees, and were happy to have been able to see something so rare and unusual. We got on our buses, tired and ready for bed, and wondering what had been happening in the world since we cut ourselves off a few days earlier. This was our final night in the Yanggakdo hotel, and many of us would be leaving by plane and arriving in relatively well-connected Beijing the following afternoon.
 
-## Back in the 
+{% include _figure.html src="/img/dprk-part-4/roadside-propaganda.jpg" caption="Some roadside propaganda. I tried to translate the captions of each, but it's pretty hard: On the left, 'Succeed unconditionally until the end.' and on the right 'Advance the banner of the three revolutions'?" %}
+
+## Back in the PRC
 
 October 12th, our final day in North Korea, was a very early start. Rushing to shiny new Pyongyang Airport, we exchanged farewells with new friends and fellow tourists.
 
-The check-in process was surprisingly easy. Although Ms. Li had to do some logistical acrobatics to get me in front of a group of Russian tourists (not sure why this was so important!) the customs officer was friendly and I faced no issues. Nobody checked my camera, nor my phone, nor did they search my hand luggage. I'm sure they had a thorough look in my suitcase using x-ray, but they certainly didn't notice the ~5,000 won I was taking out of the country, apparently "illegally".
+The check-in process was surprisingly easy. Although Ms. Li had to do some logistical acrobatics to get me in front of a group of Russian tourists (not sure why this was so important!) the customs officer was friendly and I faced no issues. Nobody checked my camera, nor my phone, nor did they search my hand luggage. I'm sure they had a thorough look in my suitcase using x-ray, but they certainly didn't notice the ~10,000 won I was taking out of the country, apparently "illegally".
+
+{% include _figure.html src="/img/dprk-part-4/airport-departures.jpg" caption="Not a bad place to be laid to rest. It's surrounded on the north and east (from where we entered) by - seriously - a very wide moat." %}
 
 In the departure lounge I had a chat with my mum on an international payphone, mostly for the novelty value of it. Foolishly assuming I could pay using the local currency, I failed to pay them and had to borrow money from some friends.
 
 I found the departure lounge really interesting because it was one of the first places I'd seen the word "Keo-pi", which is Konglish/Korean for, you guessed it, "Coffee". It was written above, unsurprisingly, a coffee shop. This felt like a super-modern airport. I looked around, too, but failed to find any portraits of Kim Il-sung or Kim Jong-il.
 
+{% include _figure.html src="/img/dprk-part-4/airport-coffee.jpg" caption="Not a bad place to be laid to rest. It's surrounded on the north and east (from where we entered) by - seriously - a very wide moat." %}
+
 The airport bookshop also contained loads of the same books we'd found before, as well as some guides to North Korean business, for foreign investors. There are 6 editions so far, each one featuring various industries to which the North Korean government is apparently trying to attract foreign investment. Naturally, one of these is the CNC Machine Industry, one of Korea's most prized and respected industries. So important is this area of business, there's even a song about it.
+
+{% include _figure.html src="/img/dprk-part-4/airport-plane.jpg" caption="Not a bad place to be laid to rest. It's surrounded on the north and east (from where we entered) by - seriously - a very wide moat." %}
 
 Right on time, our gate opened and we got on the plane. The slightly rattly flight back to Beijing began, and the North Korean Adventure ended.
 
