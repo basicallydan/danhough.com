@@ -52,13 +52,13 @@ Next, we were to move onto the next room. This involved walking through a vast h
 
 Let me rewind a little: When we were looking at Kim Il-sung, I felt very little in the way of "you were a terrible person". For sure, the first leader was a terrible person and did terrible things, but the crossover between his life and mine wasn't enough for me to take any notice in him. I never heard of him on the news, and rarely do refugees from North Korea talk about his rule. It feels like a long time ago, and it has been over 20 years.
 
-Seeing Kim Jong-il in the flesh, however, was eerie. It roused in me a strange feeling of contempt which I suppose comes from years of negative portrayal in the media, books that I've read and accounts from refugees. Here lay a man whose decisions had led to the suffering of millions, in as recent times as the 21st century. How could the body of such a tyrant be treated with so much reverence? It's a tragedy that the people here either don't know the extent of his cruelty, or can't express it out loud. Nevertheless, it was an interesting sight. I'm glad we got to do this.
-
 <blockquote class="large center"><span markdown="1">Kim Jong-il's carriage sported a very fetching Macbook Pro.</span></blockquote>
 
-After the bodies had both been bowed before, we were taken to see their respective vehicles. They both had different versions of the same Mercedes-Benz, and each had a personal train carriage. Kim Jong-il's carriage sported a very fetching Macbook Pro (you heard it here first, folks: Kim Jong-il was an Apple fan!), but his father's train was much more modest, while still managing to feature nice wooden armchairs with flush leather seats and a large wooden desk.
+Seeing Kim Jong-il in the flesh, however, was eerie. I experienced a strange feeling of contempt which I suppose comes from years of negative portrayal in the media, books that I've read and accounts from defectors. Here lay a man whose decisions had led to the suffering of millions, in as recent times as the 21st century. How could the body of such a tyrant be treated with so much reverence? It's a tragedy that the people here either don't know the extent of his cruelty, or can't express it out loud. Nevertheless, it was an interesting sight. I'm glad we got to do this.
 
-Allegedly, Kim Jong-il's death occurred while riding in his carriage. Perhaps even while typing out an email on his Macbook. I suppose we'll probably never know.
+After we'd bowed to both bodies, we were taken to see their respective vehicles. They both had different versions of the same Mercedes-Benz, and each had a personal train carriage. Kim Jong-il's carriage sported a very fetching Macbook Pro (you heard it here first, folks: Kim Jong-il was an Apple fan!), but his father's train was much more modest, while still managing to feature nice wooden armchairs with flush leather seats and a large wooden desk.
+
+Allegedly, Kim Jong-il's death occurred while riding in his carriage. Perhaps even while typing out an email on his Macbook. I suppose we may never know for sure.
 
 After our tedious 3-hour Pickled Leaders Tour we were finally released, and driven back into town.
 
@@ -106,11 +106,9 @@ Our destination on the tram was a supermarket.
 
 ## You never give me your money
 
-
+{% include _pull-right.html title="Funny paper" paragraph="Strictly speaking, foreigners aren't allowed to get their hands on the local currency, North Korean Won. The supermarket is one of the few places--the only place on our tour, in fact--where it's possible to exchange US Dollars, Euros, or Chinese Yuan Remnimbi for North Korean Won." text="Won, by the way, is a word used to mark amounts of money. So in Korea when you're being quoted an amount of money, e.g. 300 won, they'll say Sam-baek-won, where Sam-baek is 300 and won is the money. Naturally. What's interesting is when North Korean vendors or cashiers quote prices in Euro or Remnimbi. For 10 Euros, rather than saying Sip-eu-ro, where Sip is 10, they'll say Sip-won-eu-ro. 10won Euro. So it seems that the particle for counting money (won) is used regardless of the currency, but also in place of using the name of the local currency." %}
 
 I'd already obtained some, which I found lying around (seriously) near the tram depot, but it wasn't a lot. I was keen to get my hands on some real money, and to take it out of the country which again, strictly speaking, is not allowed. Why? Two reasons: first, it's a good souvenir. Secondly, I'm bullish on North Korean Won. It's the currency of the future, so I'm making investments now while it's cheap. \[sic\].
-
-{% include _pull-right.html title="Funny paper" paragraph="Strictly speaking, foreigners aren't allowed to get their hands on the local currency, North Korean Won. The supermarket is one of the few places--the only place on our tour, in fact--where it's possible to exchange US Dollars, Euros, or Chinese Yuan Remnimbi for North Korean Won." text="Won, by the way, is a word used to mark amounts of money. So in Korea when you're being quoted an amount of money, e.g. 300 won, they'll say Sam-baek-won, where Sam-baek is 300 and won is the money. Naturally. What's interesting is when North Korean vendors or cashiers quote prices in Euro or Remnimbi. For 10 Euros, rather than saying Sip-eu-ro, where Sip is 10, they'll say Sip-won-eu-ro. 10won Euro. So it seems that the particle for counting money (won) is used regardless of the currency, but also in place of using the name of the local currency." %}
 
 This supermarket was more like a department store than a supermarket, though, kind of like a Tesco Extra back in the UK. Downstairs were the groceries and a few electronic goods, and upstairs were the clothes.
 
@@ -194,7 +192,7 @@ She reached out and said, "Yes, it's okay", and took my money.
 
 Another tourist who speaks a little better Korean than me came over and ordered some too, and a drink. We helped some others order food and soon these women were seeing a sudden surge in demand which must've been very overwhelming. I barely noticed, though; I was so, so proud of myself at this moment. I'd performed an everyday activity in North Korea in the way that a local might (if they were being extremely polite and awkward). Mission accomplished.
 
-And it was a really good kimbap, too.
+It was a pretty good kimbap, too.
 
 ## Debut
 
@@ -236,13 +234,21 @@ The screen behind them showed innucuous scenes of countryside, mountains, flower
 
 Towards the end of the first half, though, we got our first leadership moment - Kim Il-sung graced the screen for a few moments in a song about fathers, and the entire theatre erupted with applause, almost drowning out the sound of the music. But as quickly as it had started, it was over, and everybody returned to listening.
 
-After the second half was over, we were treated to two more leadership applause moments. One for Kim Jong-il, and another much, much shorter one for Kim Jong-un. The strangest moments came when they started singing a sad, slow song about the Korean War. The images on the screen became disturbing: a mixture of battle scenes and post-battle scenes, where people sat on the sides of roads missing limbs or eyes, mourning their parents, and more than enough images of crying children.
+After the second half was over, we were treated to two more leadership applause moments. One for Kim Jong-il, and another much, much shorter one for Kim Jong-un. The strangest moments came when the band all but left the stage and one performer remained, singing a sad, slow song about the Korean War. The images on the screen became disturbing: a mixture of battle scenes and post-battle scenes, where people sat on the sides of roads missing limbs or eyes, mourning their parents, and more than enough images of crying children.
 
-<!-- NOW ABOUT HOW IT SWITCHES TO YANKEE DOODLE DANDY -->
+Hopefully now you'll understand my surprise and relief when the whole band returned to the stage with a spring in their step, and they began to sing *Yankee Doodle Dandy*. Most of the words were in Korean, but the hook most certainly was not. These state-approved performers were singing a jolly, happy-sounding song which includes the word "Yankee" in a key line. It didn't end there though - an old Russian folk song about a propellor plane also graced our ears and a couple of other upbeat folk songs played, all with similarly upbeat background videos.
 
-<!-- CHONGBONGBAND AT PEOPLE'S THEATRE -->
+That pretty much sums up the performance. It was very good, they're extremely talented musicians - but the mixture of revolutionary songs and foreign folk music is utterly bizarre.
 
-## Departure Day
+### Money will only get you so far
+
+Another notable experience was when I met a woman from Washington D.C. who lives in Beijing. Remember the line of Westerners sitting a couple of rows in front of me? They were wealthy American businessmen ("Like, 1% wealthy!" according to the Washingtonian) who are members of an "exclusive" club that goes on three holidays a year: one luxury holiday (think private beach resort or catered villa in wine country), one adventure holiday (e.g. hiking, rock climbing, sailing) and one "crazy" holiday. They were on the "crazy" holiday, and they'd spent huge amounts of money to be allowed to attend the parade, and apparently, it cost them a little more to come to this concert. All of it was arranged by the woman I'd met. She could tell more nothing more about them.
+
+However, she did tell me that they were unmoved by the performance by the Chongbong Band, and asked if they could leave. Unsurprisingly, they were not allowed to leave. To have left such a huge gap in the audience of the theatre after the first half would've been insulting, even in a country less strict than North Korea. They offered to pay to leave, but even then the theatre management refused.
+
+Most of us in the regular ol' tourist group enjoyed the concert though, to varying degrees, and were happy to have been able to see something so rare and unusual. We got on our buses, tired and ready for bed, and wondering what had been happening in the world since we cut ourselves off a few days earlier. This was our final night in the Yanggakdo hotel, and many of us would be leaving by plane and arriving in relatively well-connected Beijing the following afternoon.
+
+## Back in the 
 
 October 12th, our final day in North Korea, was a very early start. Rushing to shiny new Pyongyang Airport, we exchanged farewells with new friends and fellow tourists.
 
@@ -261,3 +267,13 @@ When our plane taxied up to the gate in Beijing Airport, our ageing Koryo Air pa
 I fear this is a mystery I'll probably never clear up - one of many DPRK-related mysteries.
 
 My fascination with Korea began about 5 years ago when I visited the South for the first time, and after spending more and more time there, and now in the North, my fascination has only grown. I'm confident I'll live to see the day that North Korea becomes a "normal" country, by one way or another, and I'd really like to see the transition as closely as possible.
+
+### Before you go...
+
+If you want to see some footage of the DPRK which I recorded, I've been posting videos on [my YouTube Channel](https://youtube.com/basicallydan). Check it out.
+
+This post is part of a series. You can see [part one here](/blog/dprk-part-1), [part two here](/blog/dprk-part-2), and [part three here](/blog/dprk-part-3).
+
+Also, Koryo Tours have plenty more DPRK information and photos if you want further glimpses into North Korean life, largely on social media: [Instagram of Vicky, my tour guide](http://instagram.com/vickyinam), [Koryo on Facebook](https://www.facebook.com/koryotours), [Koryo on Twitter](https://twitter.com/koryotours), [Koryo on Tumblr](http://koryotours.tumblr.com/). They also have a website where you can find out about their tours and humanitarian projects, [koryogroup.com](http://koryogroup.com).
+
+Finally, if you're interested in the divisive issue of the ethics of touring in North Korea, [the Guardian recently wrote an interesting piece](www.theguardian.com/travel/2015/oct/08/north-korean-tourism-ethics). Give it a read.
