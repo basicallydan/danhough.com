@@ -1,18 +1,18 @@
 ---
 layout: post
-title: DPRK Part 3&#58; Pickled Leaders Tour
+title: DPRK Part 4&#58; These are the ways of my people
 tags: [travel,travel-exclusive,trip-2015,pyongyang]
-date_created: 07 December 2015
-description: A moat, a mausoleum, and a MacBook Pro.
+date_created: 14 December 2015
+description: The fourth in a series of posts about the world's most secretive country, North Korea. The contents may surprise you.
 thumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-og.png"
 twitterCardType: summary_large_image
-location: Krabi, Thailand
+location: Koh Lanta, Thailand
 comments: false
-time_to_read_estimate: 20
+time_to_read_estimate: 25
 ---
 
-October 11th was a day of mourning. On any such day, it's appropriate to dress respectfully, so that's what I did.
+October 11th was a day of mourning. On any such day, it's appropriate to dress respectfully, so that's what I did. Clean, light-brown trousers, a white Oxford shirt, a black tie hastily purchased days before in at Beijing market, and the cherry on the cake: my shiny new North Korean Flag badge.
 
 ## "Pickled Leaders Tour"
 
@@ -74,23 +74,23 @@ We also visited the foreign-language bookstore, which featured many of the same 
 
 {% include _figure.html src="/img/dprk-part-4/roadside-propaganda.jpg" caption="Some roadside propaganda. I tried to translate the captions of each, but it's pretty hard: On the left, 'Succeed unconditionally until the end.' and on the right 'Advance the banner of the three revolutions' or possibly 'three revolutionary ideas'?" %}
 
-Next, we stopped for a BBQ lunch. Not quite the same as the equivalent in the South but still nice.
-
-<!-- KWANGBOK SUPERMARKET/DEPT STORE -->
-
 Next, it was time for a history lesson! We were taken to the war museum, recently extended in size (by about 100%!) full of modern facilities and sitting next to the famous USS Pueblo.
 
 The Pueblo is a small US "Spy" Ship captured by the North Korean Navy in the 1990s, a fact with they're very keen to make clear to us during the tour of the ship. Bullet holes are outlined and key areas are turned into displays of captured weapons and gear.
 
 Photographs of US Naval Officers writing confessions about their alleged spying activities, as well as the original confession papers themselves, are on display for all to see.
 
-But the propaganda doesn't end there. Next, we're taken into the building of the war museum. Again, no photos here - sorry.
+{% include _pull-right.html title="My museum's bigger than yours" paragraph="But the propaganda doesn't end there. Next, we're taken into the building of the war museum. Again, no photos here - sorry." text="One of the most interesting things about visiting North Korea so soon after South Korea is in drawing parallels between the two. Seeing how each side depicts the conflict is especially interesting, and Seoul's War-related Exhibits also has some moments of dramatised anti-communist vitriol. Nevertheless, South Korea is a much, <em>much</em> more balanced country when it comes to this subject." %}
 
 I can describe to you, however, the explicit, full-size models built to depict scenes from the Korean War. US soldiers, either dead or severely wounded, lying in our staggering through a bleak, war-torn landscape. These were fairly real-looking but exaggerated models, whose glass eyes glinted with despair and little plastic guts spewed from their stomachs. We knew it was fake but it was still pretty sickening. This, as far as North Korea is concerned, is a typical scene from the war: defeated, ravaged Americans.
 
-The film came next. I saw some slightly questionable videos about Korean history in South Korea, but this film took stretching the truth to a whole other level.
+The film came next. It was, as expected, full of many truth-stretching claims about what happened during the Korean war. The USA was the instigator, of course, and the South Korean government was puppetted (and still is) by the USA. In fact the video avoided the phrase "South Korean" or "South Korea" quite heavily, and focused on using "puppet".
 
-<!-- TRY TO REMEMBER THE FILM -->
+That's all fairly debateable though. To an extent, the South Korean government at the time was at least heavily influenced by the USA. However, the video didn't properly describe the events which occurred. It depicts a war which was easily won by Kim Il-sung's army, without any help from outsiders. In reality, an intervention from Mao Tse-tung's Chinese "People's Volunteer Army" turned the conflict around for Kim Il-sung when his forces were all but defeated.
+
+Still, we all knew this would happen, so we moved on. We were shown a few relics from the war including uniforms, captured weaponry and enemy soldiers' documents and books. Standard war museum stuff. Sadly we didn't get to see any huge collections of DPRK military hardware, but it was an interesting visit.
+
+Also, the museum coffee was the best I had in North Korea.
 
 ## Tram
 
@@ -126,11 +126,11 @@ We were on a tight schedule though, for we were late for a very important date: 
 
 A mass dance takes place on special occasions on North Korea. Not everybody takes part but the name should be a giveaway: it's very popular. From what I could tell, lots of people were having a great time, but others looked like they were bored and doing it because their parent/boss/local goody-goody was expecting them to do it.
 
-{% include _figure.html src="/img/dprk-part-4/mass-dance-dan.jpg" caption="Vicky and I take part in a mass dance. Bottom left in the grey hoodie is me, and bottom middle, kneeling slightly in front of our cameraman, is Vicky in a black cardigan. As you can see, I was still working out the moves, as I stared at my partner's feet. Photo provided by Petra Fischbäck" %}
+{% include _figure.html src="/img/dprk-part-4/mass-dance-dan-by-petra.jpg" caption="Vicky and I take part in a mass dance. Bottom left in the grey hoodie is me, and bottom middle, kneeling slightly in front of our cameraman, is Vicky in a black cardigan. As you can see, I was still working out the moves, as I stared at my partner's feet. Photo provided by Petra Fischbäck" %}
 
 Women dressed in choson-ot and men in shirts & tie. It was quite a spectacle, but the real fun was in taking part in the dance. Vicky, of Koryo Tours, asked if I wanted to join in. I wasn't sure, but she said it was totally fine, so we asked a couple if we could split them up. To be honest, they seemed a little surprised, but I'm glad I got to take part. I tried to be friendly to my new dance partner and I think I did all the moves okay, but I don't think she was very interested in dancing with me.
 
-{% include _figure.html src="/img/dprk-part-4/mass-dance-selfie.jpg" caption="A group of students from Singapore take a selfie in front of some unimpressed Koreans. I got the impression that a lot of them felt like they were dancing solely for our entertainment, which was not a nice feeling. Photo provided by Petra Fischbäck" %}
+{% include _figure.html src="/img/dprk-part-4/mass-dance-selfie-by-petra.jpg" caption="A group of students from Singapore take a selfie in front of some unimpressed Koreans. I got the impression that a lot of them felt like they were dancing solely for our entertainment, which was not a nice feeling. Photo provided by Petra Fischbäck" %}
 
 Nevertheless, it was really fun and very easy. Essentially, you're taking part in a circular line dance. There's about 4 repetitive movements which you can pick up in one or two rounds, and the music is extremely repetitive and goes on for about 3 or 4 minutes per song, so you only need about 30 seconds to understand the dance. There's a lot of clapping, stepping, and bowing, and some of the music was very lively indeed.
 
@@ -162,7 +162,7 @@ I stood next to Koryo Tour guide Simon on the train, and next to us were two ver
 
 Finally we reached our destination: Kaeseon station.
 
-{% include _pull-right.html title="Trainspotting" paragraph="At the back of the enormous platform hall stood a huge gold statue of Kim Il-sung, gesturing to his hard-working commuter comrades as they wait for their trains." text="Information about the Pyongyang Metro is quite <a href="https://en.wikipedia.org/wiki/Pyongyang_Metro">readily available on Wikipedia</a> if you'd like to find out more." %}
+{% include _pull-right.html title="Trainspotting" paragraph="At the back of the enormous platform hall stood a huge gold statue of Kim Il-sung, gesturing to his hard-working commuter comrades as they wait for their trains." text="Information about the Pyongyang Metro is quite <a href=\"https://en.wikipedia.org/wiki/Pyongyang_Metro\">readily available on Wikipedia</a> if you'd like to find out more." %}
 
 I now had the opportunity to chat with our newer, cynical guide from KITC. She asked me about where I'm from and what I do so I told her. She also asked where I learned to speak Korean.
 
@@ -202,11 +202,43 @@ Most fans of North Korean pop music are familiar with the Moranbong Band. They p
 
 So when earlier in the day we'd been offered to see the debut performance of a new band who'd never before done a public performance in Korea, some were skeptical. "Do we really want to watch this group of young women, basically forced to be singers, sing propaganda music to the backdrop of revolutionary scenes and Kim Jong-il looking at things?"
 
-Nobody wanted that for more than a few minutes, so most declined. Some of us saw the potential, however. Apparently this band had been developed in part by Kim Jong-un, a man who'd been exposed from a young age to many songs from abroad, and who knew that his people were quite familiar with foreign music. Surely it'd be different.
+Nobody wanted that for more than a few minutes, so most declined. Some of us saw the potential, however. Apparently this band had been "developed in part by Kim Jong-un". This is what people say about the Moranbong band, so everybody sort of just assumed it'd be the same. Nevertheless, some of us signed up. I was one of those people.
 
-The Chongbong band (청봉악단/Cheongbong Akdan) is an all-female group, backed by a mainly brass band. We were allowed to see them in the newly-built People's Theatre, thanks to some other tour guides in KITC suddenly having a few extra tickets. This was a very big deal indeed, we were told.
+The Chongbong band (청봉악단/Cheongbong Akdan) is a group of five singers, all women, backed by a mainly brass band. We were allowed to see them in the newly-built People's Theatre, thanks to some other tour guides in KITC suddenly having a few extra tickets. This was a very big deal indeed, we were told.
 
 Before you get excited: no, Kim Jong-un was not there.
+
+## Chongbong Band
+
+It's about 7PM, and it's dark. Street lights aren't on, but the People's Theatre is lit up like bonfire night. Our coach stops at the edge of the vast car park, which is about a quarter-filled with cars and minibuses. Before we get out our guide tells us that "phones and cameras are not allowed" but "maybe you can just put your phone in your pocket. Maybe you don't know the rules. I didn't tell you that." We laugh, nervously, and decide to try this. A few cheeky snaps inside the theatre would be pretty cool!
+
+So, we step off the bus and make our way towards the impressive building. It's round, and reminds me of a sort of modern-day Royal Albert Hall. Lots of glass, with five or six stories, and six simple arches covering the entrance.
+
+As we approach the theatre, our guide tells us, "Okay, you need to give me your phones. Forget it." Well, that plan lasted long. We hand our phones to her, and as we enter the theatre we're patted down, and hand our tickets over. To the right of the entrance, next to a small podium, hundreds of mobile phones are stacked up against the window of the theatre. Nearby, a theatre staff member holds a plastic bag full of phones. Jackets and bags are hanging from racks. This is a much stricter event than we had anticipated.
+
+After getting over the shock of being stripped of my personal effects, I take a minute to look around. The atrium of the theatre is vast. Looking up I can see a high ceiling which goes up as high as perhaps the fourth floor, and there are chandeliers every few metres. Perhaps it's just that I'm used to North Korean interiors by this point but it didn't seem over-the-top like many other places. It seemed rather modest.
+
+It wasn't too busy here, but based on the stack of phones I assumed most people were already inside and sitting at their places. So after finding out where our seats were, we all made our way to a great glass lift to the fourth floor.
+
+I stopped in the loo before taking my seat, and it was easily the nicest I'd used in four days. After washing my hands I rushed into the theatre and found my seat was nowhere near my fellow tourists! Instead, I was next to a very well-dressed KITC guide and her client, a man from Switzerland who was here on a private tour. We were surrounded by Koreans, also quite well dressed but not all wearing Choson-ot, and in front of us was a long row of westerners, whom I could neither identify nor place.
+
+The interior of the theatre was much grander than the atrium. Large curtains and more chandeliers, some North Korean flags here and there but not overly patriotic-looking. No portraits of Kim Il-sung or Kim Jong-il to be found.
+
+We waited, patiently, and I got to know my new friends a little. The Swiss man had been visiting lots of other places in Korea, outside of Pyongyang, but his trip was almost over. The KITC guide told me that I had her seat because one of her friends was going to come but decided not to at the last minute. I thanked her, of course.
+
+Soon, the lights dimmed and a brass band came on. They played a lively, upbeat tune to introduce the singers to the stage, who energetically showed up dressed in white dresses each with their own wireless microphone.
+
+What followed was a mixture of songs about sacrifice and hard work, but also about family - it was a little bit revolutionary. Words showed on a large LED display above the stage, so it was easier to work out what was going on. For the first couple of songs there was no mention of the leaders.
+
+When any leader's name came up in a song, though, the text on the display became bright pink with a yellow border, and the words were sung with a little more passion than other words.
+
+The screen behind them showed innucuous scenes of countryside, mountains, flowers, occasionally farmers and children. Even when their names came up there were no images of Kim Il-sung, Kim Jong-il or Kim Jong-un.
+
+Towards the end of the first half, though, we got our first leadership moment - Kim Il-sung graced the screen for a few moments in a song about fathers, and the entire theatre erupted with applause, almost drowning out the sound of the music. But as quickly as it had started, it was over, and everybody returned to listening.
+
+After the second half was over, we were treated to two more leadership applause moments. One for Kim Jong-il, and another much, much shorter one for Kim Jong-un. The strangest moments came when they started singing a sad, slow song about the Korean War. The images on the screen became disturbing: a mixture of battle scenes and post-battle scenes, where people sat on the sides of roads missing limbs or eyes, mourning their parents, and more than enough images of crying children.
+
+<!-- NOW ABOUT HOW IT SWITCHES TO YANKEE DOODLE DANDY -->
 
 <!-- CHONGBONGBAND AT PEOPLE'S THEATRE -->
 
