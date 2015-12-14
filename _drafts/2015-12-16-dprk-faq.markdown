@@ -11,6 +11,31 @@ location: Koh Lipe, Thailand
 comments: false
 ---
 
+In October 2015 I visited North Korea (AKA Democratic People's Republic of Korea, or DPRK) for the first time. It was a surprising, exciting, sometimes saddening but mostly positive visit. I wrote four articles about it for my blog and shared several photos from the trip. But not everything I wanted to say about it fit well into the articles. Plus, sometimes people ask me questions about the trip which don't fit either. So, this post is a Frequently Asked Questions (FAQ) page as well as some other miscellaneous information. I hope it's helpful.
+
+First, though, I'd like to say that I am no expert on the subject of North Korea. I've read a few books and I follow specialist news sources about the country. That and my trip might make me more knowledgeable than the average person, but I am in no way more qualified. Furthermore, there are several people who *are* experts on this subject who visit the country frequently, as well as thousands of North Korean defectors, many of whom have written memoirs or accounts of their experiences. If you want accurate, up-to-date and professionally written information about the country, the experts are who you should listen to. Here's a list of things I'd recommend. FYI, the links are Amazon affiliate links because I'm an evil capitalistic opportunist.
+
+### Books
+
+* [North Korea Confidental: Private Markets, Fashion Trends, Prison Camps, Dissenters and Defectors] by James Pearson, Daniel Tudor - the most up-to-date book I could find about the North Korean economy at the time of writing, though quite definitely aimed at the layman. Will give you a more positive view of the country than most other books, focuses on things which often the media chooses to ignore about a country slowly moving towards capitalism.
+* [Dear Leader] by Jang Jin-Sung - A serious account about life in the Pyongyang elite, and defection to South Korea, written by defector Jang Jin-sung.
+* [Nothing to Envy] by Barbara Demick - Demick, a journalist, gives a comprehensive account of the lives of many different defectors from all walks of life in North Korea. If you'd like to get a real idea of the effects of the mid-90s famine, this is a good book to read. Actually quite harrowing.
+* [The Aquariams of Pyongyang] by Kang Chol-hwan - another Defector's tale, this one is set largely in a labour camp. Also a horrific tale.
+
+### Websites & Twitter accounts
+
+* [NK Economy Watch](http://www.nkeconwatch.com/) - Stories about North Korea's economy. Many sources including Korean and Chinese newspapers and websites, as well as analysis. Much more raw source of information than mainstream media, so it's sometimes a little dry - but much more accurate.
+* [NK Leadership Watch](https://nkleadershipwatch.wordpress.com/) - Same as above, but focuses on North Korea's leadership including Kim Jong-un and high-ranking government officials.
+* [NKNews](http://www.nknews.org/) - a fairly level-headed source of news about North Korea compared to a lot of the mainstream media.
+* [Ask a North Korean](http://www.nknews.org/category/nk-voices/ask-a-north-korean/) - A series on NKNews.org where readers can send questions in to be answered anonymously by a North Korean defector.
+* [Daniel Tudor's Twitter](https://twitter.com/danielrtudor) - Tudor has written a few books about Korea and is co-author of North Korea Confidental.
+* [James Pearson's Twitter](https://twitter.com/pearswick) - Pearson is co-author with Tudor and reports on North Korea for Reuters.
+* [Geoffrey Cain's Twitter](https://twitter.com/geoffrey_cain) - Visits and reports from Pyongyang from time to time.
+* [Koryo Tours's Twitter](https://twitter.com/KoryoTours) - This is the company I went with. Really great for photos from the DPRK, although [their Instagram](https://instagram.com/koryotours) is even better for this.
+* [/r/northkoreanews](https://reddit.com/r/northkoreanews) is hit-and-miss. A big story will always hit here quickly, but it also receives a lot of sensationalist clickbait.
+
+Nevertheless, I feel my accounts are still worth something, and might be interesting to anybody who wants a book-smart tourist's view of the country. So without further ado, here's my FAQ and tidbits.
+
 #### How did you get into North Korea?
 
 It's actually very easy, but it's a little more expensive than most 4-day holidays in Asia. You need to get in touch with a company such as Koryo or Young Pioneers, and sign up for one of their group tours. They'll handle the rest of it, *except* for your ticket to Beijing. You just need to make sure you're in Beijing at the right time, and they can advise on getting a Chinese visa.
@@ -34,6 +59,10 @@ Ever since I first visited South Korea in 2010 I've been interested in the count
 #### But you're seeing only what they want you to see!
 
 I'm well aware of that, but they can only orchestrate so many things. It's not hard to look behind the curtain a little bit, and if you can get to talking to some people it won't take long to appreciate the individuality of the people you're meeting.
+
+#### Before you tell me any more, tell me where I can read more about North Korea, other than your blog's accounts of the experiences you had.
+
+Sure. **Fur
 
 #### Don't you feel bad for pumping money into the brutal North Korean regime?
 
@@ -109,8 +138,9 @@ A little. An immigration officer asked to see what movies I had on my laptop to 
 
 Not once was my camera confiscated or searched, and it was almost always with me. I also didn't lose any photos.
 
-## Further Reading
+## I want to read m
 
 Further reading:
 
+* http://www.theguardian.com/world/2015/dec/14/north-korea-defector-alcohol-do-you-drink
 * http://www.theguardian.com/travel/2015/oct/08/north-korean-tourism-ethics
