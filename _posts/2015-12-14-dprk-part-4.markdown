@@ -268,17 +268,17 @@ October 12th, our final day in North Korea, was a very early start. Rushing to s
 
 The check-in process was surprisingly easy. Although Ms. Li had to do some logistical acrobatics to get me in front of a group of Russian tourists (not sure why this was so important!) the customs officer was friendly and I faced no issues. Nobody checked my camera, nor my phone, nor did they search my hand luggage. I'm sure they had a thorough look in my suitcase using x-ray, but they certainly didn't notice the ~10,000 won I was taking out of the country, apparently "illegally".
 
-{% include _figure.html src="/img/dprk-part-4/airport-departures.jpg" caption="Not a bad place to be laid to rest. It's surrounded on the north and east (from where we entered) by - seriously - a very wide moat." %}
+{% include _figure.html src="/img/dprk-part-4/airport-departures.jpg" caption="The front hall of recently renovated Pyongyang Airport." %}
 
 In the departure lounge I had a chat with my mum on an international payphone, mostly for the novelty value of it. Foolishly assuming I could pay using the local currency, I failed to pay them and had to borrow money from some friends.
 
 I found the departure lounge really interesting because it was one of the first places I'd seen the word "Keo-pi", which is Konglish/Korean for, you guessed it, "Coffee". It was written above, unsurprisingly, a coffee shop. This felt like a super-modern airport. I looked around, too, but failed to find any portraits of Kim Il-sung or Kim Jong-il.
 
-{% include _figure.html src="/img/dprk-part-4/airport-coffee.jpg" caption="Not a bad place to be laid to rest. It's surrounded on the north and east (from where we entered) by - seriously - a very wide moat." %}
+{% include _figure.html src="/img/dprk-part-4/airport-coffee.jpg" caption="Keo-pi! I decided not to have any of this, since I'd already had enough for one day, but the choice of Koreanisation of the word Coffee is the same as the one used in the South, and actually the idea of going to a coffee shop like this is still a fairly new but increasingly popular idea in North Korea, from what I've been told." %}
 
 The airport bookshop also contained loads of the same books we'd found before, as well as some guides to North Korean business, for foreign investors. There are 6 editions so far, each one featuring various industries to which the North Korean government is apparently trying to attract foreign investment. Naturally, one of these is the CNC Machine Industry, one of Korea's most prized and respected industries. So important is this area of business, there's even a song about it.
 
-{% include _figure.html src="/img/dprk-part-4/airport-plane.jpg" caption="Not a bad place to be laid to rest. It's surrounded on the north and east (from where we entered) by - seriously - a very wide moat." %}
+{% include _figure.html src="/img/dprk-part-4/airport-plane.jpg" caption="Our ride back to Beijing." %}
 
 Right on time, our gate opened and we got on the plane. The slightly rattly flight back to Beijing began, and the North Korean Adventure ended.
 
