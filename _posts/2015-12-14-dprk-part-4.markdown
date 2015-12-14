@@ -7,7 +7,7 @@ description: The fourth in a series of posts about the world's most secretive co
 thumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-og.png"
 twitterCardType: summary_large_image
-location: Koh Lanta, Thailand
+location: Koh Lipe, Thailand
 comments: false
 time_to_read_estimate: 25
 ---
@@ -253,6 +253,8 @@ After the second half was over, we were treated to two more leadership applause 
 Hopefully now you'll understand my surprise and relief when the whole band returned to the stage with a spring in their step, and they began to sing *Yankee Doodle Dandy*. Most of the words were in Korean, but the hook most certainly was not. These state-approved performers were singing a jolly, happy-sounding song which includes the word "Yankee" in a key line. It didn't end there though - an old Russian folk song about a propellor plane also graced our ears and a couple of other upbeat folk songs played, all with similarly upbeat background videos.
 
 That pretty much sums up the performance. It was very good, they're extremely talented musicians - but the mixture of revolutionary songs and foreign folk music is utterly bizarre.
+
+{% include _figure.html src="/img/dprk-part-4/window-shopping.jpg" caption="Pyongyangites do some window shopping outside of a department store near Kim Il-sung Square" %}
 
 ### Money will only get you so far
 
