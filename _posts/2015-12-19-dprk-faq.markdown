@@ -2,25 +2,23 @@
 layout: post
 title: DPRK Epilogue&#58; FAQ and Tidbits
 tags: [travel,travel-exclusive,trip-2015,pyongyang]
-date_created: 16 December 2015
+date_created: 19 December 2015
 description: A FAQ page regarding my first trip to North Korea in October 2015, plus little tidbits which didn't fit in other posts.
-thumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-tw.png"
-ogthumbnail: "!SITE_URL!/img/dprk-part-3/dprk-part-3-thumbnail-og.png"
-twitterCardType: summary_large_image
-location: Koh Lipe, Thailand
+location: Kuala Lumpur
 comments: false
 ---
 
-In October 2015 I visited North Korea (AKA Democratic People's Republic of Korea, or DPRK) for the first time. It was a surprising, exciting, sometimes saddening but mostly positive visit. I wrote four articles about it for my blog and shared several photos from the trip. But not everything I wanted to say about it fit well into the articles. Plus, sometimes people ask me questions about the trip which don't fit either. So, this post is a Frequently Asked Questions (FAQ) page as well as some other miscellaneous information. I hope it's helpful.
+In October 2015 I visited North Korea (AKA Democratic People's Republic of Korea, or DPRK) for the first time. It was a surprising, exciting, sometimes saddening but mostly positive visit. I wrote four articles about it for my blog and shared several photos from the trip. But not everything I wanted to say about it fit well into the articles. Plus, sometimes people ask me questions about the trip which don't fit either. So, this post is a Frequently Asked Questions (FAQ) page about the trip (based on questions people normally ask when I said I've visited) as well as some other miscellaneous information. I hope it's helpful or interesting.
 
-First, though, I'd like to say that I am no expert on the subject of North Korea. I've read a few books and I follow specialist news sources about the country. That and my trip might make me more knowledgeable than the average person, but I am in no way more qualified. Furthermore, there are several people who *are* experts on this subject who visit the country frequently, as well as thousands of North Korean defectors, many of whom have written memoirs or accounts of their experiences. If you want accurate, up-to-date and professionally written information about the country, the experts are who you should listen to. Here's a list of things I'd recommend. FYI, the links are Amazon affiliate links because I'm an evil capitalistic opportunist.
+First, though, I'd like to say that **I am absolutely not an expert** on the subject of North Korea. I've read a few books and I follow specialist news sources about the country. That and my trip might mean I've been exposed to more information than the average person, but I am in no way more qualified. Furthermore, there are several people who *are* experts on this subject who visit the country frequently, as well as thousands of North Korean defectors, many of whom have written memoirs or accounts of their experiences. If you want accurate, up-to-date and professionally written information about the country, the experts are who you should listen to. Here's a list of things I'd recommend. FYI, the links are Amazon affiliate links because I'm an evil capitalistic opportunist.
 
 ### Books
 
-* [North Korea Confidental: Private Markets, Fashion Trends, Prison Camps, Dissenters and Defectors] by James Pearson, Daniel Tudor - the most up-to-date book I could find about the North Korean economy at the time of writing, though quite definitely aimed at the layman. Will give you a more positive view of the country than most other books, focuses on things which often the media chooses to ignore about a country slowly moving towards capitalism.
-* [Dear Leader] by Jang Jin-Sung - A serious account about life in the Pyongyang elite, and defection to South Korea, written by defector Jang Jin-sung.
-* [Nothing to Envy] by Barbara Demick - Demick, a journalist, gives a comprehensive account of the lives of many different defectors from all walks of life in North Korea. If you'd like to get a real idea of the effects of the mid-90s famine, this is a good book to read. Actually quite harrowing.
-* [The Aquariams of Pyongyang] by Kang Chol-hwan - another Defector's tale, this one is set largely in a labour camp. Also a horrific tale.
+* [North Korea Confidental: Private Markets, Fashion Trends, Prison Camps, Dissenters and Defectors](http://www.amazon.co.uk/dp/0804844585) by James Pearson, Daniel Tudor - the most up-to-date book I could find about the North Korean economy at the time of writing, though quite definitely aimed at the layman. Will give you a more positive view of the country than most other books, focuses on things which often the media chooses to ignore about a country slowly moving towards capitalism.
+* [In Order To Live](http://www.amazon.co.uk/dp/0241203600) by Park Yeonmi - Story of recent defector who has since become somewhat of a celebrity in South Korea. Very detailed, very moving, includes true tales of human trafficking. Sometimes quite disturbing, especially highlights the problems facing women who escape. Goes a little into economic matters, too.
+* [Dear Leader](http://www.amazon.co.uk/dp/1846044219) by Jang Jin-Sung - A serious story about life in the Pyongyang elite, and defection to South Korea, written by defector Jang Jin-sung. A good account of what it's like to be a man leaving North Korea, and how difficult it can be to adapt to life outside.
+* [Nothing to Envy](http://www.amazon.co.uk/dp/184708141X) by Barbara Demick - Demick, a journalist, gives a comprehensive account of the lives of many different defectors from all walks of life in North Korea. If you'd like to get a real idea of the effects of the mid-90s famine, this is a good book to read. Actually quite harrowing.
+* [The Aquariams of Pyongyang](http://www.amazon.co.uk/dp/1843544997) by Kang Chol-hwan - another Defector's tale, this one is set largely in a labour camp, AKA gulag. Also an horrific tale, it exposes possibly the darkest side of a country where light is not so easy to find.
 
 ### Websites & Twitter accounts
 
@@ -35,7 +33,7 @@ First, though, I'd like to say that I am no expert on the subject of North Korea
 * [/r/northkoreanews](https://reddit.com/r/northkoreanews) is hit-and-miss. A big story will always hit here quickly, but it also receives a lot of sensationalist clickbait.
 * [The ethics of North Korean Tourism in the *Guardian*](http://www.theguardian.com/travel/2015/oct/08/north-korean-tourism-ethics)
 
-Nevertheless, I feel my accounts are still worth something, and might be interesting to anybody who wants a book-smart tourist's view of the country. So without further ado, here's my FAQ and tidbits.
+Nevertheless, I feel the account of my trip is still worth something, and might be interesting to anybody who wants a book-smart tourist's view of the country. So without further ado, here's my FAQ and tidbits.
 
 #### How did you get into North Korea?
 
@@ -65,9 +63,7 @@ I'm well aware of that, but they can only orchestrate so many things. It's not h
 
 #### Don't you feel bad for pumping money into the brutal North Korean regime?
 
-No. First of all, the country isn't going to get anywhere if we just ignore it. Foreign currency helps the country to improve because it means they (the government as well as people) can conduct international business.
-
-Secondly, tourism is a great way for North Koreans to understand foreigners. Although I doubt most Koreans believe what they're taught in school about the horrible capitalist world outside, seeing for themselves that people from other countries are just like them is probably a validating experience.
+No. Tourism is a great way for North Koreans to understand foreigners. Although I doubt most Koreans believe what they're taught in school about the horrible capitalist world outside, seeing for themselves that people from other countries are just like them is probably a validating experience.
 
 On the flipside, for the foreigners visiting North Korea seeing for ourselves that North Koreans are just like us is also validating and helps to dispel the myth that they're all just a bunch of mindless robots.
 
