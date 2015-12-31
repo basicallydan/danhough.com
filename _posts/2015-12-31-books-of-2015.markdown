@@ -6,6 +6,7 @@ location: Suffolk, UK
 comments: true
 description: The books I read in 2015. History, politics, empires, comics and magic.
 time_to_read_estimate: 7
+twitterCardType: summary_large_image
 tags: [books]
 thumbnail: "!SITE_URL!/img/books-of-2015/books-of-2015-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/books-of-2015/books-of-2015-thumbnail-og.png"
