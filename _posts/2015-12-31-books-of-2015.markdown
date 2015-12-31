@@ -3,9 +3,20 @@ layout: post
 title: The Books I Read in 2015
 date_created: 31 December 2015
 location: Suffolk, UK
+comments: true
 description: The books I read in 2015 with short reviews/synopses.
+time_to_read_estimate: 15
+tags: [books]
 thumbnail: THUMBNAIL FROM AMAZON HERE
 ---
+
+The books I read this year go hand-in-hand with the fact that I took [a 5-and-a-half month trip around Asia](/travel), especially around the time that I was reading Simon Winchester's Outposts. This was roughly when my journey started.
+
+There's also a bit of a North Korea vibe going on, which actually I think hit its real peak *after* [went to the country](/blog/dprk-part-1). There are a few more books on the subject of the DPRK that I'd like to read but I'll save that for next year.
+
+## [The Dice Man](http://www.amazon.co.uk/dp/0006513905)
+
+Thought-provoking novel masquerading as a biography of a psychiatrist that goes off the rails. It's a little hard to follow. That's not because it's poorly written, but it's intentionally challenging, and more than just being a challenge to follow the book attempts to challenge widely-held beliefs about psychoanalysis and freedom of choice. You need only have a layman's understanding of psychoanalysis and wider psychiatry (like me!) to understand it enough to get any enjoyment from it, though. Slightly unsatisfying end, and slow at times, but ultimately I'm glad I read it.
 
 ## [Kingsman](http://www.amazon.co.uk/dp/1781167036) by Mark Millar, Dave Gibbons and Matthew Vaughn
 
@@ -45,31 +56,29 @@ We all know the dark Batman stories of the silver screen, but this Frank Miller 
 
 ## [The Man with the Golden Gun](http://www.amazon.co.uk/dp/B008FQBH8U) by Ian Fleming
 
-* One of the stranger tales in the series
+One of the stranger tales in the series, I shan't talk about the plot too much because I genuinely came to it with no information and found it thoroughly enjoyable as a result. However, I will say that this isn't Bond-as-usual. It's a slight departure from the previous books and in my opinion gives further evidence for Bond's personality being far deeper than the films tend to suggest.
 
 ## [Octopussy and the Living Daylights](http://www.amazon.co.uk/dp/009957702X) by Ian Fleming
 
-* Almost feels like Fleming is describing himself in Octopussy
-* Living daylights, meh
+*Octopussy and the Living Daylights* was Fleming's last published Bond book. It contains four short stories, and was published after the author's death. For the sake of brevity I won't go into all of them. *Octopussy* is strange, another Bond story where Fleming changes the style significantly, and to me feels almost like a description of Fleming in his later years. In that sense it's a little sad to read.
+
+*The Living Daylights* was a bit boring and obvious, I thought - but *007 in New York* is one of the other stories and I loved it mainly for the food porn.
 
 ## [Gulliver's Travels](http://www.amazon.co.uk/dp/1853260274) by Jonathan Swift
 
-* Surprised at how sardonic this story is, much longer than anticipated and really fun
-* Good introduction to Swift's works if you knew nothing about him before
+I came to this knowing only the general plot of the first part of the story, and I was pleasantly surprised. It's far more than I expected. It's not a children's tale at all, it's actually quite sardonic, much longer than anticipated and really fun. Good introduction to Swift's works if you knew nothing about him before.
 
 ## [A Kim Jong-Il Production](http://www.amazon.co.uk/dp/B00OMH54L2) by Paul Fischer
 
-* Has a real sense of dramatisation to it, which may be appropriate given the topic
-* Documents a rare glimpse into the personal life of the Dear Leader
+Of all the books I've read about North Korea this is the one which makes me say, "Really?!" the most. It has a real sense of dramatisation to it, which may be appropriate given the topic. Regardless of the writing style, though, it documents a rare glimpse into the personal life of the Dear Leader.
 
 ## [Dear Leader](http://www.amazon.co.uk/dp/B00HNO4Y80) by Jang Jin-Sung
 
-* Much more serious account of life in mostly Pyongyang by a member of the elite who fled the country after becoming disillusioned, so a bit different from most refugee tales we hear. Thrilling, and at times angering (it's hard to feel *too* much sympathy for the author at times, who sounded like he had quite a priviliged life compared to those who suffered around him).
+A much more serious account of life in mostly Pyongyang by a member of the elite who fled the country after becoming disillusioned, so a bit different from most refugee tales we hear. Thrilling, and at times angering (it's hard to feel *too* much sympathy for the author at times, who sounded like he had quite a priviliged life compared to those who suffered around him).
 
 ## [Good Omens](http://www.amazon.co.uk/dp/B0063HBPH6) by Terry Pratchett & Neil Gaiman
 
-* Quite funny and fast paced, typical Pratchett with glimpses of Gaiman
-* Darkly humorous at times, existentially
+Lovely read! Quite funny and fast paced, typical Pratchett with glimpses of Gaiman. Darkly humorous at times, frequently existential.
 
 ## [Outposts](http://www.amazon.co.uk/dp/B002RI988I) by Simon Winchester
 
@@ -102,3 +111,17 @@ The most up-to-date defector story I've read. I'd never actually heard of Park b
 ## [Magic 2.0: Spell or High Water](http://www.amazon.co.uk/dp/B00HVF7OJM) by Scott Meyer
 
 The sequel to *Off to be the Wizard*, this time around although I found the novel entertaining, there were many elements I found tiresome. Meyer seems to be trying to depict a women-run society in a way which he thinks is both realistic and respectful, but to me it comes off as a little patronising. The endless mentions of the "obvious joke" about staffs and wands become boring after the first mention in the original book, so the many more references in this one became tedious. The mystery in the story is compelling and fairly well told, and there's some fun time travel confusion to be had, though. Worth reading if you liked the first one.
+
+## Stats
+
+## Retrospective
+
+I completed [my goal of finishing Fleming's Bond Novels](/blog/books-of-2014#2015), as well as *The Dice Man*, which is gratifying. However I failed to even bite into Lila - it's quite an intimidating read after *Zen and the Art*, but maybe I'll give it a go next year.
+
+## 2016
+
+As I said above, I have some more North Korea books to read, at the moment just Andrei Lankov's 2013 book, *The Real North Korea*.
+
+However I'm going to Russia in 2016, so I'd like to read at least one classic Russian novel to get me in the mood. I'm starting with Anna Karenina, fingers crossed I'll get through it. I'd also really like to get through more of George Orwell's work, starting with Burmese Days. I'm especially interested in that because Simon Winchester's work, combined with what I learned while travelling around Asia, has gotten me interested the British Empire and how it affected the countries which it colonised. And of course as always, more books about Korea. I may try reading some Korean novels too - translated into English, of course.
+
+So, plenty to get through. Leave a comment if you have any ideas or have any thoughts on the books I read this year. Happy New Year, and happy reading!
