@@ -7,7 +7,8 @@ comments: true
 description: The books I read in 2015 with short reviews/synopses.
 time_to_read_estimate: 15
 tags: [books]
-thumbnail: THUMBNAIL FROM AMAZON HERE
+thumbnail: "!SITE_URL!/img/books-of-2015/books-of-2015-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/books-of-2015/books-of-2015-thumbnail-og.png"
 ---
 
 The books I read this year go hand-in-hand with the fact that I took [a 5-and-a-half month trip around Asia](/travel), especially around the time that I was reading Simon Winchester's Outposts. This was roughly when my journey started.
