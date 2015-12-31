@@ -4,7 +4,7 @@ title: The Books I Read in 2015
 date_created: 31 December 2015
 location: Suffolk, UK
 comments: true
-description: The books I read in 2015 with short reviews/synopses.
+description: The books I read in 2015. History, politics, empires, comics and magic.
 time_to_read_estimate: 15
 tags: [books]
 thumbnail: "!SITE_URL!/img/books-of-2015/books-of-2015-thumbnail-tw.png"
@@ -15,7 +15,7 @@ The books I read this year go hand-in-hand with the fact that I took [a 5-and-a-
 
 There's also a bit of a North Korea vibe going on, which actually I think hit its real peak *after* [went to the country](/blog/dprk-part-1). There are a few more books on the subject of the DPRK that I'd like to read but I'll save that for next year.
 
-## [The Dice Man](http://www.amazon.co.uk/dp/0006513905)
+## [The Dice Man](http://www.amazon.co.uk/dp/0006513905) by Luke Rhinehart
 
 Thought-provoking novel masquerading as a biography of a psychiatrist that goes off the rails. It's a little hard to follow. That's not because it's poorly written, but it's intentionally challenging, and more than just being a challenge to follow the book attempts to challenge widely-held beliefs about psychoanalysis and freedom of choice. You need only have a layman's understanding of psychoanalysis and wider psychiatry (like me!) to understand it enough to get any enjoyment from it, though. Slightly unsatisfying end, and slow at times, but ultimately I'm glad I read it.
 
