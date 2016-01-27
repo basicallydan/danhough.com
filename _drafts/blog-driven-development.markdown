@@ -6,3 +6,4 @@ You saw the implementation of a system you're struggling with in your slumber. Y
 
 > Refactoring by deleting code until the app stops working. I don't know if there's a name for that.
 
+## Swear-driven development, from Mazz
