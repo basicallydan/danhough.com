@@ -3,6 +3,7 @@ baseurl: /
 url: http://danhough.com
 permalink: /blog/:title
 markdown: KramdownPygments
+highlighter: pygments.rb
 kramdown:
   input: GFM
 exclude: ['favicon.sketch','scss', 'node_modules', 'new-blog-post.html', 'new-projects.html', 'new.html', 'package.json', 'gulpfile.js']
@@ -10,5 +11,6 @@ debug: true
 gems:
   - jemoji
   - jekyll-redirect-from
+  - pygments.rb
 # redcarpet:
 #   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
