@@ -1,16 +1,13 @@
 port: 4000
 baseurl: /
 url: http://danhough.com
-permalink: /blog/:title
-markdown: KramdownPygments
-highlighter: pygments.rb
+permalink: /blog/:title/
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
-exclude: ['favicon.sketch','scss', 'node_modules', 'new-blog-post.html', 'new-projects.html', 'new.html', 'package.json', 'gulpfile.js']
-debug: true
-gems:
-  - jemoji
-  - jekyll-redirect-from
-  - pygments.rb
-# redcarpet:
-#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+gems: [ "jemoji" ]
