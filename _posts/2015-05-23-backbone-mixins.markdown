@@ -20,7 +20,7 @@ Say there are four types of views, all of which display a list of items.
 
 One view is static, and simply displays the list in whatever order the model currently specifies. The second is like the static one but is also sortable; the user can drag items to change their order. The third is one to which you can add items. Finally, there's one which you can both sort *and* add to. Here's an **inheritance**-based solution. The only feature they *all* share is that they render a list.
 
-```javascript
+~~~javascript
 var BaseListView = Backbone.View.extend({
 	renderList: function () { /* render stuff */ }
 });
@@ -36,7 +36,7 @@ var AddableListView = BaseListView.extend({
 var AddableSortableListView = SortableListView.extend({
 	addToList: function () { /* add items (same as above) */ }
 });
-```
+~~~
 
 This works fine until `AddableListView` starts getting more functionality which isn't shared with `AddableSortableListView`. So, we have to re-write the functions or change the inheritance chain with potentially unexpected consequences.
 
@@ -52,7 +52,7 @@ What we're doing when we created mixed-in classes is in fact creating classes wi
 
 You may notice that this shares some traits with the use of Interfaces in some typed languages, except that rather than just declaring functions, we're implementing them too. An example should help to explain how this works in Backbone.
 
-```javascript
+~~~javascript
 // Naming these objects <feature>Interface implies their purpose
 var RenderableListViewInterface = {
 	renderList: function () { /* do the thing */ }
@@ -80,7 +80,7 @@ var AddableSortableListView = Backbone.View
 	.extend(RenderableListViewInterface)
 	.extend(AddableListViewInterface)
 	.extend(SortableListViewInterface);
-```
+~~~
 
 Now when `AddableListView` or `SortableListView` want new features, they simply are extended further. If any of those features overlap, we create a new "interface" object and extend it as part of the `.extend()` chains we already have.
 

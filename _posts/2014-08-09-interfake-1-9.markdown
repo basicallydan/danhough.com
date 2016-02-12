@@ -9,9 +9,9 @@ comments: true
 
 Good news, everyone! Interfake 1.9 is now available on npm. If you're not familiar with Interfake already, I recommend checking out the [Interfake GitHub repository](https://github.com/basicallydan/interfake). If you're an existing user, head over to your repo and do this:
 
-```
+~~~
 npm install interfake --save
-```
+~~~
 
 ## What's new?
 
@@ -19,7 +19,7 @@ The main addition in 1.9, hence the minor version bump, is `.extends` in the flu
 
 Let's look at an example of a [CRUD](https://en.wikipedia.org/CRUD) API written using Interfake 1.9. I've removed the D(elete) part to simplify it since we're not interested in that.
 
-```js
+~~~js
 var Interfake = require('interfake');
 var interfake = new Interfake();
 
@@ -47,18 +47,18 @@ putRequest.extends.get('/items').body({ items: {
 }});
 
 interfake.listen(3000); // The server will listen on port 3030
-```
+~~~
 
 Run the above snippet then do the following requests in cURL:
 
-```
+~~~
 curl http://localhost:3000/items -X GET # returns empty array
 curl http://localhost:3000/items/1 -X GET # returns 404
 curl http://localhost:3000/items -X POST # returns 201
 curl http://localhost:3000/items/1 -X POST # returns new resource
 curl http://localhost:3000/items/1 -X PUT # returns modified resource
 curl http://localhost:3000/items/1 -X GET # returns modified resource
-```
+~~~
 
 Before, we would have had to create whole new endpoints to modify small amounts of data. When you're working with large responses, the benefits are huge.
 

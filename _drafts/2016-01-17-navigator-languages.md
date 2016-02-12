@@ -5,7 +5,7 @@ date_created: 17 October 2014
 location: London, UK
 ---
 
-```js
+~~~js
 /* JavaScript may make use of two properties
    in order to determine the user's preferred language
 */
@@ -25,6 +25,6 @@ var language = navigator.language; // String
    For me, navigator.language === ['en-GB', 'en']
 */
 var languages = navigator.languages; // Array
-```
+~~~
 
 <!-- Also put it here: https://coderwall.com/p/new -->

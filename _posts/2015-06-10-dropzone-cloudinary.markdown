@@ -46,36 +46,36 @@ Next, hit the "Save" button. Before we go into our code, though, head over to th
 
 To start, let's look at some standard-looking Dropzone code. The best way to make this scenario work is [create your Dropzone programmatically](http://www.dropzonejs.com/#create-dropzones-programmatically) rather than just dropping in `dropzone.js` as a script. This gives us the extra control we need. If you're already using it this way, you should have some code which looks a bit like the following.
 
-```javascript
+~~~javascript
 var myDropzone = new Dropzone(document.getElementById('dropzone-area'), {
 	uploadMultiple: false,
 	acceptedFiles:'.jpg,.png,.jpeg,.gif',
 	parallelUploads: 6
 });
-```
+~~~
 
 Note that I've filled in the the `acceptedFiles` parameter with the types of images our Cloudinary preset from earlier was expecting. This isn't crucial, but it saves Dropzone attempting to send any images that we know Cloudinary won't accept.
 
 Now we have to determine which URL to use. It's Cloudinary's upload URL, where one of the paths is your cloud name, which we noted down earlier. For example, if your cloud name is `cloud9`, your URL would be:
 
-```https://api.cloudinary.com/v1_1/cloud9/image/upload```
+~~~https://api.cloudinary.com/v1_1/cloud9/image/upload~~~
 
 Make this the value of the `url` parameter in your Dropzone options, and your code should look like the following.
 
-```javascript
+~~~javascript
 var myDropzone = new Dropzone(document.getElementById('dropzone-area'), {
 	uploadMultiple: false,
 	acceptedFiles:'.jpg,.png,.jpeg,.gif',
 	parallelUploads: 6,
 	url: 'https://api.cloudinary.com/v1_1/cloud9/image/upload'
 });
-```
+~~~
 
 At this point, it won't work. This is because Cloudinary expects some extra parameters: your **API key**, the **upload preset name**, and a **timestamp**.
 
 Since Dropzone will be making a `multipart/form-data` request to Cloudinary, it's our job to tell Dropzone what extra "parts" should be added to our form data. Remember your API key and preset name from earlier? We can add them to the request when the `'sending'` event fires from Dropzone, and to verify that our upload was successful we can use the `'success'` event.
 
-```javascript
+~~~javascript
 myDropzone.on('sending', function (file, xhr, formData) {
 	formData.append('api_key', 123456789123456);
 	formData.append('timestamp', Date.now() / 1000 | 0);
@@ -84,7 +84,7 @@ myDropzone.on('sending', function (file, xhr, formData) {
 myDropzone.on('success', function (file, response) {
 	console.log('Success! Cloudinary public ID is', response.public_id);
 });
-```
+~~~
 
 Optionally, other parameters such as tags can be added using `formData.append`, e.g. `formData.append('tags', 'browserupload,catgifs');`
 

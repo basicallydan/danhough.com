@@ -27,6 +27,6 @@ And to you, reader, I say a very happy, if belated, 2016.
 
 ### Footnotes
 
-\[1\]: I have a new job working with [*Digi2al*](https://www.digi2al.co.uk/) on an exciting new project.
-\[2\]: I've changed her name, of course.
-\[3\]: [My advert on GumTree](https://www.gumtree.com/p/flats-houses/we-both-hate-flathunting-so-lets-get-this-over-with-27yo-professional-900pm/1150343946)
+\[1\]: I have a new job working with [*Digi2al*](https://www.digi2al.co.uk/) on an exciting new project.<br>
+\[2\]: I've changed her name, of course.<br>
+\[3\]: [My advert on GumTree](https://www.gumtree.com/p/flats-houses/we-both-hate-flathunting-so-lets-get-this-over-with-27yo-professional-900pm/1150343946)<br>

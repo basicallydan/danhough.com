@@ -9,14 +9,14 @@ I've made a couple of little JavaScript games in my time, my favourite (and the 
 
 An important aspect of getting started with a game is creating the loops that will be constantly updating the state and rendering the graphics. It's very easy at the start to fall for this trap:
 
-```javascript
+~~~javascript
 var game = new Game();
 setInterval(function () {
 	// Update the game state
 	// Draw the game
 	// This is wrong.
 }, 100);
-```
+~~~
 
 This causes a few problems in the long run. First of all, if you want to control the speed of the rendering (in terms of frame rate) independently from the speed of state updates, you can't.
 
@@ -24,18 +24,18 @@ Secondly, you need to keep the drawing and updating functions separate. Keeping 
 
 It makes sense then to have two separate loops which operate independently. This should be pretty easy to achieve by creating two `setInterval` calls and putting the logic in there. Well, that's fine, but then I've got two `setInterval` calls to worry about. When I want to pause the game, for example, I'd have to stop them both. Plus, it's kind of ugly having `setInterval`s all over the place. I thought it might be much easier to create a simple class which sits on top of `setInterval` that takes much more human-readable parameters. It's an event-emitting loop class, so I called it [EventedLoop](https://github.com/basicallydan/eventedloop).
 
-```javascript
+~~~javascript
 var game = new Game();
 var loop = new EventedLoop();
 loop.every('100ms', function () { /* update the game here */ });
 loop.every('200ms', function () { /* draw the game here */ });
 loop.start();
 loop.stop();
-```
+~~~
 
 This is nice and clean. Furthermore, it allows you to do other, more flexible event-related things. For instance: spawning new enemies, doing a countdown timer or other frequent game events could be done separately from the update code, reducing the need to work out whether it's time to do those things again.
 
-```javascript
+~~~javascript
 var game = new Game();
 var loop = new EventedLoop();
 loop.every('20ms', function () { /* update the movements of all the sprites here */ });
@@ -45,11 +45,11 @@ loop.every('2s', function () { /* decrease the player's heath if they are poison
 loop.every('200ms', function () { /* draw the game here */ });
 loop.start();
 loop.stop();
-```
+~~~
 
 As you can see, it's simple and flexible. You can give it loop times in milliseconds, seconds, minutes or hours. You can even add and remove events dynamically throughout the game.
 
-```javascript
+~~~javascript
 var game = new Game();
 var loop = new EventedLoop();
 var explosionEvent; // Create it so we can reference it later
@@ -66,7 +66,7 @@ loop.every('20ms', function () {
 explosionEvent = loop.every('1m', function() { /* create a massive explosion every minute! */ });
 loop.every('200ms', function () { /* draw the game here */ });
 loop.start();
-```
+~~~
 
 So far I've used it in two instances. I [put it into SkiFree](https://github.com/basicallydan/skifree.js/blob/master/js/lib/game.js), and [recreated XKCD's Frequency comic using it](http://basicallydan.github.io/eventedloop/xkcd-example/).
 
@@ -82,15 +82,15 @@ There are a few more things to be done with this. Commands in the vein of `loop.
 
 EventedLoop could be a more powerful tool with a few extra pieces such as the ability to continue an event for a certain number of executions until it expires. Something like this:
 
-```javascript
+~~~javascript
 loop.every('20ms').until(5).do(function() { /* The stuff */ });
-```
+~~~
 
 I've also toyed with the idea of randomness.
 
-```javascript
+~~~javascript
 loop.every('20ms').chance('1:10').do(function() { /* Maybe the stuff */ });
-```
+~~~
 
 This would be especially useful for many simple games in which enemies or items appear semi-randomly.
 

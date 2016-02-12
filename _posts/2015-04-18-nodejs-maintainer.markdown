@@ -29,12 +29,12 @@ Examine your dependencies. Are any of them unsuitable for or incompatible with a
 
 By using a tool like [Browserify](http://browserify.org) you can compile your code into a single JavaScript file to be used in front-end projects. Stick this in a `/bin` or `/dist` folder, and don't forget to [ugilify](https://github.com/mishoo/UglifyJS) it too!
 
-```bash
+~~~bash
 browserify index.js > blogPostGenerator.js
 # see http://browserify.org
 uglify blogPostGenerator.js > blogPostGenerator.min.js
 # see https://github.com/mishoo/UglifyJS
-```
+~~~
 
 ## The Art of a good README
 
@@ -64,9 +64,9 @@ This is pretty cool: not only will `npm version` update the version code in `pac
 
 Since `npm version` creates a git commit, you can specify a commit message. Just like with `git commit`, you can do this with the `-m` flag:
 
-```bash
+~~~bash
 npm version minor -m "Up to version 3.4.3, yay!"
-```
+~~~
 
 ### `npm shrinkwrap`
 
