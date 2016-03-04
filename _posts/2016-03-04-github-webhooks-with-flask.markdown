@@ -43,19 +43,7 @@ a little bit unwell, I typed `mkdir` in Terminal I deliriously asked myself,
 
 And that's why I created [dothething](https://github.com/basicallydan/dothething).
 It's certainly not the most powerful webhooks server in the world, but it fits
-my purposes nicely, and I learned a few things in process of getting it to work:
-
-1. How to `uwsgi`.
-2. How to `nginx` my `uwsgi`.
-3. How to add a special `ssh` key just for read-only GitHub access in the form
-   of a [Deploy Key](https://developer.github.com/guides/managing-deploy-keys/)
-4. How to Flask.
-5. How to `Popen` with various different configurations of working directory,
-   environment, path, etc.
-6. How to debug while I `uwsgi`.
-7. How to write and read simple but flexible configuration files for Python apps.
-
-And that's about it. Not bad for a three-or-four-nights project.
+my purposes nicely.
 
 ### How does it work?
 
@@ -72,6 +60,20 @@ Flask app has set up containing the branch and the latest commit on that branch.
 The Flask app pulls down the latest changes on all branches, checks out the latest
 commit, deploys the blog to the appropriate folder (depending on whether it's
 `staging` or `master`) and checks out `master`. Job's a goodun.
+
+I learned a few things in process of getting to this stage:
+
+1. How to `uwsgi`.
+2. How to `nginx` my `uwsgi`.
+3. How to add a special `ssh` key just for read-only GitHub access in the form
+   of a [Deploy Key](https://developer.github.com/guides/managing-deploy-keys/)
+4. How to Flask.
+5. How to `Popen` with various different configurations of working directory,
+   environment, path, etc.
+6. How to debug while I `uwsgi`.
+7. How to write and read simple but flexible configuration files for Python apps.
+
+And that's about it. Not bad for a three-or-four-nights project.
 
 I realise also that I didn't need to write a post about this tool which probably
 is only useful for me since it's massively unflexible compared to some other
