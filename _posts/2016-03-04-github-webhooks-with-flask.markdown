@@ -59,7 +59,7 @@ Flask app has set up containing the branch and the latest commit on that branch.
 
 The Flask app pulls down the latest changes on all branches, checks out the latest
 commit, deploys the blog to the appropriate folder (depending on whether it's
-`staging` or `master`) and checks out `master`. Job's a goodun.
+`staging` or `master`) and checks out `master` to wrap it all up. Job's a goodun.
 
 I learned a few things in process of getting to this stage:
 
