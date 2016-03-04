@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Do The Thing with Webhooks
-date_created: 03 March 2016
+title: GitHub Webhooks with Flask
+date_created: 04 March 2016
 location: London, UK
 comments: false
 ---
@@ -30,7 +30,7 @@ first big bit of hands-on work with Python in quite a few years, using Django,
 which feels quite heavy-handed at times. Simultaneously,
 [Elli](https://twitter.com/elli_thomas) has been learning Python with
 [Code First Girls](https://twitter.com/codefirstgirls) and in the process,
-the minimalistic web framework Flask. I was inspired to do three things:
+the minimalistic web framework [Flask](http://flask.pocoo.org/). I was inspired to do three things:
 
 1. Automate deployment of my blog
 2. Do a small but challenging Python project outside of work
@@ -57,14 +57,32 @@ my purposes nicely, and I learned a few things in process of getting it to work:
 
 And that's about it. Not bad for a three-or-four-nights project.
 
+### How does it work?
+
+**uWSGI**, the application server, runs the **Flask** app and creates a unix
+socket through which to serve requests. All of this is configured in a simple but
+flexible **configuration file**. **Nginx**, which is the web server I already
+use on my Linode VPS, hooks up HTTP requests to that socket quite seamlessly, on
+a host that I have specified.
+
+Whenever my **GitHub** repo is pushed to updated on either the `staging` or `master`
+branches, GitHub's **webhooks** are configured to send a request to the endpoint the
+Flask app has set up containing the branch and the latest commit on that branch.
+
+The Flask app pulls down the latest changes on all branches, checks out the latest
+commit, deploys the blog to the appropriate folder (depending on whether it's
+`staging` or `master`) and checks out `master`. Job's a goodun.
+
 I realise also that I didn't need to write a post about this tool which probably
 is only useful for me since it's massively unflexible compared to some other
 likely alternatives, but it was a good excuse to test out my new workflow.
 
-Incidentally, this is my new workflow:
+Incidentally&hellip;
+
+### This is my new workflow
 
 1. Make a new `.markdown` file in `_posts`
-2. Push it to `staging` so that it won't deploy
+2. Push it to `staging` so that it won't deploy to danhough.com
 3. Run the website locally.
 4. Tweak it as I go and keep committing.
 5. When it's done, some friends and colleagues the staging link for critique.
