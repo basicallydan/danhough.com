@@ -6,8 +6,8 @@ location: London, UK
 comments: false
 ---
 
-On my to-do list for a while I've had a goal of automating deployment of my blog
-somehow. It's powered by Jekyll, in case you didn't know, so [the source is all on
+On my to-do list for a while I've had a goal of automating deployment of my blog.
+It's powered by Jekyll, in case you didn't know, so [the source is all hosted on
 GitHub](https://github.com/basicallydan/danhough.com).
 Before today, this was my process for writing a new post:
 
@@ -22,6 +22,22 @@ Before today, this was my process for writing a new post:
    staging link for critique and test that the deploy process hasn't broken somehow.
 9. When that's all over, manually deploy it to live.
 
+A better solution would involve less work by me: why should my blog be any harder
+to publish to than a Wordpress-powered blog?
+
+GitHub provides Webhooks for individual git repositories hosted on their service.
+The service can be configured so that when your repo is updated, GitHub will send
+a little HTTP request to the endpoint of your choice on the public Internet,
+with information about what has changed including the branch, the latest commit,
+and some secret information to verify it came from GitHub and not some cheap
+knockoff!
+
+So the solution has been clear in my mind for a while: get GitHub to tell my
+server (which is where my blog is deployed to and being served from) when it
+needs to pull down the latest changes to my blog and run a deploy script.
+
+The next question: how will I make this happen?
+
 ### Inspiration
 
 We've spent a lot of time in my current gig at [Digi2al](https://digi2al.co.uk)
@@ -30,14 +46,15 @@ first big bit of hands-on work with Python in quite a few years, using Django,
 which feels quite heavy-handed at times. Simultaneously,
 [Elli](https://twitter.com/elli_thomas) has been learning Python with
 [Code First Girls](https://twitter.com/codefirstgirls) and in the process,
-the minimalistic web framework [Flask](http://flask.pocoo.org/). I was inspired to do three things:
+the minimalistic Python web framework [Flask](http://flask.pocoo.org/).
+I was inspired to do three things:
 
 1. Automate deployment of my blog
 2. Do a small but challenging Python project outside of work
 3. Use Flask for something so I can know what Elli is talking about
 
-So naturally I decided to write a Flask app which could automate deployment of
-my blog. One evening last week, brain-tired after a long day at the office and
+So naturally I decided to write a Flask app to implement my solution.
+One evening last week, brain-tired after a long day at the office and
 a little bit unwell, I typed `mkdir` in Terminal I deliriously asked myself,
 "what is this app supposed to do?" and my brain responded stupidly, "the thing."
 
