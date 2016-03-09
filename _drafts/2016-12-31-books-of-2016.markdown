@@ -1,0 +1,19 @@
+---
+layout: post
+title: The Books I Read in 2016
+date_created: 31 December 2016
+location: Suffolk, UK
+comments: true
+description: The books I read in 2016. History, politics, empires, comics and magic.
+time_to_read_estimate: 7
+twitterCardType: summary_large_image
+tags: [books]
+thumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-og.png"
+---
+
+
+
+## [Burmese Days](http://www.amazon.co.uk/dp/B003FXCSRM) by George Orwell
+
+I read this book right after I got back from my [six month trip through Asia](/travel), since my interest in colonialism had been piqued by my trip. It's sad, but an important perspective on the terrible ways that the British treated their "subjects" in that era. Semi-autobiographical.
