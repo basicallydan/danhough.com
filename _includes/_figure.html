@@ -1,4 +1,10 @@
 <figure class="center {{include.classes}}">
+	{% if include.srcset %}
+	<img src="{{include.src}}" title="{{include.caption}}" alt="{{include.caption}}" srcset="{{include.srcset}}">
+	{% else %}
 	<img src="{{include.src}}" title="{{include.caption}}" alt="{{include.caption}}">
+	{% endif %}
+	{% if include.caption %}
 	<figcaption>{{include.caption}}</figcaption>
+	{% endif %}
 </figure>
