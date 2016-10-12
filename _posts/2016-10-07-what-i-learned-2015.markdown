@@ -10,29 +10,29 @@ twitterCardType: summary_large_image
 time_to_read_estimate: 5
 ---
 
-**Author's Note:** I wrote this post back in December 2016. I spotted it in my drafts today when I was thinking about writing a new blog post. Can't believe I forgot to publish it. Well, here it is. I hope you find it interesting, useful, or inspiring.
+**Author's Note:** I wrote this post back in December 2015. I spotted it in my drafts today when I was thinking about writing a new blog post. Can't believe I forgot to publish it. Well, here it is. I hope you find it interesting, useful, or inspiring.
 
 ---
 
-I just finished a long trip away from the UK, visiting places all over Asia. It's the longest time I've spent away from my family & friends on my own, and I'd hoped that it'd be a learning experience for me. Thankfully, it was. I learned a few tangible skills as well as some general life lessons. So this is a part-bragging, part-advice post.
+I just finished a long trip away from the UK, visiting places all over Asia. It was the longest time I've spent away from my family & friends, and I'd hoped that it'd be a learning experience for me. Thankfully, it was. I learned a few tangible skills as well as some general life lessons. So this is a part-bragging, part-advice post.
 
 ## Tangible Skills
 
 ### Drumming
 
-First off, I spent almost 3 months in South Korea, mostly in the capital city of Seoul. In Seoul there are loads and loads of rent-by-the-hour music practice rooms. You give them a few hundred Won, they let you use the soundproofed room. Inside there are instruments, usually including a drum kit. Two to three times a week I'd rent one of these for an hour, then go onto YouTube and find a drumming tutorial. I followed [Lisa's tutorials](https://www.youtube.com/watch?v=UFTG4diUAao), in order.
+First off, I spent almost 3 months in South Korea, mostly in the capital city of Seoul. In Seoul there are loads and loads of rent-by-the-hour music practice rooms. You give them a few hundred Won (local currency), they let you use the soundproofed room. Inside there are instruments, usually including a drum kit. Two to three times a week I'd rent one of these for an hour, then go onto YouTube and find a drumming tutorial. I followed [Lisa's tutorials](https://www.youtube.com/watch?v=UFTG4diUAao), in order.
 
-Did I actually gain any drumming skill or confidence? Yes! I know this because in Japan, which is the first place I visited, I took part in a jam session and played the drums. I kept the time, but I was embarassingly boring as a drummer and rarely deviated from a simple beat. But a few months later when I got to Cambodia, after learning in Korea, I went to another jam night. This one was much more successful, enough that the band wouldn't allow me to stop playing after the first song even though I was a little embarassed. It felt a lot better and I was able to mess around with the band more. Still, I have sooooooo much to learn, and I'd really like to be able to play with a band when I get back to the UK.
+Did I actually gain any drumming skill or confidence? Yes! I know this because in Japan, which is the first place I visited, I took part in a jam session and played the drums. I kept the time, but I was embarrassingly boring as a drummer and rarely deviated from a simple beat. But a few months later when I got to Cambodia, I went to another jam night. This one was much more successful, enough that the band wouldn't allow me to stop playing after the first song even though I was a little embarrassed. It felt a lot better and I was able to mess around with the band more. Still, I have sooooooo much to learn, and I'd really like to be able to play with a band when I get back to the UK.
 
 ### Korean Language
 
-Before I came to Korea I'd attempted to learn the language before. in 2012 I took a few private lessons with a Korean student living in London. That was pretty helpful, but it wasn't immersive enough to really stick. Then in early 2015 before I left London, I was listening to a podcast called Talk To Me In Korean. That helped loads, and listening every day and repeating what I heard helped a lot with pronounciation, but it wasn't conversational enough for me to get good at forming sentences.
+Before I came to Korea I'd attempted to learn the language before. In 2012 I took a few private lessons with a Korean student living in London. That was helpful, but it wasn't immersive enough to really stick. Then in early 2015 before I left London, I was listening to a podcast called Talk To Me In Korean. That helped loads, and listening every day and repeating what I heard helped a lot with pronunciation, but it wasn't conversational enough for me to get good at forming sentences.
 
-So, when I got to Korea I enrolled in a monthly programme at a school called Ganada. At the end I took a test, I got a pretty good score and now I can confidently make my way through most situations that a long-term tourist in Korea will come across. I'm able to have basic conversations about where I'm from and what I do, and now I often take opportunities to practice by striking up conversations with Koreans that I meet. Like with drumming I still have a *lot* to learn here. I can't have complex conversations or express opinions further than "I like this" or "I don't like this" yet, for instance. So hopefully I can continue this in London, too.
+So, when I got to Korea I enrolled in a monthly programme at a school called Ganada. At the end I took a test; I got a pretty good score and now I can confidently make my way through most situations that a long-term tourist in Korea will come across. I'm able to have basic conversations about where I'm from and what I do, and now I often take opportunities to practice by striking up conversations with Koreans that I meet. Like with drumming I still have a *lot* to learn here. I can't have complex conversations or express opinions further than "I like this" or "I don't like this" yet, for instance. So hopefully I can continue this in London, too.
 
 ### Swift (programming language)
 
-While I was in Hong Kong (I was there for a while) I started re-writing the first iPhone app I ever wrote, StreetScout. It was built about 3 years ago using Objective-C so I started from scratch, this time in Apple's newest programming language, Swift. It's a *much* easier language to write than Objective-C, and far nicer to read too. I haven't yet come across any of the limitations, so I think I'll continue to use it in new projects, and hopefully learn some more idiomatic ways of structuring Swift apps in the process.
+While I was in Hong Kong I started re-writing the first iPhone app I ever wrote, StreetScout. It was built about 3 years ago using Objective-C so I started from scratch, this time in Apple's newest programming language, Swift. It's a *much* easier language to write than Objective-C, and far nicer to read too. I haven't yet come across any of the limitations, so I think I'll continue to use it in new projects, and hopefully learn some more idiomatic ways of structuring Swift apps in the process.
 
 ### Rope Climbing
 
@@ -40,7 +40,7 @@ I already was quite into bouldering, but while in Asia I got a lot into rope cli
 
 ### SCUBA Advanced Open Water
 
-Not so much a skill, but more a collection of new diving experiences. I'd already dived before and already had my open water certification, but in Ko Lanta, I took an advanced open water course and got that one. I learned a few new techniques and went a lot deeper than before. Definitely worth the time and money.
+Not so much a skill, but more a collection of new diving experiences. I'd already dived before and already had my Open Water certification, but in Ko Lanta, I took an Advanced Open Water course and got that one. I learned a few new techniques and went a lot deeper than before. Definitely worth the time and money.
 
 ## General Lessons
 
@@ -48,17 +48,17 @@ Not so much a skill, but more a collection of new diving experiences. I'd alread
 
 I kinda already knew about this one, but this trip has really highlighted how true it is, at least for me. I only have so much patience for sightseeing. In Korea I didn't do much - mostly when my friends from back home were there - but when I started travelling more after that, I started out seeing loads of things like temples, museums, old buildings, stuff like that. But there's only so many tourist-heavy places one can go before it becomes extremely samey.
 
-Rather than just spending days "resting" by lying in my hotel I tried to just do things I'd normally do. Find somewhere quiet to do some programming or some reading, or do something a bit more mentally engaging like learning to cook some local food. I also tried to scout out places to climb, and occasionally found a cinema. Then at dinner time I'd just go out to a restaurant and then a usually a bar, talk to strangers and, sometimes, find people online (normally through Reddit) to hang out with. And then there's video production of course. I made a lot of YouTube videos/ I just can't spend two months sightseeing, it's not for me.
+Rather than just spending days "resting" by lying in my hotel I tried to just do things I'd normally do. Find somewhere quiet to do some programming or some reading, or do something a bit more mentally engaging like learning to cook some local food. I also tried to scout out places to climb, and occasionally found a cinema. Then at dinner time I'd just go out to a restaurant and then a usually a bar, talk to strangers and, sometimes, find people online (normally through Reddit) to hang out with. And then there's video production of course – [I made a lot of YouTube videos](https://www.youtube.com/basicallydan). I just can't spend two months sightseeing; it's not for me.
 
 This lesson was actually the one I found most other travellers repeating. In fact, it's safe to say that over 80% of the travellers I had proper conversations with (i.e., not just "Hey! Oh is this the boat for..." types of conversations) were able to attest to this feeling. When you're on the road for a long time it seems like most people just have to have days where you just don't do anything touristy at all.
 
 ### You don't just learn about the cultures you're visiting
 
-I met loads of people from around the world while I was travelling by staying in a variety of different types of accommodation and talking to people in restaurants and bars. I met people from Germany, Austria, Israel, France, South Africa, Australia, New Zealand, Japan, China, Korea, Canada, the USA, Brazil, Taiwan, Thailand, Russia, Poland, Cambodia, Vietnam, Italy, Spain, Portugal, Argentina, Malaysia, Singapore. Probably more. Once I got talking to some of them I realised how little I knew about their countries. I learned about their hometowns, languages, political situations, and often whether it's common for them to travel or not. It's really interesting! Now I have loads of new places that I'd like to visit, and in some of those places, potentially even people to hang out with.
+I met loads of people from around the world while I was travelling by staying in a variety of different types of accommodation and talking to people in restaurants and bars. I met people from Germany, Austria, Israel, France, South Africa, Australia, New Zealand, Japan, China, Korea, Canada, the USA, Brazil, Taiwan, Thailand, Russia, Poland, Cambodia, Vietnam, Italy, Spain, Portugal, Argentina, Malaysia, Singapore. Probably more. Once I got talking to some of them I realised how little I knew about their countries. I learned about their hometowns, languages, political situations, and often whether it's common for them to travel or not; it's really interesting! Now I have loads of new places that I'd like to visit, and in some of those places, potentially even people to hang out with.
 
 ### Productive activities are great for my sanity
 
-When I was feeling touristed out, I often turned to creative pursuits. Writing this blog is one of them, but actually more often than not I'd make a video. I really got into video production while I've been out here. I haven't gotten a whole lot better at it but there's a noticeable improvement. I started recording videos of myself eating local convenience store food. I found the whole convenience store culture in Asia interesting because the types of food you find in these places (which are extremely common in most of the countries I visited) seem totally out of place in a grocery store to me, and it's not often that you hear people talking about any local food other than those found in markets or restaurants.
+When I was feeling touristed out, I often turned to creative pursuits. Writing this blog is one of them, but actually more often than not I'd make a video. I really got into video production while I've been out here. I haven't gotten a whole lot better at it but there's a noticeable improvement. I started recording [videos of myself eating local convenience store food](https://www.youtube.com/playlist?list=PLcyixWPrzYtW_INLcgdVC45EsnLOGv2Yg). I found the whole convenience store culture in Asia interesting because the types of food you find in these places (which are extremely common in most of the countries I visited) seem totally out of place in a grocery store to me, and it's not often that you hear people talking about any local food other than those found in markets or restaurants.
 
 Apart from that, I released a new version of each of my iPhone apps, [StreetScout](http://streetscoutapp.com) and [Pub Crawl: London](http://pubcrawlapp.co.uk), and continued working on [Forkability](https://github.com/basicallydan/forkability) and [Interfake](https://github.com/basicallydan/interfake), two of the open-source projects that I maintain.
 
@@ -76,7 +76,7 @@ Having said that...
 
 I love travelling with my friends, but sometimes it's difficult to acknowledge when people want to do different things with their time in certain places. Being on your own gives you the freedom to decide to do something totally niche and not interesting to others without the fear of hurting somebody's feelings. It gives you the freedom, also, to work by your own budget (whether you're on a shoestring or willing to pay for more comfort) and, sometimes, **being on your own can encourage you to be more outgoing**. But it goes both ways. Sometimes having somebody with me made me more willing to speak to strangers, but sometimes being on my own pushed me to speak to strangers.
 
-For some reason, some people also find solo travellers quite "brave". Others think it's weird. At many hotels I was asked, "you're on your own??"
+For whatever reason, some people also find solo travellers quite "brave". Others think it's weird. At many hotels I was asked, "you're on your own??" Actually, I met quite a few solo travellers.
 
 ### Fewer places for longer is better than more places for shorter
 
@@ -102,9 +102,9 @@ But it didn't feel like enough. I'd like to learn more, but of course there's on
 
 ### When it comes to sleep, I'm an old man
 
-Most of the time I avoided dorm rooms. I'm 27, I feel like I should be able to do these things, but I struggled a couple of times in dorms. Some people were loud snorers, many people were extremely inconsiderate about others, and sometimes bunk beds can be very unstable.
+Most of the time I avoided dorm rooms. I'm 27; I feel like I should be able to do these things, but I struggled a couple of times in dorms. Some people were loud snorers, many people were extremely inconsiderate about others, and sometimes bunk beds can be very unstable.
 
-I'm a light sleeper. But I also like hostels for the opportunties they provide to meet people. So, sometimes I'd look for hostels with private rooms. Still good value, still with common areas and sociable people, but easier to get a good night's sleep.
+I'm a light sleeper. But I also like hostels for the opportunities they provide to meet people. So, sometimes I'd look for hostels with private rooms. Still good value, still with common areas and sociable people, but easier to get a good night's sleep.
 
 ### Trust people, but keep your wits about you
 
@@ -116,7 +116,7 @@ That doesn't mean you shouldn't do your research before getting somewhere, thoug
 
 ### Don't forget to be grateful, and be creative in your gratitude
 
-In times of high stress, when there's no common language it can be easy to forget to thank people for doing things - especially when their way of talking to you doesn't seem particularly enthralled. But it doesn't hurt to thank people, and if you can't find the words, a bow will usually do just fine in Asia. Maybe put your hands together, too, in some countries.
+In times of high stress, when there's no common language it can be easy to forget to thank people for doing things - especially when their way of talking to you doesn't seem particularly enthralling. But it doesn't hurt to thank people, and if you can't find the words, a bow will usually do just fine in Asia. Maybe put your hands together, too, in some countries.
 
 ### When you're looking for friends, Reddit is your friend
 
