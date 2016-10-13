@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I learned from travelling in 2015
-date_created: 07 October 2016
+date_created: 13 October 2016
 location: London, UK
 description: My big trip is over, I'm back in the UK. What did I learn? What's next?
 thumbnail: "!SITE_URL!/img/what-i-learned-2015-thumbnail-tw.png"
