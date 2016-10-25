@@ -2,7 +2,7 @@
 layout: post
 title: The Books I Read in 2016
 date_created: 31 December 2016
-location: Suffolk, UK
+location: London, UK
 comments: true
 description: The books I read in 2016. History, politics, empires, comics and magic.
 time_to_read_estimate: 7
@@ -20,9 +20,11 @@ I read this book right after I got back from my [six month trip through Asia](/t
 
 ## Futuristic Violence and Fancy Suits by David Wong
 
-This was quite a slog, as it were. I'm not sure that David Wong's style really works for me.
+Ironic story set in a over-the-top ultraviolent future envisaged by someone getting their predictions about the future from WIRED Magazine. The fancy suits aspect of this is seriously underplayed, though.
 
 ## The Invisible Man by H.G. Wells
+
+A surprising story about a madman who stumbles upon on the forumla for a serum to turn him invisible, and thus goes about being extra mad. Interesting and fast-paced, but somehow I expected something else. Something a little less ridiculous. Nevertheless, really enjoyable.
 
 ## The Island Of Doctor Moreau by H.G. Wells
 
