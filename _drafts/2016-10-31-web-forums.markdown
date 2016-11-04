@@ -68,11 +68,27 @@ administrator's mission quite nicely.
 
 I'd be willing to bet that over 80% of the forums hosted online tell a similar
 tale: someone started it with grand ideas of a wonderful, vibrant community of
-likeminded netizens, but it inevitably never picked up and was left to decay.
+likeminded netizens, but it never picked up and was left, inevitably, to decay.
 
 The other 20%, though, also told similar stories to one another.
 
-<Something about common threads>
+# Common threads
+
+```
+Talk here about the way that every forum had a similar set of threads and boards
+
+* Off-topic board
+* "Politics" or "Real world discussion"
+* The introduction thread (on PCGF it was the "Say Hello" thread.)
+* Games like "word association" – mention Lemon Demon song
+* Pics
+```
+
+# Evolution
+
+```
+Talk about how web forums evolved. I started to use reddit and digg and stopped visiting forum so much
+```
 
 # Forums I used to frequent
 
