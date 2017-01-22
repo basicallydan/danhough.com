@@ -1,0 +1,65 @@
+---
+layout: post
+title: The Books I Read in 2016
+date_created: 22 January 2017
+location: London, UK
+comments: true
+description: The books I read in 2016. History, politics, empires, comics and magic.
+time_to_read_estimate: 4
+twitterCardType: summary_large_image
+tags: [books]
+thumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-og.png"
+---
+
+The books I read this year go hand-in-hand with the fact that I was not on a [a 5-and-a-half month trip around Asia](/travel), and that I got a permanent full-time job. Returning to London, moving twice, working a lot and spending a lot of time on extra-curricular projects like learning Japanese and rock climbing meant, evidently, a lot less reading time than in 2015. Fortunately, the few books I finished were good reads.
+
+## [Burmese Days](http://www.amazon.co.uk/dp/B003FXCSRM?tag=daplad-21) by George Orwell
+
+I read this book right after I got back from my [six month trip through Asia](/travel), since my interest in colonialism had been piqued by my trip. It's sad, but an important perspective on the terrible ways that the British treated their "subjects" in that era. Semi-autobiographical.
+
+## [Futuristic Violence and Fancy Suits](http://amzn.eu/cH1QJmu?tag=daplad-21) by David Wong
+
+Ironic story set in a over-the-top ultraviolent future envisaged by someone getting their predictions about the future from WIRED Magazine. The fancy suits aspect of this is seriously underplayed, though.
+
+## [The Invisible Man](http://amzn.eu/aTqW5cS) by H.G. Wells
+
+A surprising story about a madman who stumbles upon on the forumla for a serum to turn him invisible, and thus goes about being extra mad. Interesting and fast-paced, but somehow I expected something else. Something a little less ridiculous. Nevertheless, really enjoyable.
+
+## [The Island Of Doctor Moreau](http://amzn.eu/6WpZvwp) by H.G. Wells
+
+Bizarre! Totally bizarre. But, while continuing my journey through the imagination of H.G. Wells, I felt quite at home with his style and the simple concept behind an interesting and thought-provoking story.
+
+## [One's Company](http://amzn.eu/0vigUsJ?tag=daplad-21) by Peter Fleming
+
+I read this during a trip to Russia, and I can tell you that reading a book which features a train journey in a country you're also taking a train journey in, 80 years later, is a doubly fascinating experience.
+
+## [The Colour Of Magic](http://amzn.eu/4saDSMP?tag=daplad-21) by Terry Pratchett
+
+Despite almost all of my friends appearing to be huge Pratchett fans, this is only my second Discworld novel. Good fun, but I'd like something a little less Rincewind-heavy. I know there are plenty of alternatives. I'll seek them out in 2017.
+
+## [Herland](http://amzn.eu/iVMcxlf) by Charlotte Perkins Gilman
+
+I was seeking out some feminism-related books this year, and this is one that I ended up on. It sort of reminds me of Gulliver's Travels with an equality slant. It's a parody of the explorer genre but also a hard-hitting theoretical peice about what an all-female society would look like. Sort of like a 20th-Century _Y: The Last Man_ but more _u_topian than _dys_topian.
+
+## [The Home DIY Expert](http://amzn.eu/9TTOecX?tag=daplad-21) by D. G. Hessayon
+
+I bought a flat, which means I can finally start destroying walls. This is my new bible. Featuring diagrams clearly created by the same class of illustrator as those found in GCSE science textbooks, this is extremely information-dense yet somehow readable and engaging. Timeless!
+
+## [A Room Of One's Own](http://amzn.eu/2UdUNOe) by Virginia Woolf
+
+The other feminism-related title I settled on, far more serious than _Herland_. Really puts things in perspective for women of Woolf's era, yet still feels oddly apt in some parts for our era.
+
+## [A History of the World](http://amzn.eu/9KqdKDb?tag=daplad-21) by Andrew Marr
+
+I was impressed last year by his history of Modern Britain, so I quite enjoyed this. It's quite clearly and explicitly a great-man account of history, so take it as a short(ish) summary. Compelling!
+
+## Retrospective
+
+I did in fact read Burmese Days [as I said last year](/blog/books-of-2015), but barely scraped the surface of everything else I meant to do!
+
+## 2017
+
+I'm learning the Japanese language at the moment, so I'm going to try reading some translated Japanese books in order that when I'm a little better at reading Japanese, I can re-read in the original language. I'm starting with something quite "un-Japanese" though: Haruki Murakami. I've read that his fourth book, 世界の終りとハードボイルド・ワンダーランド (Hard-Boiled Wonderland and the End of the World) is a great place to start. I'm about half way. It was a tough start, but I'm quite into it now. After that, I'm not sure. Probably some more Pratchett, but I need to find some non-fiction to read. Recommendations are very welcome.
+
+Happy New Year!
