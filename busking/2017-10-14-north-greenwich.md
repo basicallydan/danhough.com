@@ -19,6 +19,10 @@ The first tip came from a middle-aged woman who came over after I'd finished my 
 
 A young woman came up before I began playing _Get Back_ by the Beatles. She stopped to listen and then we chatted - I found out she was from Bahrain and told her that I grew up in Saudi Arabia. She told me that with my voice, I should be making more money from this! Very kind :)
 
+### The best performance
+
+For my second rendition of Simple Twist of Fate I believe I did a stellar job. I thought about the fact that it's in 3/4 time and decdied to speed it up based on that knowledge, it worked really well. Much more lively.
+
 ## How to improve
 
 I should practice some of my more lively, exciting songs like _Fat Botttomed Girls_, _I Knew You Were Trouble_ and _The Lazy Song_. That will help a lot, I think.
