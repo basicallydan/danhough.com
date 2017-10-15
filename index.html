@@ -18,7 +18,7 @@ layout: default
 	</aside>
 	<section class="content-navigation-column">
 		<nav id="popular-articles-navigation" class="nav-list">
-			<h2>Popular Farticles</h2>
+			<h2>Popular Articles</h2>
 			<ul>
 				{% for post in site.categories.popular %}
 					<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
