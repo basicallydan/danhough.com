@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Busking Report – North Greenwich
-date_created: 14 October 2017
+date_created: 15 October 2017
+description: A report from my busking session at North Greenwich on the 14th of October! Get back!
 location: London, UK
 ---
 
