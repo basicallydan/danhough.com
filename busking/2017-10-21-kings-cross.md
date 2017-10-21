@@ -16,8 +16,6 @@ I've done some better performances, but it was an improvement on [last week](/bu
 
 Nonetheless, the practice of the last week on songs I haven't performed in a while paid off, because I'm expanding my repertoire once again. I've got a few new songs I'd like to try learning, too.
 
-{% include _pull-right-image.html paragraph="The view from the pitch." src="/img/busking/2017-10-21-kings-cross-2.jpg" %}
-
 ### The first tip
 
 For _Big Yellow Taxi_. Not sure who did it, but it wasn't a particularly memorable rendition. Thanks for the £2 though, stranger!
@@ -31,6 +29,8 @@ A young man came up from the platform to pay me £2.50 during a pretty good perf
 Easily the first performance of _New Shoes_ by Paolo Nutini. Really excellent I think. I put heart and soul into it. Many people watched from afar... but nobody tipped me for it. Oh well!
 
 Special mention to a performance of Oasis's _Don't Look Back In Anger_ which captured the imagination of a friendly man and two women who all sang along and even got a few other people involved. And maybe the video they took will show up on Instagram or Facebook, we'll have to see!
+
+{% include _pull-right-image.html paragraph="The view from the pitch." src="/img/busking/2017-10-21-kings-cross-2.jpg" %}
 
 ## How to improve
 
