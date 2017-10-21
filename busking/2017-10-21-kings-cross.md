@@ -8,7 +8,7 @@ location: London, UK
 
 Second time in as many weeks! I practiced a bunch of songs that I played last 
 
-{% include _figure.html src="/img/busking/2017-10-21-kings-cross-1.jpg" caption="The pitch." %}
+{% include _pull-right-image.html paragraph="The pitch. Pretty sure the woman in the image isn't yawning at me. Pretty sure." src="/img/busking/2017-10-21-kings-cross-1.jpg" %}
 
 Again I went with no signage or encouragement to tip - just my guitar case and guitar. New strings, too.
 
@@ -16,7 +16,7 @@ I've done some better performances, but it was an improvement on [last week](/bu
 
 Nonetheless, the practice of the last week on songs I haven't performed in a while paid off, because I'm expanding my repertoire once again. I've got a few new songs I'd like to try learning, too.
 
-{% include _figure.html src="/img/busking/2017-10-21-kings-cross-2.jpg" caption="The view from the pitch." %}
+{% include _pull-right-image.html paragraph="The view from the pitch." src="/img/busking/2017-10-21-kings-cross-2.jpg" %}
 
 ### The first tip
 
