@@ -1,6 +1,9 @@
 <section class="pull-right-paragraph">
 	<aside class="pull-right">
 		<img src="{{include.src}}">
+		{% if include.caption %}
+		<figcaption>{{include.caption}}</figcaption>
+		{% endif %}
 	</aside>
 	<p>{{include.paragraph}}</p>
 </section>
