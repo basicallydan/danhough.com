@@ -22,7 +22,7 @@ For _Big Yellow Taxi_. Not sure who did it, but it wasn't a particularly memorab
 
 ### The biggest tip
 
-A young man came up from the platform to pay me £2.50 during a pretty good performance of _The Lazy Song_ by Bruno Mars, and told me " Ireally like your song". I didn't have time to eschew the credit for this excellent song, so I'm Bruno Mars now.
+A young man came up from the platform to pay me £2.50 during a pretty good performance of _The Lazy Song_ by Bruno Mars, and told me "I really like your song". I didn't have time to eschew the credit for this excellent song, so I'm Bruno Mars now.
 
 ### The best performance
 
