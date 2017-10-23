@@ -26,10 +26,10 @@ A young woman came up before I began playing _Get Back_ by the Beatles. She stop
 
 ### The best performance
 
-For my second rendition of Simple Twist of Fate I believe I did a stellar job. I thought about the fact that it's in 3/4 time and decdied to speed it up based on that knowledge, it worked really well. Much more lively.
+For my second rendition of Simple Twist of Fate I believe I did a stellar job. I thought about the fact that it's in 3/4 time and decided to speed it up based on that knowledge, it worked really well. Much more lively.
 
 ## How to improve
 
-I should practice some of my more lively, exciting songs like _Fat Botttomed Girls_, _I Knew You Were Trouble_ and _The Lazy Song_. That will help a lot, I think.
+I should practice some of my more lively, exciting songs like _Fat Bottomed Girls_, _I Knew You Were Trouble_ and _The Lazy Song_. That will help a lot, I think.
 
 I also need to get a little sign. Many people might think that I'm being paid by TfL for this so it might help to put up a chalkboard saying, "Please tip! Buskers earn money from tips alone." or something like that.
