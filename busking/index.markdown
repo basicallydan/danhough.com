@@ -5,9 +5,12 @@ title: Busking
 
 # Busking
 
-I've been the holder of a license to busk on the London Underground since 2013. I've had on-and-off bouts of lots of busking in that time, ranging from several per week to none over a five-month period. To give you a sense of what I do, here's a video I recorded at Southwark Underground Station, one of my favourite places to play for acoustics (but least favourite for money).
+I've been the holder of a license to busk on the London Underground since 2013. I've had on-and-off bouts of lots of busking in that time, ranging from several per week to none over a five-month period. To give you a sense of what I do, here's a video of me busking:
 
-<iframe width="900" height="506" src="https://www.youtube.com/embed/LmDXpLbi2w0" frameborder="0" allowfullscreen></iframe>
+<figure class="center">
+	<iframe width="900" height="506" src="https://www.youtube.com/embed/LmDXpLbi2w0" frameborder="0" allowfullscreen></iframe>
+	<figcaption>A video I recorded at Southwark Underground Station, one of my favourite places to play for acoustics (but least favourite for money)</figcaption>
+</figure>
 
 It occurred to me that busking on the London Underground isn't something that the vast majority of musicians, let alone the vast majority of people, get to do. Thus, I should try to make the most of this opportunity. So I'm going to be a completionist about it and try out every pitch on the network, then write a short blog post.
 
