@@ -60,7 +60,13 @@ One of my busking goals is to earn £100 for a single two-hour session. I'm a lo
 
 ### Which pitches that you've played have the best acoustics?
 
+I like places where the sound echoes and carries far, so people can hear your music as they come up or down escalators, and have more time to get into a song.
+
 Southwark is great, because there's a huge hall and most of the foot traffic is nowhere near the pitch so it carries very far. That comes at a price though - less chance of a super-passive lazy tip.
+
+[Chancery Lane](2017-10-29-chancery-lane) is also good because it's got a lot of wind coming from the train tunnels. Although this can be difficult to perform in because you have to make sure your gear doesn't fall over/fly away, the sound gets carried right up a very long escalator up to the gates.
+
+Westminster is particularly difficult, because one of the pitches is in a very small, narrow, curved corridor. When it's busy, you're really battling for your sound to carry.
 
 ### Are there sockets for plugging in an amp, or does everything need it's own power?
 
