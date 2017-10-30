@@ -1,0 +1,55 @@
+---
+layout: page
+title: Busking
+---
+
+# Busking
+
+I've been the holder of a license to busk on the London Underground since 2013. I've had on-and-off bouts of lots of busking in that time, ranging from several per week to none over a five-month period. To give you a sense of what I do, here's a video of me busking:
+
+<figure class="center">
+	<iframe width="900" height="506" src="https://www.youtube.com/embed/LmDXpLbi2w0" frameborder="0" allowfullscreen></iframe>
+	<figcaption>A video I recorded at Southwark Underground Station, one of my favourite places to play for acoustics (but least favourite for money)</figcaption>
+</figure>
+
+It occurred to me that busking on the London Underground isn't something that the vast majority of musicians, let alone the vast majority of people, get to do. Thus, I should try to make the most of this opportunity. So I'm going to be a completionist about it and try out every pitch on the network, then write a short blog post.
+
+## Blog posts
+
+* [28 October 2017: Chancery Lane](2017-10-29-chancery-lane)
+* [21 October 2017: Kings Cross](2017-10-21-kings-cross)
+* [14 October 2017: North Greenwich](2017-10-14-north-greenwich)
+
+## Frequently Asked Questions
+
+### What's a 'pitch'?
+
+That's the name of the designated spot on the station where buskers are allowed to play. It's almost always a half-circle stuck on the ground next to a wall, which is clearly visible as it's black and orange as opposed to the whiteish colour of most of the floors in the Underground.
+
+### Where do you play?
+
+Loads of places! There are lots of choices. I have made it my goal to play at least one session at every pitch on the network with a busking pitch.
+
+### Where are you allowed to play?
+
+Of the 270 stations on the London Underground network, 30 feature at least one licensed busking pitch. There are 44 busking pitches in total. Not every pitch is at an Underground station though. One of the stations attached to the infamous Emirates Air Line Cable Car featured a pitch for a little while, and now there's a semi-regular slot at the London Overground station Shoreditch High Street. However, the vast majority of pitches are inside Underground stations, and they are usually behind ticket barriers.
+
+### Do you need to book a pitch or can you rock up whenever you want?
+
+We have to book in advance, but I believe in some instances you can probably just turn up. However, some pitches are extremely desireable. Imagine Oxford Circus on a Saturday at 2pm, or Piccadilly Circus on Wednesday afternoon. These are tourist and shopping hotspots with extremely high footfall.
+
+### Are tourists good for buskers?
+
+By and large, yes. I don't have a lot of data on this as it's hard to accurately distinguish between tourists and locals but you can usually tell, I think.
+
+I'd wager that tourists tend to carry more cash than locals because they might not trust the exchange rate that their bank will give them on their debit or credit card, so they get a bunch of cash out when they come over all at once and use it to buy stuff. They then end up carrying around change, which is what buskers want.
+
+They're also more likely to be entertained by buskers. Locals who commute daily on the network see the same faces and hear the same songs over and over, so they're often not too impressed (fair enough). Tourists, however, are excited by London's musical heritage and feel that busking and musical street performance are a big part of it (and they'd be right). So to a tourist, contributing to a street performer's ability to continue doing what they do is part of the experience of visiting London.
+
+### Do you earn much?
+
+In the grand scheme of things, no. I do this part-time, and so I don't take it quite as seriously as people for whom busking is a primary income source. But relatively speaking, the "wage" for busking can be quite good. I keep track of exactly how much I earn for each session, and thus work out what the equivalent rate per hour is.
+
+The highest "per hour" session I've ever done is £22.06. For a 37.5hr week, that would work out to a salary of £32k per annum. Not bad. But on the other hand, playing music solidly for 37.5 hours per week is not feasible. If I were to earn this salary as a busker, the income per session would need to be higher so I could pay for non-earning activities of practicing new songs, writing new material, finding pitches to play at and, frankly, giving my fingers and vocal chords a rest.
+
+One of my busking goals is to earn £100 for a single two-hour session. I'm a long way off, but I know it's doable. Some buskers I've spoken to say that this is not unusual for them.
