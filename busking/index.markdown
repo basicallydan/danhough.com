@@ -38,6 +38,10 @@ Of the 270 stations on the London Underground network, 30 feature at least one l
 
 We have to book in advance, but I believe in some instances you can probably just turn up. However, some pitches are extremely desireable. Imagine Oxford Circus on a Saturday at 2pm, or Piccadilly Circus on Wednesday afternoon. These are tourist and shopping hotspots with extremely high footfall.
 
+### How long does each "booking" give you a pitch for?
+
+Two hours, and you can only have a maximum of one booking per pitch per day. Some pitches (the really desireable ones) can only be booked once every two or three days.
+
 ### Are tourists good for buskers?
 
 By and large, yes. I don't have a lot of data on this as it's hard to accurately distinguish between tourists and locals but you can usually tell, I think.
@@ -53,3 +57,15 @@ In the grand scheme of things, no. I do this part-time, and so I don't take it q
 The highest "per hour" session I've ever done is £22.06. For a 37.5hr week, that would work out to a salary of £32k per annum. Not bad. But on the other hand, playing music solidly for 37.5 hours per week is not feasible. If I were to earn this salary as a busker, the income per session would need to be higher so I could pay for non-earning activities of practicing new songs, writing new material, finding pitches to play at and, frankly, giving my fingers and vocal chords a rest.
 
 One of my busking goals is to earn £100 for a single two-hour session. I'm a long way off, but I know it's doable. Some buskers I've spoken to say that this is not unusual for them.
+
+### Which pitches that you've played have the best acoustics?
+
+Southwark is great, because there's a huge hall and most of the foot traffic is nowhere near the pitch so it carries very far. That comes at a price though - less chance of a super-passive lazy tip.
+
+### Are there sockets for plugging in an amp, or does everything need it's own power?
+
+As far as I know, there aren't any pitches with sockets. I've never seen one, anyway. It's quite easy to find a battery-powered amplifier, thankfully.
+
+### Could two buskers share a pitch and perform together?
+
+I don't know! You'd probably have to ask permission first but it'd probably be okay. Your licence is basically valid based on the idea that your act is more-or-less what you auditioned with, so if you suddenly add another element to it which shakes it up it might be considered a breach of the rules. I can tell you confidently that bringing in another person who _doesn't_ have a licence would not be allowed, though.
