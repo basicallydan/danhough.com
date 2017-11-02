@@ -81,7 +81,7 @@ I don't know! You'd probably have to ask permission first but it'd probably be o
 ### A note left in my guitar case
 
 <figure class="center">
-	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It may not pay the bills of the home, but it will def pay the bills of the heart. Thanks anonymous! <a href="https://twitter.com/hashtag/busking?src=hash&amp;ref_src=twsrc%5Etfw">#busking</a> <a href="https://twitter.com/hashtag/london?src=hash&amp;ref_src=twsrc%5Etfw">#london</a> <a href="http://t.co/nKMOTC2alc">pic.twitter.com/nKMOTC2alc</a></p>&mdash; Dan Hough ⛩ ダン (@basicallydan) <a href="https://twitter.com/basicallydan/status/402804475452469248?ref_src=twsrc%5Etfw">November 19, 2013</a></blockquote>
+	<blockquote class="twitter-tweet center" data-lang="en"><p lang="en" dir="ltr">It may not pay the bills of the home, but it will def pay the bills of the heart. Thanks anonymous! <a href="https://twitter.com/hashtag/busking?src=hash&amp;ref_src=twsrc%5Etfw">#busking</a> <a href="https://twitter.com/hashtag/london?src=hash&amp;ref_src=twsrc%5Etfw">#london</a> <a href="http://t.co/nKMOTC2alc">pic.twitter.com/nKMOTC2alc</a></p>&mdash; Dan Hough ⛩ ダン (@basicallydan) <a href="https://twitter.com/basicallydan/status/402804475452469248?ref_src=twsrc%5Etfw">November 19, 2013</a></blockquote>
 	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figure>
 
