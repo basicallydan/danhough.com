@@ -26,7 +26,7 @@ A very cool-looking pair of teenagers (whom I would suggest were probably touris
 
 ### The best performance
 
-This time it was probably _Breakfast at Tiffany's_. Half way through the second verse a group of drunk football fans came and started singing along. One guy didn't really get that I was in the middle of the verse so he sang the chorus, and I skipped ahead to satisfy him. As entertaining as he was, he didn't think so tip me in return for my skipping the second verse, but thankfully his ashamed-looking friend did.
+This time it was probably _Breakfast at Tiffany's_. Half way through the second verse a group of drunk football fans came and started singing along. One guy didn't really get that I was in the middle of the verse so he sang the chorus, and I skipped ahead to satisfy him. As entertaining as he was, he didn't think to tip me in return for my skipping the second verse, but thankfully his ashamed-looking friend did.
 
 A full two minutes after finishing this song as I was packing up, someone came along with a pound coin and told me, with a very serious look on his face, that I "might be the next Ed Sheeran". I'm fairly sure he meant it as a compliment. I told him he was very kind and he went on his way. Not a bad way to end a session!
 
