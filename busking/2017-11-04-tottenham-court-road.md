@@ -18,7 +18,7 @@ During a jolly, upbeat rendition of _Don't Look Back in Anger_, a small child as
 
 ### The biggest tip & best performance
 
-In the last 5 minutes of my session, a large queue formed for the first time at an escalator. Just before it formed, I had decided to sing _Fat Bottomed Girls_ by Queen, using a capo on one fret higher than usual. For non-guitar-players: a capo allows the guitarist to easily adjust the key in which they're playing the song. Anyway, four or five people tipped me in total about £5 during this song. Pretty good for a single song. If I mad that for every song I'd make £100.
+In the last 5 minutes of my session, a large queue formed for the first time at an escalator. Just before it formed, I had decided to sing _Fat Bottomed Girls_ by Queen, using a capo on one fret higher than usual. For non-guitar-players: a capo allows the guitarist to easily adjust the key in which they're playing the song. Anyway, four or five people tipped me in total about £5 during this song. Pretty good for a single song. If I made that for every song I'd make £100.
 
 So I was playing it in a slightly higher key than usual. I had already sung it twice in the session and both times it felt wrong and didn't sound quite right. By playing it with the same chords on one fret higher, it allowed me to sing in a very, very comfortable key which sounded a lot better.
 
