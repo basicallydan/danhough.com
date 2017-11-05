@@ -32,6 +32,6 @@ I think my second and last performance of _Fat Bottomed Girls_ was my best - rea
 
 ## How to improve
 
-To be honest, I think I did very well. My cheat sheet of chords from songs that I haven't mastered yet was really, really helpful. It did 
+To be honest, I think I did very well. My cheat sheet of chords from songs that I haven't mastered yet was really, really helpful.
 
 However, I shan't be back to this pitch at this time of night any time soon. It was very, very cold. So cold I left 10 minutes early.
