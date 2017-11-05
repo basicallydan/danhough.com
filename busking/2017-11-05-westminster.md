@@ -18,7 +18,7 @@ There were a couple of very odd tips. Two people used my guitar case full of coi
 
 ### The first tip
 
-I'm happy to report my first tip was during my first performance, which was _Torn_ by Ednaswap (bmade famut ous by Natalie Imbruglia). It was not my first time playing it, but my first time doing it well the whole way through :)
+I'm happy to report my first tip was during my first performance, which was _Torn_ by Ednaswap (but made famous by Natalie Imbruglia). It was not my first time playing it, but my first time doing it well the whole way through :)
 
 ### The biggest tip
 
