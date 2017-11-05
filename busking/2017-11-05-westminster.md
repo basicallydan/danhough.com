@@ -6,6 +6,10 @@ description: A report from my busking session at Westminster (Pitch 2) on the 5t
 location: London, UK
 ---
 
+I came to Westminster at 20:00 on the 5th of November hoping that the fireworks would bump up the footfall. It was fairly busy in the station, but this station has many entrances and exits. Mine, however (5 and 6) were not very busy.
+
+This session brought me in £15.10, or £8.16 per hour (I was there for 1.85 hours).
+
 I used the cheat sheet [that I decided to use last time](/busking/2017-11-04-tottenham-court-road), and it helped _so much_. It felt like I had unlocked 7 new songs all of a sudden, which I already knew how to play once I'd gotten started but needed pointing in the right direction.
 
 {% include _figure.html src="/img/busking/2017-11-05-w2-2.jpg" caption="The pitch. It is in a tunnel which is not behind ticket barriers. It's semi-exposed to the elements." %}
@@ -14,7 +18,7 @@ There were a couple of very odd tips. Two people used my guitar case full of coi
 
 ### The first tip
 
-I'm happy to report my first tip was during my first performance, which was _Torn_ by Ednaswap (although made famous by Natalie Umbruglia). It was not my first time playing it, but my first time doing it well the whole way through :)
+I'm happy to report my first tip was during my first performance, which was _Torn_ by Ednaswap (bmade famut ous by Natalie Umbruglia). It was not my first time playing it, but my first time doing it well the whole way through :)
 
 ### The biggest tip
 
