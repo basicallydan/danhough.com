@@ -14,7 +14,7 @@ I used the cheat sheet [that I decided to use last time](/busking/2017-11-04-tot
 
 {% include _figure.html src="/img/busking/2017-11-05-w2-2.jpg" caption="The pitch. It is in a tunnel which is not behind ticket barriers. It's semi-exposed to the elements." %}
 
-There were a couple of very odd tips. Two people used my guitar case full of coins as a mechanism for changing their larger denomiations. One person gave me a £2 coin and took £1 back. Fair enough. Another put down two £1 coins and a 5p coin, then look three 50p coins in return! That felt a bit cheeky, as he spent quite a bit of time fingering through all my coins. Oh well. I guess it's good I helped.
+There were a couple of very odd tips. Two people used my guitar case full of coins as a mechanism for changing their larger denominations. One person gave me a £2 coin and took £1 back. Fair enough. Another put down two £1 coins and a 5p coin, then look three 50p coins in return! That felt a bit cheeky, as he spent quite a bit of time fingering through all my coins. Oh well. I guess it's good I helped.
 
 ### The first tip
 
