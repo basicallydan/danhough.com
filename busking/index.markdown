@@ -16,6 +16,7 @@ It occurred to me that busking on the London Underground isn't something that th
 
 ## Blog posts
 
+* [11 November 2017: Bond Street](2017-11-11-bond-street)
 * [05 November 2017: Westminster (Pitch 2)](2017-11-05-westminster)
 * [04 November 2017: Tottenham Court Road (Pitch 1)](2017-11-04-tottenham-court-road)
 * [28 October 2017: Chancery Lane](2017-10-29-chancery-lane)
