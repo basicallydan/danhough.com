@@ -24,7 +24,7 @@ It's just like being there at the pitch, except you can't hear any of the music 
 
 ### The first tip
 
-Just like last week, my first song was, _Torn_ and I did get two tips totalling about £1.50!
+Just like last week, my first song was _Torn_ and I did get two tips totalling about £1.50!
 
 ### The biggest tip
 
@@ -32,10 +32,12 @@ During a performance of _Big Yellow Taxi_, someone who was _really_ enjoying it 
 
 ### The best performance
 
-I sang one of my songs, _Bored bored bored_, and it was surprisingly well received! Usually people don't really engage with original music on the Underground, but I got some applause for this one, and it was a pretty fun performance!
+I sang one of my own songs, _Bored bored bored_, and it was surprisingly well received! Usually people don't really engage with original music on the Underground, but I got some smiles and some applause for this one, and it was a pretty fun performance!
 
 {% include _figure.html src="/img/busking/2017-11-11-bond-street-2.jpg" caption="The view from the pitch." %}
 
 ## How to improve
 
-So, I try to say thank you to everybody who gives me a tip and sometimes it can throw me off quite a lot. I wonder if I should try to be a little more discreet!
+I still need more songs in my repertoire as I'm doing a lot of repeats. 
+
+Also, I try to say thank you to everybody who gives me a tip and sometimes it can throw me off so I might try to be a little bit more careful with this, and only do it when I've got a convenient opportunity.
