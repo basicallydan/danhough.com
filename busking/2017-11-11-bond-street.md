@@ -17,7 +17,7 @@ Anyway, this week I set up a Twitter account ([@buskerbot](https://twitter.com/b
 <figure class="center">
 	<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">🎸 <a href="https://twitter.com/basicallydan?ref_src=twsrc%5Etfw">@basicallydan</a> is busking and he just played &quot;Big Yellow Taxi&quot; 🎶 He thinks his rendition was &quot;Pretty good&quot; 💰 He earned about £3.5</p>&mdash; Dan&#39;s Busking Bot (@buskerbot) <a href="https://twitter.com/buskerbot/status/929401526673604608?ref_src=twsrc%5Etfw">November 11, 2017</a></blockquote>
 	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	<figcaption>A video I recorded at Southwark Underground Station, one of my favourite places to play for acoustics (but least favourite for money)</figcaption>
+	<figcaption>My new robotic groupie.</figcaption>
 </figure>
 
 It's just like being there at the pitch, except you can't hear any of the music and it's 15 minutes behind 😂 it's sort of experimental at the moment, and I'm going to try and improve it a little. Anyway, give the bot a follow 👍
