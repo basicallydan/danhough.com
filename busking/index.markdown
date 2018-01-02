@@ -16,13 +16,14 @@ It occurred to me that busking on the London Underground isn't something that th
 
 ## Blog posts
 
+* [25 November 2017: Kings Cross (Pitch 1)](2017-11-25-kings-cross)
 * [24 November 2017: Green Park (Pitch 1)](2017-11-24-green-park)
 * [24 November 2017: Piccadilly Circus](2017-11-24-piccadilly-circus)
 * [11 November 2017: Bond Street](2017-11-11-bond-street)
 * [05 November 2017: Westminster (Pitch 2)](2017-11-05-westminster)
 * [04 November 2017: Tottenham Court Road (Pitch 1)](2017-11-04-tottenham-court-road)
 * [28 October 2017: Chancery Lane](2017-10-29-chancery-lane)
-* [21 October 2017: Kings Cross](2017-10-21-kings-cross)
+* [21 October 2017: Kings Cross (Pitch 2)](2017-10-21-kings-cross)
 * [14 October 2017: North Greenwich](2017-10-14-north-greenwich)
 
 ## Frequently Asked Questions
