@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Busking Report – Kings Cross
+title: Busking Report – Kings Cross (Pitch 2)
 date_created: 21 October 2017
 description: A report from my busking session at Kings Cross on the 21st of October!
 location: London, UK
