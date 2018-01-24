@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Busking Report – South Kensington (Pitch 2)
-date_created: 07 December 2017
+date_created: 20 January 2018
 description: A report from my busking session at Waterloo on the 7th of December 2017!
 location: London, UK
 ---
