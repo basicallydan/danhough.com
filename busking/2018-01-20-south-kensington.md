@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Busking Report – South Kensington (Pitch 2)
-date_created: 07 December 2017
+date_created: 20 January 2018
 description: A report from my busking session at Waterloo on the 7th of December 2017!
 location: London, UK
 ---
@@ -22,7 +22,9 @@ A PICK! Saved by Past Dan.
 
 {% include _figure.html src="/img/busking/2018-01-20-south-kensington-pitch.jpg" caption="The pitch" %}
 
-On a separate note, I've decided to start donating part of the gross income from each session to a British charity known as [Crisis](https://www.crisis.org.uk/), whose mission is to end homelessness. For now I'm sticking with 50% of the income. I'll see how sustainable that is, because although my costs for this aren't massive I'd like to continue covering them. Nonetheless, my income outside of busking is more than enough to sustain me so I don't _need_ to earn money from this side project.
+On a separate note, I've decided to start donating part of the gross income from each session to a British charity known as [Crisis](https://www.crisis.org.uk/), whose mission is to end homelessness. For now I'm sticking with 50% of the income, and I'm advertising this on my blackboard so that any charitable souls going by may be more inclined give.
+
+I'll see how sustainable that is, because although my costs for this aren't massive I'd like to continue covering them. Nonetheless, my income outside of busking is more than enough to sustain me so I don't _need_ to earn money from this side project. It may go up, it may go down. We'll see.
 
 However, I have another goal - to earn 1% of my income in 2018 from music. Tough one. But doable, I think, if I work hard and improve my performance every time. I've got a lot of ideas. So, without further ado...
 
