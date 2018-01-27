@@ -16,6 +16,7 @@ It occurred to me that busking on the London Underground isn't something that th
 
 ## Blog posts
 
+* [27 January 2018: Hammersmith (District & Piccadilly)](2018-01-27-hammersmith)
 * [20 January 2018: South Kensington (Pitch 2)](2018-01-20-south-kensington)
 * [07 December 2017: Waterloo (Pitch 2)](2017-12-07-waterloo)
 * [25 November 2017: Kings Cross (Pitch 1)](2017-11-25-kings-cross)
