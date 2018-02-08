@@ -3,7 +3,7 @@ layout: page
 title: Busking
 ---
 
-# Busking
+# Busking & Music
 
 I've been the holder of a license to busk on the London Underground since 2013. I've had on-and-off bouts of lots of busking in that time, ranging from several per week to none over a five-month period. To give you a sense of what I do, here's a video of me busking:
 
@@ -42,6 +42,14 @@ Loads of places! There are lots of choices. I have made it my goal to play at le
 ### Where are you allowed to play?
 
 Of the 270 stations on the London Underground network, 30 feature at least one licensed busking pitch. There are 44 busking pitches in total. Not every pitch is at an Underground station though. One of the stations attached to the infamous Emirates Air Line Cable Car featured a pitch for a little while, and now there's a semi-regular slot at the London Overground station Shoreditch High Street. However, the vast majority of pitches are inside Underground stations, and they are usually behind ticket barriers.
+
+### Do you write any of your own music?
+
+I do! I have written several songs, most of which I composed & recorded under the stage name "Dan Plus Add". However, I've recently taken a new step in my musical career and decided to hold my cards less close to my chest. I'm now on Spotify under my own name and the first studio recording I've made is of my song, _Bored Bored Bored_. If you like humorous folk music with silly lyrics, it might be for you.
+
+<div style="text-align: center;padding-bottom:1em">
+	<iframe src="https://open.spotify.com/embed?uri=spotify:track:19aM7WJ5aTgKVQxLnZcTZT" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
 ### Do you need to book a pitch or can you rock up whenever you want?
 
