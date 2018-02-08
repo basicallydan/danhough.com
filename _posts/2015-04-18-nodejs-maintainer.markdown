@@ -117,6 +117,6 @@ Let's revisit our checklist from the beginning. How did we check off each of the
 ✓ **Whether it's reliable enough to use in production** -- You've told them how to compile and test it, so now your users can figure out how it does what it does.
 ✓ **That is exists** -- it's published, so if people search for it on npm, they'll find it!
 
-I hope this has been helpful to some folks out there. If you have any more tips to share, leave them in the comments or drop me a line! :smile:
+I hope this has been helpful to some folks out there. If you have any more tips to share, leave them in the comments or drop me a line! 😀
 
 **Thanks to:** Jon Kelly for his comprehensive and feedback about content and language, and [Orlando Kalossakas](https://twitter.com/orliesaurus) for his feedback about layout and readability.

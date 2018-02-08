@@ -3,7 +3,7 @@ layout: page
 title: Busking
 ---
 
-# Busking
+# Busking & Music
 
 I've been the holder of a license to busk on the London Underground since 2013. I've had on-and-off bouts of lots of busking in that time, ranging from several per week to none over a five-month period. To give you a sense of what I do, here's a video of me busking:
 
@@ -15,6 +15,9 @@ I've been the holder of a license to busk on the London Underground since 2013. 
 It occurred to me that busking on the London Underground isn't something that the vast majority of musicians, let alone the vast majority of people, get to do. Thus, I should try to make the most of this opportunity. So I'm going to be a completionist about it and try out every pitch on the network, then write a short blog post.
 
 ## Blog posts
+
+**Progress**: I've blogged about **25%** of the pitches on the network, and I've performed at **61.36%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **£227.37** from **12 performances**, and donated **£17.87** of that to [Crisis](https://crisis.org.uk).
+
 
 * [27 January 2018: Hammersmith (District & Piccadilly)](2018-01-27-hammersmith)
 * [20 January 2018: South Kensington (Pitch 2)](2018-01-20-south-kensington)
@@ -29,6 +32,7 @@ It occurred to me that busking on the London Underground isn't something that th
 * [21 October 2017: Kings Cross (Pitch 2)](2017-10-21-kings-cross)
 * [14 October 2017: North Greenwich](2017-10-14-north-greenwich)
 
+
 ## Frequently Asked Questions
 
 ### What's a 'pitch'?
@@ -42,6 +46,14 @@ Loads of places! There are lots of choices. I have made it my goal to play at le
 ### Where are you allowed to play?
 
 Of the 270 stations on the London Underground network, 30 feature at least one licensed busking pitch. There are 44 busking pitches in total. Not every pitch is at an Underground station though. One of the stations attached to the infamous Emirates Air Line Cable Car featured a pitch for a little while, and now there's a semi-regular slot at the London Overground station Shoreditch High Street. However, the vast majority of pitches are inside Underground stations, and they are usually behind ticket barriers.
+
+### Do you write any of your own music?
+
+I do! I have written several songs, most of which I composed & recorded under the stage name "Dan Plus Add". However, I've recently taken a new step in my musical career and decided to hold my cards less close to my chest. I'm now on Spotify under my own name and the first studio recording I've made is of my song, _Bored Bored Bored_. If you like humorous folk music with silly lyrics, it might be for you.
+
+<div style="text-align: center;padding-bottom:1em">
+	<iframe src="https://open.spotify.com/embed?uri=spotify:track:19aM7WJ5aTgKVQxLnZcTZT" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
 ### Do you need to book a pitch or can you rock up whenever you want?
 

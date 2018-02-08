@@ -27,7 +27,7 @@ This usually happens if the application does **not** manage state between views.
 6. User reads, clicks back
 7. `Create & render new list view`
 8. User closes app in frustration
-9. `App cries itself to sleep` :sob:
+9. `App cries itself to sleep` 😭
 
 The right way is surprisingly simple. The abstract solution, which I'll explain first, can be applied to any application where this a problem. Then, I'll go into the specific Backbone solution.
 
@@ -43,7 +43,7 @@ The right way is surprisingly simple. The abstract solution, which I'll explain 
 7. `Create & render new list view`
 	* `Retrieve the stored position from the static property or variable, and make the view scroll to that position`
 8. User continues scrolling, being sucked into the ever-expanding list of items appearing at the bottom of their list
-9. `App happily continues doing its job` :relaxed:
+9. `App happily continues doing its job` 😅
 
 Much better. Now let's look at how to do this using Backbone.
 
@@ -130,6 +130,6 @@ Then, whenever the view which *does* have a maintained scroll position is render
 
 ## Conclusion
 
-There you go! That's an abstract example of how I've done it in a couple of instances. If you hadn't done this before, it probably seems terribly simple now :smile:
+There you go! That's an abstract example of how I've done it in a couple of instances. If you hadn't done this before, it probably seems terribly simple now 😀
 
 Maybe you know of a better way to do it, or have some improvements to my solution? Feel free to leave a comment below. Thanks for reading!
