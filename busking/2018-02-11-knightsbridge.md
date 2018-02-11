@@ -19,7 +19,7 @@ Today the lovely folks spending time in Knightsbridge on a Saturday evening were
 
 Since I was there for two hours, that makes my hourly salary also £9.35, which is the 8th-worst hourly rate I've ever earned busking (the worst was £5.09, at [North Greenwich](/busking/2017-10-14-north-greenwich)).
 
-Knightsbridge's pitch is in a long tunnel which leads into the station, and this tunnel closes at 8pm. I didn't learn this until exactly 8pm.
+Knightsbridge's pitch is in a long tunnel which leads into the station, and this tunnel closes at 8 pm. I didn't learn this until exactly 8 pm.
 
 ### Some notable moments
 
@@ -48,7 +48,7 @@ I started with my own song, _Bored Bored Bored_, (which I recorded last weekend,
 
 ### The biggest tips
 
-The last song I played was Don't Look Back in Anger, which I haven't played since 25th November, because it's bit of a cliche - but I played it as purely as possible - as in, quite like the original. Normally I mix it up a bit, but this was really fun to do. Maybe I'll play it more often.
+The last song I played was Don't Look Back in Anger, which I haven't played since 25th November, because it's a bit of a cliche - but I played it as purely as possible - as in, quite like the original. Normally I mix it up a bit, but this was really fun to do. Maybe I'll play it more often.
 
 {% include _figure.html src="/img/busking/2018-02-11-knightsbridge-view.jpg" caption="The view from the pitch" %}
 
