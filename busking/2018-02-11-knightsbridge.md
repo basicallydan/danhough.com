@@ -48,18 +48,16 @@ I started with my own song, _Bored Bored Bored_, (which I recorded last weekend,
 
 ### The biggest tips
 
-
-
-Or maybe Hammersmith happens to be populated by people who really liked _Deep Blue Something_ in the 90s.
+The last song I played was Don't Look Back in Anger, which I haven't played since 25th November, because it's bit of a cliche - but I played it as purely as possible - as in, quite like the original. Normally I mix it up a bit, but this was really fun to do. Maybe I'll play it more often.
 
 {% include _figure.html src="/img/busking/2018-02-11-knightsbridge-view.jpg" caption="The view from the pitch" %}
 
 ### The best performance
 
-The best performance, by a long way, was _Get Back_  - the first time (I played it twice). It felt super fun, and 
+The best performance, by a long way, was _Get Back_  - the first time (I played it twice). It felt super fun, and people seemed to enjoy it, and I love playing it. It's an easy song to put energy into it.
 
 ## How to improve
 
-I'm going to commit to learning one new song before my next performance. Something easy, something singalong, that I already know the words but don't yet know the chords.
+I'm going to commit to learning one new song before my next performance. Something easy, something singalong, that I already know the words but don't yet know the chords. My setlist has gotten a bit samey.
 
 I'm also going to update my sign a bit. Put a bit more of 'me' on it in bolder chalk - my website, for example. People have shown willingness to interact online!
