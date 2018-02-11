@@ -16,9 +16,9 @@ It occurred to me that busking on the London Underground isn't something that th
 
 ## Blog posts
 
-**Progress**: I've blogged about **25%** of the pitches on the network, and I've performed at **61.36%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **£227.37** from **12 performances**, and donated **£17.87** of that to [Crisis](https://crisis.org.uk).
+**Progress**: I've blogged about **29.55%** of the pitches on the network, and I've performed at **63.64%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **246.07** from **12 performances**, and donated **£27.22** of that to [Crisis](https://crisis.org.uk).
 
-
+* [11 February 2018: Knightsbridge](2018-02-11-knightsbridge)
 * [27 January 2018: Hammersmith (District & Piccadilly)](2018-01-27-hammersmith)
 * [20 January 2018: South Kensington (Pitch 2)](2018-01-20-south-kensington)
 * [07 December 2017: Waterloo (Pitch 2)](2017-12-07-waterloo)
