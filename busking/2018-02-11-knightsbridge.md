@@ -2,7 +2,7 @@
 layout: post
 title: Busking Report – Knightsbridge
 date_created: 11 February 2018
-description: A report from my busking session at Hammersmith on the 27th of January 2018!
+description: A report from my busking session at Hammersmith on the 11th of February 2018!
 location: London, UK
 time_to_read_estimate: 4
 twitterCardType: summary_large_image
