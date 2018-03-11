@@ -55,9 +55,9 @@ I do! I have written several songs, most of which I composed & recorded under th
 	<iframe src="https://open.spotify.com/embed?uri=spotify:track:19aM7WJ5aTgKVQxLnZcTZT" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
-### I'm a busker too, and I want to say something on your website! Yeah?
+### I'm a busker too, and I want to say something on your website, or maybe just say hello! Yeah?
 
-I'd love to feature you. Email me: dan@danhough.com!
+I'd love to feature you. Email me: [dan@danhough.com](mailto:dan@danhough.com?subject=I+am+a+busker+too)!
 
 ### Do you need to book a pitch or can you rock up whenever you want?
 
