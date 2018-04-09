@@ -21,7 +21,7 @@ Leicester Square Pitch 1 is the one near that you can find at the bottom of the 
 
 ### Some notable moments
 
-#### The film crew
+<h4 style="margin:0 auto;max-width:730px">The film crew</h4>
 
 I was contacted a few weeks ago by Adelaide, a student in Birmingham, and her friend Pablo. They're running a small non-profit record label called [Anonymous Sound](https://twitter.com/anonymoussound), and their first project, Anonymous London, is all about capturing buskers in the act on video, wherever they do their thing, and then recording some of their favourite covers in a studio. The intention for these studio recordings is for them to go onto a charity album. More about this later when the project is further down the line.
 
@@ -38,13 +38,13 @@ A positive one! Having a video camera with a proper decent microphone attached t
 
 Adelaide and Pablo filmed me twice, once at the beginning and once at the end. So, keep an eye out for that footage!
 
-#### The Croatian school trip
+<h4 style="margin:0 auto;max-width:730px">The Croatian school trip</h4>
 
 Towards the end, I was playing a crowd-pleaser, _The Lazy Song_ by Bruno Mars, and I was approaching the first chorus when, from the escalators to the right, a group of teenagers showed up. They were talking to each other and looking over me, and just as I began to sing "I said it 'cause I can!" a chorus of voices in perfect sync and harmony began to sing along with me!
 
 They were incredible! As they sang along to the chorus, more of them joined and soon there were about 30 of them in a semi-circle around me and we belted out our best Bruno Mars together. So much fun!
 
-#### The other busker
+<h4 style="margin:0 auto;max-width:730px">The other busker</h4>
 
 I arrived a little early at the spot, and was greeted by the sound of [Akari's](https://www.instagram.com/akarilele/) banjo! Follow her on Instagram and if you ever get a opportunity to see her play, take it! She's great!
 
