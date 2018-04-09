@@ -7,8 +7,8 @@ location: London, UK
 time_to_read_estimate: 3
 twitterCardType: summary_large_image
 tags: [books]
-thumbnail: "!SITE_URL!/img/busking/2018-04-07-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-04-07-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-04-09-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-04-09-busking-progress-og.png"
 ---
 
 Saturday's session at Leicester Square was very eventful! But let's start as usual with some numbers.
