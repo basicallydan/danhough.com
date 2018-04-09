@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Busking
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-04-07-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-04-07-busking-progress-og.png"
 ---
 
 # Busking & Music
@@ -16,8 +19,9 @@ It occurred to me that busking on the London Underground isn't something that th
 
 ## Blog posts
 
-**Progress**: I've blogged about **31.82%** of the pitches on the network, and I've performed at **65.91%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **258.66** from **13 performances**, and donated **£33.52** of that to [Crisis](https://crisis.org.uk).
+**Progress**: I've blogged about **34.09%** of the pitches on the network, and I've performed at **65.91%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **258.66** from **13 performances**, and donated **£33.52** of that to [Crisis](https://crisis.org.uk).
 
+* [07 April 2018: Leicester Square (Pitch 1)](2018-04-07-leicester-square)
 * [30 March 2018: Waterloo](2018-03-30-waterloo)
 * [11 February 2018: Knightsbridge](2018-02-11-knightsbridge)
 * [27 January 2018: Hammersmith (District & Piccadilly)](2018-01-27-hammersmith)
@@ -101,6 +105,10 @@ As far as I know, there aren't any pitches with sockets. I've never seen one, an
 ### Could two buskers share a pitch and perform together?
 
 I don't know! You'd probably have to ask permission first but it'd probably be okay. Your licence is basically valid based on the idea that your act is more-or-less what you auditioned with, so if you suddenly add another element to it which shakes it up it might be considered a breach of the rules. I can tell you confidently that bringing in another person who _doesn't_ have a licence would not be allowed, though.
+
+### Do you do this full time?
+
+Nope! During the day, I work for the design software startup, [Marvel](https://marvelapp.com).
 
 ## Some nice stuff people have said
 
