@@ -4,7 +4,7 @@ title: Busking Report – Leicester Square (Pitch 1)
 date_created: 07 April 2018
 description: A report from my busking session at Leicester Square on the 7th of April 2018!
 location: London, UK
-time_to_read_estimate: 7
+time_to_read_estimate: 3
 twitterCardType: summary_large_image
 tags: [books]
 thumbnail: "!SITE_URL!/img/busking/2018-04-07-busking-progress-tw.png"
@@ -15,7 +15,7 @@ Saturday's session at Leicester Square was very eventful! But let's start as usu
 
 Today the lovely folks spending time in Leicester Square on a Saturday afternoon were kind enough to give me £12.59, mostly in the form of 25x 2p coins - although closely followed by 23x of 20p and £1 coins. So, £19.53 for me and £19.53 for [Crisis](https://www.crisis.org.uk/).
 
-I was there for two hours, that makes my hourly salary also £19.53 also, which is the 7th-best hourly rate I've ever earned busking.
+I was there for two hours, which makes my hourly salary also £19.53, which is the 7th-best hourly rate I've ever earned busking. Pretty good!
 
 Leicester Square Pitch 1 is the one near that you can find at the bottom of the Piccadilly Line escalator. It's a great spot: good acoustics, lots of foot traffic and there's plenty of room to stand.
 
@@ -23,7 +23,7 @@ Leicester Square Pitch 1 is the one near that you can find at the bottom of the 
 
 <h4 style="margin:0 auto;max-width:730px">The film crew</h4>
 
-I was contacted a few weeks ago by Adelaide, a student in Birmingham, and her friend Pablo. They're running a small non-profit record label called [Anonymous Sound](https://twitter.com/anonymoussound), and their first project, Anonymous London, is all about capturing buskers in the act on video, wherever they do their thing, and then recording some of their favourite covers in a studio. The intention for these studio recordings is for them to go onto a charity album. More about this later when the project is further down the line.
+I was contacted a few weeks ago by Adelaide, a student in Birmingham, and her friend Pablo. They're running a small non-profit record label called [Anonymous Sound](https://twitter.com/anonymoussound). Their first project, _Anonymous London_, is all about capturing buskers in the act on video, wherever they do their thing, and then recording some of their favourite covers in a studio. More about this later when the project is further down the line.
 
 <figure class="center">
 	<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Chilling with my new friends Adelaide and Pablo from <a href="https://twitter.com/AnonymousSound?ref_src=twsrc%5Etfw">@AnonymousSound</a>, talking <a href="https://twitter.com/hashtag/busking?src=hash&amp;ref_src=twsrc%5Etfw">#busking</a>! <a href="https://t.co/06SwmpLlWY">pic.twitter.com/06SwmpLlWY</a></p>&mdash; Dan Hough ⛩ ダン (@basicallydan) <a href="https://twitter.com/basicallydan/status/982672304189603840?ref_src=twsrc%5Etfw">April 7, 2018</a></blockquote>
@@ -36,7 +36,7 @@ A positive one! Having a video camera with a proper decent microphone attached t
 
 {% include _figure.html src="/img/busking/2018-04-07-leicester-square-pitch.jpg" caption="The pitch" %}
 
-Adelaide and Pablo filmed me twice, once at the beginning and once at the end. So, keep an eye out for that footage!
+Adelaide and Pablo filmed me twice, once at the beginning and once at the end. I'll share the footage as soon as I can.
 
 <h4 style="margin:0 auto;max-width:730px">The Croatian school trip</h4>
 
