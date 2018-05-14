@@ -11,9 +11,9 @@ thumbnail: "!SITE_URL!/img/busking/2018-04-12-busking-progress-1-tw.png"
 ogthumbnail: "!SITE_URL!/img/busking/2018-04-12-busking-progress-1-og.png"
 ---
 
-On Thursday I [took a day off from my day job to do some busking](2018-04-12-marathon)! My first stop was Southwark, a pitch where I have fond memories. I filmed [my YouTube busking video](https://www.youtube.com/watch?v=LmDXpLbi2w0) there. I sometimes tell people it's my "favourite pitch" because the acoustics are great, it's a very open space and you can really belt it out there. But on the flipside, it's really quiet. No matter what time, no matter what day, it just doesn't get a lot of foot traffic. And even if it did, the busking pitch is maybe 5 metres away from where people walk at their closest spot so people need to go out of their way to give you money.
+On Thursday I took a day off from my day job to do some busking! My second stop was South Kensington (Pitch 1). I've never played here before, but I've passed it many times on the way to or fron Royal Albert Hall or the Science Museum.
 
-Plus, Southwark station isn't a huge tourist area either.
+Basically, it's in a long subterranean tunnel which takes you from South Kensington Station to very close to the entrance of the Science Museum of London.
 
 So, Southwark is not a money-maker. In fact, I've been to Southwark three times now and my average hourly intake is £5.64 - which is _very poor_. But it's a good place to practice new stuff in a low-pressure environment and the staff there are really friendly. Plus, for me it's extremely convenient as I live only two stops away on the Jubilee Line.
 
