@@ -15,32 +15,30 @@ On Thursday I took a day off from my day job to do some busking! My second stop 
 
 Basically, it's in a long subterranean tunnel which takes you from South Kensington Station to very close to the entrance of the Science Museum of London.
 
-So, Southwark is not a money-maker. In fact, I've been to Southwark three times now and my average hourly intake is £5.64 - which is _very poor_. But it's a good place to practice new stuff in a low-pressure environment and the staff there are really friendly. Plus, for me it's extremely convenient as I live only two stops away on the Jubilee Line.
+It's a very popular area for tourists.
 
-Anwyay, let's do the numbers.
+So, how did it go?
 
-Today the lunchtime punters at Southwark on a Thursday afternoon were kind enough to give me £10.52, mostly in the form of 9x £1 coins. So, £5.26 for me and £5.26 for [Crisis](https://www.crisis.org.uk/).
+It was a record breaker! I spent two hours there (managed the whole two because I got there ahead of time) and I made £54.11! Highest yet. Which means Hourly salary of £27.06, and of course that same amount for [Crisis](https://www.crisis.org.uk/).
+
+The most common coin to get was 20p, of which I counted 41. Get in!
 
 I was there for 1h50m, which makes my hourly salary £5.84. 🙃
 
 ### Some notable moments
 
-Hmm. Erm. I played Coldplay's _Green Eyes_ busking for the first time. That's about as exciting as this pitch got I'm afraid.
-
-I guess I could say that after the session I went to Ma's Rotisserie and had a delicious toasted chiabatta with mozzarella, tomato and avocado so... check them out next time you're in the area!
-
-{% include _figure.html src="/img/busking/2018-04-12-southwark-pitch.jpg" caption="The pitch" %}
+{% include _figure.html src="/img/busking/2018-04-12-south-kensington-pitch.jpg" caption="The pitch" %}
 
 ### The first tip
 
-Our old friend _Torn_ got me my first £2 tip, which was very nice since it was also the first song of the day and my voice wasn't quite warmed up yet.
+I warmed up my lungs with a song which suits my voice very well, _Breakfast At Tiffany's_ by Deep Blue Something - and it got my first tip of £1. Thanks, tourists!
 
-{% include _figure.html src="/img/busking/2018-04-12-southwark-view.jpg" caption="The view from the pitch" %}
+{% include _figure.html src="/img/busking/2018-04-12-south-kensington-view.jpg" caption="The view from the pitch" %}
 
 ### The best performance & biggest tip
 
-The only one which I logged as "Amazing" on my spreadsheet was _Breakfast At Tiffany's_, which incidentally also gave me my biggest tip!
+A song I haven't played all that much in the last few months, Oasis's _Don't Look Back in Anger_, was a _huge_ hit. At least 8 people tipped me and I think I got about £6-£8 from it. Hard to tell. Relatively speaking, that's rather good. It renewed my faith in that song.
 
-## How to improve
+Anyway, all in all a great session and, by this point, a record-breaking one.
 
-Actually, this was a good stop. I went for less than an hour, it was a good opportunity to warm up - by the time I got to my next pitch, at South Kensington, my voice was well and truly warmed up! Now read about [South Kensington (Pitch 1)](2018-04-12-south-kensington)!
+But read on... to [Tottenham Court Road (Pitch 2)](2018-04-12-tottenham-court-road)!
