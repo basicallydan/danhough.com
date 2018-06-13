@@ -21,7 +21,7 @@ _drumroll_
 
 ### Some notable moments
 
-#### Contactless
+**Contactless**
 
 As you may have [read in the news](https://www.theguardian.com/music/2018/may/27/busking-joins-cashless-society-as-musicians-start-using-card-readers), buskers in London are now being offered an off-the-shelf solution for taking contactless payments frictionlessly.
 
@@ -40,7 +40,7 @@ The first person to use it asked at the end of _The Lazy Song_. She came up, sai
 
 I said sure, she tapped - and £1 went through! Brilliant! THE FUTURE IS NOW.
 
-#### Recognition
+**Recognition**
 
 You might know that recently I've started performing stand-up comedy: well, believe it or not only three-and-a-half months into that endeavour I was _recognised_!
 
