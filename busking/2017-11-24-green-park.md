@@ -4,6 +4,9 @@ title: Busking Report – Green Park (Pitch 1)
 date_created: 24 November 2017
 description: A report from my busking session at Green Park on the 24th of November!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 Well, after a four-hour break following [a session at Piccadilly Circus earlier on](/busking/2017-11-24-piccadilly-circus), I headed to Green Park Station to play on Pitch 2. Green Park Station, in case you don't know, is near Westminster (a popular place for tourists), at the end of Oxford Street (a popular place for shoppers), and Hyde Park (another popular tourist hotspot, especially when Winter Wonderland is on - which it is).
@@ -22,18 +25,18 @@ I then spent the next 2 hours trying to find somewhere warm to wait around until
 
 I managed to get onto the pitch at around 20:20 Sadly, it wasn't super busy at pitch 1 - people came in waves, but mostly it was quiet. I wrapped up at 21:40 because by then, I was exhausted and was actually beginning to develop blisters on my fingers. In total I took in £11.21, a £8.01 hourly salary. Not a terrible result and I made back my train fare and the coffee at Joe & the Juice.
 
-### Some notable moments
+## Some notable moments
 
 - The man dressed as Santa Claus singing "'Tis the Season to be Jolly"
 - While I was playing my own original song, _Bored bored bored_, someone stopped to listen, applauded, then hung around for more! That was nice!
 
-### The first tip and the Biggest Tip
+## The first tip and the Biggest Tip
 
 It took three songs before I got a tip! But, surprise surprise, it was _Torn_! Just like earlier that day, the people of London were really lapping up the ol' Natalie Imbruglia. I got £2.50 between two people. This was, incidentally, the biggest tip.
 
 {% include _figure.html src="/img/busking/2017-11-24-green-park-3.jpg" caption="The view from the pitch." %}
 
-### The best performance
+## The best performance
 
 My first rendition of _Get Back_ was very energetic indeed, and two people stopped to film! I wonder if I'll ever see the videos appear online...
 

@@ -4,6 +4,9 @@ title: Busking Report – Bond Street
 date_created: 11 November 2017
 description: A report from my busking session at Bond Street on the 11th of November!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 I went to Bond Street at 16:00 on the 11th of November. My first time there. It was a good one! This session brought me in £36.01, or £18.01 per hour over a two-hour period. I played 21 songs in total! It was pretty busy. The pitch is in a rather narrow tunnel though, and it's a nerve-wracking, worrying about people tripping over my gear.
@@ -22,15 +25,15 @@ Anyway, this week I set up a Twitter account ([@buskerbot](https://twitter.com/b
 
 It's just like being there at the pitch, except you can't hear any of the music and it's 15 minutes behind 😂 it's sort of experimental at the moment, and I'm going to try and improve it a little. Anyway, give the bot a follow 👍
 
-### The first tip
+## The first tip
 
 Just like last week, my first song was _Torn_ and I did get two tips totalling about £1.50!
 
-### The biggest tip
+## The biggest tip
 
 During a performance of _Big Yellow Taxi_, someone who was _really_ enjoying it gave me £4! Or Maybe £5, I'm not sure. At any rate, wow! Thank you, very generous person.
 
-### The best performance
+## The best performance
 
 I sang one of my own songs, _Bored bored bored_, and it was surprisingly well received! Usually people don't really engage with original music on the Underground, but I got some smiles and some applause for this one, and it was a pretty fun performance!
 

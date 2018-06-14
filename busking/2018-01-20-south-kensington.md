@@ -4,6 +4,9 @@ title: Busking Report – South Kensington (Pitch 2)
 date_created: 20 January 2018
 description: A report from my busking session at Waterloo on the 20th of January 2018!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 The first sesh of 2018! South Kensington Pitch #2 is only bookable every 2 days, which suggests that it's a big money-maker. I gotta say, I wasn't at my best, nor was I fully prepared and I think with another opportunity I could probably do well here.
@@ -12,7 +15,7 @@ The first sesh of 2018! South Kensington Pitch #2 is only bookable every 2 days,
 
 I arrived late due to some severe delays on the District Line, so I was there for 1hr10mins, and I made £12.11, equivalent to £10.09.
 
-### Some notable moments
+## Some notable moments
 
 So why wasn't I prepared? I forgot my little pick box. It's a small tin box which contains my plectrums and my capo. Without my capo I can survive - it just means singing songs in a different key which may be more difficult for my voice. But without my picks I'm pretty hopeless in a public space. No pick = hand strumming = quiet. Not good.
 
@@ -28,11 +31,11 @@ I'll see how sustainable that is, because although my costs for this aren't mass
 
 However, I have another goal - to earn 1% of my income in 2018 from music. Tough one. But doable, I think, if I work hard and improve my performance every time. I've got a lot of ideas. So, without further ado...
 
-### The first tip
+## The first tip
 
 _Breakfast At Tiffany's_ was the first song and the first winner. Only 50p, from two separate tippers, but a good start to the year.
 
-### The biggest tips
+## The biggest tips
 
 Half way through my set, I played _Breakfast At Tiffany's_ again and this time, thanks to a very, very generous tipper who carefully laid a note down in my guitar case, plus two very kind passers-by... I made £6!
 
@@ -40,6 +43,6 @@ Half way through my set, I played _Breakfast At Tiffany's_ again and this time, 
 
 This set is going to throw off the stats for Breakfast at Tiffany's a little bit...!
 
-### The best performance
+## The best performance
 
 I reckon my best was a rendition of _The Lazy Song_, after that high-earning _Breakfast_. Apparently, though, the public did not share my enthusiasm. Can't win 'em all!

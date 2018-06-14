@@ -4,6 +4,9 @@ title: Busking Report – Tottenham Court Road (Pitch 1)
 date_created: 04 November 2017
 description: A report from my busking session at Tottenham Court Road (Pitch 1) on the 4th of November!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 When I started busking, Tottenham Court Road Pitch 1 (TCR1) was not accessible because of an ongoing refurbishment, but TCR2 was available. On the 15th of June, 2013 I had my most lucrative session: £44.12 in two hours. Four years later, at the same station, day of week and and time, I did not have as good fortune. Dear reader, this pitch was not quite as lucrative, but it helped me learn some valuable lessons for the future.
@@ -12,11 +15,11 @@ Today, at TCR1, over the course of 2 hours and 20 songs, I received £13.62 - th
 
 {% include _figure.html src="/img/busking/2017-11-04-tcr-1.jpg" caption="The view from the pitch." %}
 
-### The first tip
+## The first tip
 
 During a jolly, upbeat rendition of _Don't Look Back in Anger_, a small child asked their mother for money to give me, and then gave me 50p. Thanks, small child!
 
-### The biggest tip & best performance
+## The biggest tip & best performance
 
 In the last 5 minutes of my session, a large queue formed for the first time at an escalator. Just before it formed, I had decided to sing _Fat Bottomed Girls_ by Queen, using a capo on one fret higher than usual. For non-guitar-players: a capo allows the guitarist to easily adjust the key in which they're playing the song. Anyway, four or five people tipped me in total about £5 during this song. Pretty good for a single song. If I made that for every song I'd make £100.
 

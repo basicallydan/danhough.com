@@ -6,9 +6,8 @@ description: A report from my busking session at Knightsbridge on the 11th of Fe
 location: London, UK
 time_to_read_estimate: 4
 twitterCardType: summary_large_image
-tags: [books]
-thumbnail: "!SITE_URL!/img/busking/2018-02-11-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-02-11-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 Another week, another new pitch. Yesterday I made my way to Knightsbridge, on the Piccadilly Line, which is a stone's throw away from Buckingham Palace.
@@ -21,7 +20,7 @@ Since I was there for two hours, that makes my hourly salary also £9.35, which 
 
 Knightsbridge's pitch is in a long tunnel which leads into the station, and this tunnel closes at 8 pm. I didn't learn this until exactly 8 pm.
 
-### Some notable moments
+## Some notable moments
 
 There were quite a few, but I won't go into detail on all of them. My favourite was a couple who came out of the Piccadilly Line to the main entrance, saw me playing, asked if they could take a photo, and then did – then, an hour later, they came back in, gave me a smile and a wave, and then headed on their way. They just seemed really, really nice.
 
@@ -38,7 +37,7 @@ That's not all though! Also:
 * A small family who sung along and then asked if I minded being shared on Facetime (I didn't 😊)
 * I got some light applause at the end of _Why Does It Always Rain on Me_, which is rare and thus very welcome
 
-### The first tip
+## The first tip
 
 I started with my own song, _Bored Bored Bored_, (which I recorded last weekend, see the embed below) but it, sadly, didn't get me any tips. However, the next one did: Good ol' _Torn_ got me my first 50p of the day.
 
@@ -46,13 +45,13 @@ I started with my own song, _Bored Bored Bored_, (which I recorded last weekend,
 	<iframe src="https://open.spotify.com/embed?uri=spotify:track:19aM7WJ5aTgKVQxLnZcTZT" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
-### The biggest tips
+## The biggest tips
 
 The last song I played was Don't Look Back in Anger, which I haven't played since 25th November, because it's a bit of a cliche - but I played it as purely as possible - as in, quite like the original. Normally I mix it up a bit, but this was really fun to do. Maybe I'll play it more often.
 
 {% include _figure.html src="/img/busking/2018-02-11-knightsbridge-view.jpg" caption="The view from the pitch" %}
 
-### The best performance
+## The best performance
 
 The best performance, by a long way, was _Get Back_  - the first time (I played it twice). It felt super fun, and people seemed to enjoy it, and I love playing it. It's an easy song to put energy into it.
 
