@@ -9,6 +9,8 @@ thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
 ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
+{% include _figure.html src="/img/busking/2018-06-09-london-bridge-pitch.jpg" caption="The pitch" %}
+
 London Bridge (Pitch 2) is probably the pitch I pass most often in my life since I change between the Northern and Jubilee line pretty often. Yet, this was my first time performing here. At 10am on a Saturday, I won't lie, it's not a great time to perform. Could have been worse though. £14.52 in total - so, £7.26 for [Crisis](https://www.crisis.org.uk/).
 
 This was mostly in the form of £1 coins, but for the first time I took...
@@ -43,8 +45,6 @@ I said sure, she tapped - and £1 went through! Brilliant! THE FUTURE IS NOW.
 You might know that recently I've started performing stand-up comedy: well, believe it or not only three-and-a-half months into that endeavour I was _recognised_!
 
 By a fellow circuit comedian called Ruth 😅 we had a little chat, shared upcoming gig details and parted ways. Tell you what though, I felt a lot more upbeat after a nice chat since it had been a fairly quiet morning thus far.
-
-{% include _figure.html src="/img/busking/2018-06-09-london-bridge-pitch.jpg" caption="The pitch" %}
 
 ## The first tip
 
