@@ -54,7 +54,7 @@ By a fellow circuit comedian called Ruth 😅 we had a little chat, shared upcom
 
 It wasn't my best day ever, but I did a reasonably good rendition of _Bored Bored Bored_, which happened to be the biggest tap, too!
 
-## How to improve
+### How to improve
 
 First of all: don't do London Bridge on a Saturday at 10! Try and book it at 12. I'm starting to realise over various performances how much my mood and attitude can affect my performance. I always feel chirpier after I've had a good chat with someone, especially during a performance.
 

@@ -33,6 +33,6 @@ Easily the first performance of _New Shoes_ by Paolo Nutini. Really excellent I 
 
 Special mention to a performance of Oasis's _Don't Look Back In Anger_ which captured the imagination of a friendly man and two women who all sang along and even got a few other people involved. And maybe the video they took will show up on Instagram or Facebook, we'll have to see!
 
-## How to improve
+### How to improve
 
 Keep practicing the classics, the money-makers. Practice my own songs too, they might work well - worth a try.

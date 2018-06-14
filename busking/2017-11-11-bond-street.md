@@ -39,7 +39,7 @@ I sang one of my own songs, _Bored bored bored_, and it was surprisingly well re
 
 {% include _figure.html src="/img/busking/2017-11-11-bond-street-2.jpg" caption="The view from the pitch." %}
 
-## How to improve
+### How to improve
 
 I still need more songs in my repertoire as I'm doing a lot of repeats. 
 

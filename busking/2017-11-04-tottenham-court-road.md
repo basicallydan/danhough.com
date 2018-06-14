@@ -33,7 +33,7 @@ It's hard to say how much I got during that performance, but four or five people
 
 {% include _figure.html src="/img/busking/2017-11-04-tcr-2.jpg" caption="The pitch. It is flanked by an entrance to the Northern Line to the right, and an exit to the left. People leaving necessarily pass the pitch, but anybody going on won't pass the pitch unless they take a detour and disobey the signs." %}
 
-## How to improve
+### How to improve
 
 ### Hunger
 

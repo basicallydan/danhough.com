@@ -33,7 +33,7 @@ I think my second and last performance of _Fat Bottomed Girls_ was my best - rea
 
 {% include _figure.html src="/img/busking/2017-11-05-w2-1.jpg" caption="The view from the pitch." %}
 
-## How to improve
+### How to improve
 
 To be honest, I think I did very well. My cheat sheet of chords from songs that I haven't mastered yet was really, really helpful.
 

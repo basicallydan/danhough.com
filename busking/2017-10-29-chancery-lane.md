@@ -33,6 +33,6 @@ This time it was probably _Breakfast at Tiffany's_. Half way through the second 
 
 A full two minutes after finishing this song as I was packing up, someone came along with a pound coin and told me, with a very serious look on his face, that I "might be the next Ed Sheeran". I'm fairly sure he meant it as a compliment. I told him he was very kind and he went on his way. Not a bad way to end a session!
 
-## How to improve
+### How to improve
 
 Having a microphone helped a lot, but I still need more tunes that I can rely on. And getting some chalk will help.

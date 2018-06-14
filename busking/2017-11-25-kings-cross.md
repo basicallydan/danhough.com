@@ -37,6 +37,6 @@ Another trend continues: during _Torn_, I earned about £3.50 from 4 different p
 
 Probably my first rendition of _Get Back_ of the day was the best. I love singing that song, it's easy to get super into it and really shouty and emotional.
 
-## How to improve
+### How to improve
 
 I probably shouldn't overdo the busking. At the end of the session I was pretty nackered after having done two the previous day also. My fingers were well and truly spent!

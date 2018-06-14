@@ -40,6 +40,6 @@ It took three songs before I got a tip! But, surprise surprise, it was _Torn_! J
 
 My first rendition of _Get Back_ was very energetic indeed, and two people stopped to film! I wonder if I'll ever see the videos appear online...
 
-## How to improve
+### How to improve
 
 Well, I think the key takeaway from this one is to either get places super, super early for a typically busy time. I also may have overdone it with two performances but given all the standing in the cold and waiting around. I'll give it another go sometime soon, maybe with 6 hours in between instead.

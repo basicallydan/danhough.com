@@ -62,7 +62,7 @@ A friendly man came along and started telling me that he's glad I wasn't playing
 
 Easily the best was the aforementioned rendition of _The Lazy Song_, which was dramatically improved by my backing singers.
 
-## How to improve
+### How to improve
 
 Honestly, if I can be as good as my in-front-of-camera self every time then I think I'd do super great. But alas, it isn't as simple as that.
 

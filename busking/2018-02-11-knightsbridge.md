@@ -55,7 +55,7 @@ The last song I played was Don't Look Back in Anger, which I haven't played sinc
 
 The best performance, by a long way, was _Get Back_  - the first time (I played it twice). It felt super fun, and people seemed to enjoy it, and I love playing it. It's an easy song to put energy into it.
 
-## How to improve
+### How to improve
 
 I'm going to commit to learning one new song before my next performance. Something easy, something singalong, that I already know the words but don't yet know the chords. My setlist has gotten a bit samey.
 

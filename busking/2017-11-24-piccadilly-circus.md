@@ -39,6 +39,6 @@ Whoever you were, mystery tipper - thank you for helping me to pay for some new,
 
 Sad as I am to admit it, I wasn't at my best this afternoon. However, I think my first performance of _The Lazy Song_ was pretty great. Good tempo, quite smooth, I didn't forget any lyrics and a lot of people played along.
 
-## How to improve
+### How to improve
 
 After a couple of weeks off (I was at a wedding last weekend) I was definitely a little rusty. I need to keep practicing even when I'm not performing.

@@ -39,6 +39,6 @@ Our old friend _Torn_ got me my first £2 tip, which was very nice since it was 
 
 The only one which I logged as "Amazing" on my spreadsheet was _Breakfast At Tiffany's_, which incidentally also gave me my biggest tip!
 
-## How to improve
+### How to improve
 
 Actually, this was a good stop. I went for less than an hour, it was a good opportunity to warm up - by the time I got to my next pitch, at South Kensington, my voice was well and truly warmed up! Now read about [South Kensington (Pitch 1)](2018-04-12-south-kensington)!

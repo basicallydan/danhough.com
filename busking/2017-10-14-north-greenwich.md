@@ -31,7 +31,7 @@ A young woman came up before I began playing _Get Back_ by the Beatles. She stop
 
 For my second rendition of Simple Twist of Fate I believe I did a stellar job. I thought about the fact that it's in 3/4 time and decided to speed it up based on that knowledge, it worked really well. Much more lively.
 
-## How to improve
+### How to improve
 
 I should practice some of my more lively, exciting songs like _Fat Bottomed Girls_, _I Knew You Were Trouble_ and _The Lazy Song_. That will help a lot, I think.
 
