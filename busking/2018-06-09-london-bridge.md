@@ -48,6 +48,8 @@ By a fellow circuit comedian called Ruth 😅 we had a little chat, shared upcom
 
 ## The first tip
 
+I started with _Breakfast at Tiffany's_ as I so often do, but it didn't get any money. Got a smile or two though. The first tip was during _New Shoes_, my second song. I got about £1.50 from two people.
+
 {% include _figure.html src="/img/busking/2018-06-09-london-bridge-view.jpg" caption="The view from the pitch" %}
 
 ## The best performance & biggest tip
