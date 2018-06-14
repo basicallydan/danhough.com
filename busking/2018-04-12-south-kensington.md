@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Busking Report – Southwark
+title: Busking Report – South Kensington (Pitch 1)
 date_created: 12 April 2018
-description: A report from my busking session at Southwark on the 12th of April 2018!
+description: A report from my busking session at South Kensington (Pitch 1) on the 12th of April 2018!
 location: London, UK
 twitterCardType: summary_large_image
 thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
