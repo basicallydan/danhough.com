@@ -19,7 +19,7 @@ Again, I was there four two hours which means £32.72 per hour, plus of course �
 
 Get in!
 
-### Some notable moments
+## Some notable moments
 
 Well, when I arrived I saw another busker playing the pitch. I was 10 minutes early so I hung back and ducked into an alleyway.
 
@@ -29,17 +29,17 @@ You see, as a busker you shouldn't stand near other buskers while they play. Fir
 
 Anyway, he was very good. You might've seen this guy around: he has a box with four animatronic puppets on it who dance and mime along to his music, for which he has a backing track playing from his laptop. I really enjoyed his closing number, Monty Python's _Always Look on the Bright Side of Life_. The puppets suited it quite well.
 
-### The first tip
+## The first tip
 
 _Breakfast At Tiffany's_ wins again! A good opening number and earned me £3. Already off to a very lucrative start
 
 {% include _figure.html src="/img/busking/2018-04-12-tottenham-court-road-view.jpg" caption="The view from the pitch" %}
 
-### The best performance
+## The best performance
 
 Although it didn't earn me any money this time around I did a belting performance of my own tune, _Bored Bored Bored_. Ah, well. It doesn't always capture the imagination of the public.
 
-### The biggest tip
+## The biggest tip
 
 I'm not proud of it...
 

@@ -25,21 +25,21 @@ Anyway, this week I set up a Twitter account ([@buskerbot](https://twitter.com/b
 
 It's just like being there at the pitch, except you can't hear any of the music and it's 15 minutes behind 😂 it's sort of experimental at the moment, and I'm going to try and improve it a little. Anyway, give the bot a follow 👍
 
-### The first tip
+## The first tip
 
 Just like last week, my first song was _Torn_ and I did get two tips totalling about £1.50!
 
-### The biggest tip
+## The biggest tip
 
 During a performance of _Big Yellow Taxi_, someone who was _really_ enjoying it gave me £4! Or Maybe £5, I'm not sure. At any rate, wow! Thank you, very generous person.
 
-### The best performance
+## The best performance
 
 I sang one of my own songs, _Bored bored bored_, and it was surprisingly well received! Usually people don't really engage with original music on the Underground, but I got some smiles and some applause for this one, and it was a pretty fun performance!
 
 {% include _figure.html src="/img/busking/2017-11-11-bond-street-2.jpg" caption="The view from the pitch." %}
 
-### How to improve
+## How to improve
 
 I still need more songs in my repertoire as I'm doing a lot of repeats. 
 

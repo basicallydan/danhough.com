@@ -21,7 +21,7 @@ Today the lunchtime punters at Southwark on a Thursday afternoon were kind enoug
 
 I was there for 1h50m, which makes my hourly salary £5.84. 🙃
 
-### Some notable moments
+## Some notable moments
 
 Hmm. Erm. I played Coldplay's _Green Eyes_ busking for the first time. That's about as exciting as this pitch got I'm afraid.
 
@@ -29,16 +29,16 @@ I guess I could say that after the session I went to Ma's Rotisserie and had a d
 
 {% include _figure.html src="/img/busking/2018-04-12-southwark-pitch.jpg" caption="The pitch" %}
 
-### The first tip
+## The first tip
 
 Our old friend _Torn_ got me my first £2 tip, which was very nice since it was also the first song of the day and my voice wasn't quite warmed up yet.
 
 {% include _figure.html src="/img/busking/2018-04-12-southwark-view.jpg" caption="The view from the pitch" %}
 
-### The best performance & biggest tip
+## The best performance & biggest tip
 
 The only one which I logged as "Amazing" on my spreadsheet was _Breakfast At Tiffany's_, which incidentally also gave me my biggest tip!
 
-### How to improve
+## How to improve
 
 Actually, this was a good stop. I went for less than an hour, it was a good opportunity to warm up - by the time I got to my next pitch, at South Kensington, my voice was well and truly warmed up! Now read about [South Kensington (Pitch 1)](2018-04-12-south-kensington)!

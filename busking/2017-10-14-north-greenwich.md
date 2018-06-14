@@ -19,19 +19,19 @@ To be honest, it wasn't my best performance but there were some good moments. I 
 
 {% include _figure.html src="/img/busking/2017-10-14-north-greenwich-2.jpg" caption="The view from the pitch." %}
 
-### The first tip
+## The first tip
 
 The first tip came from a middle-aged woman who came over after I'd finished my first rendition of Breakfast at Tiffany's. She told me, "Nobody else is paying you!" and gave me a new £1 coin. She then informed me that she "paid her way through university by playing music."
 
-### The biggest tip
+## The biggest tip
 
 A young woman came up before I began playing _Get Back_ by the Beatles. She stopped to listen and then we chatted - I found out she was from Bahrain and told her that I grew up in Saudi Arabia. She told me that with my voice, I should be making more money from this! Very kind :)
 
-### The best performance
+## The best performance
 
 For my second rendition of Simple Twist of Fate I believe I did a stellar job. I thought about the fact that it's in 3/4 time and decided to speed it up based on that knowledge, it worked really well. Much more lively.
 
-### How to improve
+## How to improve
 
 I should practice some of my more lively, exciting songs like _Fat Bottomed Girls_, _I Knew You Were Trouble_ and _The Lazy Song_. That will help a lot, I think.
 

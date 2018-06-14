@@ -17,9 +17,9 @@ I was there for two hours, which makes my hourly salary also £19.53, which is t
 
 Leicester Square Pitch 1 is the one near that you can find at the bottom of the Piccadilly Line escalator. It's a great spot: good acoustics, lots of foot traffic and there's plenty of room to stand.
 
-### Some notable moments
+## Some notable moments
 
-<h4 style="margin:0 auto;max-width:730px">The film crew</h4>
+### The film crew
 
 I was contacted a few weeks ago by Adelaide, a student in Birmingham, and her friend Pablo. They're running a small non-profit record label called [Anonymous Sound](https://twitter.com/anonymoussound). Their first project, _Anonymous London_, is all about capturing buskers in the act on video, wherever they do their thing, and then recording some of their favourite covers in a studio. More about this later when the project is further down the line.
 
@@ -36,17 +36,17 @@ A positive one! Having a video camera with a proper decent microphone attached t
 
 Adelaide and Pablo filmed me twice, once at the beginning and once at the end. I'll share the footage as soon as I can.
 
-<h4 style="margin:0 auto;max-width:730px">The Croatian school trip</h4>
+### The Croatian school trip
 
 Towards the end, I was playing a crowd-pleaser, _The Lazy Song_ by Bruno Mars, and I was approaching the first chorus when, from the escalators to the right, a group of teenagers showed up. They were talking to each other and looking over me, and just as I began to sing "I said it 'cause I can!" a chorus of voices in perfect sync and harmony began to sing along with me!
 
 They were incredible! As they sang along to the chorus, more of them joined and soon there were about 30 of them in a semi-circle around me and we belted out our best Bruno Mars together. So much fun!
 
-<h4 style="margin:0 auto;max-width:730px">The other busker</h4>
+### The other busker
 
 I arrived a little early at the spot, and was greeted by the sound of [Akari's](https://www.instagram.com/akarilele/) banjo! Follow her on Instagram and if you ever get a opportunity to see her play, take it! She's great!
 
-### The first tip
+## The first tip
 
 The first tip was from my first song, which was my very own _Bored Bored Bored_!
 
@@ -58,11 +58,11 @@ A friendly man came along and started telling me that he's glad I wasn't playing
 
 {% include _figure.html src="/img/busking/2018-04-07-leicester-square-view.jpg" caption="The view from the pitch" %}
 
-### The best performance
+## The best performance
 
 Easily the best was the aforementioned rendition of _The Lazy Song_, which was dramatically improved by my backing singers.
 
-### How to improve
+## How to improve
 
 Honestly, if I can be as good as my in-front-of-camera self every time then I think I'd do super great. But alas, it isn't as simple as that.
 

@@ -17,9 +17,9 @@ _drumroll_
 
 **CONTACTLESS PAYMENTS!**
 
-### Some notable moments
+## Some notable moments
 
-**Contactless**
+### Contactless
 
 As you may have [read in the news](https://www.theguardian.com/music/2018/may/27/busking-joins-cashless-society-as-musicians-start-using-card-readers), buskers in London are now being offered an off-the-shelf solution for taking contactless payments frictionlessly.
 
@@ -38,7 +38,7 @@ The first person to use it asked at the end of _The Lazy Song_. She came up, sai
 
 I said sure, she tapped - and £1 went through! Brilliant! THE FUTURE IS NOW.
 
-**Recognition**
+### Recognition
 
 You might know that recently I've started performing stand-up comedy: well, believe it or not only three-and-a-half months into that endeavour I was _recognised_!
 
@@ -46,15 +46,15 @@ By a fellow circuit comedian called Ruth 😅 we had a little chat, shared upcom
 
 {% include _figure.html src="/img/busking/2018-06-09-london-bridge-pitch.jpg" caption="The pitch" %}
 
-### The first tip
+## The first tip
 
 {% include _figure.html src="/img/busking/2018-06-09-london-bridge-view.jpg" caption="The view from the pitch" %}
 
-### The best performance & biggest tip
+## The best performance & biggest tip
 
 It wasn't my best day ever, but I did a reasonably good rendition of _Bored Bored Bored_, which happened to be the biggest tap, too!
 
-### How to improve
+## How to improve
 
 First of all: don't do London Bridge on a Saturday at 10! Try and book it at 12. I'm starting to realise over various performances how much my mood and attitude can affect my performance. I always feel chirpier after I've had a good chat with someone, especially during a performance.
 

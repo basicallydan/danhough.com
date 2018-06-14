@@ -25,21 +25,21 @@ I then spent the next 2 hours trying to find somewhere warm to wait around until
 
 I managed to get onto the pitch at around 20:20 Sadly, it wasn't super busy at pitch 1 - people came in waves, but mostly it was quiet. I wrapped up at 21:40 because by then, I was exhausted and was actually beginning to develop blisters on my fingers. In total I took in £11.21, a £8.01 hourly salary. Not a terrible result and I made back my train fare and the coffee at Joe & the Juice.
 
-### Some notable moments
+## Some notable moments
 
 - The man dressed as Santa Claus singing "'Tis the Season to be Jolly"
 - While I was playing my own original song, _Bored bored bored_, someone stopped to listen, applauded, then hung around for more! That was nice!
 
-### The first tip and the Biggest Tip
+## The first tip and the Biggest Tip
 
 It took three songs before I got a tip! But, surprise surprise, it was _Torn_! Just like earlier that day, the people of London were really lapping up the ol' Natalie Imbruglia. I got £2.50 between two people. This was, incidentally, the biggest tip.
 
 {% include _figure.html src="/img/busking/2017-11-24-green-park-3.jpg" caption="The view from the pitch." %}
 
-### The best performance
+## The best performance
 
 My first rendition of _Get Back_ was very energetic indeed, and two people stopped to film! I wonder if I'll ever see the videos appear online...
 
-### How to improve
+## How to improve
 
 Well, I think the key takeaway from this one is to either get places super, super early for a typically busy time. I also may have overdone it with two performances but given all the standing in the cold and waiting around. I'll give it another go sometime soon, maybe with 6 hours in between instead.

@@ -15,11 +15,11 @@ Today, at TCR1, over the course of 2 hours and 20 songs, I received £13.62 - th
 
 {% include _figure.html src="/img/busking/2017-11-04-tcr-1.jpg" caption="The view from the pitch." %}
 
-### The first tip
+## The first tip
 
 During a jolly, upbeat rendition of _Don't Look Back in Anger_, a small child asked their mother for money to give me, and then gave me 50p. Thanks, small child!
 
-### The biggest tip & best performance
+## The biggest tip & best performance
 
 In the last 5 minutes of my session, a large queue formed for the first time at an escalator. Just before it formed, I had decided to sing _Fat Bottomed Girls_ by Queen, using a capo on one fret higher than usual. For non-guitar-players: a capo allows the guitarist to easily adjust the key in which they're playing the song. Anyway, four or five people tipped me in total about £5 during this song. Pretty good for a single song. If I made that for every song I'd make £100.
 
@@ -33,7 +33,7 @@ It's hard to say how much I got during that performance, but four or five people
 
 {% include _figure.html src="/img/busking/2017-11-04-tcr-2.jpg" caption="The pitch. It is flanked by an entrance to the Northern Line to the right, and an exit to the left. People leaving necessarily pass the pitch, but anybody going on won't pass the pitch unless they take a detour and disobey the signs." %}
 
-### How to improve
+## How to improve
 
 ### Hunger
 

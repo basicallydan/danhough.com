@@ -23,17 +23,17 @@ The most common coin to get was 20p, of which I counted 41. Get in!
 
 I was there for 1h50m, which makes my hourly salary £5.84. 🙃
 
-### Some notable moments
+## Some notable moments
 
 {% include _figure.html src="/img/busking/2018-04-12-south-kensington-pitch.jpg" caption="The pitch" %}
 
-### The first tip
+## The first tip
 
 I warmed up my lungs with a song which suits my voice very well, _Breakfast At Tiffany's_ by Deep Blue Something - and it got my first tip of £1. Thanks, tourists!
 
 {% include _figure.html src="/img/busking/2018-04-12-south-kensington-view.jpg" caption="The view from the pitch" %}
 
-### The best performance & biggest tip
+## The best performance & biggest tip
 
 A song I haven't played all that much in the last few months, Oasis's _Don't Look Back in Anger_, was a _huge_ hit. At least 8 people tipped me and I think I got about £6-£8 from it. Hard to tell. Relatively speaking, that's rather good. It renewed my faith in that song.
 
