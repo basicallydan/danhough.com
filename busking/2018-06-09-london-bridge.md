@@ -2,14 +2,12 @@
 layout: post
 title: Busking Report – London Bridge (Pitch 2)
 date_created: 09 June 2018
-description: A report from my busking session at Southwark on the 9th of June 2018!
+description: A report from my busking session at London Bridge on the 9th of June 2018! And, introducing Contactless payments with iZettle!
 location: London, UK
 twitterCardType: summary_large_image
 thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
 ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
-
-{% include _figure.html src="/img/busking/2018-06-09-london-bridge-pitch.jpg" caption="The pitch" %}
 
 London Bridge (Pitch 2) is probably the pitch I pass most often in my life since I change between the Northern and Jubilee line pretty often. Yet, this was my first time performing here. At 10am on a Saturday, I won't lie, it's not a great time to perform. Could have been worse though. £14.52 in total - so, £7.26 for [Crisis](https://www.crisis.org.uk/).
 
@@ -39,6 +37,8 @@ I'm happy to report that out of 24 tippers, 2 of them were forward-thinking enou
 The first person to use it asked at the end of _The Lazy Song_. She came up, said, "May I? I'd really like to give one a go!"
 
 I said sure, she tapped - and £1 went through! Brilliant! THE FUTURE IS NOW.
+
+{% include _figure.html src="/img/busking/2018-06-09-london-bridge-pitch.jpg" caption="The pitch" %}
 
 ### Recognition
 
