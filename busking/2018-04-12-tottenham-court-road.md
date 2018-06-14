@@ -4,11 +4,9 @@ title: Busking Report – Southwark
 date_created: 12 April 2018
 description: A report from my busking session at Southwark on the 12th of April 2018!
 location: London, UK
-time_to_read_estimate: 1
 twitterCardType: summary_large_image
-tags: [books]
-thumbnail: "!SITE_URL!/img/busking/2018-04-12-busking-progress-1-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-04-12-busking-progress-1-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 On Thursday I took a day off from my day job to do some busking! My third stop was Tottenham Court Road (Pitch 2) (TCR2). I've never played here before either, and I rarely pass it on my travels. This is odd, because the footfall for this pitch is pretty heavy.

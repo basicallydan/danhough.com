@@ -3,8 +3,8 @@ layout: page
 title: Busking
 description: I'm getting through all of the London Underground's busking pitches, follow my progress!
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-04-14-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-04-14-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 # Busking & Music
@@ -24,9 +24,10 @@ It occurred to me that busking on the London Underground isn't something that th
 
 * [09 June 2018: London Bridge](2018-06-09-london-bridge)
 * [04 May 2018: Angel](2018-05-04-angel)
-* [12 April 2018: Tottenham Court Road (Pitch 2)](2018-04-12-tottenham-court-road)
-* [12 April 2018: South Kensington (Pitch 1)](2018-04-12-south-kensington)
-* [12 April 2018: Southwark](2018-04-12-southwark)
+* [12 April 2018: Three sessions in one day](2018-04-12-marathon):
+** [12 April 2018: Tottenham Court Road (Pitch 2)](2018-04-12-tottenham-court-road)
+** [12 April 2018: South Kensington (Pitch 1)](2018-04-12-south-kensington)
+** [12 April 2018: Southwark](2018-04-12-southwark)
 * [07 April 2018: Leicester Square (Pitch 1)](2018-04-07-leicester-square)
 * [30 March 2018: Waterloo](2018-03-30-waterloo)
 * [11 February 2018: Knightsbridge](2018-02-11-knightsbridge)

@@ -6,9 +6,8 @@ description: A report from my busking session at Knightsbridge on the 11th of Fe
 location: London, UK
 time_to_read_estimate: 4
 twitterCardType: summary_large_image
-tags: [books]
-thumbnail: "!SITE_URL!/img/busking/2018-02-11-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-02-11-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 Another week, another new pitch. Yesterday I made my way to Knightsbridge, on the Piccadilly Line, which is a stone's throw away from Buckingham Palace.

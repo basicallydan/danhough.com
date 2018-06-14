@@ -4,6 +4,9 @@ title: Busking Report – Westminster (Pitch 2)
 date_created: 05 November 2017
 description: A report from my busking session at Westminster (Pitch 2) on the 5th of November!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 I came to Westminster at 20:00 on the 5th of November hoping that the fireworks would bump up the footfall. It was fairly busy in the station, but this station has many entrances and exits. Mine, however (5 and 6) were not very busy.

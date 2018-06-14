@@ -4,6 +4,9 @@ title: Busking Report – Kings Cross (Pitch 1)
 date_created: 24 November 2017
 description: A report from my busking session at Kings Cross on the 25th of November!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 I had high hopes for Kings Cross on Saturday. At midday, it's a very busy station.

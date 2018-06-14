@@ -4,6 +4,9 @@ title: Busking Report – North Greenwich
 date_created: 15 October 2017
 description: A report from my busking session at North Greenwich on the 14th of October! Get back!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 My first time busking in a few months... and my first time at North Greenwich! It's a nice place to play, great acoustics with plenty of space for the performer.

@@ -4,6 +4,9 @@ title: Busking Report – Chancery Lane
 date_created: 29 October 2017
 description: A report from my busking session at Chancery Lane on the 28th of October!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 Chancery Lane is _the windiest station on the network_. I don't have any statistics or science to back that up but seriously, it's so windy. I could barely stand up straight.

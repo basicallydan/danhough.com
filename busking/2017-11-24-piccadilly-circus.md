@@ -4,6 +4,9 @@ title: Busking Report – Piccadilly Circus
 date_created: 24 November 2017
 description: A report from my busking session at Piccadilly Circus on the 24th of November!
 location: London, UK
+twitterCardType: summary_large_image
+thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
 ---
 
 In order to deal with the high demand that some stations have with buskers, restrictions are in place on how often each licensed individual can book a pitch. For example, Southwark station can be booked once per day because it doesn't get a lot of foot traffic and thus it isn't hugely popular with most buskers.
