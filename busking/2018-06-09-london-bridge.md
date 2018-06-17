@@ -59,5 +59,3 @@ It wasn't my best day ever, but I did a reasonably good rendition of _Bored Bore
 ## How to improve
 
 First of all: don't do London Bridge on a Saturday at 10! Try and book it at 12. I'm starting to realise over various performances how much my mood and attitude can affect my performance. I always feel chirpier after I've had a good chat with someone, especially during a performance.
-
-Actually, this was a good stop. I went for less than an hour, it was a good opportunity to warm up - by the time I got to my next pitch, at South Kensington, my voice was well and truly warmed up! Now read about [South Kensington (Pitch 1)](2018-04-12-south-kensington)!

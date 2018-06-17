@@ -22,6 +22,7 @@ It occurred to me that busking on the London Underground isn't something that th
 
 **Progress**: I've blogged about **45.45%** of the pitches on the network, and I've performed at **70.45%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **470.67** from **21 performances**, and donated **£139.52** of that to [Crisis](https://crisis.org.uk).
 
+* [17 June 2018: Waterloo (Pitch 3)](2018-06-17-waterloo)
 * [09 June 2018: London Bridge (Pitch 2)](2018-06-09-london-bridge)
 * [04 May 2018: Angel](2018-05-04-angel)
 * [12 April 2018: Three sessions in one day!](2018-04-12-marathon)

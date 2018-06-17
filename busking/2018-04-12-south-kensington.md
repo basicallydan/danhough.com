@@ -39,4 +39,4 @@ A song I haven't played all that much in the last few months, Oasis's _Don't Loo
 
 Anyway, all in all a great session and, by this point, a record-breaking one.
 
-But read on... to [Tottenham Court Road (Pitch 2)](2018-04-12-tottenham-court-road)!
+But read on... to [Tottenham Court Road (Pitch 2)](/busking/2018-04-12-tottenham-court-road)!
