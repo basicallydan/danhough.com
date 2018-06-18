@@ -5,8 +5,8 @@ date_created: 12 April 2018
 description: A report from my busking session at South Kensington (Pitch 1) on the 12th of April 2018!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-og.png"
 ---
 
 On Thursday I took a day off from my day job to do some busking! My second stop was South Kensington (Pitch 1). I've never played here before, but I've passed it many times on the way to or fron Royal Albert Hall or the Science Museum.

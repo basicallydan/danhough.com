@@ -5,8 +5,8 @@ date_created: 21 October 2017
 description: A report from my busking session at Kings Cross on the 21st of October!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-og.png"
 ---
 
 Second time in as many weeks! I practiced a bunch of songs that I haven't played in a while during the week and brought them back today.
