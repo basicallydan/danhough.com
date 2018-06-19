@@ -5,8 +5,8 @@ date_created: 12 April 2018
 description: A report from my busking session at Southwark on the 12th of April 2018!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-og.png"
 ---
 
 On Thursday I [took a day off from my day job to do some busking](2018-04-12-marathon)! My first stop was Southwark, a pitch where I have fond memories. I filmed [my YouTube busking video](https://www.youtube.com/watch?v=LmDXpLbi2w0) there. I sometimes tell people it's my "favourite pitch" because the acoustics are great, it's a very open space and you can really belt it out there. But on the flipside, it's really quiet. No matter what time, no matter what day, it just doesn't get a lot of foot traffic. And even if it did, the busking pitch is maybe 5 metres away from where people walk at their closest spot so people need to go out of their way to give you money.
@@ -41,4 +41,4 @@ The only one which I logged as "Amazing" on my spreadsheet was _Breakfast At Tif
 
 ## How to improve
 
-Actually, this was a good stop. I went for less than an hour, it was a good opportunity to warm up - by the time I got to my next pitch, at South Kensington, my voice was well and truly warmed up! Now read about [South Kensington (Pitch 1)](2018-04-12-south-kensington)!
+Actually, this was a good stop. I went for less than an hour, it was a good opportunity to warm up - by the time I got to my next pitch, at South Kensington, my voice was well and truly warmed up! Now read about [South Kensington (Pitch 1)](/busking/2018-04-12-south-kensington)!

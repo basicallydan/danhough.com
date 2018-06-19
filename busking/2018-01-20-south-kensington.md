@@ -5,8 +5,8 @@ date_created: 20 January 2018
 description: A report from my busking session at Waterloo on the 20th of January 2018!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-og.png"
 ---
 
 The first sesh of 2018! South Kensington Pitch #2 is only bookable every 2 days, which suggests that it's a big money-maker. I gotta say, I wasn't at my best, nor was I fully prepared and I think with another opportunity I could probably do well here.

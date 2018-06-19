@@ -5,8 +5,8 @@ date_created: 27 January 2018
 description: A report from my busking session at Hammersmith on the 27th of January 2018!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-og.png"
 ---
 
 A new pitch! And really far from home, too! Hammersmith is absolutely not in my neighbourhood, and somewhere I normally only ever go to for gigs at the Apollo, or, passing through, on my way to Heathrow Airport. It's a nice place, around the corner from the entrance to a Starbucks, so there should be plenty of passers-by who've already demonstrated they're prepared to pay money for something disappointing, which is my target audience.

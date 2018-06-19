@@ -5,8 +5,8 @@ date_created: 09 June 2018
 description: A report from my busking session at London Bridge on the 9th of June 2018! And, introducing Contactless payments with iZettle!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-14-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-og.png"
 ---
 
 London Bridge (Pitch 2) is probably the pitch I pass most often in my life since I change between the Northern and Jubilee line pretty often. Yet, this was my first time performing here. At 10am on a Saturday, I won't lie, it's not a great time to perform. Could have been worse though. £14.52 in total - so, £7.26 for [Crisis](https://www.crisis.org.uk/).
@@ -59,5 +59,3 @@ It wasn't my best day ever, but I did a reasonably good rendition of _Bored Bore
 ## How to improve
 
 First of all: don't do London Bridge on a Saturday at 10! Try and book it at 12. I'm starting to realise over various performances how much my mood and attitude can affect my performance. I always feel chirpier after I've had a good chat with someone, especially during a performance.
-
-Actually, this was a good stop. I went for less than an hour, it was a good opportunity to warm up - by the time I got to my next pitch, at South Kensington, my voice was well and truly warmed up! Now read about [South Kensington (Pitch 1)](2018-04-12-south-kensington)!
