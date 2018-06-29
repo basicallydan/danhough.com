@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Chancery Lane
+tags: [music]
 date_created: 29 October 2017
 description: A report from my busking session at Chancery Lane on the 28th of October!
 location: London, UK

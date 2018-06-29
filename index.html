@@ -3,14 +3,14 @@ layout: default
 ---
 <main class="full-width columns">
 	<aside class="content-navigation-column">
-		<span class="site-subtitle">Independent developer, open-source enthusiast</span>
+		<span class="site-subtitle">Software developer, open-source enthusiast, musician</span>
 		<nav id="quick-links-navigation" class="nav-list">
 			<h2>Quick Links</h2>
 			<ul>
 				<li><a href="/">Homepage</a></li>
+				<li><a href="/busking/">Busking</a></li>
 				<li><a href="/blog/">All articles</a></li>
 				<li><a href="/travel/">Travel</a></li>
-				<li><a href="/busking/">Busking</a></li>
 				<li><a href="/freelance/">Hire me</a></li>
 				<li><a href="/projects/">Projects</a></li>
 			</ul>
@@ -18,6 +18,22 @@ layout: default
 		<a class="cta--primary" href="mailto:dan@danhough.com?subject=I%20have%20an%20interesting%20project%20for%20you">Got a project? <strong>Get in touch.</strong></a>
 	</aside>
 	<section class="content-navigation-column">
+		<nav id="latest-travel-articles-navigation" class="nav-list">
+			<h2>Latest in Busking & Music</h2>
+			<ul>
+			{% assign pages_sorted = site.pages | sort: 'date' | reverse %}
+			{% assign count = 0 %}
+			{% for post in pages_sorted %}
+				{% if post.tags contains 'music' %}
+					{% if count < 5 %}
+					{% assign count = count|plus:1 %}
+					<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% else %}
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</nav>
 		<nav id="popular-articles-navigation" class="nav-list">
 			<h2>Popular Articles</h2>
 			<ul>
