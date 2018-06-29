@@ -43,6 +43,3 @@ DEPENDENCIES
   jekyll!
   jekyll-redirect-from
   kramdown
-
-BUNDLED WITH
-   1.11.2
