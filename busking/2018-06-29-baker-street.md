@@ -9,7 +9,7 @@ thumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-tw.png"
 ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-og.png"
 ---
 
-This morning before work, I stopped by Baker Street station on the Jubilee Line, for some busking that I'd been told would be quite good at 8am by a fellow busker. It was my first time there, which means today, I am *officially half way through the busking pitches! Fifty percent, baby! Yeah!* 🎉🎸🙌🎷
+This morning before work, I stopped by Baker Street station on the Jubilee Line, for some busking that I'd been told would be quite good at 8am by a fellow busker. It was my first time there, which means today, I am **officially half way through the busking pitches! Fifty percent, baby! Yeah!** 🎉🎸🙌🎷
 
 _Cue triumphant rendition of _Baker Street_ by Gerry Rafferty._
 
