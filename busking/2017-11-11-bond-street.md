@@ -5,8 +5,8 @@ date_created: 11 November 2017
 description: A report from my busking session at Bond Street on the 11th of November!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-29-2-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-2-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-29-3-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-3-busking-progress-og.png"
 ---
 
 I went to Bond Street at 16:00 on the 11th of November. My first time there. It was a good one! This session brought me in £36.01, or £18.01 per hour over a two-hour period. I played 21 songs in total! It was pretty busy. The pitch is in a rather narrow tunnel though, and it's a nerve-wracking, worrying about people tripping over my gear.
