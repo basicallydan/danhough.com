@@ -3,8 +3,8 @@ layout: page
 title: Busking
 description: I'm getting through all of the London Underground's busking pitches, follow my progress!
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-18-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-og.png"
 ---
 
 # Busking & Music
@@ -20,8 +20,9 @@ It occurred to me that busking on the London Underground isn't something that th
 
 ## Blog posts
 
-**Progress**: I've blogged about **45.45%** of the pitches on the network, and I've performed at **70.45%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **470.67** from **21 performances**, and donated **£139.52** of that to [Crisis](https://crisis.org.uk).
+**Progress**: I've blogged about **50%** of the pitches on the network, and I've performed at **72.73%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **£495.58** from **23 performances**, and donated **£168.38** of that to [Crisis](https://crisis.org.uk).
 
+* [29 June 2018: Baker Street](2018-06-29-baker-street)
 * [17 June 2018: Waterloo (Pitch 3)](2018-06-17-waterloo)
 * [09 June 2018: London Bridge (Pitch 2)](2018-06-09-london-bridge)
 * [04 May 2018: Angel](2018-05-04-angel)
