@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: busking
 title: Busking Report – Baker Street
 date_created: 29 June 2018
 description: A report from my busking session at Baker Street on the 29th of June 2018!
