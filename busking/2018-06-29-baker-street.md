@@ -15,7 +15,7 @@ _Cue triumphant rendition of_ Baker Street _by Gerry Rafferty._
 
 Read all the way to the bottom of this for some special half-way-there stats and musings.
 
-Anyway, today's takings: £32.87 in total - so, £12.42 for [Crisis](https://www.crisis.org.uk/) and the rest for me. It was actually a ~1.6hr set because I had real trouble finding the completely unmarked pitch, so the hourly wage for this spot is £20.54. That's quite good. This is the 6th best so far, only a few pennies behind Chancery Lane.
+Anyway, today's takings: £32.87 in total - so, £16.44 for [Crisis](https://www.crisis.org.uk/) and the rest for me. It was actually a ~1.6hr set because I had real trouble finding the completely unmarked pitch, so the hourly wage for this spot is £20.54. That's quite good. This is the 6th best so far, only a few pennies behind Chancery Lane.
 
 ## Some notable moments
 
