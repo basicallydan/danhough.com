@@ -5,8 +5,8 @@ date_created: 07 April 2018
 description: A report from my busking session at Leicester Square on the 7th of April 2018!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-29-2-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-2-busking-progress-og.png"
 ---
 
 Saturday's session at Leicester Square was very eventful! But let's start as usual with some numbers.
