@@ -69,7 +69,7 @@ I still need more variety though, and some upbeat and singalongey songs for sunn
 
 ## Half way there: what've I learned?
 
-{% include _figure.html src="/img/busking/2018-06-29-busking-progress-tw.png" caption="I'm now half way to having performed at and logged all the pitches on the Underground network."}
+{% include _figure.html src="/img/busking/2018-06-29-busking-progress-tw.png" caption="I'm now half way to having performed at and logged all the pitches on the Underground network." %}
 
 As you might know, I keep track of every single song I perform via a Google Form which goes into a spreadsheet, and I have various queries on that data which rank things. I'd like to make a "Stats" page at some point, but until then I can share with you some of the data at this point.
 
