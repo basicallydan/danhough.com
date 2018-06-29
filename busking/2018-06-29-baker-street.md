@@ -1,6 +1,6 @@
 ---
 layout: busking
-title: Busking Report – Baker Street
+title: Busking Report – Baker Street (+ stats!)
 date_created: 29 June 2018
 description: A report from my busking session at Baker Street on the 29th of June 2018!
 location: London, UK
@@ -84,6 +84,10 @@ At the 50% mark, I can tell you that my five best-performing songs in terms of a
 * _The Lazy Song_ by Bruno Mars with £1.22 per play over 36 plays
 
 I can also tell you that the song for which I have received the *largest individual number of tips (i.e. how many people) was _The Lazy Song_ by Bruno Mars, where I logged 9 - but I actually think it was more, 9 is just the maximum I allow on my form.*
+
+You may also find this interesting: according to my data, this is the breakdown of which songs are responsible for most of the takings, as a pie chart.
+
+{% include _figure.html src="/img/busking/2018-06-29-song-takings-percentage.png" caption="Clearly I play the top three songs a lot, but it's also indicative of how popular they tend to be." %}
 
 ### Highest-earning sessions
 
