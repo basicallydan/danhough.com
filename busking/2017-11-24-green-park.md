@@ -5,8 +5,8 @@ date_created: 24 November 2017
 description: A report from my busking session at Green Park on the 24th of November!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-29-2-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-2-busking-progress-og.png"
 ---
 
 Well, after a four-hour break following [a session at Piccadilly Circus earlier on](/busking/2017-11-24-piccadilly-circus), I headed to Green Park Station to play on Pitch 2. Green Park Station, in case you don't know, is near Westminster (a popular place for tourists), at the end of Oxford Street (a popular place for shoppers), and Hyde Park (another popular tourist hotspot, especially when Winter Wonderland is on - which it is).

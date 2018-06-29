@@ -5,8 +5,8 @@ date_created: 04 November 2017
 description: A report from my busking session at Tottenham Court Road (Pitch 1) on the 4th of November!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-06-29-2-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-2-busking-progress-og.png"
 ---
 
 When I started busking, Tottenham Court Road Pitch 1 (TCR1) was not accessible because of an ongoing refurbishment, but TCR2 was available. On the 15th of June, 2013 I had my most lucrative session: £44.12 in two hours. Four years later, at the same station, day of week and and time, I did not have as good fortune. Dear reader, this pitch was not quite as lucrative, but it helped me learn some valuable lessons for the future.
