@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: busking
 title: Busking Report – London Bridge (Pitch 2)
 date_created: 09 June 2018
 description: A report from my busking session at London Bridge on the 9th of June 2018! And, introducing Contactless payments with iZettle!
