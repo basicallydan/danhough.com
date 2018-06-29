@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Westminster (Pitch 2)
+tags: [music]
 date_created: 05 November 2017
 description: A report from my busking session at Westminster (Pitch 2) on the 5th of November!
 location: London, UK

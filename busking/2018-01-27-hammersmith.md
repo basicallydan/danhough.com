@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Hammersmith
+tags: [music]
 date_created: 27 January 2018
 description: A report from my busking session at Hammersmith on the 27th of January 2018!
 location: London, UK

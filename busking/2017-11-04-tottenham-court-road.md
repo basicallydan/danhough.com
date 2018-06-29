@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Tottenham Court Road (Pitch 1)
+tags: [music]
 date_created: 04 November 2017
 description: A report from my busking session at Tottenham Court Road (Pitch 1) on the 4th of November!
 location: London, UK

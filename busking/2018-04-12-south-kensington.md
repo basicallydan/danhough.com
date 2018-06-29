@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – South Kensington (Pitch 1)
+tags: [music]
 date_created: 12 April 2018
 description: A report from my busking session at South Kensington (Pitch 1) on the 12th of April 2018!
 location: London, UK

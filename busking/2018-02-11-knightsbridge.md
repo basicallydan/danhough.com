@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Knightsbridge
+tags: [music]
 date_created: 11 February 2018
 description: A report from my busking session at Knightsbridge on the 11th of February 2018!
 location: London, UK

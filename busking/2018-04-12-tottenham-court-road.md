@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Tottenham Court Road (Pitch 2)
+tags: [music]
 date_created: 12 April 2018
 description: A report from my busking session at Tottenham Court Road (Pitch 2) on the 12th of April 2018!
 location: London, UK

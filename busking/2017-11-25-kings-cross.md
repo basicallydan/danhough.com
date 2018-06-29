@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Kings Cross (Pitch 1)
+tags: [music]
 date_created: 24 November 2017
 description: A report from my busking session at Kings Cross on the 25th of November!
 location: London, UK

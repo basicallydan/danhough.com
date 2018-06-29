@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Bond Street
+tags: [music]
 date_created: 11 November 2017
 description: A report from my busking session at Bond Street on the 11th of November!
 location: London, UK

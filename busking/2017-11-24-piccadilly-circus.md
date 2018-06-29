@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Piccadilly Circus
+tags: [music]
 date_created: 24 November 2017
 description: A report from my busking session at Piccadilly Circus on the 24th of November!
 location: London, UK

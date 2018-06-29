@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Busking Report – Leicester Square (Pitch 1)
+tags: [music]
 date_created: 07 April 2018
 description: A report from my busking session at Leicester Square on the 7th of April 2018!
 location: London, UK
