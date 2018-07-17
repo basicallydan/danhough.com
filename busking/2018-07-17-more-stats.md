@@ -3,11 +3,11 @@ layout: busking
 title: How much money do I make busking on the tube?
 tags: [music]
 date_created: 29 June 2018
-description: A short report with lots of cool stats.
+description: A short report with lots of cool stats that I wrote for Londonist.
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-29-3-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-3-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-07-17-stats-july-2018-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-07-17-stats-july-2018-og.png"
 ---
 
 Do you remember the last busker you saw on the tube? There's a chance they remember you. If you had any kind of interaction with me, I would. If you smile, wave, cover your ears or sing along, I'll record it.
@@ -42,4 +42,4 @@ It's early days, but I've played at 50% of the pitches on the network and I'm al
 
 So, next time you walk past a busker on the tube, singing Yellow and Torn on an endless loop, consider that your interaction with them could influence the choice of song they play next. Smile, wave, cover your ears or sing along, and if you can, chuck in some pocket change.
 
-_This article was originally written for [Londonist.com](http://londonist.com/london/transport/what-songs-earn-the-most-for-buskers-on-the-underground)._
+_This article was originally written for [Londonist.com](http://londonist.com/london/transport/what-songs-earn-the-most-for-buskers-on-the-underground). There are plenty more [busking reports where this one came from](/busking)._
