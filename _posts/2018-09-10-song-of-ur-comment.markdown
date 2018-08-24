@@ -1,10 +1,10 @@
 ---
 layout: post
 title: How I find musical inspiration from Reddit comments
-date_created: 10 September 2018
+date_created: 02 September 2018
 location: London, UK
 comments: true
-description: I've been writing music inspired by Reddit comments, and it's surprisingly fun.
+description: I've been writing music inspired by Reddit comments. It's surprisingly fun, and surprisingly effective.
 twitterCardType: summary_large_image
 tags: [music]
 thumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-tw.png"
@@ -32,6 +32,14 @@ This was the first work I'd done for this new musical (and to an extent, comedy)
 I'd had the idea years ago, inspired by Reddit "novelty" accounts like the famous /u/poem_for_your_sprog and /u/Shitty_Watercolour. I'm not a poet, and I'm not that interested in watercolour - but I am a musician and over the past 15 years I've written songs about some _very_ niche topics. There were so many interesting stories out there which I could either re-tell or embellish, in order to practice songwriting, or try new styles, or improve my mixing skills, or - if it turned out well - find a bigger audience for my unusual brand of music.
 
 So, I wanted to give this a go. After years of thinking about it, one night on the 8th of July, I jumped onto /r/AskReddit and started looking for interesting stories. I started by setting the scene, came up with a simple melody, and then re-told the story that /u/not_todaysatan had told but, basically, with more rhymes. It went down well, so I carried on.
+
+## Favourites, process, and challenges
+
+On the /r/AskReddit thread, "[What is about to become popular that most people are unaware of?](https://www.reddit.com/r/AskReddit/comments/98r40r/what_is_about_to_become_popular_that_most_people/e4i75ss/)", user /u/NotoriousTNT suggested that pay-to-ride scooters are due a sudden surge in popularity, because they'd seen them show up in their city. They gave a sort of... "warning" vibe in their comment. I took that idea and transformed it into something more akin to a revolutionary song.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488036232&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+This one was ludicrously fun to do. I finished uploading and posting it a few minutes before leaving for a holiday to Eastern Europe, so my final moments in my home in the UK were spent shouting "JOIN THE FLEET!" as loud as I could. Pity my poor neighbours.
 
 On the /r/CasualConversation subreddit, user /u/bmanfromct created a post and told every member of that community, "I really really like it when I smile at a stranger and they smile back." As a fan of this phenomenon, I could relate. I decided to write a song about it.
 
