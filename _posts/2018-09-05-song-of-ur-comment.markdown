@@ -47,7 +47,7 @@ On the /r/AskReddit thread, "[What is about to become popular that most people a
 
 This one was ludicrously fun to do. I finished uploading and posting it a few minutes before leaving for a holiday to Eastern Europe, so my final moments in my home in the UK were spent shouting "JOIN THE FLEET!" as loud as I could. Pity my poor neighbours.
 
-On the /r/CasualConversation subreddit, user /u/bmanfromct created a post and told every member of that community, "I really really like it when I smile at a stranger and they smile back." As a fan of this phenomenon, I could relate. I decided to write a song about it.
+On the /r/CasualConversation subreddit, user /u/bmanfromct created a post and told every member of that community, "[I really really like it when I smile at a stranger and they smile back.](https://www.reddit.com/r/CasualConversation/comments/95qoc2/i_really_really_like_it_when_i_smile_at_a/)" As a fan of this phenomenon, I could relate. I decided to write a song about it.
 
 <figure class="center">
 	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/483016839&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
