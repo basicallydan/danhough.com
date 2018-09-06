@@ -15,10 +15,10 @@ On the /r/AskReddit thread, "Travelers of Reddit, what's a place everyone should
 
 "I'm not gonna tell you, it's already too crowded there."
 
-They captured a feeling I'm sure we've all felt before while holidaying in supposedly serene getaways. I was entertained and inspired, so naturally, I wrote a song about it.
+They captured a feeling I'm sure we've all felt before while holidaying in supposedly serene getaways. I was entertained and inspired, so naturally, I wrote a song about it. Click below to give it a play.
 
 <figure class="center">
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484618491&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484618491&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </figure>
 
 It was very well-received, and over the next few hours the song was played thousands of times on bandcamp and one generous Reddit user "gilded" my comment to show their appreciation.
@@ -27,7 +27,9 @@ A few weeks earlier, on the /r/AskReddit thread, "What was the most epic comeupp
 
 It was an interesting, entertaining story of privilege, entitlement and schadenfreude. So, naturally, I wrote a song about it in the style (vaguelly) of Belle and Sebastian.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469074027&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<figure class="center">
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469074027&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</figure>
 
 This was the first work I'd done for this new musical (and to an extent, comedy) project, /u/song_of_ur_comment.
 
@@ -39,13 +41,17 @@ So, I wanted to give this a go. After years of thinking about it, one night on t
 
 On the /r/AskReddit thread, "[What is about to become popular that most people are unaware of?](https://www.reddit.com/r/AskReddit/comments/98r40r/what_is_about_to_become_popular_that_most_people/e4i75ss/)", user /u/NotoriousTNT suggested that pay-to-ride scooters are due a sudden surge in popularity, because they'd seen them show up in their city. They gave a sort of... "warning" vibe in their comment. I took that idea and transformed it into something more akin to a revolutionary song.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488036232&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<figure class="center">
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488036232&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</figure>
 
 This one was ludicrously fun to do. I finished uploading and posting it a few minutes before leaving for a holiday to Eastern Europe, so my final moments in my home in the UK were spent shouting "JOIN THE FLEET!" as loud as I could. Pity my poor neighbours.
 
 On the /r/CasualConversation subreddit, user /u/bmanfromct created a post and told every member of that community, "I really really like it when I smile at a stranger and they smile back." As a fan of this phenomenon, I could relate. I decided to write a song about it.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/483016839&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<figure class="center">
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/483016839&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</figure>
 
 This one took just under an hour. By the time I was almost done, it sounded very sweet and sensitive. But, because I'm a 30-year-old child I couldn't help but put some silly backing vocals like "Don't be weird to the strangers" to make it a little comical.
 
@@ -55,7 +61,9 @@ Sometimes, I'll reply to a thread which isn't getting a lot of attention despite
 
 On the /r/AskReddit thread, "Women of Reddit, what do most guys do that really irritates you?", user /u/Delicious_Delilah shared a couple of their pet peeves regarding dating. Again it resonated with me, so I wrote a song about it.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484593240&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<figure class="center">
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484593240&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</figure>
 
 One of the key challenges of this project is getting timing right. Sometimes, I know a comment song isn't going to get a whole lot of visibility, but do it anyway because it's inspired a really good song. But as I said, part of this is about getting finding an audience. Creating things is fun, but it's a lot more fun when you know that people are enjoying it or being moved by it in some way.
 
@@ -63,7 +71,9 @@ Because of this, I need to work fast and, sometimes, find threads which seem lik
 
 However, I think I got the balance right on this one. On the /r/AskReddit thread, "Drive-thru window workers of reddit, what's the strangest thing you've seen in someones car?", user /u/_Vinyl recounted a story about their dad's bizarre behaviour reversing into a drive-thru Starbucks (classic USA) to avoid having to personally make an elaborate coffee order on behalf of _Vinyl's mother. This story tickled me and it made very good fodder for a song.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/483150060&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<figure class="center">
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/483150060&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</figure>
 
 This story was already quite funny, all I did was add a little bit of flourish to the story.
 
@@ -71,7 +81,9 @@ This story was already quite funny, all I did was add a little bit of flourish t
 
 I'll end the list there - those are some of my favourites. I hope I'll continue to have the enthusiasm and creative energy to write these songs for a long time because right now I'm really enjoying it. They're all in [a playlist on Soundcloud](https://soundcloud.com/danhoughmusic/sets/reddit-comment-songs), though, so listen if you wish.
 
-<iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/557480718&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<figure class="center">
+	<iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/557480718&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</figure>
 
 The only question is: what will happen to these songs? Do they get upgraded into full-length tracks? Do I start performing them live? Will I put them on Spotify or sell them on Bandcamp? I'm not sure about the last bit, but I think a couple of them could form the bases for longer, unrelated songs. There are some nice melodies in there.
 
