@@ -11,7 +11,7 @@ thumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-og.png"
 ---
 
-On the /r/AskReddit thread, "Travelers of Reddit, what's a place everyone should visit at least once in their life?", a user called /u/theofiel refused to tell anybody the place they thought everybody should visit:
+On the /r/AskReddit thread, "[Travelers of Reddit, what's a place everyone should visit at least once in their life?](https://www.reddit.com/r/AskReddit/comments/96qevq/travelers_of_reddit_whats_a_place_everyone_should/e42ej96/)", a user called /u/theofiel refused to tell anybody the place they thought everybody should visit:
 
 "I'm not gonna tell you, it's already too crowded there."
 
@@ -23,7 +23,7 @@ They captured a feeling I'm sure we've all felt before while holidaying in suppo
 
 It was very well-received, and over the next few hours the song was played thousands of times on bandcamp and one generous Reddit user "gilded" my comment to show their appreciation.
 
-A few weeks earlier, on the /r/AskReddit thread, "What was the most epic comeuppance you've ever seen a spoiled kid get?", a user called /u/not_todaysatan responded with a story about a job they had at a pony camp attended by loads of rich kids.
+A few weeks earlier, on the /r/AskReddit thread, "[What was the most epic comeuppance you've ever seen a spoiled kid get?](https://www.reddit.com/r/AskReddit/comments/8x3qh5/what_was_the_most_epic_comeuppance_youve_ever/e20ntdc/)", a user called /u/not_todaysatan responded with a story about a job they had at a pony camp attended by loads of rich kids.
 
 It was an interesting, entertaining story of privilege, entitlement and schadenfreude. So, naturally, I wrote a song about it in the style (vaguelly) of Belle and Sebastian.
 
