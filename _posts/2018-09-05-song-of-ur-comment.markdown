@@ -59,7 +59,7 @@ You might notice after listening to some of these that the recording quality var
 
 Sometimes, I'll reply to a thread which isn't getting a lot of attention despite being (in my opinion) really interesting. Here's one of my favourites, sadly not heard quite as much as the others.
 
-On the /r/AskReddit thread, "Women of Reddit, what do most guys do that really irritates you?", user /u/Delicious_Delilah shared a couple of their pet peeves regarding dating. Again it resonated with me, so I wrote a song about it.
+On the /r/AskReddit thread, "[Women of Reddit, what do most guys do that really irritates you?](https://www.reddit.com/r/AskReddit/comments/96mbu5/women_of_reddit_what_do_most_guys_do_that_really/e41k2p1/)", user /u/Delicious_Delilah shared a couple of their pet peeves regarding dating. Again it resonated with me, so I wrote a song about it.
 
 <figure class="center">
 	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484593240&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
@@ -69,7 +69,7 @@ One of the key challenges of this project is getting timing right. Sometimes, I 
 
 Because of this, I need to work fast and, sometimes, find threads which seem like they're going to be popular. This means potentially sacricificing quality a little bit.
 
-However, I think I got the balance right on this one. On the /r/AskReddit thread, "Drive-thru window workers of reddit, what's the strangest thing you've seen in someones car?", user /u/_Vinyl recounted a story about their dad's bizarre behaviour reversing into a drive-thru Starbucks (classic USA) to avoid having to personally make an elaborate coffee order on behalf of _Vinyl's mother. This story tickled me and it made very good fodder for a song.
+However, I think I got the balance right on this one. On the /r/AskReddit thread, "[Drive-thru window workers of reddit, what's the strangest thing you've seen in someones car?](https://www.reddit.com/r/AskReddit/comments/95s02b/drivethru_window_workers_of_reddit_whats_the/e3v6e8l/)", user /u/_Vinyl recounted a story about their dad's bizarre behaviour reversing into a drive-thru Starbucks (classic USA) to avoid having to personally make an elaborate coffee order on behalf of _Vinyl's mother. This story tickled me and it made very good fodder for a song.
 
 <figure class="center">
 	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/483150060&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
