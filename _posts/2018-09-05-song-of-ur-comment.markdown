@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I find musical inspiration from Reddit comments
-date_created: 02 September 2018
+date_created: 05 September 2018
 location: London, UK
 comments: true
 description: I've been writing music inspired by Reddit comments. It's surprisingly fun, and surprisingly effective.
