@@ -17,7 +17,9 @@ On the /r/AskReddit thread, "Travelers of Reddit, what's a place everyone should
 
 They captured a feeling I'm sure we've all felt before while holidaying in supposedly serene getaways. I was entertained and inspired, so naturally, I wrote a song about it.
 
+<figure class="center">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484618491&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</figure>
 
 It was very well-received, and over the next few hours the song was played thousands of times on bandcamp and one generous Reddit user "gilded" my comment to show their appreciation.
 
