@@ -13,7 +13,7 @@ ogthumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-og.png"
 
 On the /r/AskReddit thread, "[Travelers of Reddit, what's a place everyone should visit at least once in their life?](https://www.reddit.com/r/AskReddit/comments/96qevq/travelers_of_reddit_whats_a_place_everyone_should/e42ej96/)", a user called /u/theofiel refused to tell anybody the place they thought everybody should visit:
 
-"I'm not gonna tell you, it's already too crowded there."
+> I'm not gonna tell you, it's already too crowded there.
 
 They captured a feeling I'm sure we've all felt before while holidaying in supposedly serene getaways. I was entertained and inspired, so naturally, I wrote a song about it. Click below to give it a play.
 
@@ -67,7 +67,7 @@ On the /r/AskReddit thread, "[Women of Reddit, what do most guys do that really 
 
 One of the key challenges of this project is getting timing right. Sometimes, I know a comment song isn't going to get a whole lot of visibility, but do it anyway because it's inspired a really good song. But as I said, part of this is about getting finding an audience. Creating things is fun, but it's a lot more fun when you know that people are enjoying it or being moved by it in some way.
 
-Because of this, I need to work fast and, sometimes, find threads which seem like they're going to be popular. This means potentially sacricificing quality a little bit.
+Because of this, I need to work fast and, sometimes, find threads which seem like they're going to be popular. This means potentially sacricificing a little bit of quality.
 
 However, I think I got the balance right on this one. On the /r/AskReddit thread, "[Drive-thru window workers of reddit, what's the strangest thing you've seen in someones car?](https://www.reddit.com/r/AskReddit/comments/95s02b/drivethru_window_workers_of_reddit_whats_the/e3v6e8l/)", user /u/_Vinyl recounted a story about their dad's bizarre behaviour reversing into a drive-thru Starbucks (classic USA) to avoid having to personally make an elaborate coffee order on behalf of _Vinyl's mother. This story tickled me and it made very good fodder for a song.
 
