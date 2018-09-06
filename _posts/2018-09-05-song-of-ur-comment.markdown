@@ -75,7 +75,7 @@ However, I think I got the balance right on this one. On the /r/AskReddit thread
 	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/483150060&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </figure>
 
-This story was already quite funny, all I did was add a little bit of flourish to the story.
+This story was already quite funny, all I did was add a little bit of flourish.
 
 ---
 
