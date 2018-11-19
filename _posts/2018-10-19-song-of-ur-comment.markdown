@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I find musical inspiration from Reddit comments
-date_created: 05 September 2018
+date_created: 20 November 2018
 location: London, UK
 comments: true
 description: I've been writing music inspired by Reddit comments. It's surprisingly fun, and surprisingly effective.
@@ -11,19 +11,19 @@ thumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-og.png"
 ---
 
-On the /r/AskReddit thread, "[Travelers of Reddit, what's a place everyone should visit at least once in their life?](https://www.reddit.com/r/AskReddit/comments/96qevq/travelers_of_reddit_whats_a_place_everyone_should/e42ej96/)", a user called /u/theofiel refused to tell anybody the place they thought everybody should visit:
+On the /r/AskReddit thread, "[Dear Redditors. If someone is shy and going on a date for the first time, what should he/she have in mind?](https://www.reddit.com/r/AskReddit/comments/9ubwii/dear_redditors_if_someone_is_shy_and_going_on_a/)", a user called /r/The_Barman suggested that one should be very polite:
 
-> I'm not gonna tell you, it's already too crowded there.
+{% include _figure.html src="/img/reddit-songs/reddit-song-example.png" srcset="/img/reddit-songs/reddit-song-example.png 1x, /img/marvel/marvel-logo@2x.png 2x" caption="Be polite. Thank everyone. Especially the waiter when he says 'enjoy your meal'. Remember to reply 'you too'." %}
 
-They captured a feeling I'm sure we've all felt before while holidaying in supposedly serene getaways. I was entertained and inspired, so naturally, I wrote a song about it. Click below to give it a play.
+Anybody as overly polite as I am from time to time can probably relate to this slip of the tongue. So naturally, I wrote a song about it. Here it is on YouTube.
 
 <figure class="center">
-	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484618491&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/asgH0wBJYa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-It was very well-received, and over the next few hours the song was played thousands of times on bandcamp and one generous Reddit user "gilded" my comment to show their appreciation.
+It was very well-received, and over the next few hours the song was played thousands of times on YouTube and Soundcloud, and one generous Reddit user "gilded" my comment to show their appreciation.
 
-A few weeks earlier, on the /r/AskReddit thread, "[What was the most epic comeuppance you've ever seen a spoiled kid get?](https://www.reddit.com/r/AskReddit/comments/8x3qh5/what_was_the_most_epic_comeuppance_youve_ever/e20ntdc/)", a user called /u/not_todaysatan responded with a story about a job they had at a pony camp attended by loads of rich kids.
+A few weeks earlier, 9th July 2018, on the /r/AskReddit thread, "[What was the most epic comeuppance you've ever seen a spoiled kid get?](https://www.reddit.com/r/AskReddit/comments/8x3qh5/what_was_the_most_epic_comeuppance_youve_ever/e20ntdc/)", a user called /u/not_todaysatan responded with a story about a job they had at a pony camp attended by loads of rich kids.
 
 It was an interesting, entertaining story of privilege, entitlement and schadenfreude. So, naturally, I wrote a song about it in the style (vaguelly) of Belle and Sebastian.
 
@@ -37,7 +37,21 @@ I'd had the idea years ago, inspired by Reddit "novelty" accounts like the famou
 
 So, I wanted to give this a go. After years of thinking about it, one night on the 8th of July, I jumped onto /r/AskReddit and started looking for interesting stories. I started by setting the scene, came up with a simple melody, and then re-told the story that /u/not_todaysatan had told but, basically, with more rhymes. It went down well, so I carried on.
 
+What follows is a little showcase, plus a little bit about my process and the difficulties.
+
 ## Favourites, process, and challenges
+
+On the /r/AskReddit thread, "[Travelers of Reddit, what's a place everyone should visit at least once in their life?](https://www.reddit.com/r/AskReddit/comments/96qevq/travelers_of_reddit_whats_a_place_everyone_should/e42ej96/)", a user called /u/theofiel refused to tell anybody the place they thought everybody should visit:
+
+> I'm not gonna tell you, it's already too crowded there.
+
+They captured a feeling I'm sure we've all felt before while holidaying in supposedly serene getaways. I was entertained and inspired, so naturally, I wrote a song about it. Click below to give it a play.
+
+<figure class="center">
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484618491&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</figure>
+
+This one went down really well, and it's easily one of my favourites. It's silly, kinda angry and a little bit absurd.
 
 On the /r/AskReddit thread, "[What is about to become popular that most people are unaware of?](https://www.reddit.com/r/AskReddit/comments/98r40r/what_is_about_to_become_popular_that_most_people/e4i75ss/)", user /u/NotoriousTNT suggested that pay-to-ride scooters are due a sudden surge in popularity, because they'd seen them show up in their city. They gave a sort of... "warning" vibe in their comment. I took that idea and transformed it into something more akin to a revolutionary song.
 
@@ -79,7 +93,7 @@ This story was already quite funny, all I did was add a little bit of flourish.
 
 ---
 
-I'll end the list there - those are some of my favourites. I hope I'll continue to have the enthusiasm and creative energy to write these songs for a long time because right now I'm really enjoying it. They're all in [a playlist on Soundcloud](https://soundcloud.com/danhoughmusic/sets/reddit-comment-songs), though, so listen if you wish.
+I'll end the list there - those are some of my favourites. I hope I'll continue to have the enthusiasm and creative energy to write these songs for a long time because right now I'm really enjoying it. For now, they're all in [a playlist on Soundcloud](https://soundcloud.com/danhoughmusic/sets/reddit-comment-songs), and a [smaller playlist on YouTube](https://www.youtube.com/playlist?list=PLvppEbQdpLCUzpQQqZFFvm-gKoL5SRej2), so listen if you wish.
 
 <figure class="center">
 	<iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/557480718&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
@@ -89,4 +103,4 @@ The only question is: what will happen to these songs? Do they get upgraded into
 
 As for performing them: I'm thinking of doing a bit where I explain the premise of the project and audience members decide which subject sounds most interesting and I perform the song for that one. In this, I'd only reveal enough information to make the lyrics the _right amount_ of revelatory and surprising. We'll see on that one.
 
-If you wanna hear stuff as it's written, either follow me on Soundcloud at https://soundcloud.com/danhoughmusic, or Reddit at https://www.reddit.com/user/song_of_ur_comment.
+If you wanna hear stuff as it's written, either follow me on YouTube at https://youtube.com/c/DanHough, Soundcloud at https://soundcloud.com/danhoughmusic, or Reddit at https://www.reddit.com/user/song_of_ur_comment.
