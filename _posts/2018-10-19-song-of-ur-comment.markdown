@@ -13,7 +13,7 @@ ogthumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-og.png"
 
 On the /r/AskReddit thread, "[Dear Redditors. If someone is shy and going on a date for the first time, what should he/she have in mind?](https://www.reddit.com/r/AskReddit/comments/9ubwii/dear_redditors_if_someone_is_shy_and_going_on_a/)", a user called /r/The_Barman suggested that one should be very polite:
 
-{% include _figure.html src="/img/reddit-songs/reddit-song-example.png" srcset="/img/reddit-songs/reddit-song-example.png 1x, /img/marvel/marvel-logo@2x.png 2x" caption="Be polite. Thank everyone. Especially the waiter when he says 'enjoy your meal'. Remember to reply 'you too'." %}
+{% include _figure.html src="/img/reddit-songs/reddit-song-example.png" srcset="/img/reddit-songs/reddit-song-example.png 1x, /img/reddit-songs/reddit-song-example@2x.png 2x" caption="Be polite. Thank everyone. Especially the waiter when he says 'enjoy your meal'. Remember to reply 'you too'." %}
 
 Anybody as overly polite as I am from time to time can probably relate to this slip of the tongue. So naturally, I wrote a song about it. Here it is on YouTube.
 
