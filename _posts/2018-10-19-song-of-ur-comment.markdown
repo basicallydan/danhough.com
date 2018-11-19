@@ -31,9 +31,9 @@ It was an interesting, entertaining story of privilege, entitlement and schadenf
 	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469074027&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </figure>
 
-This was the first work I'd done for this new musical (and to an extent, comedy) project, */u/song_of_ur_comment*. As of the 18th November 2018, I've written & recorded 50!
+This was the first work I'd done for this new musical (and to an extent, comedy) project, **/u/song_of_ur_comment**. As of the 18th November 2018, I've written & recorded 50!
 
-I'd had the idea years ago, inspired by Reddit "novelty" accounts like the famous */u/poem_for_your_sprog* and */u/Shitty_Watercolour*. I'm not a poet, and I'm not that interested in watercolour - but I am a songwriter and over the past 15 years I've written songs about some _very_ niche topics. There were so many interesting stories out there which I could either re-tell or embellish, in order to practice songwriting, try new styles, improve my mixing skills, or - if it turned out well - find a bigger audience for my particular brand of music.
+I'd had the idea years ago, inspired by Reddit "novelty" accounts like the famous **/u/poem_for_your_sprog** and **/u/Shitty_Watercolour**. I'm not a poet, and I'm not that interested in watercolour - but I am a songwriter and over the past 15 years I've written songs about some _very_ niche topics. There were so many interesting stories out there which I could either re-tell or embellish, in order to practice songwriting, try new styles, improve my mixing skills, or - if it turned out well - find a bigger audience for my particular brand of music.
 
 So, I wanted to give this a go. After years of thinking about it, one night on the 8th of July, I jumped onto /r/AskReddit and started looking for interesting stories. I started by setting the scene, came up with a simple melody, and then re-told the story that /u/not_todaysatan had told but, basically, with more rhymes. It went down well, so I carried on.
 
