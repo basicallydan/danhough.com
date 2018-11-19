@@ -41,6 +41,8 @@ What follows is a little showcase, plus a little bit about my process and the di
 
 ## Favourites, process, and challenges
 
+### Travellers
+
 On the /r/AskReddit thread, "[Travelers of Reddit, what's a place everyone should visit at least once in their life?](https://www.reddit.com/r/AskReddit/comments/96qevq/travelers_of_reddit_whats_a_place_everyone_should/e42ej96/)", a user called /u/theofiel refused to tell anybody the place they thought everybody should visit:
 
 > I'm not gonna tell you, it's already too crowded there.
@@ -53,6 +55,8 @@ They captured a feeling I'm sure we've all felt before while holidaying in suppo
 
 This one went down really well, and it's easily one of my favourites. It's silly, kinda angry and a little bit absurd.
 
+### Scooters
+
 On the /r/AskReddit thread, "[What is about to become popular that most people are unaware of?](https://www.reddit.com/r/AskReddit/comments/98r40r/what_is_about_to_become_popular_that_most_people/e4i75ss/)", user /u/NotoriousTNT suggested that pay-to-ride scooters are due a sudden surge in popularity, because they'd seen them show up in their city. They gave a sort of... "warning" vibe in their comment. I took that idea and transformed it into something more akin to a revolutionary song.
 
 <figure class="center">
@@ -60,6 +64,8 @@ On the /r/AskReddit thread, "[What is about to become popular that most people a
 </figure>
 
 This one was ludicrously fun to do. I finished uploading and posting it a few minutes before leaving for a holiday to Eastern Europe, so my final moments in my home in the UK were spent shouting "JOIN THE FLEET!" as loud as I could. Pity my poor neighbours.
+
+### Smiling at Strangers
 
 On the /r/CasualConversation subreddit, user /u/bmanfromct created a post and told every member of that community, "[I really really like it when I smile at a stranger and they smile back.](https://www.reddit.com/r/CasualConversation/comments/95qoc2/i_really_really_like_it_when_i_smile_at_a/)" As a fan of this phenomenon, I could relate. I decided to write a song about it.
 
@@ -73,6 +79,8 @@ You might notice after listening to some of these that the recording quality var
 
 Sometimes, I'll reply to a thread which isn't getting a lot of attention despite being (in my opinion) really interesting. Here's one of my favourites, sadly not heard quite as much as the others.
 
+### Irritating Guys
+
 On the /r/AskReddit thread, "[Women of Reddit, what do most guys do that really irritates you?](https://www.reddit.com/r/AskReddit/comments/96mbu5/women_of_reddit_what_do_most_guys_do_that_really/e41k2p1/)", user /u/Delicious_Delilah shared a couple of their pet peeves regarding dating. Again it resonated with me, so I wrote a song about it.
 
 <figure class="center">
@@ -83,7 +91,9 @@ One of the key challenges of this project is getting timing right. Sometimes, I 
 
 Because of this, I need to work fast and, sometimes, find threads which seem like they're going to be popular. This means potentially sacricificing a little bit of quality.
 
-However, I think I got the balance right on this one. On the /r/AskReddit thread, "[Drive-thru window workers of reddit, what's the strangest thing you've seen in someones car?](https://www.reddit.com/r/AskReddit/comments/95s02b/drivethru_window_workers_of_reddit_whats_the/e3v6e8l/)", user /u/_Vinyl recounted a story about their dad's bizarre behaviour reversing into a drive-thru Starbucks (classic USA) to avoid having to personally make an elaborate coffee order on behalf of _Vinyl's mother. This story tickled me and it made very good fodder for a song.
+### Drive-thru
+
+But I think I got the balance right on this next one. On the /r/AskReddit thread, "[Drive-thru window workers of reddit, what's the strangest thing you've seen in someones car?](https://www.reddit.com/r/AskReddit/comments/95s02b/drivethru_window_workers_of_reddit_whats_the/e3v6e8l/)", user /u/_Vinyl recounted a story about their dad's bizarre behaviour reversing into a drive-thru Starbucks (classic USA) to avoid having to personally make an elaborate coffee order on behalf of _Vinyl's mother. This story tickled me and it made very good fodder for a song.
 
 <figure class="center">
 	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/483150060&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
