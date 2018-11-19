@@ -103,4 +103,8 @@ The only question is: what will happen to these songs? Do they get upgraded into
 
 As for performing them: I'm thinking of doing a bit where I explain the premise of the project and audience members decide which subject sounds most interesting and I perform the song for that one. In this, I'd only reveal enough information to make the lyrics the _right amount_ of revelatory and surprising. We'll see on that one.
 
-If you wanna hear stuff as it's written, either follow me on YouTube at https://youtube.com/c/DanHough, Soundcloud at https://soundcloud.com/danhoughmusic, or Reddit at https://www.reddit.com/user/song_of_ur_comment.
+If you wanna hear stuff as it's written, you can follow on one of three platforms:
+
+- [YouTube: https://youtube.com/c/DanHough](https://youtube.com/c/DanHough) (🙏 I'd prefer this!)
+- [Soundcloud: https://soundcloud.com/danhoughmusic](https://soundcloud.com/danhoughmusic)
+- [Reddit: https://www.reddit.com/user/song_of_ur_comment](https://www.reddit.com/user/song_of_ur_comment)
