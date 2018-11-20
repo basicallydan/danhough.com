@@ -5,17 +5,18 @@ date_created: 20 November 2018
 location: London, UK
 comments: true
 description: I've been writing music inspired by Reddit comments. It's surprisingly fun, and surprisingly effective.
+time_to_read_estimate: 8
 twitterCardType: summary_large_image
 tags: [music]
-thumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-tw.png"
-ogthumbnail: "!SITE_URL!/img/books-of-2016/books-of-2016-thumbnail-og.png"
+thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-thumbnail-og.png"
 ---
 
 <strong>Since July 2018, I've writing songs based on interesting comments and posts from Reddit, then recording them and putting them on [YouTube](https://www.youtube.com/watch?v=pQhaNzP6e9I&list=PLvppEbQdpLCUzpQQqZFFvm-gKoL5SRej2) and [SoundCloud](https://soundcloud.com/danhoughmusic/sets/reddit-comment-songs). I've done fifty so far, and I intend to keep on going! This article is about how it started, how I do it and some of my favourites.</strong>
 
 On the /r/AskReddit thread, "[Dear Redditors. If someone is shy and going on a date for the first time, what should he/she have in mind?](https://www.reddit.com/r/AskReddit/comments/9ubwii/dear_redditors_if_someone_is_shy_and_going_on_a/)", a user called /r/The_Barman suggested that one should be very polite:
 
-{% include _figure.html src="/img/reddit-songs/reddit-song-example.png" srcset="/img/reddit-songs/reddit-song-example.png 1x, /img/reddit-songs/reddit-song-example@2x.png 2x" caption="Be polite. Thank everyone. Especially the waiter when he says 'enjoy your meal'. Remember to reply 'you too'." %}
+{% include _figure.html src="/img/song-of-ur-comment/reddit-song-example.png" srcset="/img/song-of-ur-comment/reddit-song-example.png 1x, /img/song-of-ur-comment/reddit-song-example@2x.png 2x" caption="Be polite. Thank everyone. Especially the waiter when he says 'enjoy your meal'. Remember to reply 'you too'." %}
 
 Anybody as overly polite as I am from time to time can probably relate to this slip of the tongue. So naturally, I wrote a song about it. Here it is on YouTube.
 
