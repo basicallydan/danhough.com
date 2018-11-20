@@ -44,7 +44,7 @@ So, I wanted to give this a go. After years of thinking about it, one night on t
 At one point, I even found an /r/AskReddit question that I could directly reply to with a song.
 
 <figure class="center">
-	<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/510901017&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/510901017&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </figure>
 
 This one was a big hit too, and the only instance where I've told my own story in this entire project so far.
