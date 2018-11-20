@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I find musical inspiration from Reddit comments
+title: How I find musical inspiration in Reddit posts
 date_created: 20 November 2018
 location: London, UK
 comments: true
