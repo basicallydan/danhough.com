@@ -12,7 +12,10 @@ thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-thumbnail-tw.pn
 ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-thumbnail-og.png"
 ---
 
-<strong style="font-size: 0.8em;">Hello! 👋 Since July 2018, I've writing songs based on interesting comments and posts from Reddit, then recording them and putting them on [YouTube](https://www.youtube.com/watch?v=pQhaNzP6e9I&list=PLvppEbQdpLCUzpQQqZFFvm-gKoL5SRej2) and [SoundCloud](https://soundcloud.com/danhoughmusic/sets/reddit-comment-songs). I've done fifty so far, and I intend to keep on going! This article is about how it started, how I do it and some of my favourites.</strong>
+
+<p style="color:#656c7a;font-size:0.8em">
+	Hello! 👋 Since July 2018, I've writing songs based on interesting comments and posts from Reddit, then recording them and putting them on [YouTube](https://www.youtube.com/watch?v=pQhaNzP6e9I&list=PLvppEbQdpLCUzpQQqZFFvm-gKoL5SRej2) and [SoundCloud](https://soundcloud.com/danhoughmusic/sets/reddit-comment-songs). I've done fifty so far, and I intend to keep on going! This article is about how it started, how I do it and some of my favourites.
+</p>
 
 On the /r/AskReddit thread, "[Dear Redditors. If someone is shy and going on a date for the first time, what should he/she have in mind?](https://www.reddit.com/r/AskReddit/comments/9ubwii/dear_redditors_if_someone_is_shy_and_going_on_a/)", a user called /r/The_Barman suggested that one should be very polite:
 
