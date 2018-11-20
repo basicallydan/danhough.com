@@ -34,14 +34,6 @@ layout: default
 			{% endfor %}
 			</ul>
 		</nav>
-		<nav id="popular-articles-navigation" class="nav-list">
-			<h2>Popular Articles</h2>
-			<ul>
-				{% for post in site.categories.popular %}
-					<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
-				{% endfor %}
-			</ul>
-		</nav>
 		<nav id="latest-articles-navigation" class="nav-list">
 			<h2>Latest Articles</h2>
 			<ul>
@@ -61,6 +53,14 @@ layout: default
 			<input placeholder="you@domain.com" type="email" value="" name="EMAIL" class="required email" data-segment='{ "name" : "Subscribe Input Clicked", "location" : "Post: {{ page.title }}" }' id="mce-EMAIL">
 			<input class="submit-email fa-button cta--secondary square-padding" type="submit" value="Subscribe." data-segment='{ "name" : "Subscribe CTA Clicked", "location" : "Post: {{ page.title }}" }'>
 		</form>
+		<nav id="popular-articles-navigation" class="nav-list">
+			<h2>Popular Articles</h2>
+			<ul>
+				{% for post in site.categories.popular %}
+					<li class="post-list-item"><a href="{{ post.url }}" title="Published {{ post.date | date: "%d %B %Y" }}">{{ post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</nav>
 		<nav id="latest-travel-articles-navigation" class="nav-list">
 			<h2>Latest Travel Articles</h2>
 			<ul>
