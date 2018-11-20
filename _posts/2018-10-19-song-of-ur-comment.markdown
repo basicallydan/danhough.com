@@ -8,8 +8,8 @@ description: I've been writing music inspired by Reddit comments. It's surprisin
 time_to_read_estimate: 8
 twitterCardType: summary_large_image
 tags: [music]
-thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-thumbnail-tw.png"
-ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-thumbnail-og.png"
+thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-tw.png"
+ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-og.png"
 ---
 
 
