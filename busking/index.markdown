@@ -38,7 +38,7 @@ It occurred to me that busking on the London Underground isn't something that th
 * [20 January 2018: South Kensington (Pitch 2)](2018-01-20-south-kensington)
 * [07 December 2017: Waterloo (Pitch 2)](2017-12-07-waterloo)
 * [25 November 2017: Kings Cross (Pitch 1)](2017-11-25-kings-cross)
-* [24 November 2017: Green Park (Pitch 1)](2017-11-24-green-park)
+* [24 November 2017: Green Park (Pitch 2)](2017-11-24-green-park)
 * [24 November 2017: Piccadilly Circus](2017-11-24-piccadilly-circus)
 * [11 November 2017: Bond Street](2017-11-11-bond-street)
 * [05 November 2017: Westminster (Pitch 2)](2017-11-05-westminster)
