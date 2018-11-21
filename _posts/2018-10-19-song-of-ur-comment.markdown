@@ -27,6 +27,8 @@ Anybody as overly polite as I am from time to time can probably relate to this s
 
 It was very well-received, and over the next few hours the song was played thousands of times on YouTube and Soundcloud, and one generous Reddit user "gilded" my comment to show their appreciation.
 
+## How it began
+
 A few weeks earlier, on the /r/AskReddit thread, "[What was the most epic comeuppance you've ever seen a spoiled kid get?](https://www.reddit.com/r/AskReddit/comments/8x3qh5/what_was_the_most_epic_comeuppance_youve_ever/e20ntdc/)", a user called /u/not_todaysatan responded with a story about a job they had at a pony camp attended by loads of rich kids.
 
 It was an interesting, entertaining story of privilege, entitlement and schadenfreude. So, naturally, I wrote a song about it in the style (vaguely) of Belle and Sebastian.
@@ -49,7 +51,19 @@ At one point, I even found an /r/AskReddit question that I could directly reply 
 
 This one was a big hit too, and the only instance where I've told my own story in this entire project so far.
 
-What follows is a little showcase, plus a little bit about my process and the difficulties.
+You might notice after listening to some of these that the recording quality varies pretty wildly between the different songs. This is due to a few factors. **One**: my microphone has an analogue dial for pickup volume, which I change a lot because of different sources. Rarely consistent, but I'm getting better. **Two**: depending on the time of day, I might be doing this loudly or quietly. Quietly, of course, if I'm trying not to disturb my neighbours.
+
+### My equipment
+
+At first it was literally just me, my acoustic guitar, and my consender microphone. I didn't even multi-track. But after my initial go at it I realised I could get the song recorded quickly even if I record the acoustic guitar and my voice separately and mix them with different settings.
+
+Soon, I bought myself a tambourine to add a little bit of structured rhythm to it, then I started layering in some harmonies.
+
+After about 15 songs somebody suggested making better use of stereo so I experimented with panning a little bit, which helped give the songs a sense of depth.
+
+But soon after that, I started to long for something playing in the background which wasn't just a guitar being strummed or tambourine being hit - something more droning which could tie together various notes. In my mind, a violin would be perfect. But I can't play the violin. I tried with harmonica, but I only have a harmonica in one key and I'm not very good at it. That's when I decided to buy a **melodica**. I've only used it in a couple of songs so far, but it's helping a lot. Already some of the songs seem fuller and more layered.
+
+What follows is a little showcase, plus a little bit more about my process and the difficulties of doing this.
 
 ## Favourites, process, and challenges
 
@@ -66,6 +80,10 @@ They captured a feeling I'm sure we've all felt before while holidaying in suppo
 </figure>
 
 This one went down really well, and it's easily one of my favourites. It's silly, kinda angry and a little bit absurd.
+
+I try to get at least a couple of different "moods" in each one. They're short songs, so I want to stuff as much emotion in as I can, which means little time for building up suspense or tension.
+
+This is the reason I also tend to start singing immediately in each song.
 
 ### Scooters
 
@@ -87,8 +105,6 @@ On the /r/CasualConversation subreddit, user /u/bmanfromct created a post and to
 
 This one took just under an hour. By the time I was almost done, it sounded very sweet and sensitive. But, because I'm a 30-year-old child I couldn't help but put some silly backing vocals like "Don't be weird to the strangers" to make it a little comical.
 
-You might notice after listening to some of these that the recording quality varies pretty wildly between the different songs. This is due to a few factors. One: my microphone has an analogue dial for pickup volume, which I change a lot because of different sources. Rarely consistent. Two: depending on the time of day, I might be doing this loudly or quietly. Quietly, of course, if I'm trying not to disturb my neighbours.
-
 Sometimes, I'll reply to a thread which isn't getting a lot of attention despite being (in my opinion) really interesting. Here's one of my favourites, sadly not heard quite as much as the others.
 
 ### Irritating Guys
@@ -98,6 +114,8 @@ On the /r/AskReddit thread, "[Women of Reddit, what do most guys do that really 
 <figure class="center">
 	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/484593240&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </figure>
+
+This is one of my favourites, but sadly it didn't get heard by many people.
 
 One of the key challenges of this project is getting timing right. Sometimes, I know a comment song isn't going to get a whole lot of visibility, but do it anyway because it's inspired a really good song. But as I said, part of this is about getting finding an audience. Creating things is fun, but it's a lot more fun when you know that people are enjoying it or being moved by it in some way.
 
@@ -113,9 +131,13 @@ But I think I got the balance right on this next one. On the /r/AskReddit thread
 
 This story was already quite funny, all I did was add a little bit of flourish.
 
+Here you can hear what I think has become a bit of a signature sound in some of them: a fairly low-key verse with a short build up, then a big chorus which then ends fairly abruptly, to wrap it up. Wrapping it up can be a real challenge with shorter songs, but I try not to let it drag on.
+
 ---
 
-I'll end the list there - those are some of my favourites. I hope I'll continue to have the enthusiasm and creative energy to write these songs for a long time because right now I'm really enjoying it. For now, they're all in [a playlist on Soundcloud](https://soundcloud.com/danhoughmusic/sets/reddit-comment-songs), and a [smaller playlist on YouTube](https://www.youtube.com/playlist?list=PLvppEbQdpLCUzpQQqZFFvm-gKoL5SRej2), so listen if you wish.
+I'll end the list there - those are some of my favourites. I hope I'll continue to have the enthusiasm and creative energy to write these songs for a long time because right now I'm really enjoying it.
+
+For now, they're all in [a playlist on Soundcloud](https://soundcloud.com/danhoughmusic/sets/reddit-comment-songs), and a [smaller playlist on YouTube](https://www.youtube.com/playlist?list=PLvppEbQdpLCUzpQQqZFFvm-gKoL5SRej2), so listen if you wish.
 
 <figure class="center">
 	<iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/557480718&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
