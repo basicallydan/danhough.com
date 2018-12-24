@@ -7,9 +7,3 @@
 		max-height:300px;
 	}
 }
-
-.project-item-description {
-	@extend .grid__item;
-	@extend .five-eighths;
-	@extend .palm--one-whole;
-}
