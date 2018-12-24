@@ -1,0 +1,21 @@
+---
+layout: post
+title: Yearnotes 2018
+date_created: 28 December 2018
+location: London, UK
+comments: true
+description: INSERT A DESCRIPTION HERE
+time_to_read_estimate: 8
+twitterCardType: summary_large_image
+tags: [music]
+thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-tw.png"
+ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-og.png"
+---
+
+## Work
+
+## Comedy
+
+## Music & Busking
+
+## Other stuff
