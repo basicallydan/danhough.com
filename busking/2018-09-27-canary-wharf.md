@@ -43,3 +43,7 @@ As usual, I started with _Breakfast at Tiffany's_ again! This didn't work get an
 
 _Don't Look Back in Anger_ this time, at £4.
 
+## How to improve
+
+Honestly, I was pretty lazy in getting to this one and I should be a little more diligent! I need a hand cart too, so - next time!
+
