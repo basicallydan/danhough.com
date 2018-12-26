@@ -41,7 +41,5 @@ As usual, I started with _Breakfast at Tiffany's_ again! This didn't work get an
 
 ## The biggest tip
 
-
-
-## How to improve
+_Don't Look Back in Anger_ this time, at £4.
 
