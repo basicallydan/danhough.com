@@ -3,8 +3,8 @@ layout: page
 title: Busking
 description: I'm getting through all of the London Underground's busking pitches, follow my progress!
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-06-29-3-busking-progress-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-06-29-3-busking-progress-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-12-24-victoria-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-12-24-victoria-og.png"
 ---
 
 # Busking & Music
