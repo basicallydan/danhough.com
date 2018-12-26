@@ -6,6 +6,9 @@
 
 // THIRD PARTY TOOLS
 @import "normalize";
+@import "font-awesome/fontawesome";
+// @import "csswizardry-grids";
+@import "syntax.scss";
 
 @import "_progress";
 @import "_shared";
@@ -19,7 +22,3 @@
 @import "_post";
 @import "_images";
 @import "_quotes";
-
-@import "font-awesome/fontawesome";
-// @import "csswizardry-grids";
-@import "syntax.scss";
