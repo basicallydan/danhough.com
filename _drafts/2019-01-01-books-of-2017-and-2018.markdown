@@ -12,6 +12,10 @@ thumbnail: "!SITE_URL!/img/books-of-2017/books-of-2017-thumbnail-tw.png"
 ogthumbnail: "!SITE_URL!/img/books-of-2017/books-of-2017-thumbnail-og.png"
 ---
 
+<!-- KEEP IT TO 560 characters -->
+
+I won't lie. Back in 2016, I went crazy with the books, and [about two years ago I wrote this](/blogs/books-of-2016).
+
 ## [Hard-Boiled Wonderland and the End of the World](https://www.amazon.co.uk/d/Books/Hard-Boiled-Wonderland-End-World-Haruki-Murakami/0099448785/?tag=daplad-21) by Haruki Murakami
 
 I became quite interested in Japanese Culture in 2016 and for this reason decided early on in 2017 to become acquainted with Japan's (arguably) most internationally well-known author. Hard-Boiled Wonderland and the End of the World, originally 世界の終りとハードボイルド・ワンダーランド, is not the sort of book I would like to spoil by talking about it too much here, but I will say that it was certainly unlike most novels I've ever read. Murakami demonstrates sharpness and wit, and a sense of existential resignedness which I tend to find quite appealing. The "hump"[1] of this book was quite far in for me, about 30%, but I did quite enjoy it.
@@ -35,6 +39,40 @@ A lot of people like to point out how much _The Handmaid's Tale_ feels like a st
 ## [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.amazon.co.uk/gp/product/B00I3DNUR6?tag=daplad-21) by Haruki Murakami
 
 ## [The Metamorphosis](https://www.amazon.co.uk/gp/product/B01N7KS3X7?tag=daplad-21) by Franz Kafka
+
+---
+
+Now let's look at 2018.
+
+## How Not to Be a Boy (Audio) by Robert Webb
+
+## How to be Champion: An Autobiography (Audio) by Sarah Millican
+
+## Born a Crime: Stories from a South African Childhood (Audio) by Trevor Noah
+
+## James Acaster's Classic Scrapes (Audio) by James Acaster
+
+## Why I'm No Longer Talking to White People About Race (Audio) by Reni Eddo-Lodge
+
+## Animal: The Autobiography of a Female Body (Audio) by Sara Pascoe
+
+## Star Wars: From a Certain Point of View
+
+## How to Be a Woman (Audio) by Caitlin Moran
+
+## Bossypants (Audio) by Tina Fey
+
+This was a real find. I don't think I realised how much I enjoyed hearing well-known stories from a different perspective.
+
+## The Examined Life
+
+
+
+## I Hate the Internet
+
+## Introducing Marxism: A Graphic Guide
+
+## Introducing Linguistics: A Graphic Guide
 
 -- notes here ---
 

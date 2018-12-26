@@ -47,7 +47,7 @@ gulp.task('deploy', ['styles'], function (done) {
 });
 
 gulp.task('serve', ['styles'], function () {
-	require('child_process').spawn('jekyll', ['serve', '--watch'], {stdio: 'inherit'});
+	require('child_process').spawn('bundle', ['exec', 'jekyll', 'serve', '--watch'], {stdio: 'inherit'});
     gulp.watch('scss/**', ['styles']);
 });
 
