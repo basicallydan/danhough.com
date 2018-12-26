@@ -6,8 +6,8 @@ date_created: 27 September 2018
 description: A report from my busking session at Canary Wharf on the 27th of September 2018!
 location: London, UK
 twitterCardType: summary_large_image
-thumbnail: "!SITE_URL!/img/busking/2018-12-24-victoria-tw.png"
-ogthumbnail: "!SITE_URL!/img/busking/2018-12-24-victoria-og.png"
+thumbnail: "!SITE_URL!/img/busking/2018-12-26-3-busking-progress-tw.png"
+ogthumbnail: "!SITE_URL!/img/busking/2018-12-26-3-busking-progress-og.png"
 ---
 
 Last weekend, one day before work, I took a quick hop to Canary Wharf, for the 8am-10am slot. I have in the past tried to get a later slot (e.g. 6pm or 8pm) or a weekend slot but they're usually booked up by the time I try to get them. There must be something appealing about them.
