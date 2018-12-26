@@ -5,10 +5,11 @@
 @import "_mixins.scss";
 
 // THIRD PARTY TOOLS
-@import "normalize";
-@import "font-awesome/font-awesome";
+@import "font-awesome/fontawesome";
+@import "font-awesome/brands";
 // @import "csswizardry-grids";
 @import "syntax.scss";
+@import "normalize";
 
 @import "_progress";
 @import "_shared";
