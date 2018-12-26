@@ -20,7 +20,7 @@ It occurred to me that busking on the London Underground isn't something that th
 
 ## Blog posts
 
-**Progress**: I've blogged about **50%** of the pitches on the network, and I've performed at **66.67%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **£495.58** from **24 performances**, and donated **£241.07** of that to [Crisis](https://crisis.org.uk).
+**Progress**: I've blogged about **50%** of the pitches on the network, and I've performed at **66.67%** of them since I got my license. Here's the blogs so far! Since I began my blogging process in October 2017, I've raised **£673.77** from **24 performances**, and donated **£241.07** of that to [Crisis](https://crisis.org.uk).
 
 * [27 December 2018: Victoria](2018-12-27-victoria)
 * [27 September 2018: Canary Wharf](2018-09-27-canary-wharf)
