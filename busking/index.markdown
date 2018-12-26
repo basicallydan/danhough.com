@@ -16,7 +16,7 @@ I've been the holder of a license to busk on the London Underground since 2013. 
 	<figcaption>A video I recorded at Southwark Underground Station, one of my favourite places to play for acoustics (but least favourite for money)</figcaption>
 </figure>
 
-It occurred to me that busking on the London Underground isn't something that the vast majority of musicians, let alone the vast majority of people, get to do. Thus, I should try to make the most of this opportunity. So I'm going to be a completionist about it and try out every pitch on the network, then write a short blog post.
+It occurred to me that busking on the London Underground isn't something that the vast majority of musicians, let alone the vast majority of people, get to do. Thus, I should try to make the most of this opportunity. So I'm going to be a completionist, and try out every pitch on the network, then write a short blog post.
 
 ## Blog posts
 
