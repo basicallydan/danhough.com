@@ -5,13 +5,35 @@ date_created: 07 July 2019
 location: Victoria, BC
 comments: true
 description: I'm moving to Canada!
-time_to_read_estimate: 8
+time_to_read_estimate: 5
 twitterCardType: summary_large_image
 tags: [travel]
-thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-tw.png"
-ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-og.png"
+thumbnail: "!SITE_URL!/img/canada-move/canada-move-tw.png"
+ogthumbnail: "!SITE_URL!/img/canada-move/canada-move-og.png"
 ---
 
 It's 7:45 and I'm sitting in a beautiful house overlooking the Strait of Juan Fuca. I'm seven days into a trip around North America which I hope will lead me to deciding where to plant a few roots in Canada.
 
-Back in November 2017, I submitted myself to a pool for getting an invitation to apply for a Working Holiday Visa in Canada. In May 2018, the process had taken several turns but I had finally been approved for a work permit for two years, starting whenever I went into the country and activated it. I did that in April this year with a long-weekend trip to Toronto.
+Back in November 2017, I submitted myself to a pool for getting an invitation to apply for a Working Holiday Visa in Canada. In May 2018, the process had taken several turns but I had finally been approved for a work permit for two years, starting whenever I went into the country and activated it. I did that in April this year with a long-weekend trip to Toronto. I couldn't start back then, though - I had some business to wrap up in the UK.
+
+And a week ago I finally headed over, starting in Vancouver, British Columbia. My plan is, over the next couple of months, to travel around Canada a little bit until I'm satisifed that I know where I want to set myself up.
+
+Until a few days ago, I wasn't certain about this venture. I thought I may get bored of the place after a couple of months and head back to the UK. But now that I'm here, enjoying myself, experiencing first-hand what this country has to offer, I think the chances are a lot slimmer that I'll do that.
+
+This week I've been diving, paddleboarding and hiking. I've done some yoga, eaten some delicious (and surprisingly inexpensive) meals. I've couchsurfed (successfully!) had pleasant chats with more strangers in the last week than I did in two months in London.
+
+---
+
+You may think that some of these positive experiences come from being on the road, or because I'm not working at the moment. These things can change your outlook completely. After all, as my nan always said, _a change is as good as a holiday_.
+
+Certainly, that's part of it. But there's something about the attitude here - at least in British Columbia where I've spent all my time so far - which is vastly different from what I'm used to in London. I can't quite put my finger on it yet, but one way I'd describe it is a lack of the formality that comes with living in the UK. Sure, you can talk to a stranger in a pub in the UK - no problem - but at least for me, there's an underlying tension based on a shared understanding that we need to resolve the conversation somehow, and soon. I haven't found that here. Whenever I sit down in a public, social place in Canada such as a bar, casual restaurant or café, I'm almost guaranteed to exchange a few pleasant words with someone else.
+
+I really like that.
+
+There's more to it, too - but perhaps I'll explore that a little more when I've spent more time here long-term.
+
+Maybe it's the honeymoon period, maybe it's because I'm travelling or maybe it's just that I'm getting more sunshine than usual. That's fine, I'll enjoy it for the time being.
+
+---
+
+Either way, I think I'm going to attempt to live here for a little while. I'm not looking for work yet, but I will at some point. If you know anybody looking for a software-engineer-turned-product-manager who wants to get back into engineering, [let me know](mailto:dan@danhough.com). Thanks 🙂🇨🇦
