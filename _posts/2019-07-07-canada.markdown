@@ -1,0 +1,17 @@
+---
+layout: post
+title: Canada
+date_created: 07 July 2019
+location: Victoria, BC
+comments: true
+description: I'm moving to Canada!
+time_to_read_estimate: 8
+twitterCardType: summary_large_image
+tags: [travel]
+thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-tw.png"
+ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-og.png"
+---
+
+It's 7:45 and I'm sitting in a beautiful house overlooking the Strait of Juan Fuca. I'm seven days into a trip around North America which I hope will lead me to deciding where to plant a few roots in Canada.
+
+Back in November 2017, I submitted myself to a pool for getting an invitation to apply for a Working Holiday Visa in Canada. In May 2018, the process had taken several turns but I had finally been approved for a work permit for two years, starting whenever I went into the country and activated it. I did that in April this year with a long-weekend trip to Toronto.
