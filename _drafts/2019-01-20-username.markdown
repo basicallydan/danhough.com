@@ -1,0 +1,89 @@
+---
+layout: post
+title: Evolution of a username
+date_created: 20 January 2019
+location: London, UK
+comments: true
+description: INSERT A DESCRIPTION HERE
+time_to_read_estimate: 8
+twitterCardType: summary_large_image
+tags: [music]
+thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-tw.png"
+ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-og.png"
+---
+
+A person's online alias can say a lot about that person. Some people use it as an opportunity for self-expression, others simply want something memorable and communicable; something they can tell somebody at a conference without having to write it down. Others put no thought into it, and end up with `jsmith223`, the 223rd person to attempt to sign up with a service with their initial and surname.
+
+I've always put some thought into it, and the story of how it's changed over the years is a reflection of the way I've interacted with the Internet and the Web in that time, and the events in my life.
+
+## 1998 – before I had a username
+
+Back when my family first had access to the Internet, my dad and I sat down at the family computer and created my first email address. It was a hotmail address, daniel_hough@hotmail.com. I was eleven or twelve in 2000.
+
+My memory of that time is pretty hazy, but I don't think I spent much time on the Internet. I can only remember sending one email in the late 90s or 2000, to Nintendo Official Magazine, and I used my dad's personal account. As for my own emails? I probably just sent one or two to my dad at work for fun and left it at that.
+
+## 2001: Online publishing begins
+
+By the time mid-2001 came about, I'd become a fairly regular Internet user. To provide some context: this is the year I lost my dad, and moved away from where I'd been born and raised in Saudi Arabia. The Internet, I suspect, was a nice escape from the chaos surrounding me at the time as my family's life was uprooted. But by mid-2001, I was living in the English countryside.
+
+We still had dial-up (and would for at least another year) but I'd started becoming interested in running websites.
+
+I'd recently started playing Black and White, a game developed by Lionhead Studios (the studio run by Peter Molyneux) and I'd started a fan/mod site for that, called [Black & White Tattoo Parlour (bwtp)](http://bwtp.tripod.com/). It's still there, in the form in which we left it in 2001. My friend Omair did all the graphics and design and I built it and made most of the posts.
+
+We can look back on the moment when I decided to fully switch over to this name. On 30th August 2001, a momentous day for little 13-year-old Dan, I wrote:
+
+> Firstly, I'm just telling everyone that I have changed my name to Frag_of_Lag. That is my name on the PBW and all Gamespy forums. It is also my name on everything Gamespy!
+
+Well, if you put it like that, little Dan – of course you need to change your name! Consistency is key to a memorable brand 🙄
+
+So, my first username was Frag_of_Lag. Clearly influenced by online gaming. But it didn't last long.
+
+## 2002: Underscores are _so_ last year
+
+At some point - I'm not sure when - I renamed myself online to "Fragsta". I do have recollection of the thought process behind this decision:
+
+* Underscores take more keystrokes. _Fragsta_ just rolls straight out of the ol' fingers.
+* "Fragsta" was easier to say in an English accent.
+* Having "Lag" in my name suggested that I was somehow behind. I mean, I was. I still had dial-up. But, whatever.
+
+By the time of 21st October 2002, I'd adopted the name Fragsta, and I know this because that same website, Black & White Tattoo Parlour, had a "SPECIAL ANNOUNCEMENT" on it, posted by one "Fragsta".
+
+## 2004: 
+
+So proud was I of this username that I took it upon myself to make an Urban Dictionary entry for it. I can't un-delete this embarassing entry, so I might as well share it. On 11th September 2004 [I made this urbandictionary.com entry](https://www.urbandictionary.com/define.php?term=fragsta):
+
+> I am Fragsta. Daniel Hough. Bwahahahar! Since this is the first entry for it at Urban Dictionary.com it is officially copyrighted to me, Daniel Hough of the UK. So if you steal it, I will sue you. Oh, and visit www.isay-whatho.com please!
+
+That's 16-year-old Dan there. Was I making this entry in earnest, or was I being ironic, and having a bit of fun? I choose to believe the latter, but honestly I can't remember. Either way, I think it deserves the damning upvote:downvote ratio it's earned, of 3:9.
+
+The first reference I can find to this username is on [the vbcity.com forums](http://vbcity.com/forums/p/61886/246035.aspx#246035). I was asking the community where I should place imports when writing Visual Basic.
+
+"At the top, before everything else.", answered Russell Judge from Ohio.
+
+Of course. This is second nature to me, now. I wouldn't even question it. But fragsta was, as we said at the time, a n00b. (outdated lingo #1)
+
+## 2005
+
+In 2005, I created a Gmail account. The subject line of the first email read:
+
+> Gmail is different. Here is what you need to know.
+
+The next email I have after that in my archive is from linuxforums.org. Apparently, the username I chose was "Daniel Hough". A little boring.
+
+Also this year, though, I was really quite into PC Gaming. I had a subscription to PC Gamer Magazine, and I was a member of the PC Gamer Magazine UK Forum (found at https://forum.pcgamer.co.uk). Another thing that happened to me around this time was an increase in my interest in programming. I decided to name myself "Dan++", an homage to the famous programming language C++.
+
+The PC Gamer Forum (PCGF), like many online communities formed around specialist interests, had its own rituals, in-jokes, and its own shared sense of humour. One day, somehow, a member asked the question, "how do you pronounce your username?" Being the oh-so-witty-and-clever-look-at-me young man I was, I replied, "Dan Plus Add". What a character.
+
+Interestingly enough, PCGF was where I sort-of began my musical "career". Using the name "Dan Plus Add" in the ID3 tags I uploaded my first song as an MP3; a song called _forum.pcgamer.co.uk_, which was a tribute to all of our little in-jokes and sub-communities. It was well-received, and this is how I learned about the fun of writing music on topics that are very close to peoples' hearts.
+
+## 2007: Welcome to the Real World
+
+I moved to Sheffield (in the North of England) from the countryside near Milton Keynes (in the South) in 2006 to take a degree at the University of Sheffield. My first year was a reasonably quiet one online. The number of IRL friendships increased pretty quickly as I was surrounded by people from all walks of life with diverse interests and personalities. But by the time I had reached my second year in Sheffield, I had settled into a reasonably nerdy group of friends, albiet a group who were far more confident, less insecure and more interested in meatspace than they had been a couple of years previously.
+
+I say this because 2007 is the year I started using Twitter and Facebook fairly regularly, and the merging of my online life and my offline life began. This is an experience many my age have gone through: no longer able, nor particularly keen, to be an anonymous netizen* (outdated lingo #2), and either covering up the remnants of their online life (I have three friends who refuse to satisfy my curiosity about their pre-University online presence, which is fair) or allowing their online life to become an equal part of the rest of their existence. It's been said before: there is no distinction between online and offline - no distinction between Internet life and Real life. [There's a great episode of the PBS Idea Channel about it](https://www.youtube.com/watch?v=CZwJq88cWKY).
+
+I fall somewhere between these two camps. Generally, my interest in gaming and programming was pretty public, since a lot of my friends were into these things too. As for the creative things I put out online, I proudly displayed my deviantArt profile in my Facebook "About" section and I even allowed my terrible Flash Cartoons to be revealed to curious new friends.
+
+However, the music I had painstakingly written, recorded and published was mainly kept under wraps. In fact, to this day most of my friends and colleagues, while quite aware of my current musical adventures (because I talk about it _all the time_) aren't familiar with the songs I recorded as a teenager.
+
+* "Netizen" is a portmanteau of (Inter)net and citizen. It saw a little use in the 1990s but I'm pretty sure nobody uses it anymore (check Google Trends).

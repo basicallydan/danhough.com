@@ -1,0 +1,86 @@
+---
+layout: post
+title: Canada
+date_created: 08 July 2019
+location: Victoria, British Columbia, Canada
+comments: true
+description: I'm moving to Canada!
+time_to_read_estimate: 7
+twitterCardType: summary_large_image
+tags: [travel,canada]
+thumbnail: "!SITE_URL!/img/canada-move/canada-move-tw.png"
+ogthumbnail: "!SITE_URL!/img/canada-move/canada-move-og.png"
+---
+
+It's 7:45 and I'm sitting in a beautiful house overlooking the Strait of Juan Fuca. I'm seven days into a trip around North America which I hope will lead me to deciding where to plant a few roots in Canada.
+
+Back in November 2017, I submitted myself to a pool for getting an invitation to apply for a Working Holiday Visa in Canada. In May 2018, the process had taken several turns but I had finally been approved for a work permit for two years, starting whenever I went into the country and activated it. I did that in April this year with a long-weekend trip to Toronto. I couldn't start back then, though – I had some business to wrap up in the UK.
+
+And a week ago, on July 1st, I finally headed over, starting in Vancouver, British Columbia. My plan is, over the next couple of months, to travel around Canada (and pop into the USA) a little bit until I'm satisifed that I know where I want to set myself up.
+
+<figure class="center">
+	<iframe id="route-map" style="border:none" src="https://www.google.com/maps/d/u/0/embed?mid=1jW0qnDC1W-CUedB8bzY7E5G00jOvrHZM" width="640" height="400"></iframe>
+	<script type="text/javascript">
+		try {
+			var h = Math.min(document.documentElement.clientHeight, window.innerHeight || 0);
+			h = Math.round(h * 0.6);
+			var mapFrame = document.getElementById('route-map');
+			if (isNaN(h)) {
+				throw new Error('Height is not a number');
+			}
+			mapFrame.height = h;
+			mapFrame.src = 'https://www.google.com/maps/d/u/0/embed?mid=1jW0qnDC1W-CUedB8bzY7E5G00jOvrHZM';
+		} catch (e) {
+			console.log("Oops! Couldn't set the map height, oh well")
+			console.warn(e);
+		}
+	</script>
+</figure>
+
+---
+
+Little did I know when I booked my flight (months ago!) that the the 1st of July is in fact **Canada Day**, the day when Canadians get together to celebrate an important milestone on the road from a collection of colonies to a fully independent nation.
+
+So I landed in Canada's third-most-populous city at 7PM on the country's birthday, _hoping_ that the fireworks would start while I was in the air. Alas, it was still light. On the bright side, I was able to check into my hostel and quickly walk down to Canada Place, where the fireworks were going off.
+
+{% include _figure.html src="/img/canada-move/fireworks-1.jpg" caption="I got to Canada Place just in time to see the last of the fireworks, obscured and from a distance. Cue disappointing trombone." %}
+
+Crowds had already formed so I couldn't get close, but I did see _some_ fireworks. What a way to be welcomed to the country.
+
+When it was all over, the enormous bulk of people quickly but calmly dispersed and I, too, went to bed in my four-person dorm. I didn't sleep on the flight so by now I'd been awake for somewhere around 20 hours. I had beaten jet lag!
+
+Over the next two days I took part in a mixture of touristy things and things-I-normally-do. I went to a yoga class, I met with someone from an Internet community I'm a part of, and I played some guitar.
+
+I wanted to buy a guitar for this trip because while I'm travelling I'm hoping to do a bit of busking (if it's legal!) and some open mic nights. So, I did that and my new guitar is _tiny_. I'm considering going against my usual principle of not adorning my tools with decorations; since this guitar will mostly be used on the road it might be nice to decorate it with stickers from wherever I go.
+
+I also went to the Capilano Suspension Bridge Park (a very touristy activity). It's more than just the bridge! There's a nature walk, a treetop walk, a cliffside walk – lots of different walks depending on your mood. I was in all the moods, so I did them all.
+
+{% include _figure.html src="/img/canada-move/capilano-canada.jpg" caption="This bridge once took the impact of a 46-ton, 300-year-old Douglas fir tree and survived." %}
+
+I also found time to do a SCUBA Diving Refresher course. I did my Advanced PADI almost 4 years ago in Thailand, and I knew I'd do some diving at some point on this trip so I should hone my skills. It went really well. During this session I met an English couple who moved to Van 4 years ago and haven't looked back. They raved about the place, which was validating and inspiring.
+
+I didn't want to spend too much time in Vancouver as I thought as I've been here before I might have exhausted it a little, so I'd also organised a trip to Vancouver Island where I'd stay with some nice people from Couchsurfing.com in Nanaimo. By the time I left Vancouver I actually was rather keen to stay, but I got on the ferry anyway.
+
+{% include _figure.html src="/img/canada-move/luggage-boat.jpg" caption="My gear on the ferry to Vancouver Island: one 15L backpack (riutbag), one 20L Decathlon Duffel bag, one Yamaha APXT2. Total weight when packed is 12.7kg, with half of that weight on my back." %}
+
+I met someone from Tofino, a town on the Island famous for its laid-back, surfing and hippie culture. She was doing some yoga on the top deck of the ferry – she was really, really nice, and offered to let me stay on her couch if I made it to Tofino.
+
+---
+
+Nanaimo is a small town, but it's got a pretty active local music scene. Several people I met were in one band or another, or worked in one of the many venues in town. It's very welcoming too: in every bar or restaurant in Nanaimo I visited I got into an interesting conversation with a friendly local. From the man designing a mandolin on his laptop using a CAD program, to the wedding party getting some "bennies" at Gabriel's Cafe before the groom heads down the aisle a couple of hours later in a nearby hotel, everybody was interested in my story, and had an interesting story of their own to tell.
+
+There's other stuff going on too: a weekly night market is _very_ popular, there's a big community of seafaring folk there, and it even has a co-working space!
+
+My couchsurfing hosts were wonderful. I met one of them at the bar that everybody I met seems to work at, and she told me about her time in Canada. She'd not been there very long – only a few months – and she loved it. She told me that she'd spent a couple of months hitchiking but had basically no bad experiences. People were universally great, and she even hitched a ride with a friendly travelling circus for a while.
+
+One of my more memorable experiences was meeting a harbour seal while paddleboarding from Nanaimo to Protection Island. Sadly, I didn't get a photo (my phone was in a sealed dry bag) but it was pretty special. I was almost knocked off, and it chased me for a little while, apparently looking for food.
+
+I'm really enjoying myself so far. Canada feels incredibly welcoming – from the attitudes of the people to the little ways that their cities are set up, it's just nice.
+
+So now I'm in Victoria, where I've been staying with a friend for a couple of days. Pride celebrations happened this weekend, so yesterday was a pretty busy day in town, and I walked somewhere in the region of 12km between museums, parades, yoga classes and home.
+
+After a few days here I'm going to pop down to Seattle, then Portland, and then back up to Vancouver before I start my epic journey to eastern Canada.
+
+If you're reading this from any of the places I've mentioned, please get in touch! I'd love to hang out. This is the start of a trip which I think will lead to a fairly serious move to Canada, so I'm very keen to make some lasting connections out here.
+
+I'm looking forward to week two!

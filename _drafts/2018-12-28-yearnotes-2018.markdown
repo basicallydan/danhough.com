@@ -12,7 +12,9 @@ thumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-tw.png"
 ogthumbnail: "!SITE_URL!/img/song-of-ur-comment/song-of-ur-comment-og.png"
 ---
 
-## Work
+## Tech
+
+*I work in tech*. Most people who know me, know this. But in 2017 I transitioned from _Software Engineer_ to _Team Lead_, which is about as vague as it sounds. My resposibilities eventually covered everything from people management (one to ones, a part in hiring) to scrum master (running sprints, meetings, etc.) to product manager (prioritising work, )
 
 <!-- Moved from team lead to product manager -->
 
@@ -30,7 +32,7 @@ But it wasn't for nothing. I learned a lot in this time, and I've enjoyed most o
 
 ...highlights + lowlights, what I learned...
 
-But every time I saw a musical comediam though, I thought, that could be me. I should be doing that.
+But every time I saw a musical comedian though, I thought, that could be me. I should be doing that.
 
 ## Music & Busking
 
@@ -39,5 +41,7 @@ But every time I saw a musical comediam though, I thought, that could be me. I s
 I'm more optimistic about the musical parts of my performance life this year. I did a LOT of busking and I recorded a LOT of songs.
 
 ## Other life stuff
+
+In other news, I did a bit of work on my flat, I managed to donate
 
 <!--  -->
