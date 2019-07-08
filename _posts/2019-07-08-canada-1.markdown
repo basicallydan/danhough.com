@@ -4,7 +4,7 @@ title: Canada
 date_created: 08 July 2019
 location: Victoria, British Columbia, Canada
 comments: true
-description: I'm moving to Canada!
+description: During my first week in Canada, I watched a man design a mandolin, went SCUBA diving in a pool, and was harrassed by a hungry seal. So far, so good.
 time_to_read_estimate: 7
 twitterCardType: summary_large_image
 tags: [travel,canada]
@@ -57,7 +57,7 @@ I also went to the Capilano Suspension Bridge Park (a very touristy activity). I
 
 {% include _figure.html src="/img/canada-move/capilano-canada.jpg" caption="This bridge once took the impact of a 46-ton, 300-year-old Douglas fir tree and survived." %}
 
-I also found time to do a SCUBA Diving Refresher course. I did my Advanced PADI almost 4 years ago in Thailand, and I knew I'd do some diving at some point on this trip so I should hone my skills. It went really well. During this session I met an English couple who moved to Van 4 years ago and haven't looked back. They raved about the place, which was validating and inspiring.
+I also found time to do a SCUBA Diving Refresher course in a pool at the University of BC. I did my Advanced PADI almost 4 years ago in Thailand, and I knew I'd do some diving at some point on this trip so I should hone my skills. It went really well. During this session I met an English couple who moved to Van 4 years ago and haven't looked back. They raved about the place, which was validating and inspiring.
 
 I didn't want to spend too much time in Vancouver as I thought as I've been here before I might have exhausted it a little, so I'd also organised a trip to Vancouver Island where I'd stay with some nice people from Couchsurfing.com in Nanaimo. By the time I left Vancouver I actually was rather keen to stay, but I got on the ferry anyway.
 
@@ -73,7 +73,11 @@ There's other stuff going on too: a weekly night market is _very_ popular, there
 
 My couchsurfing hosts were wonderful. I met one of them at the bar that everybody I met seems to work at, and she told me about her time in Canada. She'd not been there very long – only a few months – and she loved it. She told me that she'd spent a couple of months hitchiking but had basically no bad experiences. People were universally great, and she even hitched a ride with a friendly travelling circus for a while.
 
-One of my more memorable experiences was meeting a harbour seal while paddleboarding from Nanaimo to Protection Island. Sadly, I didn't get a photo (my phone was in a sealed dry bag) but it was pretty special. I was almost knocked off, and it chased me for a little while, apparently looking for food.
+One of my more memorable experiences was meeting a harbour seal while paddleboarding from Nanaimo to Protection Island. Sadly, I didn't get a photo (my phone was in a sealed dry bag) but it was pretty special. It almost knocked me off my board, then it chased me for a little while, apparently looking for food. I had none, sadly, which is why I was headed for the [Dinghy Dock Marine Pub & Bistro](https://www.instagram.com/p/BzjHHalpb-o/), "Canada's only floating pub," according to one local's claim.
+
+The next day I said farewell to my hosts, got on a bus down to Victoria, and allowed the lingering jet lag to take me into a lovely nap.
+
+---
 
 I'm really enjoying myself so far. Canada feels incredibly welcoming – from the attitudes of the people to the little ways that their cities are set up, it's just nice.
 
