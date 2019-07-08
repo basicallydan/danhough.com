@@ -4,7 +4,7 @@ title: Canada
 date_created: 08 July 2019
 location: Victoria, British Columbia, Canada
 comments: true
-description: During my first week in Canada, I watched a man design a mandolin, went SCUBA diving in a pool, and was harrassed by a hungry seal. So far, so good.
+description: Mandlion designs, pool SCUBA and harbour seal harassment abound.
 time_to_read_estimate: 7
 twitterCardType: summary_large_image
 tags: [travel,canada]
