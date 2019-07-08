@@ -7,7 +7,7 @@ comments: true
 description: I'm moving to Canada!
 time_to_read_estimate: 7
 twitterCardType: summary_large_image
-tags: [travel]
+tags: [travel,canada]
 thumbnail: "!SITE_URL!/img/canada-move/canada-move-tw.png"
 ogthumbnail: "!SITE_URL!/img/canada-move/canada-move-og.png"
 ---
