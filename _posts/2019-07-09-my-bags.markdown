@@ -24,7 +24,7 @@ And so, that backpack is not my only bag. It's just the one I use the most. I tr
 
 {% include _figure.html src="/img/my-bags/all-the-bags.jpg" caption="15L backpack about 6.7kg, 20L duffel about 3.7kg, and guitar at about 2.1kg." %}
 
-I don't want to give the impression that this is some incredible skill I have. My ability to travel light comes from having enough money to either rent things as I go, replace some broken items (e.g. clothes) or buy food in small quantities. If I had any insecurity about where my next meal would come from I'd probably want to carry food around, too, and food is heavy. If I had any insecurity about my ability to get a room to sleep in, I'd probably also carry more warm clothes or even a sleeping bag.
+I don't want to give the impression that this is solely down to some incredible skill I have. My ability to travel light comes from having enough money to either rent things as I go, replace some broken items (e.g. clothes) or buy food in small quantities. If I had any insecurity about where my next meal would come from I'd probably want to carry food around, too, and food is heavy. If I had any insecurity about my ability to get a room to sleep in, I'd probably also carry more warm clothes or even a sleeping bag.
 
 So, yes, I travel light. But it's not because I'm particularly good at that, it's because I'm fortunate enough to have means and risk not having something when I need it. The same can be said of a lot of people who travel light.
 
