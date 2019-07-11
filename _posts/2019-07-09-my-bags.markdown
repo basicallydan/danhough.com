@@ -14,7 +14,7 @@ ogthumbnail: "!SITE_URL!/img/my-bags/my-bags-og.png"
 
 You ever heard of ["knolling"](https://en.wikipedia.org/wiki/Tom_Sachs_(artist)#Knolling)? How about "[flatlay](https://twitter.com/lennym/status/1148505924627288064)"? Well, you're about to experience it.
 
-This is the contents of my backpack while I'm travelling.
+This is the contents of my backpack while I'm [travelling in Canada](/blog/canada-1).
 
 {% include _figure.html src="/img/my-bags/backpack-deconstructed.jpg" caption="All the essentials. I actually finished Thank You, Jeeves since I took this photo and left it in a hostel library." %}
 
@@ -24,7 +24,7 @@ And so, that backpack is not my only bag. It's just the one I use the most. I tr
 
 {% include _figure.html src="/img/my-bags/all-the-bags.jpg" caption="15L backpack about 6.7kg, 20L duffel about 3.7kg, and guitar at about 2.1kg." %}
 
-I do acknowledge that my ability to travel light is a privilege. It's far easier to do this when you know you can pick up food on the way, or replace some items (such as clothes). If I had any insecurity about where my next meal would come from I'd probably want to carry food around, too, and food is heavy. If I had any insecurity about my ability to get a room to sleep in, I'd probably also carry more warm clothes or even a sleeping bag.
+I don't want to give the impression that this is some incredible skill I have. My ability to travel light comes from having enough money to either rent things as I go, replace some broken items (e.g. clothes) or buy food in small quantities. If I had any insecurity about where my next meal would come from I'd probably want to carry food around, too, and food is heavy. If I had any insecurity about my ability to get a room to sleep in, I'd probably also carry more warm clothes or even a sleeping bag.
 
 So, yes, I travel light. But it's not because I'm particularly good at that, it's because I'm fortunate enough to have means and risk not having something when I need it. The same can be said of a lot of people who travel light.
 
