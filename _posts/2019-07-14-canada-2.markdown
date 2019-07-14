@@ -1,0 +1,15 @@
+---
+layout: post
+title: Not Canada
+date_created: 08 July 2019
+location: Seattle, Washington, USA
+comments: true
+description: FILL IN PLX
+time_to_read_estimate: 7
+twitterCardType: summary_large_image
+tags: [travel,canada]
+thumbnail: "!SITE_URL!/img/canada-2/canada-2-tw.png"
+ogthumbnail: "!SITE_URL!/img/canada-2/canada-2-og.png"
+---
+
+
