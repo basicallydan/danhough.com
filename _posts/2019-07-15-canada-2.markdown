@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Not Canada
-date_created: 08 July 2019
+title: South of Canada
+date_created: 15 July 2019
 location: Seattle, Washington, USA
 comments: true
-description: Open mic, 
+description: Open mic, whales, hikes and scuba.
 time_to_read_estimate: 7
 twitterCardType: summary_large_image
 tags: [travel,canada]
@@ -49,17 +49,19 @@ Tuesday was whale-watching day. I went out with the Prince of Whales (lol) and w
 
 That evening at my hostel, I moved into a new room and ended up sharing with two other British people who were simply travelling around North America, and after a couple of pints in the downstairs bar we of course _had_ go to out on the town to celebrate our shared heritage.
 
+---
+
 Wednesday was a very fun day indeed. A big draw of Canada for me is the vast hiking opportunities in beautiful, lush, hilly and mountainous parkland. Since I'm not familiar with any routes and wanted to simply have an enjoyable hike with some people who knew what they were doing, I found a guide called [Mark, from Hike Victoria](https://www.hikevictoria.com/).
 
 {% include _figure.html src="/img/canada-2/dan-tree-mark.jpg" caption="One of the manu great photo spots Mark identified. This photo was taken by the man himself, Mark Vukobrat." %}
 
 Four other visitors joined us, and we went to Gowlland Tod Provinicial Park as well as Goldstream Provincial Park (he gave us more than we had paid for!) and it was brilliant.
 
-We had pretty crazy weather - one minute sunny, the next completely covered in fog, then a bit of rain, and back to sun again. But we pushed on optimistically with the experienced guidance of Mark and in the end, got some spectacular views of the region including the Strait of Juan de Fuca and Victoria in the distance. I learned about the very cool Arbutus trees, and we all took part a 'jump shot' that he touts on his website. Plus, when Mark realised we were all taking the walk okay he pushed up the pace a little (with our consent!) to get more good views in before the day's end.
+We had pretty crazy weather - one minute sunny, the next completely covered in fog, then a bit of rain, and back to sun again. But we pushed on optimistically with the experienced guidance of Mark and in the end, got some spectacular views of the region including the Strait of Juan de Fuca and Victoria in the distance. I learned about the very cool Arbutus trees, and we all took part a 'jump shot' that he touts on his website. Oh, and a few bald eagles turned up at one point too. Plus, when Mark realised we were all taking the walk okay he pushed up the pace a little (with our consent!) to get more good views in before the day's end.
 
 {% include _figure.html src="/img/canada-2/dan-bridge-mark.jpg" caption="There we are! I wasn't at all anxious about crossing until I actually saw it, and saw the holes between the railway sleepers." %}
 
-The highlight of the hike for me was going onto an old wooden railway trestle which has been long-abandoned. It was built in 1910, and gave us such a cool view. It was surprisingly thrilling, too; you can see through the cracks all the way to the bottom of the valley.
+The highlight of the hike was going onto an old wooden railway trestle which has been long-abandoned. It was built in 1910, and it gave us such a cool view. It was surprisingly thrilling, too; you can see through the cracks all the way to the bottom of the valley.
 
 This steep hike was the peak (lol) of my time in Victoria, and a couple of days later after a little bit of chilling I got on the Seattle Clipper and headed to where I am now.
 
@@ -77,13 +79,13 @@ No, I didn't know the IPDB existed either.
 
 It was today that I finally broke the seal for SCUBA diving which has been closed for three-and-a-half years. In an area called Alki Cove I did some diving in pretty poor-visibility conditions with some lovely diving buddies, in quite cold water. We didn't see much, but it was still really fun. I rarely don't have fun diving.
 
-Frankly, now, I am exhausted. Once I've checked into my hostel I think I'll attempt to socialise for a little but I'm gonna sleep well tonight. The next week will be a mixture of Seattle, Portland and Vancouver, and I can't imagine it being quite as eventful as the lsst 7 days, but we'll see.
+Now, I am exhausted. Once I've checked into my hostel I'll attempt to socialise for a little but I'm gonna sleep well tonight. The next week will be a mixture of Seattle, Portland and Vancouver, and I can't imagine it being quite as eventful as the lsst 7 days, but we'll see.
 
 ---
 
 ## Tourism Fatigue?
 
-This phenomenon may be familiar to you: When time spent being a tourist – looking at buildings, visiting museums, taking tours – becomes tiring and loses its appeal. I'm sure many of us have experienced this. I have begun to experience this from time-to-time, and a part of me simply wishes to have a project. I want to _create_. After all, I've been off work for a month now.
+You may be familiar with this phenomenon: When time spent being a tourist – looking at buildings, visiting museums, taking tours – becomes tiring and loses its appeal. I'm sure many of us have experienced this. I have begun to experience this from time-to-time, and a part of me simply wishes to have a project. I want to _create_. After all, I've been off work for a month now.
 
 My itinerary makes it a little difficult at times to practice my usual creative outlets of programming, music and, to a lesser extent, writing, but I'd like to try.
 
