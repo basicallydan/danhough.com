@@ -23,7 +23,7 @@ And a week ago, on July 1st, I finally headed over, starting in Vancouver, Briti
 	<script type="text/javascript">
 		try {
 			var h = Math.min(document.documentElement.clientHeight, window.innerHeight || 0);
-			h = Math.round(h * 0.6);
+			h = Math.round(h * 0.7);
 			var mapFrame = document.getElementById('route-map');
 			if (isNaN(h)) {
 				throw new Error('Height is not a number');
