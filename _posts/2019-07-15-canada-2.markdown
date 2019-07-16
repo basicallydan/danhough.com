@@ -1,0 +1,98 @@
+---
+layout: post
+title: South of Canada
+date_created: 15 July 2019
+location: Seattle, Washington, USA
+comments: true
+description: Open mic, whales, hikes and scuba.
+time_to_read_estimate: 7
+twitterCardType: summary_large_image
+tags: [travel,canada]
+thumbnail: "!SITE_URL!/img/canada-2/canada-2-tw.png"
+ogthumbnail: "!SITE_URL!/img/canada-2/canada-2-og.png"
+---
+
+Seattle, the Emerald City! I'm sitting in a beautiful house in the Queen Anne neighbourhood, supposedly the home of Frasier Crane, hero of his titular sitcom. Despite being a fan of Frasier, I have yet to eat tossed salad or scrambled eggs, or drink any coffee at all (I gave it up recently when I realised what an effect it had on my sleep). But I'm here for a couple more days. I've been away from home for *two weeks* now, and off work for *a whole month*. But I've only been in Seattle for three days.
+
+<figure class="center">
+	<iframe id="route-map" style="border:none" src="https://www.google.com/maps/d/u/0/embed?mid=1jW0qnDC1W-CUedB8bzY7E5G00jOvrHZM" width="640" height="400"></iframe>
+	<script type="text/javascript">
+		try {
+			var h = Math.min(document.documentElement.clientHeight, window.innerHeight || 0);
+			h = Math.round(h * 0.7);
+			var mapFrame = document.getElementById('route-map');
+			if (isNaN(h)) {
+				throw new Error('Height is not a number');
+			}
+			mapFrame.height = h;
+			mapFrame.src = 'https://www.google.com/maps/d/u/0/embed?mid=1jW0qnDC1W-CUedB8bzY7E5G00jOvrHZM';
+		} catch (e) {
+			console.log("Oops! Couldn't set the map height, oh well")
+			console.warn(e);
+		}
+	</script>
+</figure>
+
+---
+
+A week ago I had just arrived in Victoria and was staying with a friend. Well, on the day of [my last travelogue](/blog/canada-1), after doing a little bit of morning walking along the coast I moved into a more centrally located hostel which would be my home for the following four nights, and as luck would have it a climbing gym was right next door. I did some bouldering and met an Australian immigrant who had only wonderful things to say about Victoria and highly recommended that I move there.
+
+In the evening I played at my first open mic since arriving. I wasn't the only travelling singer-songwriter. A older man from Boston went before me, said, "this is my new travel guitar, I'm only here for a few days..." then played some music. Then I came on and sheepishly explained that I wasn't copying his act, but my story was just the same. I played a couple of originals, they went down well, and I stayed about three-and-a-half hours before I ran out of steam and had to go home or risk falling asleep.
+
+One highlight was a man with a didgeridoo who managed to convince an audience member to join him and play a bongo. This open mic scene is much like the ones I know in London: mostly musicians, mostly playing covers, mostly very friendly and really there to socialise.
+
+The next two days were extremely eventful.
+
+{% include _figure.html src="/img/canada-2/humpback-whale.jpg" caption="One of the four humpback whales we encountered!" %}
+
+Tuesday was whale-watching day. I went out with the Prince of Whales (lol) and we saw a huge array of marine wildlife: four humpbacks, some porpoises, some harbour and elephant seals, a sea lion, a huge otter (called Ollie), plus a bunch of gulls and a couple of bald eagles. On this trip I met a British guy around my age who has been working as a tour guide in Canada for 6 years now and just has the most wonderfully optimistic and fun attitude.
+
+That evening at my hostel, I moved into a new room and ended up sharing with two other British people who were simply travelling around North America, and after a couple of pints in the downstairs bar we of course _had_ go to out on the town to celebrate our shared heritage.
+
+---
+
+Wednesday was a very fun day indeed. A big draw of Canada for me is the vast hiking opportunities in beautiful, lush, hilly and mountainous parkland. Since I'm not familiar with any routes and wanted to simply have an enjoyable hike with some people who knew what they were doing, I found a guide called [Mark, from Hike Victoria](https://www.hikevictoria.com/).
+
+{% include _figure.html src="/img/canada-2/dan-tree-mark.jpg" caption="One of the manu great photo spots Mark identified. This photo was taken by the man himself, Mark Vukobrat." %}
+
+Four other visitors joined us, and we went to Gowlland Tod Provinicial Park as well as Goldstream Provincial Park (he gave us more than we had paid for!) and it was brilliant.
+
+We had pretty crazy weather - one minute sunny, the next completely covered in fog, then a bit of rain, and back to sun again. But we pushed on optimistically with the experienced guidance of Mark and in the end, got some spectacular views of the region including the Strait of Juan de Fuca and Victoria in the distance. I learned about the very cool Arbutus trees, and we all took part a 'jump shot' that he touts on his website. Oh, and a few bald eagles turned up at one point too. Plus, when Mark realised we were all taking the walk okay he pushed up the pace a little (with our consent!) to get more good views in before the day's end.
+
+{% include _figure.html src="/img/canada-2/dan-bridge-mark.jpg" caption="There we are! I wasn't at all anxious about crossing until I actually saw it, and saw the holes between the railway sleepers." %}
+
+The highlight of the hike was going onto an old wooden railway trestle which has been long-abandoned. It was built in 1910, and it gave us such a cool view. It was surprisingly thrilling, too; you can see through the cracks all the way to the bottom of the valley.
+
+This steep hike was the peak (lol) of my time in Victoria, and a couple of days later after a little bit of chilling I got on the Seattle Clipper and headed to where I am now.
+
+Seattle has been pleasant - I've been hosted by some friends here who've been very welcoming and I'm heading downtown, like I did in Victoria, to stay in a hostel where I'll be more centrally located for a couple of nights before going to Portland.
+
+The last couple of days have been museum days. First the History of Flight Museum, which features several old aircraft and tells the Boeing story. This this fascinating, but it also features an old Concorde, which I've never been inside before.
+
+Then the Museum of Popular Culture (aka MoPOP), a wonderful museum seemingly made up entirely of pop-culture artefacts collected by the late Microsoft co-founder Paul Allen.
+
+{% include _figure.html src="/img/canada-2/pinball.jpg" caption="Yup, that's an Alien alright." %}
+
+Finally, the Pinball museum, housing famous pinball machines from history, including one by Bally called _Space Invaders_ which features obvious copyright infringements from The _Alien_ serious by Ridley Scott, and the ["world's funnest pinball machine" which got 8.4/10 on the Internet Pinball Database, Twilight Zone](https://www.ipdb.org/machine.cgi?id=2684).
+
+No, I didn't know the IPDB existed either.
+
+It was today that I finally broke the seal for SCUBA diving which has been closed for three-and-a-half years. In an area called Alki Cove I did some diving in pretty poor-visibility conditions with some lovely diving buddies, in quite cold water. We didn't see much, but it was still really fun. I rarely don't have fun diving.
+
+Now, I am exhausted. Once I've checked into my hostel I'll attempt to socialise for a little but I'm gonna sleep well tonight. The next week will be a mixture of Seattle, Portland and Vancouver, and I can't imagine it being quite as eventful as the lsst 7 days, but we'll see.
+
+---
+
+## Tourism Fatigue?
+
+You may be familiar with this phenomenon: When time spent being a tourist – looking at buildings, visiting museums, taking tours – becomes tiring and loses its appeal. I'm sure many of us have experienced this. I have begun to experience this from time-to-time, and a part of me simply wishes to have a project. I want to _create_. After all, I've been off work for a month now.
+
+My itinerary makes it a little difficult at times to practice my usual creative outlets of programming, music and, to a lesser extent, writing, but I'd like to try.
+
+In both Victoria and Vancouver I certainly felt like I was in a place where I wanted to put down some roots and find somewhere to live, and a community to be a part of. Before I started the trip I thought it would take longer to know what I was feeling in that regard. Perhaps I overestimated!
+
+Anyway, I may slow down a bit and try to be a little more deliberate with my time. Or maybe once I get to Portland I'll be inspired.
+
+Despite all this, I am looking forward to my next destination. Of all the places I haven't been before I left London, Portland is the one I've been most looking forward to.
+
+I've heard that it's "weird."

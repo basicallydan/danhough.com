@@ -1,0 +1,47 @@
+---
+layout: post
+title: My bags, and USB as the international standard for powering all devices
+date_created: 11 July 2019
+location: Victoria, British Columbia, Canada
+comments: true
+description: 12.5kg, spread across three items, is not as heavy as it sounds.
+time_to_read_estimate: 7
+twitterCardType: summary_large_image
+tags: [travel,canada]
+thumbnail: "!SITE_URL!/img/my-bags/my-bags-tw.png"
+ogthumbnail: "!SITE_URL!/img/my-bags/my-bags-og.png"
+---
+
+You ever heard of ["knolling"](https://en.wikipedia.org/wiki/Tom_Sachs_(artist)#Knolling)? How about "[flatlay](https://twitter.com/lennym/status/1148505924627288064)"? Well, you're about to experience it.
+
+This is the contents of my backpack while I'm [travelling in Canada](/blog/canada-1).
+
+{% include _figure.html src="/img/my-bags/backpack-deconstructed.jpg" caption="All the essentials. I actually finished Thank You, Jeeves since I took this photo and left it in a hostel library." %}
+
+The bag is a [15L Riutbag R15.3](https://www.riut.co.uk/collections/anti-theft-backpack/products/riutbag-r15-3-anti-theft-laptop-backpack). It's the second Riutbag I've owned. On my [trip around Asia](/blog/trip-2015) I had the 20L version, plus a 30L rolling suitcase. They did me fine but this time I wanted to be even more portable. Even a small rolling suitcase still takes up a fair bit of space on the street and takes up a limb.
+
+And so, that backpack is not my only bag. It's just the one I use the most. I travel pretty light, but not _that_ light. I also have a duffel bag, whose capacity is 20L. It's very lightweight and would definitely not stand up to a lot of abuse, which is why I use it mostly for clothes. Plus, I have this guitar I bought in Vancouver.
+
+{% include _figure.html src="/img/my-bags/all-the-bags.jpg" caption="15L backpack about 6.7kg, 20L duffel about 3.7kg, and guitar at about 2.1kg." %}
+
+I don't want to give the impression that this is solely down to some incredible skill I have. My ability to travel light comes from having enough money to either rent things as I go, replace some broken items (e.g. clothes) or buy food in small quantities. If I had any insecurity about where my next meal would come from I'd probably want to carry food around, too, and food is heavy. If I had any insecurity about my ability to get a room to sleep in, I'd probably also carry more warm clothes or even a sleeping bag.
+
+So, yes, I travel light. But it's not because I'm particularly good at that, it's because I'm fortunate enough to have means and risk not having something when I need it. The same can be said of a lot of people who travel light.
+
+Plus, it's summer! I don't _need_ warm, bulky clothes.
+
+With all this in mind, I still have to think about sustainability - I can't just pick stuff up and throw it away when I'm done wit hit. A responsible traveller is one who leaves no trace. Canada does make this easy. It's a very pro-reuse, pro-recycle kind of place - at least, so far. I bought the little water bottle in the bottom-left corner specifically with this trip in mind, and I've so far had to buy zero plastic water bottles! 260ml, it turns out, is enough to sustain me between refills in Canada. Although, for one hike, my guide did bring along some plastic water bottles which I did use - so I cheated, a little.
+
+Before I finish I would like to share one thing I'm particularly pleased with: I've only brought with me two wall plugs and *zero UK-to-North America travel adaptors*. I have a Macbook, which comes with a detachable wall plug for different regions - so I brought my North America pins with me. I also have a 4-port USB power hub with that same detachable pin feature.
+
+This works because the only device I've brought that needs its own power supply is the Macbook. My beard trimmer, electric toothbrush, spare battery pack and iPhone SE (not pictured because it's the camera) can be all charged over USB! Yes, even the toothbrush!
+
+What we're seeing here is something I'm sure many have noted in the last few years, which iss USB emerging as a standard international power socket. It's increasingly common for [USB wall sockets](https://www.amazon.co.uk/USB-Wall-Socket-Manufactured-Standards/dp/B00NNQQIVS) to be installed in homes and businesses. In my own flat back in the UK I had three put in: One in the kitchen, two in the living room. I used the kitchen one all the time, to plug my phone in while I was cooking.
+
+The [2015 USB-C Macbook onwards can charge over USB too](https://mashable.com/2015/04/13/apple-new-macbook-external-battery-charging/). If I had one of those I could do it all with a USB adapter!
+
+Perhaps in a few years time, travel adapters will be a thing of the past.
+
+Anyway, I'm going off track here. The subject of USB deserves its own article. And I know what you're thinking: Dan, you weirdo, I can't believe you took an electric toothbrush with you on your trip!
+
+Well, dear reader, plaque doesn't take trips.
