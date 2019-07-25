@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keep it Weird
-date_created: 23 July 2019
+date_created: 25 July 2019
 location: Vancouver, BC
 comments: true
 description: More hikes, parties, couchsurfers and trains.
@@ -12,7 +12,7 @@ thumbnail: "!SITE_URL!/img/canada-2/canada-2-tw.png"
 ogthumbnail: "!SITE_URL!/img/canada-2/canada-2-og.png"
 ---
 
-I'm back in Vancouver! I got in yesterday on the Boltbus (not as bad as the low price would suggest) via Seattle where I took a pit stop, from the wonderful city of Portland, Oregon!
+I'm back in Vancouver! I got in the day before yesterday on the Boltbus (not as bad as the low price would suggest) via Seattle where I took a pit stop, from the wonderful city of Portland, Oregon!
 
 <figure class="center">
 	<iframe id="route-map" style="border:none" src="https://www.google.com/maps/d/u/0/embed?mid=1jW0qnDC1W-CUedB8bzY7E5G00jOvrHZM" width="640" height="400"></iframe>
