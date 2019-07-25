@@ -1,0 +1,94 @@
+---
+layout: post
+title: Keep it Weird
+date_created: 23 July 2019
+location: Vancouver, BC
+comments: true
+description: More hikes, parties, couchsurfers and trains.
+time_to_read_estimate: 7
+twitterCardType: summary_large_image
+tags: [travel,canada]
+thumbnail: "!SITE_URL!/img/canada-2/canada-2-tw.png"
+ogthumbnail: "!SITE_URL!/img/canada-2/canada-2-og.png"
+---
+
+I'm back in Vancouver! I got in yesterday on the Boltbus (not as bad as the low price would suggest) via Seattle where I took a pit stop, from the wonderful city of Portland, Oregon!
+
+<figure class="center">
+	<iframe id="route-map" style="border:none" src="https://www.google.com/maps/d/u/0/embed?mid=1jW0qnDC1W-CUedB8bzY7E5G00jOvrHZM" width="640" height="400"></iframe>
+	<script type="text/javascript">
+		try {
+			var h = Math.min(document.documentElement.clientHeight, window.innerHeight || 0);
+			h = Math.round(h * 0.7);
+			var mapFrame = document.getElementById('route-map');
+			if (isNaN(h)) {
+				throw new Error('Height is not a number');
+			}
+			mapFrame.height = h;
+			mapFrame.src = 'https://www.google.com/maps/d/u/0/embed?mid=1jW0qnDC1W-CUedB8bzY7E5G00jOvrHZM';
+		} catch (e) {
+			console.log("Oops! Couldn't set the map height, oh well")
+			console.warn(e);
+		}
+	</script>
+</figure>
+
+---
+
+My first impression of Portland (aka PDX, aka City of Roses, aka Bridge City) was created by the stylised neon "_Restrooms_" sign in Portland's Union Station. It's unusual for a train station to have so much character. I have since learned that Portland really likes neon signs, [especially a famous one featuring a white stag](https://en.wikipedia.org/wiki/White_Stag_sign).
+
+My hostel was all the way in South-East Portland, on Hawthorne Boulevard, and I had neither the patience nor the wherewithall to take public transport this time with my three bags, so I hopped in an Uber. From the moment I arrived at the hostel until the moment I left yesterday, I felt very much at home. I was greeted by a man with a huge smile into a living-room-esque lobby, in a house (an actual _house_) which has an "eco-roof", is surrounded by huge flowers and greenery, and has a big back garden with a bandstand. This was the HI Hawthorne Hostel.
+
+{% include _figure.html src="/img/canada-3/hawthorne.jpg" caption="One section of the 421m-long Hawthorne bridge, leading to Hawthrone Boulevard - opened in 1910!" %}
+
+On their events calendar (every good hostel has an events calendar) I immediately noticed an open mic night – that very night!
+
+As you are probably aware by now, I'm travelling with a guitar and I'm attempting to take part in open mic nights as I go. They'd saved me a search, so I enquired.
+
+After exploring the local area, eating a delicious bibimbap at a local Korean place and attending the monthly language exchange event at the hostel, the open mic started. Somehow only three people were playing, to an audience of about seven. A small number but a really good ratio. It was a lot of fun, and the host was very talented.
+
+The next day, I was determined to go hiking but had no access to a car, so I took a couple of buses to Forest Park. Portland Parks & Rec calls it "largest forested natural area within city limits in the United States" and this may or may not be true, but it is absolutely massive, at about 21 square kilometers.
+
+{% include _figure.html src="/img/canada-3/freakybuttrue.jpg" caption="On the way back from Forest Park I stopped into the Freakybuttrue Peculiarium and was abducted by aliens nbd" %}
+
+Happily (or sadly, depending on your perspective?) I didn't see any cougars or bears but I did see an adorable chipmunk at one point and several Good Dogs. I also walked past and politely a famous Portlander who _will not be named_, which was an exciting moment.
+
+Portland is also known for having twelve interesting and beautiful bridges across the Willamette river, many of which can be opened to let tall ships through using vertical lift or bascule mechanisms. The hawthorne was the one I spent the most time around and it is a very nice bridge.
+
+---
+
+Now, on Thursday evening I attended an event which marked the start of the next four days, in which I fell even deeper in love with Portland and met some wonderful new friends.
+
+I attended a Couchsurfing meetup (Couchsurfing is a wonderful community btw) and got met a whole load of people, then spent most of the night chatting, drinking and eating - it was exceedingly merry. There were several languages being spoken.
+
+The following three days involved several Extremely Portland events, including a tiny sake bar with a French folk singer standing inches away from his audience, a a housewarming party in the suburbs featuring karaoke and a movie room with a bizarre 5-hour-long film playing on loop, and Portland's free PDX POP NOW festival, where I saw _Federale_, an absolutely exceptional spaghetti western band who blew me away.
+
+Portland is weird. I loved it.
+
+Also, fun fact: Oregon produces so much cannabis (because it's legal) that it actually can't sell all of it. They aren't allowed to export it (yet) and so the price has halved in the last year.
+
+Go visit Oregon and buy all the weed, people!
+
+{% include _figure.html src="/img/canada-3/paddle-hawthorne.jpg" caption="A lone paddleboarder heads underneath Hawthorne bridge in a rare moment of overcast weather." %}
+
+I honestly could go on and on about how nice Portland is but I need to keep these posts short or nobody will read them.
+
+My only bad experience in that time was during a lovely hike up to the top of the Multnomah falls, when some idiotic teenager started kicking stones down from one part of the trail to a lower part of the trail and almost hit me. Needless to say, he was quickly told off by several more thoughtful hikers.
+
+The waterfall was lovely though.
+
+---
+
+Anyway, I had to get back to Vancouver soon to do some emigration admin and meet a friend, so that's what I did. Plus, I was looking forward to it. Since I left I'd been mulling up whether I should just go and spend a longer time there in August. So I took a train from Portland to Seattle, where I spent the night in a hostel, uneventfully.
+
+The journey was wonderful though, on the Coast Starlight Amtrak route. Views of Mount Ranier and Mount St. Helens from the panoramic viewing deck of the train were gorgeous, and the volunteer from the parks service explained what we were looking at while we headed past various lakes, bridges, rivers and towns. Well worth the extra $10 over the Cascades route, and the seats are far more comfortable.
+
+{% include _figure.html src="/img/canada-3/pizza-pyramid.jpg" caption="Portland is a very health-conscious city so they insist on painting useful nutrition advice all over the place." %}
+
+Enough train tourism for now! I took a Boltbus from Seattle to Vancouver, arrived yesterday and had a fairly uneventful day just chilling.
+
+Today I woke up early, and set about getting myself a Social Insurance Number, bank account and phone number which all, amazingly, took me only one morning.
+
+What next? Well, I've got a long train journey coming up on Friday to meet a very old friend in Jasper, and a little road trip after that. But after that, my plans for August have evolved a little... more on that next time.
+
+Jasper here I come!
