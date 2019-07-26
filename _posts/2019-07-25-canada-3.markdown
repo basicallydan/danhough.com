@@ -8,8 +8,8 @@ description: More hikes, parties, couchsurfers and trains.
 time_to_read_estimate: 7
 twitterCardType: summary_large_image
 tags: [travel,canada]
-thumbnail: "!SITE_URL!/img/canada-2/canada-2-tw.png"
-ogthumbnail: "!SITE_URL!/img/canada-2/canada-2-og.png"
+thumbnail: "!SITE_URL!/img/canada-3/canada-3-tw.png"
+ogthumbnail: "!SITE_URL!/img/canada-3/canada-3-og.png"
 ---
 
 I'm back in Vancouver! I got in the day before yesterday on the Boltbus (not as bad as the low price would suggest) via Seattle where I took a pit stop, from the wonderful city of Portland, Oregon!
