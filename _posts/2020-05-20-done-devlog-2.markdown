@@ -18,4 +18,4 @@ As a rule I avoid `401` status codes - that implies no credentials at all. The n
 
 On the other hand, `404` just says "nope, I don't know what you're talking about." In the case of data which is completely secret to another user, I think this is the best choice. But, say, you were allowed to know there was a Task at an endpoint, and you were logged in, but you didn't have sufficient permissions to, for example, edit that task... that may be call for a `403`.
 
-It's a fun debate.
+It's a fun debate, even when you are your own debating partner.
