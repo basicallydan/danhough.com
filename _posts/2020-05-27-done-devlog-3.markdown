@@ -15,7 +15,7 @@ I've got login sorted, creating and checking in to tasks. But the creation part 
 Anyway here's the animated screenshot:
 
 <figure class="center">
-  <video controls width="468">
+  <video controls width="256">
     <source src="/img/devlogs/doneapp-3.mp4" type="video/mp4" autoplay>
   </video>
 </figure>
