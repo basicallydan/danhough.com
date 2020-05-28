@@ -14,8 +14,10 @@ I've got login sorted, creating and checking in to tasks. But the creation part 
 
 Anyway here's the animated screenshot:
 
-<video controls width="468">
-  <source src="/img/devlogs/doneapp-3.mp4" type="video/mp4" autoplay>
-</video>
+<figure class="center">
+  <video controls width="468">
+    <source src="/img/devlogs/doneapp-3.mp4" type="video/mp4" autoplay>
+  </video>
+</figure>
 
 I'm tracking progress [here](https://trello.com/c/mV3MomJ6/42-doneapp).
