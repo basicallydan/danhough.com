@@ -20,4 +20,6 @@ Anyway here's the animated screenshot:
   </video>
 </figure>
 
+Obviously it needs a lot of work: the numbers on the right are pretty meaningless right now, and the buttons are ugly, as are the colours. But it's functional!
+
 I'm tracking progress [here](https://trello.com/c/mV3MomJ6/42-doneapp).
