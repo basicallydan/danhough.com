@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix a slow terminal initialisation due to nvm - use fnm instead
+title: Fix a slow terminal init due to nvm - Use fnm!
 date_created: 20 September 2020
 tags: [devlogs]
 location: Vancouver, BC, Canada
