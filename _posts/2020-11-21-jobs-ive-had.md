@@ -6,4 +6,4 @@ tags: [devlogs]
 location: Vancouver, BC, Canada
 ---
 
-This should work.
+This should work. Hello.
