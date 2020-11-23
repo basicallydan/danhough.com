@@ -425,3 +425,55 @@ test('when there is a glider on the board, it moves', () => {
   expect(game.board).toEqual(fourthStepBoard)
 })
 ```
+
+And indeed it does pass. We now have a functioning Game of Life. The next step is to render it somehow. In this case, I'm going to have it run on the command line. In order to see that working, here's something I threw together:
+
+{% include _figure.html src="/img/ts-game-of-life/glider.gif" caption="A glider on the CLI Game of Life" %}
+
+And here's the code:
+
+```ts
+#!/usr/bin/env node
+
+const clear = require('clear')
+const chalk = require('chalk');
+
+import { Game } from './game'
+
+function printBoard(board: Array<Array<number>>) {
+  let boardString = ''
+  for (let row of board) {
+    for (let cell of row) {
+      boardString += (cell === 0) ? '   ' : chalk.bgWhite('   ')
+    }
+    boardString += '\n'
+  }
+  console.log(boardString)
+}
+
+clear()
+const game = new Game([
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,1,0,0,0,0,0,0,0,0,0,0,0],
+  [1,0,1,0,0,0,0,0,0,0,0,0,0,0],
+  [0,1,1,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+])
+
+
+setInterval(() => {
+  clear()
+  printBoard(game.board)
+  game.step()
+}, 250)
+```
+
+You can check it all out on [the GitHub page for the repo](https://github.com/conwaysgame/typescript). If you're a TypeScript person and would like to change things, please feel free to raise an issue or open a pull request. Enjoy!
