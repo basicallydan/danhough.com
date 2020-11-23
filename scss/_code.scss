@@ -24,7 +24,7 @@ pre code {
   font-size:$code-font-size;
 }
 
-code.language-html:before, code.language-css:before, code.language-javascript:before, code.language-js:before, code.language-xml:before {
+code.language-html:before, code.language-css:before, code.language-javascript:before, code.language-js:before, code.language-xml:before, code.language-ts:before {
   display:block;
   border-bottom:1px solid #999;
   background:none;
@@ -47,4 +47,8 @@ code.language-xml:before {
 
 code.language-javascript:before,code.language-js:before {
   content:"JavaScript";
+}
+
+code.language-typescript:before,code.language-ts:before {
+  content:"TypeScript";
 }
