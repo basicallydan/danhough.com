@@ -75,7 +75,7 @@ Each item in the array is a row on the game of life board represented by an arra
 
 This is probably the simplest way to output the data, since it's easy to interpet. Now we now how we want that to look we can start writing our first test, which should guide the design of the API.
 
-```ts
+```typescript
 // game.test.ts
 
 // I'm going with an OOP implementation, so an instance
@@ -97,7 +97,7 @@ test('should correctly output the intial cell configuration', () => {
 
 Following the general principle of Red, Green Refactor, I created a `Game` module and ran `yarn test`:
 
-```ts
+```typescript
 // game.ts
 
 export class Game {
@@ -108,7 +108,7 @@ export class Game {
 
 That's enough to make the thing fail in a legitimate manner. Now it needs to be expanded to pass:
 
-```ts
+```typescript
 export class Game {
   board: Array<Array<number>>
 
@@ -133,7 +133,7 @@ The reason Conway's Game is so useful as tool for teaching TDD is that these rul
 
 **Any live cell with fewer than two live neighbours dies, as if by underpopulation.**
 
-```ts
+```typescript
 // game.test.ts
 // ...
 
@@ -163,7 +163,7 @@ test('when there is one live cell in the middle, and fewer than two live neighbo
 
 The simplest way to make this pass is to simply set `this.board` to the expected end point. I won't bore you with that step - so I wrote another test which is a 4x3 grid with a live cell in the top-left instead. To make this test, and that one pass, I implemented the following function for `step`:
 
-```ts
+```typescript
 step() {
   this.board = this.board.map(row => {
     return row.map(c => 0)
@@ -179,7 +179,7 @@ We now have the most boring version of the game of life available to us. Let's i
 
 We can write a nice isolated test for this:
 
-```ts
+```typescript
 test('when there is one live cell in the top-middle, and two live neighbours, it lives on to the next generation', () => {
   const startingBoard = [
     [1,1,1],
@@ -201,7 +201,7 @@ test('when there is one live cell in the top-middle, and two live neighbours, it
 
 We also have to write a test for when there are three live neighbours, for which the starting and resulting boards should look like this:
 
-```ts
+```typescript
   const startingBoard = [
     [1,1,1],
     [0,1,0],
@@ -215,7 +215,7 @@ We also have to write a test for when there are three live neighbours, for which
 
 Now we can expand the `step` function to have it work out the number of living neighbours for a cell:
 
-```ts
+```typescript
 step() {
   this.board = this.board.map((row, cellY) => {
     return row.map((cell, cellX) => {
@@ -242,7 +242,7 @@ step() {
 A test for this case looks like this:
 
 
-```ts
+```typescript
 test('when there is one live cell in the middle, and four live neighbours, it dies as if by overpopulation', () => {
   const startingBoard = [
     [1,0,1],
@@ -272,7 +272,7 @@ There isn't any additional implementation to make this one work - it already doe
 
 The test for this case:
 
-```ts
+```typescript
 test('when there is one dead cell in the middle, and three live neighbours, it becomes live, as if by reproduction', () => {
   const startingBoard = [
     [1,0,1],
@@ -296,7 +296,7 @@ test('when there is one dead cell in the middle, and three live neighbours, it b
 
 This fails upon first run - we don't have any code covering this case yet. Hopefully I can easily implement it without breaking the other tests.
 
-```ts
+```typescript
 step() {
   this.board = this.board.map((row, cellY) => {
     return row.map((cell, cellX) => {
@@ -329,7 +329,7 @@ While it does in fact make our new test pass, it breaks some older tests:
 
 That's because I set up some configurations which would now be altered by **rule 4**. For example:
 
-```ts
+```typescript
 test('when there is one live cell in the top-middle, and three live neighbours, it lives on to the next generation', () => {
   // With rule 4, the two cells in the bottom left and right
   // would now come to life because they're each surrounded by three
@@ -354,7 +354,7 @@ Fixing those three tests is a matter of looking at the initial state and, with t
 
 It occurred to me early on that I might come across this problem, and the `expect` lines should have been more specific. For example, in the case of the above test, I could have written
 
-```ts
+```typescript
 expect(game.board[1][1]).toEqual(1)
 ```
 
@@ -368,7 +368,7 @@ However, I think if I were to do it again I'd do it the first way - an assertion
 
 One of the emergent behaviours of the rules of Conway's Game of Life is the "glider", an arrangement of cells which, unless interrupted by other cells, will continually "move" across the board indefinitely. If everything has been implemented properly, then this test should just pass:
 
-```ts
+```typescript
 test('when there is a glider on the board, it moves', () => {
   const startingBoard = [
     [0,0,0,0,0],
@@ -432,7 +432,7 @@ And indeed it does pass. We now have a functioning Game of Life. The next step i
 
 And here's the code:
 
-```ts
+```typescript
 #!/usr/bin/env node
 
 const clear = require('clear')
