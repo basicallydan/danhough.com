@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use fnm, not nvm; it's faster
+title: Use fnm, not nvm. It's faster.
 date_created: 20 September 2020
 tags: [devlogs]
 location: Vancouver, BC, Canada
