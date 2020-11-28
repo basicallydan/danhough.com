@@ -21,6 +21,8 @@ It's quite common these days for JS developers to espouse the benefits of TypeSc
 
 I'm going to write this devlog as I go, so I may include in it some challenges I've faced as they may be interesting to read about and learn from.
 
+Don't wanna read this? Just want the code? Here is [the GitHub repo](https://github.com/conwaysgame/typescript).
+
 ---
 
 Whenever I build the GOL I insist on writing tests first. In fact, my first exposure to Conway's Game was during an exercise intended to demonstrate how Test-Driven Development (TDD) works. It's a very effective tool for teaching basic TDD to junior developers, and I'd recommend it.
