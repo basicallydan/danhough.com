@@ -5,6 +5,10 @@ date_created: 27 November 2020
 description: Game of Life in every language? Like a tasting menu of code.
 tags: [devlogs, tdd]
 location: Vancouver, BC, Canada
+twitterCardType: summary_large_image
+time_to_read_estimate: 10
+thumbnail: "!SITE_URL!/img/ts-game-of-life/game-of-life-tw.png"
+ogthumbnail: "!SITE_URL!/img/ts-game-of-life/game-of-life-og.png"
 ---
 
 ## Preamble
