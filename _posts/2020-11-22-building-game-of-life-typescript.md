@@ -9,6 +9,8 @@ location: Vancouver, BC, Canada
 
 ## Preamble
 
+YES Hello.
+
 I have an [ongoing project on GitHub](https://github.com/conwaysgame) to build a collection of implementations of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) using various technologies. So far, I've done JavaScript, JavaScript with React, Python and Go. My friend [Eddie](https://github.com/xdl) built it in Guile.
 
 I do this because t's fun to have a collection of repos that do the same thing with different technologies. I do this because I really like the Game of Life as a concept. And finally, I do it because I'll never have time to learn all the programming languages, but I may have time to at least expose myself to a little bit of them. In some cases, it could be a good introduction which leads to more serious use of the language, like a tasting menu of code.
