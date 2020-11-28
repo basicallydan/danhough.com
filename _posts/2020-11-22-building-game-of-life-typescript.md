@@ -1,16 +1,17 @@
 ---
 layout: post
 title: The Game of Life in TypeScript
-date_created: 22 November 2020
+date_created: 27 November 2020
+description: Game of Life in every language? Like a tasting menu of code.
 tags: [devlogs, tdd]
 location: Vancouver, BC, Canada
 ---
 
 ## Preamble
 
-I have an [ongoing project on GitHub](https://github.com/conwaysgame) to build a collection of implementations of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) using various technologies. So far, I've done JavaScript, JavaScript with React, Python and Go. My friend Eddie built it in Guile.
+I have an [ongoing project on GitHub](https://github.com/conwaysgame) to build a collection of implementations of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) using various technologies. So far, I've done JavaScript, JavaScript with React, Python and Go. My friend [Eddie](https://github.com/xdl) built it in Guile.
 
-I do this for completionist reasons: it's fun to have a collection of repos that all essentially do the same thing but with different technologies. I also do this because I really like the Game of Life as a concept. And finally, I do it because I'll never have time to learn all the programming languages, but I may have time to at least expose myself to a little bit of them. In some cases, it could be a good introduction which leads to more serious use of the language.
+I do this because t's fun to have a collection of repos that do the same thing with different technologies. I do this because I really like the Game of Life as a concept. And finally, I do it because I'll never have time to learn all the programming languages, but I may have time to at least expose myself to a little bit of them. In some cases, it could be a good introduction which leads to more serious use of the language, like a tasting menu of code.
 
 It's quite common these days for JS developers to espouse the benefits of TypeScript. I suspect one day I will have a job where I'll need to write a lot of TypeScript. However, I haven't used it more than once or twice in small ways before. So, starting with the Game of Life is as good as any start with the language.
 
@@ -18,7 +19,7 @@ I'm going to write this devlog as I go, so I may include in it some challenges I
 
 ---
 
-Whenever I build the GOL I insist on writing tests first. In fact, my first exposure to Conway's Game was during an exercise where I was shown, basically, how TDD works. It's a really effective tool for teaching basic TDD to junior developers, I'd recommend it. Anyway, let's begin.
+Whenever I build the GOL I insist on writing tests first. In fact, my first exposure to Conway's Game was during an exercise intended to demonstrate how Test-Driven Development (TDD) works. It's a very effective tool for teaching basic TDD to junior developers, and I'd recommend it.
 
 ## Setup for Testing
 
@@ -57,9 +58,11 @@ I also added this to my `package.json`:
 
 ## Writing some Tests
 
-My preferred way to design a game of life implementation is to separate rendering from logic - in other words, the application should be able to output a representation of the current state of the game which can be interpreted by a "rendering" engine. That could be a CLI output, or something in HTML, or something else entirely.
+The first thing to do is set up one basic test case, and write enough implementation code for this test to fail "legitimately," which in this case means to return something to the test without throwing an exception due to something like a syntax error, or because the function or class we're testing doesn't exist.
 
-A common representation people use is a two-dimensional array like this, essentially a matrix:
+I prefer to separate separate state from rendering with the Game of Life. The application should be able to output a representation of the current state of the game which can later be interpreted by a "rendering" engine. This makes it much easier to test and modify.
+
+A common representation people use is a two-dimensional array like this, as a grid:
 
 ```
 [
@@ -71,7 +74,7 @@ A common representation people use is a two-dimensional array like this, essenti
 ]
 ```
 
-Each item in the array is a row on the game of life board represented by an array, and each item in those arrays is a cell - `0` meaning unpopulated, `1` meaning populated.
+Each item in the array is a row on the Game of Life board represented by an array, and each item in those arrays is a cell - `0` meaning unpopulated, `1` meaning populated.
 
 This is probably the simplest way to output the data, since it's easy to interpet. Now we now how we want that to look we can start writing our first test, which should guide the design of the API.
 
@@ -95,7 +98,7 @@ test('should correctly output the intial cell configuration', () => {
 })
 ```
 
-Following the general principle of Red, Green Refactor, I created a `Game` module and ran `yarn test`:
+Following the pattern of [_Red, Green, Refactor_](https://medium.com/@mbauza/red-green-refactor-1a3fb160e649), I created a `Game` module and ran `yarn test`:
 
 ```ts
 // game.ts
@@ -171,7 +174,7 @@ step() {
 }
 ```
 
-We now have the most boring version of the game of life available to us. Let's implement the next rule.
+We now have the most boring version of the Game of Life available to us. Let's implement the next rule.
 
 ### Rule 2
 
