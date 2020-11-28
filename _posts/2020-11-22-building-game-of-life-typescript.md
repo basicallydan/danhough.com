@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Built Conway's Game of Life in TypeScript
+title: The Game of Life in TypeScript
 date_created: 22 November 2020
 tags: [devlogs, tdd]
 location: Vancouver, BC, Canada
