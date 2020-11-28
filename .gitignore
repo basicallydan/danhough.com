@@ -4,4 +4,5 @@ node_modules/
 _gist_cache/
 .sass-cache/
 .DS_Store
-css/main.css
+css/
+.jekyll-cache/
