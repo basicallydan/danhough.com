@@ -21,7 +21,7 @@ It's quite common these days for JS developers to espouse the benefits of TypeSc
 
 I'm going to write this devlog as I go, so I may include in it some challenges I've faced as they may be interesting to read about and learn from.
 
-Don't wanna read this? Just want the code? Here is [the GitHub repo](https://github.com/conwaysgame/typescript).
+Don't wanna read this? Just want the code? Here is [the GitHub repo](https://github.com/conwaysgame/typescript). Or, if you want to see my favourite implementation of GoL I've done, [check out the one I made with React](https://github.com/conwaysgame/react-js).
 
 ---
 
