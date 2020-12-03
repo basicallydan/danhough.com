@@ -17,12 +17,20 @@
 		margin-bottom:$standard-margin;
 	}
 
+	&-content p {
+		line-height: 1.4em;
+	}
+
 	&-content header {
 		padding:0;
 	}
 
 	&-content header {
 		border-bottom:none;
+	}
+
+	&-content li {
+		margin-bottom: $small-margin;
 	}
 
 	&-content {
