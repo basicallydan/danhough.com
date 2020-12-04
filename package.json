@@ -4,8 +4,9 @@
   "description": "A website to be deployed at danhough.com",
   "main": " ",
   "scripts": {
-    "start": "gulp",
+    "start": "bundle exec jekyll serve --watch",
     "styles": "sass ./scss/main.scss ./css/main.css",
+    "styles:watch": "sass --watch ./scss/main.scss ./css/main.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
