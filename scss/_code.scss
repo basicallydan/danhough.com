@@ -1,15 +1,32 @@
-.article-content .highlight {
+.article-content div.highlight {
   background-color:$lightest-grey;
   padding: $small-margin 0;
-  // max-width:$max-break-out-page-width;
+  max-width: $max-centered-page-width + $code-margin * 2;
+  padding: $code-margin;
   margin:0 auto;
   margin-bottom:$standard-margin;
+  border: 1px solid $lighter-grey;
+  border-radius: $code-margin / 4;
 
   @media (max-width: 748px) {
     margin-left: -$standard-margin;
     margin-right: -$standard-margin;
     padding-left: $standard-margin;
     padding-right: $standard-margin;
+
+    pre code {
+      font-size:0.7rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    border-left:none;
+    border-right:none;
+    border-radius:0;
+  }
+
+  pre.highlight, code {
+    margin: 0;
   }
 }
 

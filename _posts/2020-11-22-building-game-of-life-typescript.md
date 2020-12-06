@@ -57,9 +57,9 @@ module.exports = {
 I also added this to my `package.json`:
 
 ```json
-  "scripts": {
-    "test": "jest"
-  }
+"scripts": {
+  "test": "jest"
+}
 ```
 
 ## Writing some Tests
@@ -211,15 +211,15 @@ test('when there is one live cell in the top-middle, and two live neighbours, it
 We also have to write a test for when there are three live neighbours, for which the starting and resulting boards should look like this:
 
 ```ts
-  const startingBoard = [
-    [1,1,1],
-    [0,1,0],
-  ]
+const startingBoard = [
+  [1,1,1],
+  [0,1,0],
+]
 
-  const nextStepBoard = [
-    [1,1,1],
-    [0,1,0],
-  ]
+const nextStepBoard = [
+  [1,1,1],
+  [0,1,0],
+]
 ```
 
 Now we can expand the `step` function to have it work out the number of living neighbours for a cell:
