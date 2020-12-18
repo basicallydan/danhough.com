@@ -5,9 +5,11 @@ title: Freelance Front End & JavaScript Developer
 
 # Freelance Front End & JavaScript Developer
 
-I’ve been freelancing since 2013, and been a professional developer since 2010. In that time I’ve worked for a few great companies and with a lot of great people. Some of them have been kind enough to share some thoughts about how our work went, which you can read here. Alternatively, learn more about me or have a look at my CV.
+Between 2013 and 2016 I was freelancing full-time, and I've been a professional developer since 2010. In that time I’ve worked for a few great companies and with a lot of great people. Some of them have been kind enough to share some thoughts about how our work went, which you can read here. Alternatively, learn more about me or have a look at my CV.
 
 ## Developer for Hire
+
+Currently, I'm employed in a permanent role at [Jungle Scout](https://junglescout.com) here in Vancouver. However, below I've left the original text from this freelancing page from back when I was a freelancer.
 
 If you need someone to come into your office and work with the team on your product, **I’m your man**. I specialise in anything to do with **JavaScript on the back end or front end**, and I have a keen eye for **web design as well as development**. I also have experience with iOS applications and the .NET stack.
 
@@ -26,7 +28,7 @@ Dan was a great addition to our team when we needed him most: in the run up to o
 
 ## Convinced?
 
-I’m **booked up for work until July 2015**, after which I will only be accepting remote work until 2016. Please get in touch anyway if you think I might be the right man for the job, it doesn't hurt to chat. I’m not looking for a permanent role, but if you think you’ve got an interesting job - especially if it involves travelling abroad - please get in touch.
+Please get in touch anyway if you think I might be the right man for the job, it doesn't hurt to chat. I’m not looking for a permanent role, but if you think you’ve got an interesting job - especially if it involves travelling abroad - please get in touch.
 
 Think we could work together?
 
@@ -36,11 +38,11 @@ Think we could work together?
 
 ### What tools do you use?
 
-While developing I mostly use Sublime Text 3, and I design almost everything that requires design work in Sketch. I often use [Marvel](https://marvelapp.com/) for creating design/interaction prototypes, and [Interfake](https://github.com/basicallydan/interfake) for API prototypes.
+While developing I mostly use VSCode, and I design almost everything that requires design work in Sketch. I often use [Marvel](https://marvelapp.com/) for creating design/interaction prototypes, and [Interfake](https://github.com/basicallydan/interfake) for API prototypes.
 
 ### What technologies do you use?
 
-Most of the time I build backends with NodeJS, with various libraries like Express, Mongoose and some of [my own stuff](https://github.com/basicallydan/interfake). On the frontend, I'm very familiar with Backbone, Underscore, Knockout and jQuery, but I'm comfortable using most of the main MV* frameworks such as Ember or Angular. For automation I use gulp, or good old fashioned makefiles.
+Most of the time I build backends with Ruby on Rails, or NodeJS, with various libraries like Express, Mongoose and some of [my own stuff](https://github.com/basicallydan/interfake). On the frontend, I'm very familiar with React, Backbone, Underscore, Knockout and jQuery, but I'm comfortable using most of the main MV* frameworks such as Ember or Angular. For automation I use gulp, or good old fashioned makefiles.
 
 ### Are there any kinds of projects you'd prefer?
 
@@ -48,7 +50,7 @@ I'm pretty good at prototypes and MVPs, but I also enjoy what I call "technical 
 
 ### Where are you based?
 
-Right now I'm in London, UK. From July 2015, I'll be in South Korea for a while, then travelling around Asia.
+Right now I'm in Vancouver, Canada.
 
 ### Will you work remotely?
 
@@ -60,4 +62,4 @@ I prefer not to take very long-term on-site jobs, but I'm more than happy to mee
 
 ### Are you looking for a permanent job?
 
-I'm vaguely interested relocating to the **United States**, **Canada**, or **South Korea**. If you can sponsor a visa, please [get in touch](mailto:dan@danhough.com?subject=I have some overseas work for you).
+At the moment, I have a permanent job - I'm not interested in anything new right now - but neer say never. Especially if you have something I could work on in my free time, [get in touch](mailto:dan@danhough.com?subject=I have some work for you).
