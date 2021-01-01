@@ -14,7 +14,7 @@ ogthumbnail: "!SITE_URL!/img/books-of-2017/books-of-2017-thumbnail-og.png"
 
 <!-- KEEP IT TO 560 characters -->
 
-I won't lie. Back in 2016, I went crazy with the books, and [about two years ago I wrote this](/blogs/books-of-2016).
+Back in 2016, I went crazy with the books, and [about two years ago I wrote this](/blogs/books-of-2016). But in 2017 there were far fewer books and I was pretty lazy keeping it up to date.
 
 ## [Hard-Boiled Wonderland and the End of the World](https://www.amazon.co.uk/d/Books/Hard-Boiled-Wonderland-End-World-Haruki-Murakami/0099448785/?tag=daplad-21) by Haruki Murakami
 
