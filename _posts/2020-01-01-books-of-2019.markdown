@@ -1,3 +1,17 @@
+---
+layout: post
+title: The Books I Read in 2019
+date_created: 01 January 2020
+location: Vancouver, Canada
+comments: true
+description: The books I read in 2019.
+time_to_read_estimate: 5
+twitterCardType: summary_large_image
+tags: [books]
+thumbnail: "!SITE_URL!/img/books-of-2019/books-of-2019-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/books-of-2019/books-of-2019-thumbnail-og.png"
+---
+
 ## Convenience Store Woman by Sayaka Murata
 
 Finished: 5th Jan 2019.
@@ -48,3 +62,6 @@ I sort of just devoured these volumes. As many reviewers have said, SG's positiv
 
 ## Thank you, Jeeves by P.G. Wodehouse
 
+Finished: 1st August 2019
+
+I finished this during my travels around Canada and the USA, but I bought this one in Toronto. Great stuff, but not quite as fun as the last one.
