@@ -1,0 +1,65 @@
+---
+layout: post
+title: The Books I Read in 2020
+date_created: 01 January 2021
+location: Vancouver, Canada
+comments: true
+description: The books I read in 2020.
+time_to_read_estimate: 5
+twitterCardType: summary_large_image
+tags: [books]
+thumbnail: "!SITE_URL!/img/books-of-2020/books-of-2020-thumbnail-tw.png"
+ogthumbnail: "!SITE_URL!/img/books-of-2020/books-of-2020-thumbnail-og.png"
+---
+
+What a year. Thanks to living in the very-outdoorsy British Columbia, and moving in with my girlfriend, I didn't have quite as much time alone or without things to do as some this year. I barely commuted at all, too, so I barely did any reading. Maybe next year!
+
+## Three Day Road by Joseph Boyden
+
+Finished: 24th May 2020
+
+First indigenous-authored book I've read as far as I know. I was given this as a gift after expressing interest in learning more about First Nations culture and although it came with the caveat of "Joseph Boyden is a controvertial figure" it was a good read. Very compelling and I enjoyed the circular storytelling structure. Quite a horrific account of the experiences of many in the First World War.
+
+## Hyperbole and a Half by Allie Brosh
+
+Finished: 31st May 2020
+
+A nice, easy, calming read was just what I needed after a horrific WW1-set novel. I used to read a _lot_ of webcomics but somehow avoided reading Allie Brosh's. I am of course familiar with the "\_\_\_ all the things!" meme which came from her blog, but it took a quarter of reading the book before realising. Quite a funny, entertaining book, which is very relatable.
+
+## The Testaments by Margaret Atwood
+
+Finished: 3rd July 2020
+
+While very compelling, it is a shadow of the original, _The Handmaid's Tale_. The pacing is great in the first half, but it speeds up in a way which almost seems like Atwood was rushing to get it wrapped up. I did enjoy the updated world-building which takes into account the way the world has evolved since the first book, but at times this is a little bit jarring. Nonetheless, worth a read if you enjoyed the first one.
+
+## The Good Immigrant by Nikesh Shukla et al.
+
+Finished: 31st July 2020
+
+This is a sometimes sad, sometimes funny but always enlightening account of the experiences of immigrants, or children of immigrants, in the UK, from various (mostly creative arts) fields. It is always worth taking an opportunity to learn about the experiences of people who don't look like you, or haven't grown up with the same context as you (both of which are the case for me) and in this case I am glad I did.
+
+## To Sell is Human by Dan Pink
+
+Finished: 23rd August 2020
+
+The book is a little clickbaity (if you can describe a book that way) but it does have contain valuable lessons and interesting stories. Pink is a really good writer, and very good at tying up concepts which are not obviously related. His general idea is that in many industries now, _many_ types of workers will "sell" frequently in a given working week. An easy read, and pretty interesting.
+
+## Jurassic Park
+
+Finished: 16th September 2020
+
+Wow! Jurassic Park is probably my favourite film, and I've seen it several times - but the book blows it away in many respects. Maybe it's because I have the visuals from the film as I go through the novel, but it's considerably more tense in some moments, and the characters are given so much more depth (naturally!). If you haven't seen the film (ha!) go and read this first, _then_ watch it. But if you've seen it, read this anyway.
+
+## Books I didn't quite finish...
+
+### Neither Here Nor There by Bill Bryson
+
+I usually really enjoy Bryson's books, but this one rubbed me up the wrong way for some reason. Maybe because he's younger than how I'm used to him, maybe because it's a different time - but I just found him quite annoying in this. So, I gave up!
+
+### Geek Sublime by Vikram Chandra
+
+Supposedly about the "beauty of code," I found this surprisingly dry. I think I found it difficult to draw connections between sanskrit and code. I got about 30% of the way through.
+
+### Guns, Germs and Steel by Jared Diamond
+
+I started this in December, and I think I will finish this one. I'm about a quarter of the way through and it's pretty interesting so far! It reminds me a little of _Sapiens_, which came mamy years later. Look out for it at the top of the list in 2022!
