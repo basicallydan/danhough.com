@@ -12,7 +12,7 @@ thumbnail: "!SITE_URL!/img/gates-jones-questions/gates-jones-questions-thumbnail
 ogthumbnail: "!SITE_URL!/img/gates-jones-questions/gates-jones-questions-thumbnail-og.png"
 ---
 
-Last last year, actress/director/writer/activist Rashida Jones and businessman/developer/philanthropist/uber nerd Bill Gates launched a podcast together, [_Bill Gates and Rashida Jones Ask Big Questions_](https://www.gatesnotes.com/podcast).
+Late last year, actress/director/writer/activist Rashida Jones and businessman/developer/philanthropist/uber nerd Bill Gates launched a podcast together, [_Bill Gates and Rashida Jones Ask Big Questions_](https://www.gatesnotes.com/podcast).
 
 My first thought on hearing about it was of [Mitchell and Webb's BIG TALK Sketch](https://www.youtube.com/watch?v=Qr4ipujOv_E). Thankfully, the hosts are much less pushy than Raymond Terrific, and the expectations (they are not trying to "solve AIDS") are much more realistic.
 
