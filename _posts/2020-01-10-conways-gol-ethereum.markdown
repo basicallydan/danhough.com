@@ -37,6 +37,16 @@ I did it entirely using TDD, so I wrote my tests first (in JavaScript, thank goo
 
 I've written many Games of Life, but this was the most challenging.
 
+### That's too much gas
+
+I used the Rinkeby Test network to estimate the gas by running `ConwaysGameOfLife.new.estimateGas()` - 722539 - then looked up how much 1 Gas would be on the mainnet at [https://ethgasstation.info/](https://ethgasstation.info/). The number I got for 'standard' speed was 82 Gwei, which means `82 * 722539 = 59,248,198`. In ETH, that's 0.059248198, which is about $73.12 USD at the time of writing.
+
+To me, for a fun little project which probably nobody would use, that price was too high. I didn't know how much I would be willing to spend, but $73.12 is too much.
+
+So, I set about reading how to improve the efficiency of a contract's deployment using [this little paper](http://article.nadiapub.com/IJGDC/vol10_no12/6.pdf) and implemented some changes. I got rid of some variables and hard-coded the values instead, among other changes. With each change, I'd `compile` and run `ConwaysGameOfLife.new.estimateGas()` again in the console. Down to `708354`, then `644904`. Then up again to `695936` - some things I did, weirdly, made it worse. Unintuitively, using larger integer types such as `uint` (256 bits) instead of smaller (`uint8`) somehow reduces gas costs.
+
+In this process, I also reduced the gas price for a transaction from `370270` gas to `72213` gas. With a gas cost of 82 gwei, that's $37.47 down to $8.91 per transaction. Maybe somebody _would_ pay to see the Game of Life tick over from one state to the next, after all.
+
 ## Challenges
 
 ### Proper Programming
