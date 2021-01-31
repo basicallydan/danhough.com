@@ -18,7 +18,7 @@ Since 2014 I have been slowly (very slowly) building [implementations of Conway'
 
 Most recently I set out to write a version of the Game of Life which "runs on Ethereum". In other words, it's a Smart Contract. In other words, it's a Distributed App (Dapp). In other words, it's a small application written in Solidity. There are many ways to describe it but the coolest way, in my opinion is, "it's Conway's Game of Life for Ethereum."
 
-{% include _figure.html src="https://media.giphy.com/media/aoAjnVBmYGZ7bu4SYh/giphy.gif" caption="Here's a transaction taking place." %}
+{% include _figure.html src="https://media.giphy.com/media/iuAP1ssht7ufmaxLmo/source.gif" caption="Here's a transaction taking place." %}
 
 ## Try it out
 
