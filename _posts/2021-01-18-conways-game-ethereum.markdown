@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Conway's Game of Life on Ethereum
-date_created: 13 January 2021
+date_created: 31 January 2021
 location: Vancouver, Canada
 comments: true
-description: I built Conway's Game of Life to run on the Ethereum Blockchain network, usign Solidity - you can use it now!
+description: I built Conway's Game of Life to run on the Ethereum Blockchain network, using Solidity - you can use it now!
 time_to_read_estimate: 7
 twitterCardType: summary_large_image
 tags: [opinions, reviews, podcasts]
@@ -12,15 +12,15 @@ thumbnail: "!SITE_URL!/img/gates-jones-questions/gates-jones-questions-thumbnail
 ogthumbnail: "!SITE_URL!/img/gates-jones-questions/gates-jones-questions-thumbnail-og.png"
 ---
 
-ℹ️ Bored of reading already?<br>➡️ Visit [Conway's Game of Life for Ethereum](https://conwaysgame.github.io/solidity-ethereum/).
+Bored of reading already?<br>➡️ Visit [Conway's Game of Life for Ethereum](https://conwaysgame.github.io/solidity-ethereum/).
 
 Since 2014 I have been slowly (very slowly) building [implementations of Conway's Game of Life for different programming languages and technologies](https://github.com/conwaysgame/).
 
-A couple of weeks ago I set out to see if I could write a version of the Game of Life which "runs on Ethereum". In other words, it's a Smart Contract. In other words, it's a Distributed App (Dapp). In other words, it's a small application written in Solidity. There are many ways to describe it but the coolest way, in my opinion is, "it's Conway's Game of Life for Ethereum".
+Most recently I set out to write a version of the Game of Life which "runs on Ethereum". In other words, it's a Smart Contract. In other words, it's a Distributed App (Dapp). In other words, it's a small application written in Solidity. There are many ways to describe it but the coolest way, in my opinion is, "it's Conway's Game of Life for Ethereum".
 
 ## Try it out
 
-As I'll explain later, installing this on the Ethereum main-net was not on the cards - too expensive - but if you want to interact with it, you can do so using the [Rinkeby Test Network](https://www.rinkeby.io/#stats).
+As I'll explain later, installing this on the Ethereum main-net was not on the cards, but if you want to play with it, you can do so using the Rinkeby Test Network - or you can just watch as others do.
 
 * Visit [the web application](https://conwaysgame.github.io/solidity-ethereum/).
 * See the current state of the world.
@@ -42,7 +42,7 @@ I've written many Games of Life, but this was the most challenging.
 
 ## Challenges
 
-### "Proper" Programming
+### Efficiency
 
 Before starting, I was vaguely aware that the more work my contract did, the more 'expensive' it was to run. So, I had to focus on trying to keep it simple and efficient. Normally when doing the game life, I create a two-dimensional array to represent the grid, I loop through all the possible neighbours of each cell and I check if it is on or off the grid. With the languages I've used so far this is straightforward - most use signed integers and automatically allocate memory to store them.
 
@@ -54,7 +54,7 @@ But with Solidity, I tried to make it efficient:
 
 I suppose what I'm getting at is that I rarely have to deal with "proper" programming problems in my day-to-day, thanks to a combination of laziness, and laziness enabled by some very, very forgiving compilers and interpreters which do most of the work for me. So, this was actually pretty fun and more challenging than usual.
 
-### That's too much gas
+### Deployment - too much Gas?!
 
 I thought I'd need to be careful about allocating memory, and I thought I'd need to use byte arrays instead of strings to avoid casting too often, but I was wrong. After I got it all working, I started thinking more seriously about how much work would be done to deploy and run my contract.
 
@@ -91,6 +91,45 @@ It's an interesting paradigm shift, but interacting with it through a web browse
 
 The future of cryptocurrencies is uncertain. My own opinions about the future of cryptocurrencies change every day. Nonetheless, at the moment, Bitcoin and Ethereum are in the news more than, say, a year ago. There is a chance there'll be more demand for smart contracts and developers who know how to work with them in the future. In my opinion, it's important for me to keep on learning new skills not only to progress my career, but to make life more interesting.
 
-## Where does the Ether go?
+## Why not put it on the main-net?
 
-I've set up the contract to forward to (choose: EFF/GraceAid/Internet Archive)
+As I explained earlier, the Gas price fo deployment is fairly high. After showing it off to a few Ethereum enthusiasts, I came to the conclusion that there was no need to spend the money, buy the ETH and put it on the main-net. There are better uses of this blockchain out there than Conway's Game of Life. My goal here was experimentation and learning, both of which I achieved with the Rinkeby test network. Oh, and if you come across `ConwaysGameOfLife` on the main-net, unless I edit this post and mention it here, it isn't mine!
+
+## Reflections
+
+I learned that writing basic Smart Contracts for Ethereum isn't too tricky - like with any sofware, there's an input and an output. The challenge, as expected, was getting my environment set up. It wasn't too difficult to do that, though.
+
+I also learned how one can create an interface between "web 2.0" applications and "web 3.0" applications, and the tooling available for that is pretty decent too. For instance, if I wanted to <a href="#" class="sendEthButton">ask for a donation in ETH I could make it super easy with a JavaScript function</a>.
+
+Also, a mind to application performance means a heck of a lot more when the effort is directly linked to a currency.
+
+<script type="text/javascript">
+  const sendEthButton = document.querySelector('.sendEthButton');
+
+  //Sending Ethereum to an address
+  sendEthButton.addEventListener('click', e => {
+    e.preventDefault()
+    if (!ethereum) {
+      alert("You don't have a wallet installed in your browser. Search for Metamask :)")
+    }
+    // debugger
+    ethereum.request({ method: 'eth_requestAccounts' }).then(accounts => {
+      debugger
+      ethereum
+        .request({
+          method: 'eth_sendTransaction',
+          params: [
+            {
+              from: accounts[0],
+              to: '0x860c8513dE758223C59D7dFc544298b4Bf059288',
+              value: '0x5af3107a4000',
+              gasPrice: '0x09184e72a000',
+              gas: '0x2710',
+            },
+          ],
+        })
+        .then((txHash) => console.log(txHash))
+        .catch((error) => console.error);
+    });
+  });
+</script>
