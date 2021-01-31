@@ -18,6 +18,10 @@ Since 2014 I have been slowly (very slowly) building [implementations of Conway'
 
 Most recently I set out to write a version of the Game of Life which "runs on Ethereum". In other words, it's a Smart Contract. In other words, it's a Distributed App (Dapp). In other words, it's a small application written in Solidity. There are many ways to describe it but the coolest way, in my opinion is, "it's Conway's Game of Life for Ethereum".
 
+<figure class="center">
+  <div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/aoAjnVBmYGZ7bu4SYh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ethereum-aoAjnVBmYGZ7bu4SYh">via GIPHY</a></p>
+</figure>
+
 ## Try it out
 
 As I'll explain later, installing this on the Ethereum main-net was not on the cards, but if you want to play with it, you can do so using the Rinkeby Test Network - or you can just watch as others do.
