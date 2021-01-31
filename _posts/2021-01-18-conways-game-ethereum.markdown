@@ -72,7 +72,7 @@ costInETH = costInGwei * 0.000000001  # => 0.104768155
 costInUSD = costInETH * ethToUSDPrice # => $136.76
 ```
 
-That's $136.76 USD at the time of writing. This is hypothetical, of course, until I decide to deploy to the main-net.
+That's $136.76 USD at the time of writing. This is hypothetical, until I decide to deploy to the main-net.
 
 To me, for a fun little project which probably nobody would use, that price was too high. I didn't know how much I would be willing to spend, but $136.76 is too much.
 
