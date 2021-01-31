@@ -12,7 +12,7 @@ thumbnail: "!SITE_URL!/img/gates-jones-questions/gates-jones-questions-thumbnail
 ogthumbnail: "!SITE_URL!/img/gates-jones-questions/gates-jones-questions-thumbnail-og.png"
 ---
 
-Bored of reading already?<br>➡️ Visit [Conway's Game of Life for Ethereum](https://conwaysgame.github.io/solidity-ethereum/).
+Want to see it??<br>➡️ Visit [Conway's Game of Life for Ethereum](https://conwaysgame.github.io/solidity-ethereum/).
 
 Since 2014 I have been slowly (very slowly) building [implementations of Conway's Game of Life for different programming languages and technologies](https://github.com/conwaysgame/).
 
@@ -34,7 +34,7 @@ I'd recommend also installing [MetaMask](https://chrome.google.com/webstore/deta
 
 ## How'd I do it?
 
-I started by completing [a Hello World tutorial by Brij Mohan](https://techbrij.com/hello-world-smart-contract-solidity-ethereum-dapp-part-1), and then started from scratch with a new project.
+I started by completing [a Hello World tutorial by Brij Mohan](https://techbrij.com/hello-world-smart-contract-solidity-ethereum-dapp-part-1), and then started from scratch with a new project. This involved using Truffle, a CLI to help with writing and interacting with smart contracts and Ganache, a personal ethereum blockchain (for much quicker development), among some more common JavaScript tools.
 
 I did it entirely using TDD, so I wrote my tests first (in JavaScript, thank goodness) and then slowly but surely implemented the rules of the game.
 
@@ -42,46 +42,60 @@ I've written many Games of Life, but this was the most challenging.
 
 ## Challenges
 
-### Efficiency
+### Unforgiving
 
-Before starting, I was vaguely aware that the more work my contract did, the more 'expensive' it was to run. So, I had to focus on trying to keep it simple and efficient. Normally when doing the game life, I create a two-dimensional array to represent the grid, I loop through all the possible neighbours of each cell and I check if it is on or off the grid. With the languages I've used so far this is straightforward - most use signed integers and automatically allocate memory to store them.
+Before starting, I was vaguely aware that the more work my contract did, the more 'expensive' it was to run. So, I had to focus on trying to keep it simple and efficient. Normally when doing the game of life, I create a two-dimensional array to represent the grid, I loop through all the possible neighbours of each cell and I check if it is on or off the grid. With the languages I've used so far this is straightforward - most use signed integers and automatically allocate memory to store them, and often won't complain if I'm referencing an element which doesn't exist
 
-But with Solidity, I tried to make it efficient:
+With Solidity, I tried to make sure I wasn't going to even _try_ to reference a position in the grid that didn't exist (such as `-1`), since I'd then need to handle an error.
 
-* Tried to make sure I wasn't going to even _try_ to reference a position in the grid that didn't exist (such as `-1`).
-* Triedto avoid allocating too much memory for a number, e.g., 16 bits when all I needed was 8.
-* Switch between byte arrays and strings, or other types
+In an effort to make my contract more efficient, too, I tried to avoid allocating too much memory for a number, e.g., 16 bits when all I needed was 8. I Also tried to avoid switching between byte arrays and strings, when replacing the old world with the new one, so that less casting would be necessary.
 
-I suppose what I'm getting at is that I rarely have to deal with "proper" programming problems in my day-to-day, thanks to a combination of laziness, and laziness enabled by some very, very forgiving compilers and interpreters which do most of the work for me. So, this was actually pretty fun and more challenging than usual.
+Thanks to a combination of laziness, and laziness enabled by some very, very forgiving compilers and interpreters which do most of the work for me, my day-to-day programming doesn't involve too much thought about performance. So, this was actually pretty fun and more challenging than usual.
 
 ### Deployment - too much Gas?!
 
-I thought I'd need to be careful about allocating memory, and I thought I'd need to use byte arrays instead of strings to avoid casting too often, but I was wrong. After I got it all working, I started thinking more seriously about how much work would be done to deploy and run my contract.
+After I got it all working, I started learning more seriously about the cost of Ethereum transactions. It turns out that despite all this thought about performance and the runtime cost, I had inadventedly made my contract expensive even to deploy onto a network.
 
-I used the Rinkeby Test network to estimate the gas by running `ConwaysGameOfLife.new.estimateGas()` - 722539 - then looked up how much 1 Gas would be on the main-net at [https://ethgasstation.info/](https://ethgasstation.info/). The number I got for 'standard' speed was 118 Gwei, which means `118 * 722539 = 85,259,602`. In ETH, that's 0.085259602, which is about $112.92 USD at the time of writing. This is hypothetical, of course, until I decide to deploy to the main-net.
+Ethereum has this concept of "gas." Each time you perform a transaction of any kind (send ETH, deploy smart contract, interact with smart contract, etc) the initiating party must offer some ETH to the various miners on the network whose hardware processes the transactions. "One gas" is worth an amount in "Gwei", which is a denomination of the currency worth 0.000000001 ETH. That amount can be set by the person initiating, but the recommended price is a value which fluctuates based on supply and demand.
 
-To me, for a fun little project which probably nobody would use, that price was too high. I didn't know how much I would be willing to spend, but $112.92 is too much.
+With all of this in mind, I decided to find out how much it might cost to deploy might cost me, in a fiat currency such as the US Dollar. I opened up `truffle` to estimate the gas by running `ConwaysGameOfLife.new.estimateGas()`, looked up how much 1 gas would be on the main-net at [https://ethgasstation.info/](https://ethgasstation.info/), and found out the rate of ETH to USD. I've updated these numbers just before publishing, too, but they weren't too far off. This is how I worked out the cost.
 
-So, I set about reading how to improve the efficiency of a contract's deployment using [this little paper](http://article.nadiapub.com/IJGDC/vol10_no12/6.pdf) and implemented some changes. I got rid of some variables and hard-coded the values instead, among other changes. With each change, I'd `compile` and run `ConwaysGameOfLife.new.estimateGas()` again in the console. Down to `708354`, then `644904`. Then up again to `695936` - some things I did, weirdly, made it worse. Unintuitively, using larger integer types such as `uint` (256 bits) instead of smaller (`uint8`) somehow reduces gas costs.
 
-In this process, I also reduced the gas price for a transaction from `370270` gas to `72213` gas. With a gas cost of 118 gwei, that's $57.87 down to $11.29 per transaction.
+```
+gasPrice = 145                                    # Obtained from https://ethgasstation.info/
+transactionCostInGas = 722539                     # Obtained using `estimateGas()`
+ethToUSDPrice = 1305.33                           # Obtained from Google
+totalCostInGwei = gasPrice * transactionCostInGas # => 104768155
+totalCostInETH = totalCostInGwei * 0.000000001    # => 0.104768155
+totalCostInUSD = totalCostInETH * ethToUSDPrice   # => $136.76
+```
+
+That's $136.76 USD at the time of writing. This is hypothetical, of course, until I decide to deploy to the main-net.
+
+To me, for a fun little project which probably nobody would use, that price was too high. I didn't know how much I would be willing to spend, but $136.76 is too much.
+
+I started reading about how to improve the efficiency of a contract's deployment using [this little paper](http://article.nadiapub.com/IJGDC/vol10_no12/6.pdf) and implemented some changes. I got rid of some variables and hard-coded the values instead, among other changes. With each change, I'd run `truffle compile` then run `ConwaysGameOfLife.new.estimateGas()` again in `truffle console`. I got it down to `708354`, then `644904`.
+
+It then went up again to `695936` - some things I did, weirdly, made it worse. Unintuitively, using larger integer types such as `uint` (256 bits) instead of smaller (`uint8`) somehow reduces gas costs.
 
 I also experimented with increasing the size of the world from 5x5 to 10x5 as it looks a lot more fun. That brought the deployment gas price up to `652508` and `106708` for a transaction. But that would have meant re-doing all the tests since the size is now hardcoded in the contract. Not worth it on a project like that.
 
-In the end, I got the gas prices down:
+So, I settled on a solution which would cost `611944` to deploy. In this process, I also reduced the gas price for a transaction from `370270` gas to `72213` gas.
 
-* Deployment gas price: `611944`, which would be equivalent to about $95.63.
-  * Saving: `110595`, or $17.29.
-* Transaction gas price: `72213`, which would be equivalent to about $95.63.
-  * Saving: `298057`, or $46.58.
+In the end, here's where my hypothetical costs ended up:
+
+* Deployment gas price: `611944`, which would be equivalent to about $115.82.
+  * Saving: `110595`, or $20.93.
+* Transaction gas price: `72213`, which would be equivalent to about $13.66.
+  * Saving: `298057`, or $56.41.
 
 I was happy with this amount of rewriting in order to get a more efficient contract working.
 
 ### Networks
 
-During this project I was familiarised with the concept of "Web 3.0" In this "version" of the web, everything is distributed across a network rather than centralised in servers and served up to clients.
+I've become quite familiar with the concept of "Web 3.0." In this "version" of the web, everything is distributed across a network rather than centralised in servers and served up to clients. It would appear though that for the time being, the only part of traditional web app which gets distributed is the backend.
 
-In order to make this work, I had to use a JavaScript library currently injected by wallets such as MetaMask, but which can be injected independently to make the necessary requests.
+In order to interact with this backend from a web browser, I had to install `web3`, a JavaScript API for Ethereum, which involved a lot of async `await` statements and polling.
 
 In this world, rather than my backend being located at an IP address, resolved by a domain such as `gameoflife.com`, it's located at an Ethereum address which is resolved by a contract name such as `GameOfLife`, which may or may not be on the specified network.
 
@@ -101,7 +115,7 @@ I learned that writing basic Smart Contracts for Ethereum isn't too tricky - lik
 
 I also learned how one can create an interface between "web 2.0" applications and "web 3.0" applications, and the tooling available for that is pretty decent too. For instance, if I wanted to <a href="#" class="sendEthButton">ask for a donation in ETH I could make it super easy with a JavaScript function</a>.
 
-Also, a mind to application performance means a heck of a lot more when the effort is directly linked to a currency.
+Also, a mind to application performance means a heck of a lot more when the operating cost can be measured in direct, immediate currency transactions, as opposed to a some-time-in-the-future slight increase in AWS fees over time, for example.
 
 <script type="text/javascript">
   const sendEthButton = document.querySelector('.sendEthButton');
