@@ -50,7 +50,7 @@ Before starting, I was vaguely aware that the more work my contract did, the mor
 
 With Solidity, I tried to make sure I wasn't going to even _try_ to reference a position in the grid that didn't exist (such as `-1`), since I'd then need to handle an error.
 
-In an effort to make my contract more efficient, too, I tried to avoid allocating too much memory for a number, e.g., 16 bits when all I needed was 8. I Also tried to avoid switching between byte arrays and strings, when replacing the old world with the new one, so that less casting would be necessary.
+In an effort to make my contract more efficient, I tried to avoid allocating too much memory for a number, e.g., 16 bits when all I needed was 8. I also tried to avoid switching between byte arrays and strings, when replacing the old world with the new one, so that less casting would be necessary.
 
 Thanks to a combination of laziness, and laziness enabled by some very, very forgiving compilers and interpreters which do most of the work for me, my day-to-day programming doesn't involve too much thought about performance. So, this was actually pretty fun and more challenging than usual.
 
@@ -60,7 +60,7 @@ After I got it all working, I started learning more seriously about the cost of 
 
 Ethereum has this concept of "gas." Each time you perform a transaction of any kind (send ETH, deploy smart contract, interact with smart contract, etc) the initiating party must offer some ETH to the various miners on the network whose hardware processes the transactions. "One gas" is worth an amount in "Gwei", which is a denomination of the currency worth 0.000000001 ETH. That amount can be set by the person initiating, but the recommended price is a value which fluctuates based on supply and demand.
 
-With all of this in mind, I decided to find out how much it might cost to deploy might cost me, in a fiat currency such as the US Dollar. I opened up `truffle` to estimate the gas by running `ConwaysGameOfLife.new.estimateGas()`, looked up how much 1 gas would be on the main-net at [https://ethgasstation.info/](https://ethgasstation.info/), and found out the rate of ETH to USD. I've updated these numbers just before publishing, too, but they weren't too far off. This is how I worked out the cost.
+With all of this in mind, I decided to find out how much it might cost to deploy in a fiat currency such as the US Dollar. I opened up `truffle console` to estimate the gas by running `ConwaysGameOfLife.new.estimateGas()`, looked up how much 1 gas would be on the main-net at [https://ethgasstation.info/](https://ethgasstation.info/), and found out the rate of ETH to USD. This is how I worked out the cost.
 
 
 ```
@@ -74,22 +74,20 @@ costInUSD = costInETH * ethToUSDPrice # => $136.76
 
 That's $136.76 USD at the time of writing. This is hypothetical, until I decide to deploy to the main-net.
 
-To me, for a fun little project which probably nobody would use, that price was too high. I didn't know how much I would be willing to spend, but $136.76 is too much.
+To me, for a fun little project which probably nobody would use, that price was too high. I don't know how much I'd be willing to spend, but $136.76 is too much.
 
-I started reading about how to improve the efficiency of a contract's deployment using [this little paper](http://article.nadiapub.com/IJGDC/vol10_no12/6.pdf) and implemented some changes. I got rid of some variables and hard-coded the values instead, among other changes. With each change, I'd run `truffle compile` then run `ConwaysGameOfLife.new.estimateGas()` again in `truffle console`. I got it down to `708354`, then `644904`.
+I Googled how to improve the efficiency of a contract's deployment and found [this little paper](http://article.nadiapub.com/IJGDC/vol10_no12/6.pdf). So I got rid of some variables and hard-coded the values instead, among other changes. With each change, I'd run `truffle compile` and `estimateGas()`.
 
-It then went up again to `695936` - some things I did, weirdly, made it worse. Unintuitively, using larger integer types such as `uint` (256 bits) instead of smaller (`uint8`) somehow reduces gas costs.
+First, I got it down to **708,354 gas**, then **644,904 gas**. Then it went up again to **695,936 gas**; some things I did made it worse. Unintuitively, using larger integer types such as `uint` (256 bits) instead of smaller (`uint8`) reduces gas costs.
 
-I also experimented with increasing the size of the world from 5x5 to 10x5 as it looks a lot more fun. That brought the deployment gas price up to `652508` and `106708` for a transaction. But that would have meant re-doing all the tests since the size is now hardcoded in the contract. Not worth it on a project like that.
+I also experimented with increasing the size of the world from 5x5 to 10x5. That brought the deployment price up to **652,508 gas** and the transaction price to **106,708 gas**. Committing to this, though, would mean re-doing the tests since the size is now hardcoded in the contract. By this point, I had sunk more than enough time into it.
 
-So, I settled on a solution which would cost `611944` to deploy. In this process, I also reduced the gas price for a transaction from `370270` gas to `72213` gas.
+In the end, I settled on a solution with these hypothetical costs:
 
-In the end, here's where my hypothetical costs ended up:
-
-* Deployment gas price: `611944`, which would be equivalent to about $115.82.
-  * Saving: `110595`, or $20.93.
-* Transaction gas price: `72213`, which would be equivalent to about $13.66.
-  * Saving: `298057`, or $56.41.
+* Deployment price: **611,944 gas**, which would be equivalent to about $115.82.
+  * Saving: **110,595 gas**, or $20.93.
+* Transaction price: **72,213 gas**, which would be equivalent to about $13.66.
+  * Saving: **298,057 gas**, or $56.41.
 
 I was happy with this amount of rewriting in order to get a more efficient contract working.
 
@@ -105,11 +103,11 @@ It's an interesting paradigm shift, but interacting with it through a web browse
 
 ## Why'd I do it?
 
-The future of cryptocurrency is uncertain. My own opinions about the future of cryptocurrency change every day. Nonetheless, at the moment, Bitcoin and Ethereum are in the news more than, say, a year ago. There is a chance there'll be more demand for smart contracts and developers who know how to work with them in the future. In my opinion, it's important for me to keep on learning new skills not only to progress my career, but to make life more interesting.
+The future of cryptocurrency is uncertain, and my feelings about the subject change every day. However, Bitcoin and Ethereum are in the news a lot right now, so it feels relevant. There is a chance there'll be more demand for smart contracts and developers who know how to work with them in the future. It feels important for me to keep on learning new skills not only to progress my career, but to make life more interesting.
 
 ## Why not put it on the main-net?
 
-As I explained earlier, the Gas price fo deployment is fairly high. After showing it to a few Ethereum enthusiasts, I came to the conclusion that there was no need to spend the money, buy the ETH and put it on the main-net. There are better uses of this blockchain out there than Conway's Game of Life. My goal here was experimentation and learning, both of which I achieved with the Rinkeby test network. Oh, and if you come across `ConwaysGameOfLife` on the main-net, unless I edit this post and mention it here, it isn't mine!
+As I explained earlier, the gas price for deployment is fairly high. After showing it to a few Ethereum enthusiasts, I came to the conclusion that there was no need to spend the money, buy the ETH and put it on the main-net. There are better uses of this blockchain out there than Conway's Game of Life. My goal here was experimentation and learning, both of which I achieved with the Rinkeby test network. Oh, and if you come across `ConwaysGameOfLife` on the main-net, unless I edit this post and mention it here, it isn't mine!
 
 ## Reflections
 
