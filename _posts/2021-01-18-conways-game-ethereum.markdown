@@ -16,13 +16,13 @@ Want to see it??<br>➡️ Visit [Conway's Game of Life for Ethereum](https://co
 
 Since 2014 I have been slowly (very slowly) building [implementations of Conway's Game of Life for different programming languages and technologies](https://github.com/conwaysgame/).
 
-Most recently I set out to write a version of the Game of Life which "runs on Ethereum". In other words, it's a Smart Contract. In other words, it's a Distributed App (Dapp). In other words, it's a small application written in Solidity. There are many ways to describe it but the coolest way, in my opinion is, "it's Conway's Game of Life for Ethereum".
+Most recently I set out to write a version of the Game of Life which "runs on Ethereum". In other words, it's a Smart Contract. In other words, it's a Distributed App (Dapp). In other words, it's a small application written in Solidity. There are many ways to describe it but the coolest way, in my opinion is, "it's Conway's Game of Life for Ethereum."
 
 {% include _figure.html src="https://media.giphy.com/media/aoAjnVBmYGZ7bu4SYh/giphy.gif" caption="Here's a transaction taking place." %}
 
 ## Try it out
 
-As I'll explain later, installing this on the Ethereum main-net was not on the cards, but if you want to play with it, you can do so using the Rinkeby Test Network - or you can just watch as others do.
+As I'll explain later, I decided not to deploy this on the Ethereum main-net, so if you want to play with it, you can do so using the Rinkeby Test Network - or you can just watch as others do.
 
 * Visit [the web application](https://conwaysgame.github.io/solidity-ethereum/).
 * See the current state of the world.
@@ -105,11 +105,11 @@ It's an interesting paradigm shift, but interacting with it through a web browse
 
 ## Why'd I do it?
 
-The future of cryptocurrencies is uncertain. My own opinions about the future of cryptocurrencies change every day. Nonetheless, at the moment, Bitcoin and Ethereum are in the news more than, say, a year ago. There is a chance there'll be more demand for smart contracts and developers who know how to work with them in the future. In my opinion, it's important for me to keep on learning new skills not only to progress my career, but to make life more interesting.
+The future of cryptocurrency is uncertain. My own opinions about the future of cryptocurrency change every day. Nonetheless, at the moment, Bitcoin and Ethereum are in the news more than, say, a year ago. There is a chance there'll be more demand for smart contracts and developers who know how to work with them in the future. In my opinion, it's important for me to keep on learning new skills not only to progress my career, but to make life more interesting.
 
 ## Why not put it on the main-net?
 
-As I explained earlier, the Gas price fo deployment is fairly high. After showing it off to a few Ethereum enthusiasts, I came to the conclusion that there was no need to spend the money, buy the ETH and put it on the main-net. There are better uses of this blockchain out there than Conway's Game of Life. My goal here was experimentation and learning, both of which I achieved with the Rinkeby test network. Oh, and if you come across `ConwaysGameOfLife` on the main-net, unless I edit this post and mention it here, it isn't mine!
+As I explained earlier, the Gas price fo deployment is fairly high. After showing it to a few Ethereum enthusiasts, I came to the conclusion that there was no need to spend the money, buy the ETH and put it on the main-net. There are better uses of this blockchain out there than Conway's Game of Life. My goal here was experimentation and learning, both of which I achieved with the Rinkeby test network. Oh, and if you come across `ConwaysGameOfLife` on the main-net, unless I edit this post and mention it here, it isn't mine!
 
 ## Reflections
 
