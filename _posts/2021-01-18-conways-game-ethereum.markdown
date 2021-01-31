@@ -64,12 +64,12 @@ With all of this in mind, I decided to find out how much it might cost to deploy
 
 
 ```
-gasPrice = 145                                  # Obtained from ethgasstation
-transactionCostGas = 722539                     # Obtained using `estimateGas()`
-ethToUSDPrice = 1305.33                         # Obtained from Google
-totalCostInGwei = gasPrice * transactionCostGas # => 104768155
-totalCostInETH = totalCostInGwei * 0.000000001  # => 0.104768155
-totalCostInUSD = totalCostInETH * ethToUSDPrice # => $136.76
+gasPrice = 145                        # Obtained from ethgasstation
+gasTxCost = 722539                    # Obtained using `estimateGas()`
+ethToUSDPrice = 1305.33               # Obtained from Google
+costInGwei = gasPrice * gasTxCost     # => 104768155
+costInETH = costInGwei * 0.000000001  # => 0.104768155
+costInUSD = costInETH * ethToUSDPrice # => $136.76
 ```
 
 That's $136.76 USD at the time of writing. This is hypothetical, of course, until I decide to deploy to the main-net.
