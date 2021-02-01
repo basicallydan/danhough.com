@@ -117,6 +117,12 @@ I also learned how one can create an interface between "web 2.0" applications an
 
 Also, a mind to application performance means a heck of a lot more when the operating cost can be measured in direct, immediate currency transactions, as opposed to a some-time-in-the-future slight increase in AWS fees over time, for example.
 
+---
+
+Remember, you can [take a look at Conway's Game of Life for Ethereum](https://conwaysgame.github.io/solidity-ethereum/) right now. If you'd like to check out the code or maybe make some improvements or raise an issue, [the code is on GitHub](https://github.com/conwaysgame/solidity-ethereum) and I'd love to hear from you.
+
+As a final note, I'd like to offer sincere thanks to [ligi](https://twitter.com/mr_ligi) for trying it out and offering valuable opinions, as well as Reddit users /u/FrequentMushroom, /u/liberated, /u/Phistofeles, /u/hodak2 and /u/squeeze_tooth_paste for trying it also. I'd also like to thank my very good friends for their keen eyes and candid critique: the ever-encouraging and intelligent [Jon Finerty](https://twitter.com/jonfinerty) and [Matt Lewis](https://twitter.com/yjhda).
+
 <script type="text/javascript">
   const sendEthButton = document.querySelector('.sendEthButton');
 
