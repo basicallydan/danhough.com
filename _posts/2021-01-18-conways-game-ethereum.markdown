@@ -46,9 +46,9 @@ I've written many Games of Life, but this was the most challenging.
 
 ### Unforgiving
 
-Before starting, I was vaguely aware that the more work my contract did, the more 'expensive' it was to run. So, I had to focus on trying to keep it simple and efficient. Normally when doing the game of life, I create a two-dimensional array to represent the grid, I loop through all the possible neighbours of each cell and I check if it is on or off the grid. With the languages I've used so far this is straightforward - most use signed integers and automatically allocate memory to store them, and often won't complain if I'm referencing an element which doesn't exist
+Before starting, I vaguely knew that the more work my contract did, the more 'expensive' it was to run. So I focused on trying to make it efficient. Normally when implementing the game of life, I create a two-dimensional array to represent the world, loop through all the possible neighbours of each cell and I check if it is on or off the grid. With the languages I've used so far this is straightforward: many allow signed, negative integers for indexes and automatically allocate memory, and often won't complain if I'm referencing an element which doesn't exist.
 
-With Solidity, I tried to make sure I wasn't going to even _try_ to reference a position in the grid that didn't exist (such as `-1`), since I'd then need to handle an error.
+With Solidity, I tried to make sure I wasn't going to even _try_ to reference a position in the grid that didn't exist (such as `-1`), since I'd then need to handle an error. It's definitely better to _avoid_ an error here.
 
 In an effort to make my contract more efficient, I tried to avoid allocating too much memory for a number, e.g., 16 bits when all I needed was 8. I also tried to avoid switching between byte arrays and strings, when replacing the old world with the new one, so that less casting would be necessary.
 
