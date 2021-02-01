@@ -107,43 +107,47 @@ The future of cryptocurrency is uncertain, and my feelings about the subject cha
 
 ## Why not put it on the main-net?
 
-As I explained earlier, the gas price for deployment is fairly high. After showing it to a few Ethereum enthusiasts, I came to the conclusion that there was no need to spend the money, buy the ETH and put it on the main-net. There are better uses of this blockchain out there than Conway's Game of Life. My goal here was experimentation and learning, both of which I achieved with the Rinkeby test network. Oh, and if you come across `ConwaysGameOfLife` on the main-net, unless I edit this post and mention it here, it isn't mine!
+As I explained earlier, the gas price for deployment is fairly high. After showing it to a few Ethereum enthusiasts, I came to the conclusion that there was no need to spend the money, buy the ETH and put it on the main-net. There are better uses of this blockchain out there than Conway's Game of Life. My goal here was experimentation and learning, both of which I achieved with the Rinkeby test network. Oh, and if you come across a contract called `ConwaysGameOfLife` on the main-net, unless I edit this post and mention it here, it isn't mine!
 
 ## Reflections
 
 I learned that writing basic Smart Contracts for Ethereum isn't too tricky - like with any sofware, there's an input and an output. The challenge, as expected, was getting my environment set up. It wasn't too difficult to do that, though.
 
-I also learned how one can create an interface between "web 2.0" applications and "web 3.0" applications, and the tooling available for that is pretty decent too. For instance, if I wanted to <a href="#" class="sendEthButton">ask for a donation in ETH I could make it super easy with a JavaScript function</a>.
+I also learned how one can create an interface between "web 2.0" applications and "web 3.0" applications, and the tooling available for that is pretty decent too. <span id="sendEthBlock">For instance, if I wanted to <a href="#" class="sendEthButton">ask for a donation in ETH I could make it super easy with a JavaScript function</a>.</span>
 
 Also, a mind to application performance means a heck of a lot more when the operating cost can be measured in direct, immediate currency transactions, as opposed to a some-time-in-the-future slight increase in AWS fees over time, for example.
 
 <script type="text/javascript">
   const sendEthButton = document.querySelector('.sendEthButton');
 
-  //Sending Ethereum to an address
-  sendEthButton.addEventListener('click', e => {
-    e.preventDefault()
-    if (!ethereum) {
-      alert("You don't have a wallet installed in your browser. Search for Metamask :)")
-    }
-    // debugger
-    ethereum.request({ method: 'eth_requestAccounts' }).then(accounts => {
-      debugger
-      ethereum
-        .request({
-          method: 'eth_sendTransaction',
-          params: [
-            {
-              from: accounts[0],
-              to: '0x860c8513dE758223C59D7dFc544298b4Bf059288',
-              value: '0x5af3107a4000',
-              gasPrice: '0x09184e72a000',
-              gas: '0x2710',
-            },
-          ],
-        })
-        .then((txHash) => console.log(txHash))
-        .catch((error) => console.error);
+  if (typeof ethereum === 'undefined') {
+    document.getElementById('sendEthBlock').style.display = 'none'
+  } else {
+    // Sending Ethereum to an address
+    sendEthButton.addEventListener('click', e => {
+      e.preventDefault()
+      if (typeof ethereum === 'undefined') {
+        alert('You don\'t have a wallet installed in your browser. Search for Metamask :)')
+      } else {
+        ethereum.request({ method: 'eth_requestAccounts' }).then(accounts => {
+          debugger
+          ethereum
+            .request({
+              method: 'eth_sendTransaction',
+              params: [
+                {
+                  from: accounts[0],
+                  to: '0x860c8513dE758223C59D7dFc544298b4Bf059288',
+                  value: '0x5af3107a4000',
+                  gasPrice: '0x09184e72a000',
+                  gas: '0x2710',
+                },
+              ],
+            })
+            .then((txHash) => console.log(txHash))
+            .catch((error) => console.error);
+        });
+      }
     });
-  });
+  }
 </script>
