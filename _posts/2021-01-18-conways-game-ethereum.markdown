@@ -7,7 +7,7 @@ comments: true
 description: I built Conway's Game of Life to run on the Ethereum Blockchain network, using Solidity - you can use it now!
 time_to_read_estimate: 7
 twitterCardType: summary_large_image
-tags: [cryptocurrency, ethereum, blockchain, gameoflife, experiments]
+tags: [cryptocurrency, ethereum, blockchain]
 thumbnail: "!SITE_URL!/img/game-of-life-ethereum/game-of-life-eth-tw.png"
 ogthumbnail: "!SITE_URL!/img/game-of-life-ethereum/game-of-life-eth-og.png"
 ---
