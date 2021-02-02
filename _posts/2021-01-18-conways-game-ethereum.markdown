@@ -52,7 +52,7 @@ With Solidity, I tried to make sure I wasn't going to even _try_ to reference a 
 
 In an effort to make my contract more efficient, I tried to avoid allocating too much memory for a number, e.g., 16 bits when all I needed was 8. I also tried to avoid switching between byte arrays and strings, when replacing the old world with the new one, so that less casting would be necessary.
 
-Thanks to a laziness enabled by some very, very forgiving compilers and interpreters which do most of the work for me, my day-to-day doesn't involve quite so much decision-making around integer sizes or memory allocation. This was surprisingly fun and a very different challenge than usual.
+Thanks to a some very, very forgiving compilers and interpreters which do most of this work for me, my day-to-day doesn't often involve quite so much decision-making around integer sizes or memory allocation. This was surprisingly fun and a very different challenge than usual.
 
 ### Deployment - too much Gas?!
 
