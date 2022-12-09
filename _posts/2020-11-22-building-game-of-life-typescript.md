@@ -4,6 +4,7 @@ title: The Game of Life in TypeScript
 date_created: 27 November 2020
 description: Game of Life in every language? Like a tasting menu of code.
 tags: [devlogs, tdd]
+category: popular
 location: Vancouver, BC, Canada
 twitterCardType: summary_large_image
 time_to_read_estimate: 10
@@ -45,13 +46,13 @@ I found a [pretty standard jest config for TypeScript](https://dev.to/muhajirdev
 // jest.config.js
 
 module.exports = {
-  roots: ['<rootDir>/src'],
+  roots: ["<rootDir>/src"],
   transform: {
-    '^.+\\.tsx?$': 'ts-jest',
+    "^.+\\.tsx?$": "ts-jest",
   },
-  testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$',
-  moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
-}
+  testRegex: "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$",
+  moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json", "node"],
+};
 ```
 
 I also added this to my `package.json`:
@@ -89,19 +90,19 @@ This is probably the simplest way to output the data, since it's easy to interpe
 
 // I'm going with an OOP implementation, so an instance
 // of Game should maintain the board state
-import { Game } from './game'
+import { Game } from "./game";
 
-test('should correctly output the intial cell configuration', () => {
+test("should correctly output the intial cell configuration", () => {
   const startingBoard = [
-    [0,0,0,1,0],
-    [0,0,0,1,0],
-    [1,0,0,0,0],
-    [0,0,0,0,0],
-    [0,0,1,1,0]
-  ]
-  // It's quite likely `board` will change - I'm not sure 
-  expect(new Game(startingBoard).board).toBe(startingBoard)
-})
+    [0, 0, 0, 1, 0],
+    [0, 0, 0, 1, 0],
+    [1, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0],
+    [0, 0, 1, 1, 0],
+  ];
+  // It's quite likely `board` will change - I'm not sure
+  expect(new Game(startingBoard).board).toBe(startingBoard);
+});
 ```
 
 Following the pattern of [_Red, Green, Refactor_](https://medium.com/@mbauza/red-green-refactor-1a3fb160e649), I created a `Game` module and ran `yarn test`:
@@ -110,8 +111,7 @@ Following the pattern of [_Red, Green, Refactor_](https://medium.com/@mbauza/red
 // game.ts
 
 export class Game {
-  constructor(board: Array<Array<number>>) {
-  }
+  constructor(board: Array<Array<number>>) {}
 }
 ```
 
@@ -119,10 +119,10 @@ That's enough to make the thing fail in a legitimate manner. Now it needs to be 
 
 ```ts
 export class Game {
-  board: Array<Array<number>>
+  board: Array<Array<number>>;
 
   constructor(board: Array<Array<number>>) {
-    this.board = board
+    this.board = board;
   }
 }
 ```
@@ -146,28 +146,28 @@ The reason Conway's Game is so useful as tool for teaching TDD is that these rul
 // game.test.ts
 // ...
 
-test('when there is one live cell in the middle, and fewer than two live neighbours, it dies as if by underpopulation', () => {
+test("when there is one live cell in the middle, and fewer than two live neighbours, it dies as if by underpopulation", () => {
   const startingBoard = [
-    [0,0,0],
-    [0,1,0],
-    [0,0,0],
-  ]
+    [0, 0, 0],
+    [0, 1, 0],
+    [0, 0, 0],
+  ];
 
   const nextStepBoard = [
-    [0,0,0],
-    [0,0,0],
-    [0,0,0],
-  ]
+    [0, 0, 0],
+    [0, 0, 0],
+    [0, 0, 0],
+  ];
 
-  const game = new Game(startingBoard)
+  const game = new Game(startingBoard);
 
-  game.step()
+  game.step();
 
   // It's gotta be toEqual here, because toBe
   // expects them to be exactly the game object. We just need
   // them to _look_ the same.
-  expect(game.board).toEqual(nextStepBoard)
-})
+  expect(game.board).toEqual(nextStepBoard);
+});
 ```
 
 The simplest way to make this pass is to simply set `this.board` to the expected end point. I won't bore you with that step - so I wrote another test which is a 4x3 grid with a live cell in the top-left instead. To make this test, and that one pass, I implemented the following function for `step`:
@@ -189,37 +189,37 @@ We now have the most boring version of the Game of Life available to us. Let's i
 We can write a nice isolated test for this:
 
 ```ts
-test('when there is one live cell in the top-middle, and two live neighbours, it lives on to the next generation', () => {
+test("when there is one live cell in the top-middle, and two live neighbours, it lives on to the next generation", () => {
   const startingBoard = [
-    [1,1,1],
-    [0,0,0],
-  ]
+    [1, 1, 1],
+    [0, 0, 0],
+  ];
 
   const nextStepBoard = [
-    [0,1,0],
-    [0,0,0],
-  ]
+    [0, 1, 0],
+    [0, 0, 0],
+  ];
 
-  const game = new Game(startingBoard)
+  const game = new Game(startingBoard);
 
-  game.step()
+  game.step();
 
-  expect(game.board).toEqual(nextStepBoard)
-})
+  expect(game.board).toEqual(nextStepBoard);
+});
 ```
 
 We also have to write a test for when there are three live neighbours, for which the starting and resulting boards should look like this:
 
 ```ts
 const startingBoard = [
-  [1,1,1],
-  [0,1,0],
-]
+  [1, 1, 1],
+  [0, 1, 0],
+];
 
 const nextStepBoard = [
-  [1,1,1],
-  [0,1,0],
-]
+  [1, 1, 1],
+  [0, 1, 0],
+];
 ```
 
 Now we can expand the `step` function to have it work out the number of living neighbours for a cell:
@@ -250,27 +250,26 @@ step() {
 
 A test for this case looks like this:
 
-
 ```ts
-test('when there is one live cell in the middle, and four live neighbours, it dies as if by overpopulation', () => {
+test("when there is one live cell in the middle, and four live neighbours, it dies as if by overpopulation", () => {
   const startingBoard = [
-    [1,0,1],
-    [1,1,1],
-    [0,0,0],
-  ]
+    [1, 0, 1],
+    [1, 1, 1],
+    [0, 0, 0],
+  ];
 
   const nextStepBoard = [
-    [1,0,1],
-    [1,0,1],
-    [0,0,0],
-  ]
+    [1, 0, 1],
+    [1, 0, 1],
+    [0, 0, 0],
+  ];
 
-  const game = new Game(startingBoard)
+  const game = new Game(startingBoard);
 
-  game.step()
+  game.step();
 
-  expect(game.board).toEqual(nextStepBoard)
-})
+  expect(game.board).toEqual(nextStepBoard);
+});
 ```
 
 There isn't any additional implementation to make this one work - it already does because the parts of the code which drive the other cases are so specific to their cases.
@@ -282,25 +281,25 @@ There isn't any additional implementation to make this one work - it already doe
 The test for this case:
 
 ```ts
-test('when there is one dead cell in the middle, and three live neighbours, it becomes live, as if by reproduction', () => {
+test("when there is one dead cell in the middle, and three live neighbours, it becomes live, as if by reproduction", () => {
   const startingBoard = [
-    [1,0,1],
-    [0,0,0],
-    [0,0,1],
-  ]
+    [1, 0, 1],
+    [0, 0, 0],
+    [0, 0, 1],
+  ];
 
   const nextStepBoard = [
-    [0,0,0],
-    [0,1,0],
-    [0,0,0],
-  ]
+    [0, 0, 0],
+    [0, 1, 0],
+    [0, 0, 0],
+  ];
 
-  const game = new Game(startingBoard)
+  const game = new Game(startingBoard);
 
-  game.step()
+  game.step();
 
-  expect(game.board).toEqual(nextStepBoard)
-})
+  expect(game.board).toEqual(nextStepBoard);
+});
 ```
 
 This fails upon first run - we don't have any code covering this case yet. Hopefully I can easily implement it without breaking the other tests.
@@ -364,7 +363,7 @@ Fixing those three tests is a matter of looking at the initial state and, with t
 It occurred to me early on that I might come across this problem, and the `expect` lines should have been more specific. For example, in the case of the above test, I could have written
 
 ```ts
-expect(game.board[1][1]).toEqual(1)
+expect(game.board[1][1]).toEqual(1);
 ```
 
 ...since that's why I was writing the test. That way, they wouldn't have failed when new requirements were added.
@@ -378,61 +377,61 @@ However, I think if I were to do it again I'd do it the first way - an assertion
 One of the emergent behaviours of the rules of Conway's Game of Life is the "glider", an arrangement of cells which, unless interrupted by other cells, will continually "move" across the board indefinitely. If everything has been implemented properly, then this test should just pass:
 
 ```ts
-test('when there is a glider on the board, it moves', () => {
+test("when there is a glider on the board, it moves", () => {
   const startingBoard = [
-    [0,0,0,0,0],
-    [0,0,1,0,0],
-    [1,0,1,0,0],
-    [0,1,1,0,0],
-    [0,0,0,0,0],
-  ]
+    [0, 0, 0, 0, 0],
+    [0, 0, 1, 0, 0],
+    [1, 0, 1, 0, 0],
+    [0, 1, 1, 0, 0],
+    [0, 0, 0, 0, 0],
+  ];
 
   const firstStepBoard = [
-    [0,0,0,0,0],
-    [0,1,0,0,0],
-    [0,0,1,1,0],
-    [0,1,1,0,0],
-    [0,0,0,0,0],
-  ]
+    [0, 0, 0, 0, 0],
+    [0, 1, 0, 0, 0],
+    [0, 0, 1, 1, 0],
+    [0, 1, 1, 0, 0],
+    [0, 0, 0, 0, 0],
+  ];
 
   const secondStepBoard = [
-    [0,0,0,0,0],
-    [0,0,1,0,0],
-    [0,0,0,1,0],
-    [0,1,1,1,0],
-    [0,0,0,0,0],
-  ]
+    [0, 0, 0, 0, 0],
+    [0, 0, 1, 0, 0],
+    [0, 0, 0, 1, 0],
+    [0, 1, 1, 1, 0],
+    [0, 0, 0, 0, 0],
+  ];
 
   const thirdStepBoard = [
-    [0,0,0,0,0],
-    [0,0,0,0,0],
-    [0,1,0,1,0],
-    [0,0,1,1,0],
-    [0,0,1,0,0],
-  ]
+    [0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0],
+    [0, 1, 0, 1, 0],
+    [0, 0, 1, 1, 0],
+    [0, 0, 1, 0, 0],
+  ];
 
   const fourthStepBoard = [
-    [0,0,0,0,0],
-    [0,0,0,0,0],
-    [0,0,0,1,0],
-    [0,1,0,1,0],
-    [0,0,1,1,0],
-  ]
+    [0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0],
+    [0, 0, 0, 1, 0],
+    [0, 1, 0, 1, 0],
+    [0, 0, 1, 1, 0],
+  ];
 
-  const game = new Game(startingBoard)
+  const game = new Game(startingBoard);
 
-  game.step()
-  expect(game.board).toEqual(firstStepBoard)
+  game.step();
+  expect(game.board).toEqual(firstStepBoard);
 
-  game.step()
-  expect(game.board).toEqual(secondStepBoard)
+  game.step();
+  expect(game.board).toEqual(secondStepBoard);
 
-  game.step()
-  expect(game.board).toEqual(thirdStepBoard)
+  game.step();
+  expect(game.board).toEqual(thirdStepBoard);
 
-  game.step()
-  expect(game.board).toEqual(fourthStepBoard)
-})
+  game.step();
+  expect(game.board).toEqual(fourthStepBoard);
+});
 ```
 
 And indeed it does pass. We now have a functioning Game of Life. The next step is to render it somehow. In this case, I'm going to have it run on the command line. In order to see that working, here's something I threw together:
@@ -444,45 +443,44 @@ And here's the code:
 ```ts
 #!/usr/bin/env node
 
-const clear = require('clear')
-const chalk = require('chalk');
+const clear = require("clear");
+const chalk = require("chalk");
 
-import { Game } from './game'
+import { Game } from "./game";
 
 function printBoard(board: Array<Array<number>>) {
-  let boardString = ''
+  let boardString = "";
   for (let row of board) {
     for (let cell of row) {
-      boardString += (cell === 0) ? '   ' : chalk.bgWhite('   ')
+      boardString += cell === 0 ? "   " : chalk.bgWhite("   ");
     }
-    boardString += '\n'
+    boardString += "\n";
   }
-  console.log(boardString)
+  console.log(boardString);
 }
 
-clear()
+clear();
 const game = new Game([
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,1,0,0,0,0,0,0,0,0,0,0,0],
-  [1,0,1,0,0,0,0,0,0,0,0,0,0,0],
-  [0,1,1,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-  [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-])
-
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+]);
 
 setInterval(() => {
-  clear()
-  printBoard(game.board)
-  game.step()
-}, 250)
+  clear();
+  printBoard(game.board);
+  game.step();
+}, 250);
 ```
 
 You can check it all out on [the GitHub page for the repo](https://github.com/conwaysgame/typescript). If you're a TypeScript person and would like to change things, please feel free to raise an issue or open a pull request. Enjoy!

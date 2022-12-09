@@ -3,6 +3,7 @@ layout: post
 title: Use fnm, not nvm. It's faster.
 date_created: 20 September 2020
 tags: [devlogs]
+category: popular
 location: Vancouver, BC, Canada
 ---
 

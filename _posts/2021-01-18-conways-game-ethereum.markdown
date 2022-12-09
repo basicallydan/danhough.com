@@ -8,6 +8,7 @@ description: I built Conway's Game of Life to run on the Ethereum Blockchain net
 time_to_read_estimate: 7
 twitterCardType: summary_large_image
 tags: [cryptocurrency, ethereum, blockchain]
+category: popular
 thumbnail: "!SITE_URL!/img/game-of-life-ethereum/game-of-life-eth-tw.png"
 ogthumbnail: "!SITE_URL!/img/game-of-life-ethereum/game-of-life-eth-og.png"
 ---
@@ -24,11 +25,11 @@ Most recently I set out to write a version of the Game of Life which "runs on Et
 
 As I'll explain later, I decided not to deploy this on the Ethereum main-net, so if you want to play with it, you can do so using the Rinkeby Test Network - or you can just watch as others do.
 
-* Visit [the web application](https://conwaysgame.github.io/solidity-ethereum/).
-* See the current state of the world.
-* (Optional) Get some ETH from the [Rinkeby Faucet](https://faucet.rinkeby.io/).
-* Transfer 0.00001 ETH to the contract address (and pay the gas charge) listed on the page<br>(you can do this easily via MetaMask, or just manually).
-* Check the web app again, the state of the world should have changed.
+- Visit [the web application](https://conwaysgame.github.io/solidity-ethereum/).
+- See the current state of the world.
+- (Optional) Get some ETH from the [Rinkeby Faucet](https://faucet.rinkeby.io/).
+- Transfer 0.00001 ETH to the contract address (and pay the gas charge) listed on the page<br>(you can do this easily via MetaMask, or just manually).
+- Check the web app again, the state of the world should have changed.
 
 I'd recommend also installing [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en), or using [Brave](https://brave.com/) as your browser, in order to make transactions more easily.
 
@@ -62,7 +63,6 @@ Ethereum has this concept of "gas." Each time you perform a transaction of any k
 
 With all of this in mind, I decided to find out how much it might cost to deploy in a fiat currency such as the US Dollar. I opened up `truffle console` to estimate the gas by running `ConwaysGameOfLife.new.estimateGas()`, looked up how much 1 gas would be on the main-net at [https://ethgasstation.info/](https://ethgasstation.info/), and found out the rate of ETH to USD. This is how I worked out the cost.
 
-
 ```
 gasPrice = 145                        # Obtained from ethgasstation
 gasTxCost = 722539                    # Obtained using `estimateGas()`
@@ -84,10 +84,10 @@ I also experimented with increasing the size of the world from 5x5 to 10x5. That
 
 In the end, I settled on a solution with these hypothetical costs:
 
-* Deployment price: **611,944 gas**, which would be equivalent to about $115.82.
-  * Saving: **110,595 gas**, or $20.93.
-* Transaction price: **72,213 gas**, which would be equivalent to about $13.66.
-  * Saving: **298,057 gas**, or $56.41.
+- Deployment price: **611,944 gas**, which would be equivalent to about $115.82.
+  - Saving: **110,595 gas**, or $20.93.
+- Transaction price: **72,213 gas**, which would be equivalent to about $13.66.
+  - Saving: **298,057 gas**, or $56.41.
 
 I was happy with this amount of rewriting in order to get a more efficient contract working.
 
