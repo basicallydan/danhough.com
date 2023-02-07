@@ -42,17 +42,23 @@
 #latest-articles-navigation {
 	.post-list-item:first-child {
 		a:link, a:hover, a:visited {
+			display: inline;
+			display: flex;
+			flex-direction: row;
 			&:after {
-				content:'New';
-				margin-left:$small-margin;
-				text-transform:uppercase;
-				font-size:$small-font-size;
-				line-height:$standard-font-size;
-				background-color:$main-red;
-				color:$white;
-				border-radius:$standard-border-radius;
-				padding:0 $small-margin;
+				content: "New";
+				margin-left: 0.5rem;
+				text-transform: uppercase;
+				font-size: 0.9rem;
+				line-height: 1.2rem;
+				background-color: #F75A49;
+				color: #fefefe;
+				border-radius: 0.3rem;
+				padding: 0 0.5rem;
 				text-decoration: inherit;
+				flex: 0 0 0;
+				height: 100%;
+				align-self: center;
 			}
 		}
 	}
