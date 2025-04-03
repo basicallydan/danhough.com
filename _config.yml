@@ -1,8 +1,10 @@
-port: 4000
-baseurl: /
-url: http://danhough.com
+# Site settings
+url: https://danhough.com
+baseurl: ''
 permalink: /blog/:title/
 encoding: utf-8
+
+# Build settings
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -15,3 +17,11 @@ sass:
   style: compressed
   sass_dir: _sass
   sourcemap: never
+
+# Security headers
+security:
+  headers:
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    X-Content-Type-Options: nosniff
+    Referrer-Policy: strict-origin-when-cross-origin
