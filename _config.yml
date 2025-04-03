@@ -9,3 +9,9 @@ kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
+
+# SCSS Configuration
+sass:
+  style: compressed
+  sass_dir: _sass
+  sourcemap: never
