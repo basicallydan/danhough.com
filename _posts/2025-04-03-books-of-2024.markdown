@@ -1,0 +1,43 @@
+---
+layout: post
+title: The Books I Read in 2024
+date_created: 03 April 2025
+location: Melbourne, VIC, Australia
+comments: true
+description: The books I read in 2024.
+time_to_read_estimate: 5
+twitterCardType: summary_large_image
+tags: [books]
+---
+
+Bit of a late one this year, but I've decided to revisit my "Books of..." series of posts. I'll keep 2025's up to date as we go.
+
+## The Lord of the Rings: The Two Towers & The Return of the King by J.R.R. Tolkien (reread)
+
+Returning to Middle-earth after watching the Rings of Power series proved to be a richer experience than expected (season one, anyway). With a more mature perspective now years after my first read, the depth of Tolkien's character relationships - particularly the profound loyalty and friendship between Sam and Frodo - resonated more strongly than in previous readings. The geopolitical elements of the story hit differently in our current age of uncertainty, making the alliances, conflicts, and power struggles feel more relevant than ever. It's remarkable how a fantasy epic written decades ago can continue to offer new insights with each reading.
+
+## The Courage to Be Disliked by Fumitake Koga and Ichiro Kishimi
+
+Finished: January 2024
+
+Picked up during a layover in Perth Airport, this introduction to Adlerian psychology takes an unusual approach: presenting complex philosophical ideas through a dialogue between a youth and a philosopher. While the format initially feels artificial, it proves to be an effective way to build and layer sophisticated concepts. The book challenges many mainstream ideas about happiness, relationships, and personal growth. A refreshing read for anyone interested in philosophical perspectives beyond the usual self-help fare, though you'll need to get past the slightly awkward dialogue format to reach the valuable insights within.
+
+## The Midwich Cuckoos by John Wyndham
+
+My first Wyndham novel, which led me straight to Triffids afterwards. This is a masterful exploration of social norms and morality wrapped in an unsettling sci-fi premise. Wyndham uses the strange events in Midwich to probe deep questions about collective versus individual interests, and how societies develop their moral frameworks. The story touches on themes of isolationism and colonialism in a way that feels both of its time and surprisingly relevant today. It's the kind of science fiction that uses its fantastical elements to hold up a mirror to our own society's assumptions and behaviors. Compelling and thought-provoking throughout.
+
+## The Day of the Triffids by John Wyndham
+
+A masterclass in British apocalyptic fiction that holds up remarkably well. Wyndham's vision of a collapsed society feels authentically British in its portrayal of how people might actually behave when everything falls apart. The navigation between city and countryside creates a fascinating study of survival and adaptation, while the scientific elements add credibility without overwhelming the human story. What really sets this apart from modern apocalyptic fiction is how believable the social dynamics feel - it's less about action-packed survival and more about the realistic evolution of human relationships and society in crisis. A must-read for anyone who enjoys thoughtful disaster fiction.
+
+## The Making of the Modern Middle East by Jeremy Bowen
+
+Finished: June 2024
+
+Having lived in Saudi Arabia, I was drawn to this book by both personal connection and Bowen's familiar voice from BBC Radio 4. His approach of weaving historical analysis through the lens of his own reporting experiences creates an engaging narrative that helps untangle the region's complex web of relationships and conflicts. While Bowen's personal biases are clear throughout (and happen to align with my own), they don't detract from the book's value in highlighting how multifaceted each situation is - there are always multiple sides to every story. His analysis of the Iraq War's destabilizing effects is particularly compelling, though he demonstrates how you can always trace current issues back to earlier interventions and decisions. A valuable read for anyone wanting to understand the region's current state, though best approached with awareness of the author's perspective. 
+
+## Cloudstreet by Tim Winton
+
+Finished: December 2024
+
+A masterful Australian novel that weaves together the lives of two working-class families through poetic prose and shifting perspectives. Winton's use of metaphor transforms the mundane into the profound, creating an immersive experience that makes you forget you're reading at all. The story reminds us that the small, everyday moments of life often carry more weight than the grand events happening in the world around us. If you enjoy literature that finds beauty and meaning in ordinary lives, this book will stay with you long after you've finished it.
