@@ -80,11 +80,7 @@ This is where I stayed for the longest time, almost 3 months. It was great fun a
 
 ### 6 October 2015: Beijing, China
 
-More of a pitstop on the way to North Korea, but an interesting city to be sure. I've been before, I didn't do much sightseeing, but I did have some great food!
-
-### 8 October 2015: Pyongyang, DPRK (North Korea)
-
-I'm quite interested in North Korea because it seems more unlike my home country than any other place I've visited. Due to the nature of their Internet access I do not expect anybody reading to be from the DPRK, but anybody else who happens to be taking a trip there at the same time as me, it'd be great to meet! <a href="mailto:dan@danhough.com?subject=Meet+me+in+Pyongyang">Get in touch</a>.
+An interesting city with great food! I've been before, but didn't do much sightseeing this time.
 
 ### 12 October 2015: Taipei, Taiwan (Republic of China)
 
