@@ -1,65 +1,97 @@
 ---
 layout: page
-title: Freelance Front End & JavaScript Developer
+title: Full-stack Software Engineer
 ---
 
-# Freelance Front End & JavaScript Developer
+# Full-stack Software Engineer
 
-Between 2013 and 2016 I was freelancing full-time, and I've been a professional developer since 2010. In that time I’ve worked for a few great companies and with a lot of great people. Some of them have been kind enough to share some thoughts about how our work went, which you can read here. Alternatively, learn more about me or have a look at my CV.
+I've been a professional developer since 2010, with experience ranging from early-stage startups to established companies. In that time I've worked with great companies like Beam, Jungle Scout, Marvel, and Huddle, building impactful products and leading technical teams. I specialize in AI integration, web applications, and infrastructure, with a strong focus on product intuition and pragmatic solutions.
 
 ## Developer for Hire
 
-Currently, I'm employed in a permanent role at [Jungle Scout](https://junglescout.com) here in Vancouver. However, below I've left the original text from this freelancing page from back when I was a freelancer.
+Currently, I'm settling into my life in Melbourne, Victoria. While I'm not actively seeking work right now, I'm always interested in hearing about interesting opportunities, particularly for contract or freelance roles. If you need an experienced engineer to help build your product or lead your team, **I'm your person**. With 15 years of experience in startups and product development, I particularly excel at:
 
-If you need someone to come into your office and work with the team on your product, **I’m your man**. I specialise in anything to do with **JavaScript on the back end or front end**, and I have a keen eye for **web design as well as development**. I also have experience with iOS applications and the .NET stack.
+- Ruby on Rails and JavaScript development (7+ and 15+ years respectively)
+- AWS cloud architecture and infrastructure
+- Integrating Large Language Models and AI tools into existing products
+- Technical leadership and system architecture
+- Cross-team collaboration and mentorship
+
+I also have extensive experience with modern web technologies, databases, and development practices. Here's a couple of things that people have said about me over the years:
 
 <blockquote>
 First up, Dan is great fun to work with and he has masses of enthusiasm about pretty much anything.  He is knowledgeable about a great deal of web software development, both client side and server side, and also had great input into user experience and usability design of the app he built for us.
-	<footer><span class="quotee-type">Client</span> Neill Pearman, CTO of <a href="https://upmysport.com">upmysport</a></footer>
+	<footer><span class="quotee-type">Client</span><a href="https://www.linkedin.com/in/njpearman/">Neill Pearman</a>, then-CTO of <a href="https://upmysport.com">upmysport</a></footer>
 </blockquote>
 
-I’m open to all sorts of offers. For me, being an independent developer is about working on **lots of interesting projects**, meeting **great people** and getting **experience** in many fields and technologies. Whatever your situation, budget or goals, get in touch and let’s see if we can work something out.
+<blockquote>
+I worked with Dan for 18 months at Beam - we were the 2 colocated devs in a dev team of 3, so worked very closely together for a long period! 
+
+Dan is an exceptional full stack developer. He’s got a constant desire to learn and do things in the best way. He’s interested in the cutting edge, and also pragmatic. He writes clean code and follows best practices and cares deeply about readability, usability, performance, and scale. He also contributes heavily to product and design, takes feedback well, and gives generous and helpful code review. 
+
+Beyond this he’s a top human - kind, funny, gregarious and has the fortitude to go the distance. Highly recommended! ✅
+	<footer><span class="quotee-type">Colleague</span><a href="https://www.linkedin.com/in/alexrudall/">Alex Rudall</a>, maintainer of <a href="https://github.com/alexrudall/ruby-openai">ruby-openai</a></footer>
+</blockquote>
+
+I'm open to all sorts of offers. For me, being an developer is about working on **lots of interesting projects**, meeting **great people** and getting **experience** in many fields and technologies. Whatever your situation, budget or goals, get in touch and let's see if we can work something out.
 
 <blockquote>
 Dan was a great addition to our team when we needed him most: in the run up to our iOS app launch. He settled in extremely quickly and got on well with the rest of the team. His work was exceptional and he required little management. We couldn't have been happier!
 	<footer><span class="quotee-type">Client</span> George Burgess, CEO of <a href="http://gojimo.co/">Gojimo</a></footer>
 </blockquote>
 
-
 ## Convinced?
 
-Please get in touch anyway if you think I might be the right man for the job, it doesn't hurt to chat. I’m not looking for a permanent role, but if you think you’ve got an interesting job - especially if it involves travelling abroad - please get in touch.
+Please get in touch if you think I might be the right person for your project. I'm particularly interested in opportunities that involve:
+- Building impactful products that help people
+- Integrating AI and modern technologies
+- Leading and mentoring technical teams
+- Solving complex architectural challenges
+- Working with cross-functional teams
 
 Think we could work together?
 
-<a href="mailto:dan@danhough.com?I think we should work together" class="cta--primary"><strong>Get in touch.</strong></a>
+<a href="mailto:dan@danhough.com?subject=I think we should work together" class="cta--primary"><strong>Get in touch.</strong></a>
 
 ## FAQ
 
 ### What tools do you use?
 
-While developing I mostly use VSCode, and I design almost everything that requires design work in Sketch. I often use [Marvel](https://marvelapp.com/) for creating design/interaction prototypes, and [Interfake](https://github.com/basicallydan/interfake) for API prototypes.
+I primarily use Cursor for development, along with Git for version control. For organization and documentation, I use Notion. I'm experienced with ChatGPT, OpenAI, and various AI tools for development enhancement. I also work with modern design tools like Figma and Sketch when needed.
 
 ### What technologies do you use?
 
-Most of the time I build backends with Ruby on Rails, or NodeJS, with various libraries like Express, Mongoose and some of [my own stuff](https://github.com/basicallydan/interfake). On the frontend, I'm very familiar with React, Backbone, Underscore, Knockout and jQuery, but I'm comfortable using most of the main MV* frameworks such as Ember or Angular. For automation I use gulp, or good old fashioned makefiles.
+My core expertise is in Ruby on Rails and JavaScript, with extensive experience in:
+- Full-stack web development with modern frameworks
+- AWS cloud services and infrastructure
+- Large Language Model integration
+- API development and system design
+- Test-Driven Development
+
+I also have plenty of experience with other languages and technologies such as Python, Django, .NET, iOS Development.
 
 ### Are there any kinds of projects you'd prefer?
 
-I'm pretty good at prototypes and MVPs, but I also enjoy what I call "technical debt collection", which involves refactoring an older code into one which is more maintainable, testable and extendable.
+I excel at both greenfield projects and improving existing systems. Recent experience includes:
+- Projects with a climate or social impact
+- Building AI-integrated products
+- Large-scale system architecture
+- Technical leadership and mentoring
+- Product strategy and management
+- Cross-team collaboration
 
 ### Where are you based?
 
-Right now I'm in Vancouver, Canada.
+I'm based in Melbourne, VIC, Australia.
 
 ### Will you work remotely?
 
-I'm open to doing work for people from anywhere in the world, and work remotely
+Yes, I'm experienced with remote work and am open to opportunities worldwide, depending on the project.
 
 ### Will you work on-site?
 
-I prefer not to take very long-term on-site jobs, but I'm more than happy to meet in person wherever possible and, if need be, work in your office for a few weeks at a time.
+I'm open to both on-site and hybrid arrangements in Melbourne, depending on the project and location.
 
-### Are you looking for a permanent job?
+### Are you looking for permanent roles?
 
-At the moment, I have a permanent job - I'm not interested in anything new right now - but neer say never. Especially if you have something I could work on in my free time, [get in touch](mailto:dan@danhough.com?subject=I have some work for you).
+While I'm primarily interested in contract and part-time opportunities, I'm open to permanent roles for the right project. Feel free to [get in touch](mailto:dan@danhough.com?subject=I have some work for you) to discuss possibilities.
