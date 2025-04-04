@@ -24,20 +24,18 @@ First up, Dan is great fun to work with and he has masses of enthusiasm about pr
 	<footer><span class="quotee-type">Client</span><a href="https://www.linkedin.com/in/njpearman/">Neill Pearman</a>, then-CTO of <a href="https://upmysport.com">upmysport</a></footer>
 </blockquote>
 
+I'm open to all sorts of offers. For me, being a developer is about working on **lots of interesting projects**, meeting **great people** and getting **experience** in many fields and technologies. Whatever your situation, budget or goals, get in touch and let's see if we can work something out.
+
 <blockquote>
-I worked with Dan for 18 months at Beam - we were the 2 colocated devs in a dev team of 3, so worked very closely together for a long period! 
-
-Dan is an exceptional full stack developer. He’s got a constant desire to learn and do things in the best way. He’s interested in the cutting edge, and also pragmatic. He writes clean code and follows best practices and cares deeply about readability, usability, performance, and scale. He also contributes heavily to product and design, takes feedback well, and gives generous and helpful code review. 
-
-Beyond this he’s a top human - kind, funny, gregarious and has the fortitude to go the distance. Highly recommended! ✅
+<p>I worked with Dan for 18 months at Beam - we were the 2 colocated devs in a dev team of 3, so worked very closely together for a long period!</p>
+<p>Dan is an exceptional full stack developer. He’s got a constant desire to learn and do things in the best way. He’s interested in the cutting edge, and also pragmatic. He writes clean code and follows best practices and cares deeply about readability, usability, performance, and scale. He also contributes heavily to product and design, takes feedback well, and gives generous and helpful code review.</p>
+<p>Beyond this he’s a top human - kind, funny, gregarious and has the fortitude to go the distance. Highly recommended! ✅</p>
 	<footer><span class="quotee-type">Colleague</span><a href="https://www.linkedin.com/in/alexrudall/">Alex Rudall</a>, maintainer of <a href="https://github.com/alexrudall/ruby-openai">ruby-openai</a></footer>
 </blockquote>
 
-I'm open to all sorts of offers. For me, being an developer is about working on **lots of interesting projects**, meeting **great people** and getting **experience** in many fields and technologies. Whatever your situation, budget or goals, get in touch and let's see if we can work something out.
-
 <blockquote>
 Dan was a great addition to our team when we needed him most: in the run up to our iOS app launch. He settled in extremely quickly and got on well with the rest of the team. His work was exceptional and he required little management. We couldn't have been happier!
-	<footer><span class="quotee-type">Client</span> George Burgess, CEO of <a href="http://gojimo.co/">Gojimo</a></footer>
+	<footer><span class="quotee-type">Client</span><a href="https://www.linkedin.com/in/burgesg/">George Burgess</a>, then-CEO of <a href="http://gojimo.co/">Gojimo</a></footer>
 </blockquote>
 
 ## Convinced?
