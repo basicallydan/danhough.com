@@ -46,7 +46,7 @@ I know events where the lighting is excellent but the show goes on too long, oth
 
 But, to be fair, I do know of a few open-mics that almost come up to the Loon Under Laughter. I have mentioned above eight qualities that the perfect event should have and I know one open-mic that has six of them. Even there, however, the audience is far too well-lit, and the bar keeps playing music in the background throughout the show, albeit quietly.
 
-And if anyone knows of an open-mic that has great lighting, an excellent MC, a short runtime, a diverse lineup, enthusiastic punters and an unintrusive bar, I should be glad to hear of it, even if its name were something as prosaic as Joke Central or the Laughter Lounge. So long as it’s not a bringer.
+And if anyone knows of an open-mic that has great lighting, an excellent MC, a short runtime, a diverse lineup, enthusiastic punters and a non-intrusive bar, I should be glad to hear of it, even if its name were something as prosaic as Joke Central or the Laughter Lounge. So long as it’s not a bringer.
 
 ---
 
