@@ -1,0 +1,34 @@
+<!-- @TODO: make this a collapsible section -->
+<script>
+    function toggleWhyDidIWriteThis() {
+        const whyDidIWriteThis = document.querySelector('.why-did-i-write-this');
+        whyDidIWriteThis.classList.toggle('why-did-i-write-this--open');
+    }
+</script>
+
+<style>
+    .why-did-i-write-this {
+        margin-bottom: 2rem;
+    }
+
+    .why-did-i-write-this h3 {
+        cursor: pointer;
+        color: #777777;
+    }
+    
+    .why-did-i-write-this__content {
+        display: none;
+        color: #777777;
+    }
+
+    .why-did-i-write-this--open .why-did-i-write-this__content {
+        display: block;
+    }
+</style>
+
+<div class="why-did-i-write-this">
+    <h3 onclick="toggleWhyDidIWriteThis()">Why did I write this?</h3>
+    <div class="why-did-i-write-this__content">
+        {{ include.content | markdownify }}
+    </div>
+</div>
