@@ -9,7 +9,7 @@ I've been a professional developer since 2010, with experience ranging from earl
 
 ## Developer for Hire
 
-Currently, I'm settling into my life in Melbourne, Victoria. While I'm not actively seeking work right now, I'm always interested in hearing about interesting opportunities, particularly for contract or freelance roles. If you need an experienced engineer to help build your product or lead your team, **I'm your person**. With 15 years of experience in startups and product development, I particularly excel at:
+Currently, I'm settling into my life in Melbourne, Victoria. I'll be starting a new full-time role in October, so I'm not actively seeking work right now. However, I'm always interested in hearing about interesting freelance roles if it's something to which I can can dedicate a little time each week. If you need an experienced engineer to help build your product, **I'm your person**. With 15 years of experience in startups and product development, I particularly excel at:
 
 - Ruby on Rails and JavaScript development (7+ and 15+ years respectively)
 - AWS cloud architecture and infrastructure
@@ -80,7 +80,7 @@ I excel at both greenfield projects and improving existing systems. Recent exper
 
 ### Where are you based?
 
-I'm based in Melbourne, VIC, Australia.
+I'm based in Naarm / Melbourne, VIC, Australia.
 
 ### Will you work remotely?
 
