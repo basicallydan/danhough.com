@@ -29,6 +29,8 @@ h1 {
 	// @include grid-media-query('palm') {
 	// 	font-size:1.4em;
 	// }
+	// When there's a subtitle AFTER h1, get rid of bottom margin
+	
 }
 
 h2 {
@@ -42,4 +44,13 @@ h2 {
 h3 {
 	font-size:1.3em;
 	font-weight:500;
+}
+
+h1 + p.subtitle {
+	font-weight:500;
+	color: #656c7a;
+	margin-top:-1rem;
+	margin-bottom:0;
+	padding-top:0;
+	padding-bottom:0;
 }

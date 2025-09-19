@@ -7,6 +7,9 @@ layout: default
 	<main class="article-content">
 		<header>
 			<h1 id="top">{{ page.title }}</h1>
+			{% if page.subtitle %}
+			<p class="subtitle">{{ page.subtitle }}</p>
+			{% endif %}
 			<p class="meta">
 				<span>Published {{ page.date_created }} in {{ page.location }}</span>
 				{% if page.time_to_read_estimate %}
