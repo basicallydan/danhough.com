@@ -70,7 +70,7 @@ The classic PC Game SkiFree, but in JS. Not feature-complete, but still pretty f
 
 {% include _figure.html src="/img/skifree.gif" caption="I developed this and I still suck at it." %}
 
-<a href="http://basicallydan.github.io/skifree.js/" class="cta--secondary inline">Play it now.</a><a href="https://github.com/basicallydan/skifree.js" class="cta--tertiary inline">GitHub Page</a>
+<a href="https://basicallydan.github.io/skifree.js/" class="cta--secondary inline">Play it now.</a><a href="https://github.com/basicallydan/skifree.js" class="cta--tertiary inline">GitHub Page</a>
 
 StreetScout
 -------
