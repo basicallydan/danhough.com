@@ -5,6 +5,23 @@ description: These are the projects I have worked on or are actively working on 
 ---
 # Projects
 
+[Conway's Game of Life](https://github.com/conwaysgame)
+-------
+
+Implementations of [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) in various languages. Partly a learning exercise, partly an archiving exercise. Other people can contribute implementations if they wish.
+
+As of the most recent update of this page, there are implementations using the following languages or frameworks:
+
+- Python
+- JavaScript
+- TypeScript
+- Go
+- React (JavaScript framework)
+- Guile
+- Solidity (Ethereum)
+
+<a href="https://github.com/conwaysgame" class="cta--secondary inline">GitHub Page</a>
+
 [Interfake](https://github.com/basicallydan/interfake)
 -------
 
@@ -55,18 +72,11 @@ The classic PC Game SkiFree, but in JS. Not feature-complete, but still pretty f
 
 <a href="http://basicallydan.github.io/skifree.js/" class="cta--secondary inline">Play it now.</a><a href="https://github.com/basicallydan/skifree.js" class="cta--tertiary inline">GitHub Page</a>
 
-[StreetScout](https://streetscout.io/)
+StreetScout
 -------
 
-A tool which gives you places to stop between a start location and destination based on a search query.
+This was a tool which identified places to stop between a start location and destination based on a search query.
 
-The HTTP API is written in NodeJS, the front-end is KnockoutJS, and I also developed an iPhone application which uses the same API, but the iPhone application is a little out-of-date these days.
+The HTTP API was written in NodeJS, the front-end was KnockoutJS, and I also developed an iPhone application which uses the same API, but the iPhone application is no longer available.
 
-<a href="https://streetscout.io/" class="cta--secondary inline">Try it out.</a><a href="http://streetscoutapp.com/" class="cta--tertiary inline">Get the iPhone application.</a>
-
-[Conway's Game of Life](https://github.com/conwaysgame)
--------
-
-Implementations of [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) in various languages. Partly a learning exercise, partly an archiving exercise.
-
-<a href="https://github.com/conwaysgame" class="cta--secondary inline">GitHub Page</a>
+You can read more about StreetScout in [the most recent blog post I wrote about it](/blog/streetscout-2/).

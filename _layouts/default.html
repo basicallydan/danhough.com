@@ -24,9 +24,9 @@
 		<meta http-equiv="last-modified" content="{{page.lastModified}}" />
 		{% endif %}
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
-		<title>{% if page.title %}{{ page.title }} — Dan Hough — Independent Software Developer{% else %}Dan Hough — Independent Software Developer{% endif %}</title>
-		<meta property="og:title" content="{% if page.title %}{{ page.title }} — Dan Hough{% else %}Dan Hough — Independent Software Developer{% endif %}" />
-		<meta name="twitter:title" content="{% if page.title %}{{ page.title }} — Dan Hough{% else %}Dan Hough — Independent Software Developer{% endif %}">
+		<title>{% if page.title %}{{ page.title }} — Dan Hough — Software Engineer{% else %}Dan Hough — Software Engineer{% endif %}</title>
+		<meta property="og:title" content="{% if page.title %}{{ page.title }} — Dan Hough{% else %}Dan Hough — Software Engineer{% endif %}" />
+		<meta name="twitter:title" content="{% if page.title %}{{ page.title }} — Dan Hough{% else %}Dan Hough — Software Engineer{% endif %}">
 		{% if page.thumbnail %}
 		<meta name="twitter:image" content="{{ page.thumbnail | replace: '!SITE_URL!', site.url }}">
 		{% endif %}
@@ -37,6 +37,37 @@
 		<link rel="alternate" type="application/atom+xml" title="ATOM Feed for danhough.com" href="/atom.xml" />
 		<link href="//fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
 		{% include meta-images.html %}
+
+		{% if page.include_structured_data %}
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "ProfilePage",
+				"dateCreated": "2025-09-19T14:00:00+09:00",
+				"dateModified": "2025-09-19T14:00:00+09:00",
+				"mainEntity": {
+					"@type": "Person",
+					"name": "Dan Hough",
+					"alternateName": "basicallydan",
+					"url": "https://danhough.com",
+					"image": "https://danhough.com/img/headshot.jpeg",
+					"description": "Software engineer, stand-up comedian and songwriter based in Melbourne.",
+					"sameAs": [
+						"https://github.com/basicallydan",
+						"https://instagram.com/essentiallydan",
+						"https://x.com/basicallydan",
+						"https://twitter.com/basicallydan",
+						"https://www.last.fm/user/fragsta",
+						"https://www.discogs.com/user/essentiallydan",
+						"https://www.linkedin.com/in/basicallydan/",
+						"https://bandcamp.com/basicallydan",
+						"https://danhough.bandcamp.com/",
+						"https://www.youtube.com/danhough"
+					]
+				}
+			}
+		</script>
+		{% endif %}
 
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -50,7 +81,7 @@
 					<li><a href="https://open.spotify.com/artist/1cUTERKLAFfTVyIf1cTjyK?si=F_uWO9s_SZW8tHVoIwI_5A" title="My Spotify Artist Page" class="nav-list--icons__spotify" target="_blank" data-segment='{ "name" : "Spotify Link Clicked", "location" : "Top Nav" }'><i class="fab fa-spotify"></i></a></li>
 				</ul>
 			</nav>
-			<nav id="top-site-navigation" class="nav-list inline pull-right">
+			<nav id="top-site-navigation" class="nav-list inline pull-right" role="navigation" aria-label="Top Site Navigation">
 				<ul>
 					<li><a href="/busking" title="Find out more about my busking activities in London" data-segment='{ "name" : "Busking Link Clicked", "location" : "Top Nav" }'><strong>Busking</strong></a></li>
 					<li><a href="mailto:dan@danhough.com" title="Contact me by email" target="_blank" data-segment='{ "name" : "Email Link Clicked", "location" : "Top Nav" }'>Email me</a></li>
