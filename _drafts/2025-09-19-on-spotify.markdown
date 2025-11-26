@@ -2,7 +2,7 @@
 layout: post
 title: On Spotify, as a listener
 subtitle: "Or: Spoti-bye Seeya-mium"
-date_created: 19 September 2025
+date_created: 10 November 2025
 location: Melbourne, VIC, Australia
 comments: true
 description: As a listener, some thoughts about Spotify.
@@ -45,11 +45,27 @@ It was exciting. A huge, huge catalogue of music. So many new artists to discove
 - Supertramp
 - Phoebe Bridgers
 
+Without Spotify it's possible I wouldn't have listened to any of this music. It gave me the space to be exploratory with music, and that exploration made me confident and open-minded.
+
+But it also made me lazy, greedy and uninspired.
+
+Lazy, because I stopped thinking about what I'd listen to; it became background noise.
+
+Greedy, because - and this is part of a wider theme which I'm sure many will relate to - it instilled in me a need for stimulation.
+
+Uninspired, because... [TBA]
+
+I stopped connecting to music so much.
+
 ## Somebody That I Used to Know
 
 So how did I used to listen to music before I had Spotify?
 
-Back in 2009, when Spotify first entered my life, I had an MP3 player.
+Back in 2009, when Spotify first entered my life, I had an MP3 player. I'd collect MP3s, mostly by ripping CDs, and meticulously organise them into folders: `Artist/Album/Artist - Track Name.mp3`. ID3 tagging was a part of this routine; checking MusicBrainz and downloading the correct metadata based on which MP3s it seemed to be.
+
+## The End is Near
+
+I feel like Spotify is having a net negative impact on our relationship to music. I do agree it makes music more accessible, but at what costs? A great cost to the consumer who, when Spotify inevitably collapses, will hopefully be able to migrate their data to a new service? Or will their meticulous playlist creation be gone, and maybe even some of the songs they loved be missing from their new platform?
 
 ---
 
@@ -62,6 +78,14 @@ Originally, I wrote titles for each section based on idioms or stories such as "
 - Somebody That I Used to Know by Gotye
 
 I'm sure your Google-fu is still sufficiently honed in this Age of AI to find streams, videos or downloads of these tracks online. 😉
+
+Other themes I'd like to capture:
+
+- Ownership is gone - what if Spotify goes bust?
+- Spotify allows artists to take away tracks, change them (like George Lucas with Star Wars)
+- All this extra fluff around music which we don't need
+- It's a monopoly and they control reimbursement
+- Example: Getting access to King Christian and Mica by Mew - I had to buy the MP3. If I'd just stuck to accepting what Spotify gives me I'd be missing out.
 
 {% capture why_content %}
 I wanted to document my personal reasoning for leaving Spotify, not because I think my opinion matters more than anyone else's, but because I wanted to more-clearly express and understand my opinion.
