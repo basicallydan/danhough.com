@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Books I Read in 2025
-date_created: 2 January 2026
+date_created: 3 January 2026
 location: Sydney, NSW, Australia
 comments: true
 description: The books I read in 2025.
@@ -9,6 +9,10 @@ time_to_read_estimate: 5
 twitterCardType: summary_large_image
 tags: [books]
 ---
+
+This year's selection of books is heavily influenced by my travels and interactions this past year. I now live in Melbourne, Victoria, since I emigrated here from London, UK in March. I did nonetheless travel a lot. In this review, you will find books inspired by my move and desire to learn more about my new home, its history and its place in the world. You will find books gifted by close friends back home, which remind me of that wonderful and complicated place. And you will find books that I discovered in airports, after uploading a photo of an airport bookshelf to ChatGPT with a list of books I've enjoyed in the past.
+
+Thanks in part to my emigration, some important lifestyle shifts, consumption habits and the amount of time I've spent in the liminal spaces of planes, I did get through more this year than in recent years. It feels like the beginning of a reading renaissance. I will strive for it to continue in 2026.
 
 ## Dark Emu by Bruce Pascoe
 
