@@ -2,7 +2,7 @@
 layout: post
 title: On Spotify, as a listener
 subtitle: "Or: Spoti-bye Seeya-mium"
-date_created: 10 November 2025
+date_created: 08 January 2026
 location: Melbourne, VIC, Australia
 comments: true
 description: As a listener, some thoughts about Spotify.
@@ -13,7 +13,7 @@ tags: [music]
 
 I recently made the decision to end my Spotify Premium subscription.
 
-There are plenty of popular criticisms of Spotify out there: They Don't Pay Artists Fairly, They Platform Dangerous Podcasters, Their CEO Invested Money In An AI-Powered Weapons Drone.
+There are plenty of popular criticisms of Spotify out there: They Don't Pay Artists Fairly, They Platform Dangerous Podcasters, Their founder and CEO Invested Money In An AI-Powered Weapons Drone.
 
 All of those are valid crticisms which I would gladly agree with, and to varying degrees they are important. None of them, though, are the single reason I ditched Spotify.
 
@@ -49,7 +49,7 @@ Without Spotify it's possible I wouldn't have listened to any of this music. It 
 
 But it also made me lazy, greedy and uninspired.
 
-Lazy, because I stopped thinking about what I'd listen to; it became background noise.
+Lazy, because I stopped thinking about what I'd listen to; it became background noise. I've recently learned a term for this: "Lean-back Listening." You could call it Passive Listening, but that's the industry term.
 
 Greedy, because - and this is part of a wider theme which I'm sure many will relate to - it instilled in me a need for stimulation.
 
