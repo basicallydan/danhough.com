@@ -45,17 +45,15 @@ It was exciting. A huge, huge catalogue of music. So many new artists to discove
 - Supertramp
 - Phoebe Bridgers
 
-Without Spotify it's possible I wouldn't have listened to any of this music. It gave me the space to be exploratory with music, and that exploration made me confident and open-minded.
+Without Spotify it's possible I wouldn't have listened to any of this music. It gave me the space to be exploratory with music, and that exploration made me confident and open-minded. 
 
-But it also made me lazy, greedy and uninspired.
+But it changed my relationship to listening I didn't notice at first. I stopped thinking about what I wanted to hear, and music started to become background noise. There's a couple of terms for this: "passive listening," or a common industry term, "lean-back listening."
 
-Lazy, because I stopped thinking about what I'd listen to; it became background noise. I've recently learned a term for this: "Lean-back Listening." You could call it Passive Listening, but that's the industry term.
+Over time, I began to feel alienated from music itself. I was engaging less and consuming more. This is a matter of quantity over quality. Spotify was turning me into a consumer of audio content, not a human being who enjoys listening to music.
 
-Greedy, because - and this is part of a wider theme which I'm sure many will relate to - it instilled in me a need for stimulation.
+That's not all to say it's entirely Spotify's fault, but it certainly makes passive listening easy, even the default.
 
-Uninspired, because... [TBA]
-
-I stopped connecting to music so much.
+And it's also not to say I was too-far gone or that I never enjoyed the music I listened to. In fact, in the couple of years leading up to this decision I started using Spotify more like how I would listen to music in pre-Spotify days: whole albums, only occasionally listening to a playlist that I made, and rarely using a curated playlist outside of the context of a group social setting where I knew my guests probably wouldn't want to listen to an album.
 
 ## Somebody That I Used to Know
 
